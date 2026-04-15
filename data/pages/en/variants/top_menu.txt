@@ -1,0 +1,18 @@
+====== Top Navigation Variant ======
+
+This page collects links for the second interface version where navigation is placed on top.
+The style is inspired by CESNET service pages, but all content remains MetaCentrum-specific.
+
+===== Demo links =====
+
+  * [[en:resources:hardware:start?layout=top&style=cesnet|Hardware page with top navigation (CESNET-inspired)]]
+  * [[en:variants:news?layout=left|Dedicated news page (overview + archive)]]
+  * [[en:variants:it4i-elements?layout=clean|Dedicated IT4I elements page (clean layout)]]
+  * [[en:news:start?layout=left&style=reskin|News page with original left sidebar variant]]
+  * [[en:start?layout=left&style=reskin|Start page with original clean/content-first variant]]
+
+===== Notes =====
+
+  * `layout=top` switches the navigation placement.
+  * `style=cesnet` applies the blue/orange top-menu visual variant.
+  * Without these parameters, the default left-sidebar layout is used.

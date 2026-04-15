@@ -1,0 +1,4 @@
+====== MetaCentrum NGI ======
+Welcome to MetaCentrum NGI web pages, the activity of the CESNET association.
+
+**National Grid Infrastructure for Czech research and education.**

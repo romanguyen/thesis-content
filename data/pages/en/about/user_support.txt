@@ -1,0 +1,22 @@
+====== User Support ======
+
+[[en:faq|FAQ]]
+
+Comments and questiones concerning MetaCentrum VO operation, such as membership, resources, error messages, technical issues or problems related to applications, should be sent at [[http://meta@cesnet.cz|meta@cesnet.cz]]. Regular time of requests solving is during the working days between 9:00 – 17:00.
+
+If you have any comments or questions about the clouds, please send uz an e-mail to appropriate address according to the cloud you use:
+
+* MetaCloud - [[mailto:cloud@metacentrum.cz|cloud@metacentrum.cz]]
+* FedCloud - [[mailto:fedcloud@metacentrum.cz|fedcloud@metacentrum.cz]]
+
+Primary contact for solving general problems related to MetaCentrum NGI operation as well as other virtual organizations managed by MetaCentrum is the adress [[mailto:support@metacentrum.cz|support@metacentrum.cz]].
+
+=== RT system ===
+All new e-mails received at above mentioned e-mail adresses are recorded in our RT (Request Tracking) system, which creates so called** ticket** and assigns a number to it.
+
+Creation of a new ticket is announced to the author of the original e-mail and also to all MetaCentrum people responsible for dealing with user requests. The ticket number is in the subject field of all e-mails concerning the ticket, for example [CESNET #12345]. The ticket number is used for matching e-mails with their corresponding tickets. So please keep this number in e-mail subjects.
+
+When a ticket is solved, it gets closed. The original author is notified about it by e-mail. Any subsequent reply again opens the closed ticket.
+
+=== MetaCentrum learning material ===
+For our users, we have prepared [[https://www.youtube.com/channel/UCsUNUO4xXrXnoc1_cxa8Tyw|training videos]] that show basic work with MetaCentrum resources step by step.

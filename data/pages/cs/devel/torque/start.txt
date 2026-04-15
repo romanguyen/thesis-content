@@ -1,0 +1,26 @@
+====== Torque ======
+
+Batch systems are the core component of GRIDs. Their main task is to manage the life time of computational jobs.
+Torque batch system consists of three main components:
+
+* The server, which serves mostly as a gate-keeper and job and gridstate database and is also responsible for verifying the integrity andcorrectness of all requests.
+* The scheduler, which is responsible for planning the execution of jobs onto computing nodes.
+* The mom daemons, which run on each computing node and are responsible for reporting the current state of the node, state of jobs running onthe node, execution of new jobs and coordination of multi-node jobslife-time. MOM daemons are also responsible for enforcing and monitoringresource limitations imposed by the scheduler and server.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/torque.png_427155796.png|torque}}
+
+===== MetaCentrum Fork =====
+The MetaCentrum fork of Torque is based on the 2.4 version. While Torque itself already provides a very solid set of features for managing the GRID, we have further enhanced it with many stability and performance patches.
+To fully integrate into our advanced GRID environment we also had to further enhance Torque with many features ([access management], [[cs:devel:torque:resource_mngmnt|resource management]], [[cs:devel:torque:administration|administration, monitoring and testing]], [[cs:devel:torque:support|user support]]). Our fork directly integrates with several other key components:
+
+* The PBS Cache, high performance memory based key-value database, which is used for storing frequently changing resource states (licenses, disk space, virtual machine states).
+* The Magrathea master and slave daemons, which serve as intermediaries between the virtualization platform and Torque and simplify tasks as suspending machines or even constructing new virtual clusters.
+* The SBF client, which is used to construct VPN network for virtual clusters
+
+===== Other related services =====
+Our Torque fork is making heavy use of the Kerberos authentication. Users automatically receive Kerberos tickets when logging onto any of the front-end nodes and can use these tickets to authorize themselves against Torque and other services in the GRID. To allow the same level of access from inside batch jobs, Torque will create and maintain Kerberos tickets for all running jobs. This way users don't need to worry about authentication issues even when preparing very long jobs.
+To maintain the maximum level of service quality, Torque is also closely tied with the Nagios monitoring system which is using our Torque extensions to monitor and verify Torque state without interfering with normal operations ([[cs:devel:torque:administration|monitoring and testing]]).
+
+===== Publications =====
+* Šimon Tóth. TORQUE Batch System in the Czech National Grid: 5 Year Retrospective. In Marian Bubak, Michał Turała, Kazimierz Wiatr. In** Cracow Grid Workshop 2014**. Karków, Poland: Academic Computer Centre CYFRONET AGH, 2014.
+* TÓTH, Šimon a Miroslav RUDA. Practical Experiences with Torque Meta-Scheduling in The Czech National Grid. In** Computer Science**, vol. 13(2), Krakow, Poland: AGH University of Science and Technology Press, 2012.

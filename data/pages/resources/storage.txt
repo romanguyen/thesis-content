@@ -1,0 +1,11 @@
+====== Data Storage ======
+Storage resources and data management in MetaCentrum.
+
+===== Storage Types =====
+  * **Home directories:** Personal storage, backed up
+  * **Scratch:** High-performance temporary storage
+  * **Archive:** Long-term data preservation
+  * **Project storage:** Shared storage for collaborations
+
+===== Data Transfer =====
+Use SCP, SFTP, or GridFTP for transferring data to and from MetaCentrum.

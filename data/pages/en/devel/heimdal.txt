@@ -1,0 +1,34 @@
+====== Heimdal ======
+
+===== Heimdal - patches and modifications =====
+Heimdal is an open source implementation of the Kerberos V5 authentication mechanism described by IETF RFC 1510. Heimdal is used as a basic authentication method in the MetaCentre project. This page contains description of software we have created or adapted during work on MetaCentre. Most of this work was done by Daniel Kouril and Mirek Ruda.
+
+[[http://metavo.metacentrum.cz/en/docs/software/devel/PKINIT.html|Support for PKI authentication]]
+
+We are developing an implementation of the PKINIT mechanism for Heimdal. PKINIT enables use of public-key methods for initial client authentication to KDC.
+
+Kerberos Authentication on the Web
+
+We implemented adaptations for the Mozilla browser and Apache web server, which enable the use of native Kerberos authentication (i.e. based on ticket transmission). These adaptations tryies to be compatible with Microsoft's way of Kerberos support on the web. More information on this implementation can be found [[http://metavo.metacentrum.cz/en/docs/software/devel/negotiate.html|here]].
+
+For password-only based Kerberos authentication we use apache module [[http://metavo.metacentrum.cz/en/docs/software/devel/mod_auth_kerb.c|mod_auth_kerb]] based on kerberos module from [[http://modauthkerb.sourceforge.net/]] and its predecessors.
+
+[[http://metavo.metacentrum.cz/en/docs/software/devel/GSSAPI.html|Implementation of GSSAPI Extension]]
+
+The Global GridForum draft [[http://www.gridforum.org/security/ggf4_2002-02/draft-ggf-gss-extensions-05.pdf|GSSAPI Extension]] defines functions missing in the GSSAPI specification (e.g. writing and reading credentials to/from a disc, routines for delegation on demand etc.). We implemented the most important part of the draft.
+
+[[http://metavo.metacentrum.cz/en/docs/software/devel/openssh-heimdal.patch|Heimdal in OpenSSH]]
+
+Current version of [[http://www.openssh.com/|OpenSSH]] (3.4p1) contains support for Kerberos authentication (on the SSH protocol v1 level). However, some adaptation are needed to get it work properly with Heimdal and AFS. Look into the patch for building instruction.
+
+[[http://metavo.metacentrum.cz/en/docs/software/devel/ssh-heimdal.patch|Heimdal in SSH]]
+
+Before deploying OpenSSH we used to use SSH v. 1.2.27 where we rewrote the Kerberos support entirely with the following modifications:
+
+* Ticket forwarding is moved after the authentication stage. So, it's no longer part of authentication process.
+* Acquired ticket is strored on the disk after setuid(). Until not saved it is kept in memory cache.
+* Ticket is stored in the default cache by default. A new ticket filename an be specified with the -u/-U options.
+* Client sends just account name where they want to login to (instead of kerberos principal name).
+
+The [[http://metavo.metacentrum.cz/en/docs/software/devel/gssapi_ssh_patch_0_3_3|gssapi_ssh_patch_0_3_3]] patch (also available from [[ftp://ftp.ncsa.uiuc.edu/aces/gssapi-ssh/]]) must be applied before our patch.
+Please note that lots of security bugs have been found in OpenSSH recently, which could also apply to SSH 1.2.27. You should consider using of OpenSSH instead of old SSH.

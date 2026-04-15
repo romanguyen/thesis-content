@@ -1,0 +1,14 @@
+====== Privacy ======
+Privacy policy and data protection information.
+
+===== Data Collection =====
+MetaCentrum collects minimal personal data necessary for providing computing services and user support.
+
+===== Data Usage =====
+Your data is used solely for authentication, resource allocation, and service improvement purposes.
+
+===== Data Protection =====
+We implement appropriate technical and organizational measures to protect your personal data.
+
+===== Your Rights =====
+Under GDPR, you have the right to access, rectify, erase, and port your personal data. Contact us at privacy@cesnet.cz for any requests.

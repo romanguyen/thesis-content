@@ -1,0 +1,18 @@
+====== Sluzby ======
+
+MetaCentrum VO provides users with following services:
+
+MetaCentrum Grid [[https://docs.metacentrum.cz/]]
+* [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|PBS]]
+* [[https://docs.metacentrum.cz/en/docs/ondemand|OnDemand]]
+* [[https://docs.metacentrum.cz/en/docs/software/sw-list/jupyter|JupyterNotebook]]
+* [[https://docs.metacentrum.cz/en/docs/software/fields/genomics/alphafold|Alphafold]]
+* [[https://docs.metacentrum.cz/en/docs/related/galaxy|Galaxy]]
+
+* [[https://brno.openstack.cloud.e-infra.cz/|MetaCentrum Cloud]]
+[[https://docs.cerit.io/en/docs/platform/overview|Kubernetes]] (CERIT-SC)
+* [[https://docs.cerit.io/en/docs/rancher/rancher|Rancher]]
+* [[https://docs.cerit.io/en/docs/web-apps/jupyterhub|JupyterHub/Binder]] (with support of AI chat)
+* [[https://docs.cerit.io/en/docs/web-apps/foldify|Foldify]]
+[[https://docs.cerit.io/en/docs/web-apps/foldify|Chat AI]] [[https://docs.metacentrum.cz/en/docs/related/galaxy|WebUI]]
+* [[https://docs.metacentrum.cz/en/docs/related/galaxy]]

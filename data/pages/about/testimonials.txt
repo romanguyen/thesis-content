@@ -1,0 +1,13 @@
+====== Users Testimonials ======
+Feedback and experiences from our users.
+
+===== Testimonials =====
+
+"MetaCentrum has been instrumental in our molecular dynamics simulations. The support team is excellent."
+  * Dr. Jana Novakova, Charles University
+
+"The computing resources provided by MetaCentrum allowed us to complete our genomics analysis in record time."
+  * Prof. Martin Cerny, Masaryk University
+
+"Outstanding infrastructure and user support. Highly recommended for any computational research."
+  * Dr. Petr Svoboda, Czech Technical University

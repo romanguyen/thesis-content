@@ -1,0 +1,11 @@
+====== MetaCloud ======
+Infrastructure-as-a-Service cloud platform for flexible computing resources.
+
+===== Virtual Machines =====
+Deploy and manage virtual machines with various configurations and operating systems.
+
+===== Container Services =====
+Run containerized applications using Kubernetes and Docker technologies.
+
+===== Self-Service Portal =====
+Manage your cloud resources through an intuitive web interface.

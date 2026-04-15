@@ -1,0 +1,25 @@
+====== Certificate ======
+
+===== Personal TCS certificate =====
+
+Personal TCS certificates are used for** email encryption**. CESNET provides these certificates as part of [[http://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx|Trusted Certificate Service]] project.
+
+Personal TCS certificates are available for users from organizations included in Czech Academic Identity Federation//[[http://eduid.cz/en/index|eduID.cz]]//via federated web portal.
+
+Here you can find manuals
+
+* [[https://pki.cesnet.cz/en/tcs-personal-user.html|For users (how to use the portal)]]
+
+===== CESNET CA4 personal grid certsificate =====
+
+[[https://pki.cesnet.cz/en/ch-personal-ca4.html|CESNET CA 4]] issues personal certificates** for authentication**, digital signature and data encryption.
+
+Personal certificates are issued with a maximum validity of 13 months.
+
+Personal registration with the registration office and submission of written documents confirming the correctness of the identification data specified in the application are necessary for processing the certificate application.
+
+For capacity and organizational reasons, CESNET CA4 issues personal certificates primarily to users from organizations that do not and cannot have the [[https://pki.cesnet.cz/en/tcs-personal.html|TCS Personal Certificates]] service activated. Personal certificate from CESNET CA4 can get:
+
+persons involved in CESNET research projects, administrators of systems and services operated by association members and institutions participating in CESNET research projects; and CESNET employees.
+
+Read [[https://pki.cesnet.cz/en/ch-personal-ca4.html|instructions]]

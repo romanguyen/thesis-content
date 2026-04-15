@@ -1,0 +1,522 @@
+====== Hardware ======
+
+**???centrum-Botanický ústav AV ČR-name???** (352 CPU)
+* [[en:resources:hardware|carex.ibot.cas.cz]] (48 CPU, 6 nodes)
+* [[en:resources:hardware|draba.ibot.cas.cz]] (240 CPU, 3 nodes)
+* [[en:resources:hardware|vinca.ibot.cas.cz]] (64 CPU, 4 nodes)
+
+**???centrum-CERIT-SC-name???** (5128 CPU)
+* [[en:resources:hardware|bee.cerit-sc.cz]] (960 CPU, 10 nodes)
+* [[en:resources:hardware|grogu.cerit-sc.cz (2026)]] (768 CPU, 8 nodes)
+* [[en:resources:hardware|capy.cerit-sc.cz]] (112 CPU)
+* [[en:resources:hardware|glados.cerit-sc.cz]] (80 CPU, 1 node)
+* [[en:resources:hardware|uruk.cerit-sc.cz]] (144 CPU)
+* [[en:resources:hardware|ursa.cerit-sc.cz]] (504 CPU)
+* [[en:resources:hardware|zenon.cerit-sc.cz]] (1920 CPU, 60 nodes)
+* [[en:resources:hardware|zia.cerit-sc.cz]] (640 CPU, 5 nodes)
+
+**???centrum-CERIT-SC/MU-name???** (1288 CPU)
+* [[en:resources:hardware|ics-gladosag-ostack.priv.cloud.muni.cz]] (360 CPU, 9 nodes)
+* [[en:resources:hardware|eli-hda1-ostack.priv.cloud.muni.cz]] (512 CPU, 16 nodes)
+* [[en:resources:hardware|cerit-hdg-ostack.priv.cloud.muni.cz]] (416 CPU, 13 nodes)
+
+**???centrum-CESNET-name???** (23824 CPU)
+* [[en:resources:hardware|adan.grid.cesnet.cz (2025)]] (6144 CPU, 48 nodes)
+* [[en:resources:hardware|aman.ics.muni.cz]] (504 CPU, 9 nodes)
+* [[en:resources:hardware|tarkil.grid.cesnet.cz]] (360 CPU, 15 nodes)
+* [[en:resources:hardware|oven.grid.cesnet.cz]] (80 CPU)
+* [[en:resources:hardware|deimos.meta.zcu.cz (2026)]] (1664 CPU, 13 nodes)
+* [[en:resources:hardware|fobos.meta.zcu.cz]] (1920 CPU, 20 nodes)
+* [[en:resources:hardware|haldan.metacentrum.cz (2026)]] (1920 CPU, 15 nodes)
+* [[en:resources:hardware|halmir.metacentrum.cz]] (1984 CPU, 31 nodes)
+* [[en:resources:hardware|galdor.metacentrum.cz]] (1280 CPU, 20 nodes)
+* [[en:resources:hardware|tyra.metacentrum.cz]] (2048 CPU, 32 nodes)
+* [[en:resources:hardware|turin.grid.cesnet.cz]] (3328 CPU, 52 nodes)
+* [[en:resources:hardware|grimbold.ics.muni.cz]] (32 CPU)
+* [[en:resources:hardware|hildor.metacentrum.cz (2026)]] (2560 CPU, 20 nodes)
+
+**???centrum-ELIXIR-name???** (5984 CPU)
+* [[en:resources:hardware|elbi1.hw.elixir-czech.cz]] (96 CPU, 1 node)
+* [[en:resources:hardware|elmu1.hw.elixir-czech.cz]] (2400 CPU, 25 nodes)
+* [[en:resources:hardware|eluo1.hw.elixir-czech.cz]] (480 CPU, 5 nodes)
+* [[en:resources:hardware|elum1.hw.elixir-czech.cz]] (96 CPU, 1 node)
+* [[en:resources:hardware|elwe.hw.elixir-czech.cz]] (1216 CPU, 19 nodes)
+* [[en:resources:hardware|elmo5.hw.elixir-czech.cz]] (832 CPU, 26 nodes)
+* [[en:resources:hardware|elmo4.hw.elixir-czech.cz]] (96 CPU, 4 nodes)
+* [[en:resources:hardware|eltu.hw.elixir-czech.cz]] (192 CPU, 1 node)
+* [[en:resources:hardware|elmo3.hw.elixir-czech.cz]] (336 CPU, 6 nodes)
+* [[en:resources:hardware|elmo2.hw.elixir-czech.cz]] (72 CPU, 3 nodes)
+* [[en:resources:hardware|elmo1.hw.elixir-czech.cz]] (168 CPU, 3 nodes)
+
+**???centrum-Fakulta stavební ČVUT-name???** (512 CPU)
+* [[en:resources:hardware|farin.grid.cesnet.cz]] (512 CPU, 4 nodes)
+
+**???centrum-Fyzikální ústav AV ČR-name???** (3264 CPU)
+* [[en:resources:hardware|luna2021.fzu.cz]] (384 CPU, 6 nodes)
+* [[en:resources:hardware|luna2022.fzu.cz]] (384 CPU, 6 nodes)
+* [[en:resources:hardware|luna2023.fzu.cz]] (288 CPU, 3 nodes)
+* [[en:resources:hardware|magma.fzu.cz]] (2208 CPU, 23 nodes)
+
+**???centrum-Přírodovědecká fakulta UK-name???** (1520 CPU)
+* [[en:resources:hardware|cha.natur.cuni.cz]] (32 CPU)
+* [[en:resources:hardware|mor.natur.cuni.cz]] (80 CPU, 4 nodes)
+* [[en:resources:hardware|pcr.natur.cuni.cz]] (1024 CPU, 16 nodes)
+* [[en:resources:hardware|fau.natur.cuni.cz]] (192 CPU, 3 nodes)
+* [[en:resources:hardware|fer.natur.cuni.cz]] (192 CPU, 3 nodes)
+
+**???centrum-Technická univerzita Liberec-name???** (480 CPU)
+* [[en:resources:hardware|charon.nti.tul.cz]] (480 CPU, 24 nodes)
+
+**???centrum-ZČU-name???** (1312 CPU)
+* [[en:resources:hardware|alfrid.meta.zcu.cz]] (512 CPU, 4 nodes)
+* [[en:resources:hardware|alfrid-II.meta.zcu.cz]] (512 CPU, 4 nodes)
+* [[en:resources:hardware|alfrid-smp.meta.zcu.cz]] (128 CPU, 1 node)
+* [[en:resources:hardware|konos.fav.zcu.cz]] (160 CPU, 8 nodes)
+
+**???centrum-Ústav experimentální botaniky AV ČR-name???** (112 CPU)
+* [[en:resources:hardware|samson.ueb.cas.cz]] (112 CPU, 1 node)
+
+[[https://www.metacentrum.cz/pbsmon2/resource/carex.ibot.cas.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|carex.ibot.cas.cz]] (48 CPU, 6 nodes ) - ???resource-carex.ibot.cas.cz-desc???
+| CPU | 1x AMD EPYC 7261 8-Core Processor |
+| RAM | 512 GiB |
+| disk | ???resource-carex.ibot.cas.cz-disk??? |
+| net | ???resource-carex.ibot.cas.cz-network??? |
+| comment | ???resource-carex.ibot.cas.cz-comment??? |
+| owner | ???resource-carex.ibot.cas.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/draba.ibot.cas.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|draba.ibot.cas.cz]] (240 CPU, 3 nodes ) - ???resource-draba.ibot.cas.cz-desc???
+| CPU | 4x Intel(R) Xeon(R) Gold 6230 20-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-draba.ibot.cas.cz-disk??? |
+| net | ???resource-draba.ibot.cas.cz-network??? |
+| comment | ???resource-draba.ibot.cas.cz-comment??? |
+| owner | ???resource-draba.ibot.cas.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/vinca.ibot.cas.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|vinca.ibot.cas.cz]] (64 CPU, 4 nodes ) - ???resource-vinca.ibot.cas.cz-desc???
+| CPU | 1x AMD EPYC 7302P 16-Core Processor |
+| RAM | 512 GiB |
+| disk | ???resource-vinca.ibot.cas.cz-disk??? |
+| net | ???resource-vinca.ibot.cas.cz-network??? |
+| comment | ???resource-vinca.ibot.cas.cz-comment??? |
+| owner | ???resource-vinca.ibot.cas.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/bee.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|bee.cerit-sc.cz]] (960 CPU, 10 nodes ) - ???resource-bee.cerit-sc.cz-desc???
+| CPU | 2x AMD EPYC 9454 48-Core Processor |
+| RAM | 1536 GiB |
+| GPU | 2x NVIDIA H100 96GB |
+| disk | ???resource-bee.cerit-sc.cz-disk??? |
+| net | ???resource-bee.cerit-sc.cz-network??? |
+| comment | ???resource-bee.cerit-sc.cz-comment??? |
+| owner | ???resource-bee.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/grogu.cerit-sc.cz (2026)|grogu.cerit-sc.cz (2026)]] (768 CPU, 8 nodes ) - ???resource-grogu.cerit-sc.cz (2026)-desc???
+| CPU | 2x AMD EPYC 9454 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-grogu.cerit-sc.cz (2026)-disk??? |
+| net | ???resource-grogu.cerit-sc.cz (2026)-network??? |
+| comment | ???resource-grogu.cerit-sc.cz (2026)-comment??? |
+| owner | ???resource-grogu.cerit-sc.cz (2026)-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/capy.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|capy.cerit-sc.cz]] - ???resource-capy.cerit-sc.cz-desc???
+| CPU | 2x Intel(R) Xeon(R) Platinum 8480CL 56-Core Processor |
+| RAM | 2048 GiB |
+| GPU | 8x NVIDIA H100 80GB |
+| disk | ???resource-capy.cerit-sc.cz-disk??? |
+| net | ???resource-capy.cerit-sc.cz-network??? |
+| comment | ???resource-capy.cerit-sc.cz-comment??? |
+| owner | ???resource-capy.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/glados.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|glados.cerit-sc.cz]] (80 CPU, 1 node ) - ???resource-glados.cerit-sc.cz-desc???
+| CPU | 2x Intel Xeon Gold 6138 20-Core Processor |
+| RAM | 384 GB |
+| disk | ???resource-glados.cerit-sc.cz-disk??? |
+| net | ???resource-glados.cerit-sc.cz-network??? |
+| comment | ???resource-glados.cerit-sc.cz-comment??? |
+| owner | ???resource-glados.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/uruk.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|uruk.cerit-sc.cz]] - ???resource-uruk.cerit-sc.cz-desc???
+| CPU | 8x Intel Xeon Gold 6140 18-Core Processor |
+| RAM | 2.91 TiB |
+| disk | ???resource-uruk.cerit-sc.cz-disk??? |
+| net | ???resource-uruk.cerit-sc.cz-network??? |
+| comment | ???resource-uruk.cerit-sc.cz-comment??? |
+| owner | ???resource-uruk.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/ursa.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|ursa.cerit-sc.cz]] - ???resource-ursa.cerit-sc.cz-desc???
+| CPU | 28x Intel Xeon Gold 6254 18-Core Processor |
+| RAM | 9.90 TiB |
+| disk | ???resource-ursa.cerit-sc.cz-disk??? |
+| net | ???resource-ursa.cerit-sc.cz-network??? |
+| comment | ???resource-ursa.cerit-sc.cz-comment??? |
+| owner | ???resource-ursa.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/zenon.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|zenon.cerit-sc.cz]] (1920 CPU, 60 nodes ) - ???resource-zenon.cerit-sc.cz-desc???
+| CPU | 2x AMD EPYC 7351 16-Core Processor |
+| RAM | 512 GB |
+| disk | ???resource-zenon.cerit-sc.cz-disk??? |
+| net | ???resource-zenon.cerit-sc.cz-network??? |
+| comment | ???resource-zenon.cerit-sc.cz-comment??? |
+| owner | ???resource-zenon.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/zia.cerit-sc.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|zia.cerit-sc.cz]] (640 CPU, 5 nodes ) - ???resource-zia.cerit-sc.cz-desc???
+| CPU | 2x AMD EPYC 7662 64-Core Processor |
+| RAM | 1007.68 GiB |
+| GPU | 4x NVIDIA A100 40GB |
+| disk | ???resource-zia.cerit-sc.cz-disk??? |
+| net | ???resource-zia.cerit-sc.cz-network??? |
+| comment | ???resource-zia.cerit-sc.cz-comment??? |
+| owner | ???resource-zia.cerit-sc.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/ics-gladosag-ostack.priv.cloud.muni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|ics-gladosag-ostack.priv.cloud.muni.cz]] (360 CPU, 9 nodes ) - ???resource-ics-gladosag-ostack.priv.cloud.muni.cz-desc???
+| CPU | 2x Intel Xeon Gold 6138 (2x 20 Core) 2.0 GHz |
+| RAM | 384 GB |
+| disk | ???resource-ics-gladosag-ostack.priv.cloud.muni.cz-disk??? |
+| net | ???resource-ics-gladosag-ostack.priv.cloud.muni.cz-network??? |
+| comment | ???resource-ics-gladosag-ostack.priv.cloud.muni.cz-comment??? |
+| owner | ???resource-ics-gladosag-ostack.priv.cloud.muni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/eli-hda1-ostack.priv.cloud.muni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|eli-hda1-ostack.priv.cloud.muni.cz]] (512 CPU, 16 nodes ) - ???resource-eli-hda1-ostack.priv.cloud.muni.cz-desc???
+| CPU | 2x Intel Xeon Processor (2x 16) 2.2 GHz |
+| RAM | 768 GB |
+| disk | ???resource-eli-hda1-ostack.priv.cloud.muni.cz-disk??? |
+| net | ???resource-eli-hda1-ostack.priv.cloud.muni.cz-network??? |
+| comment | ???resource-eli-hda1-ostack.priv.cloud.muni.cz-comment??? |
+| owner | ???resource-eli-hda1-ostack.priv.cloud.muni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/cerit-hdg-ostack.priv.cloud.muni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|cerit-hdg-ostack.priv.cloud.muni.cz]] (416 CPU, 13 nodes ) - ???resource-cerit-hdg-ostack.priv.cloud.muni.cz-desc???
+| CPU | 2x AMD EPYC Processor (with IBPB) (2x 16 Core) |
+| RAM | 472.40 GiB |
+| disk | ???resource-cerit-hdg-ostack.priv.cloud.muni.cz-disk??? |
+| net | ???resource-cerit-hdg-ostack.priv.cloud.muni.cz-network??? |
+| comment | ???resource-cerit-hdg-ostack.priv.cloud.muni.cz-comment??? |
+| owner | ???resource-cerit-hdg-ostack.priv.cloud.muni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz (2025)|adan.grid.cesnet.cz (2025)]] (6144 CPU, 48 nodes ) - ???resource-adan.grid.cesnet.cz (2025)-desc???
+| CPU | 2x AMD EPYC 9554 64-Core Processor |
+| RAM | 768 GiB |
+| disk | ???resource-adan.grid.cesnet.cz (2025)-disk??? |
+| net | ???resource-adan.grid.cesnet.cz (2025)-network??? |
+| comment | ???resource-adan.grid.cesnet.cz (2025)-comment??? |
+| owner | ???resource-adan.grid.cesnet.cz (2025)-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/aman.ics.muni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|aman.ics.muni.cz]] (504 CPU, 9 nodes ) - ???resource-aman.ics.muni.cz-desc???
+| CPU | 4x Intel Xeon E7-4830 v4 14-Core Processor |
+| RAM | 512 GB |
+| disk | ???resource-aman.ics.muni.cz-disk??? |
+| net | ???resource-aman.ics.muni.cz-network??? |
+| comment | ???resource-aman.ics.muni.cz-comment??? |
+| owner | ???resource-aman.ics.muni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/tarkil.grid.cesnet.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|tarkil.grid.cesnet.cz]] (360 CPU, 15 nodes ) - ???resource-tarkil.grid.cesnet.cz-desc???
+| CPU | 2x Intel Xeon E5-2650v4 12-Core Processor |
+| RAM | 128GB |
+| disk | ???resource-tarkil.grid.cesnet.cz-disk??? |
+| net | ???resource-tarkil.grid.cesnet.cz-network??? |
+| comment | ???resource-tarkil.grid.cesnet.cz-comment??? |
+| owner | ???resource-tarkil.grid.cesnet.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/oven.grid.cesnet.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|oven.grid.cesnet.cz]] - ???resource-oven.grid.cesnet.cz-desc???
+| CPU | Virtual CPUs |
+| RAM | 8 GB |
+| disk | ???resource-oven.grid.cesnet.cz-disk??? |
+| net | ???resource-oven.grid.cesnet.cz-network??? |
+| comment | ???resource-oven.grid.cesnet.cz-comment??? |
+| owner | ???resource-oven.grid.cesnet.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/deimos.meta.zcu.cz (2026)|deimos.meta.zcu.cz (2026)]] (1664 CPU, 13 nodes ) - ???resource-deimos.meta.zcu.cz (2026)-desc???
+| CPU | 2x AMD EPYC 9555 64-Core Processor |
+| RAM | 768 GiB |
+| disk | ???resource-deimos.meta.zcu.cz (2026)-disk??? |
+| net | ???resource-deimos.meta.zcu.cz (2026)-network??? |
+| comment | ???resource-deimos.meta.zcu.cz (2026)-comment??? |
+| owner | ???resource-deimos.meta.zcu.cz (2026)-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/fobos.meta.zcu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|fobos.meta.zcu.cz]] (1920 CPU, 20 nodes ) - ???resource-fobos.meta.zcu.cz-desc???
+| CPU | 2x AMD EPYC 9454 2.75GHz 48-Core Processor |
+| RAM | 768 GiB |
+| GPU | 4x NVIDIA L40S 48GB |
+| disk | ???resource-fobos.meta.zcu.cz-disk??? |
+| net | ???resource-fobos.meta.zcu.cz-network??? |
+| comment | ???resource-fobos.meta.zcu.cz-comment??? |
+| owner | ???resource-fobos.meta.zcu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/haldan.metacentrum.cz (2026)|haldan.metacentrum.cz (2026)]] (1920 CPU, 15 nodes ) - ???resource-haldan.metacentrum.cz (2026)-desc???
+| CPU | 2x AMD EPYC 9555 64-Core Processor |
+| RAM | 768 GiB |
+| disk | ???resource-haldan.metacentrum.cz (2026)-disk??? |
+| net | ???resource-haldan.metacentrum.cz (2026)-network??? |
+| comment | ???resource-haldan.metacentrum.cz (2026)-comment??? |
+| owner | ???resource-haldan.metacentrum.cz (2026)-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/halmir.metacentrum.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|halmir.metacentrum.cz]] (1984 CPU, 31 nodes ) - ???resource-halmir.metacentrum.cz-desc???
+| CPU | 2x AMD EPYC 7543 32-Core Processor |
+| RAM | 1024 GiB |
+| disk | ???resource-halmir.metacentrum.cz-disk??? |
+| net | ???resource-halmir.metacentrum.cz-network??? |
+| comment | ???resource-halmir.metacentrum.cz-comment??? |
+| owner | ???resource-halmir.metacentrum.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/galdor.metacentrum.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|galdor.metacentrum.cz]] (1280 CPU, 20 nodes ) - ???resource-galdor.metacentrum.cz-desc???
+| CPU | 2x AMD EPYC 7543 32-Core Processor |
+| RAM | 512 GiB |
+| GPU | 4x NVIDIA A40 48GB |
+| disk | ???resource-galdor.metacentrum.cz-disk??? |
+| net | ???resource-galdor.metacentrum.cz-network??? |
+| comment | ???resource-galdor.metacentrum.cz-comment??? |
+| owner | ???resource-galdor.metacentrum.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/tyra.metacentrum.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|tyra.metacentrum.cz]] (2048 CPU, 32 nodes ) - ???resource-tyra.metacentrum.cz-desc???
+| CPU | 2x AMD EPYC 7543 32-Core Processor |
+| RAM | 512 GiB |
+| disk | ???resource-tyra.metacentrum.cz-disk??? |
+| net | ???resource-tyra.metacentrum.cz-network??? |
+| comment | ???resource-tyra.metacentrum.cz-comment??? |
+| owner | ???resource-tyra.metacentrum.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|turin.grid.cesnet.cz]] (3328 CPU, 52 nodes ) - ???resource-turin.grid.cesnet.cz-desc???
+| CPU | 2x AMD EPYC 7543 32-Core Processor |
+| RAM | 512 GiB |
+| disk | ???resource-turin.grid.cesnet.cz-disk??? |
+| net | ???resource-turin.grid.cesnet.cz-network??? |
+| comment | ???resource-turin.grid.cesnet.cz-comment??? |
+| owner | ???resource-turin.grid.cesnet.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/grimbold.ics.muni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|grimbold.ics.muni.cz]] - ???resource-grimbold.ics.muni.cz-desc???
+| CPU | 2x Intel Xeon Gold 6130 16-Core Processor |
+| RAM | 196GB |
+| GPU | 2x NVIDIA Tesla P100 12GB |
+| disk | ???resource-grimbold.ics.muni.cz-disk??? |
+| net | ???resource-grimbold.ics.muni.cz-network??? |
+| comment | ???resource-grimbold.ics.muni.cz-comment??? |
+| owner | ???resource-grimbold.ics.muni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/hildor.metacentrum.cz (2026)|hildor.metacentrum.cz (2026)]] (2560 CPU, 20 nodes ) - ???resource-hildor.metacentrum.cz (2026)-desc???
+| CPU | 2x AMD EPYC 9555 64-Core Processor |
+| RAM | 768 GiB |
+| disk | ???resource-hildor.metacentrum.cz (2026)-disk??? |
+| net | ???resource-hildor.metacentrum.cz (2026)-network??? |
+| comment | ???resource-hildor.metacentrum.cz (2026)-comment??? |
+| owner | ???resource-hildor.metacentrum.cz (2026)-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elbi1.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elbi1.hw.elixir-czech.cz]] (96 CPU, 1 node ) - ???resource-elbi1.hw.elixir-czech.cz-desc???
+| CPU | 2x AMD EPYC 9474F 48-Core Processor |
+| RAM | 1536 GiB |
+| GPU | 2x NVIDIA A100 40GB |
+| disk | ???resource-elbi1.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elbi1.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elbi1.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elbi1.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmu1.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmu1.hw.elixir-czech.cz]] (2400 CPU, 25 nodes ) - ???resource-elmu1.hw.elixir-czech.cz-desc???
+| CPU | 2x AMD EPYC 9474F 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-elmu1.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmu1.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmu1.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmu1.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/eluo1.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|eluo1.hw.elixir-czech.cz]] (480 CPU, 5 nodes ) - ???resource-eluo1.hw.elixir-czech.cz-desc???
+| CPU | 2x AMD EPYC 9474F 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-eluo1.hw.elixir-czech.cz-disk??? |
+| net | ???resource-eluo1.hw.elixir-czech.cz-network??? |
+| comment | ???resource-eluo1.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-eluo1.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elum1.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elum1.hw.elixir-czech.cz]] (96 CPU, 1 node ) - ???resource-elum1.hw.elixir-czech.cz-desc???
+| CPU | 2x AMD EPYC 9474F 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-elum1.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elum1.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elum1.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elum1.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elwe.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elwe.hw.elixir-czech.cz]] (1216 CPU, 19 nodes ) - ???resource-elwe.hw.elixir-czech.cz-desc???
+| CPU | 2x AMD EPYC 7532 32-Core Processor |
+| RAM | 2TB |
+| disk | ???resource-elwe.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elwe.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elwe.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elwe.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmo5.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmo5.hw.elixir-czech.cz]] (832 CPU, 26 nodes ) - ???resource-elmo5.hw.elixir-czech.cz-desc???
+| CPU | 2x Intel Xeon Gold 6130 16-Core Processor |
+| RAM | 192 GB RAM |
+| disk | ???resource-elmo5.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmo5.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmo5.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmo5.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmo4.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmo4.hw.elixir-czech.cz]] (96 CPU, 4 nodes ) - ???resource-elmo4.hw.elixir-czech.cz-desc???
+| CPU | 2x Intel Xeon Gold 5118 12-Core Processor |
+| RAM | 384 GB RAM |
+| disk | ???resource-elmo4.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmo4.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmo4.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmo4.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/eltu.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|eltu.hw.elixir-czech.cz]] (192 CPU, 1 node ) - ???resource-eltu.hw.elixir-czech.cz-desc???
+| CPU | 4x Intel(R) Xeon(R) Platinum 8260 24-Core Processor |
+| RAM | 3 TB |
+| disk | ???resource-eltu.hw.elixir-czech.cz-disk??? |
+| net | ???resource-eltu.hw.elixir-czech.cz-network??? |
+| comment | ???resource-eltu.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-eltu.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmo3.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmo3.hw.elixir-czech.cz]] (336 CPU, 6 nodes ) - ???resource-elmo3.hw.elixir-czech.cz-desc???
+| CPU | 4x Intel Xeon Gold 5120 14-Core Processor |
+| RAM | 768 GB RAM |
+| disk | ???resource-elmo3.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmo3.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmo3.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmo3.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmo2.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmo2.hw.elixir-czech.cz]] (72 CPU, 3 nodes ) - ???resource-elmo2.hw.elixir-czech.cz-desc???
+| CPU | 2x Intel Xeon Gold 5118 12-Core Processor |
+| RAM | 384 GB RAM |
+| disk | ???resource-elmo2.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmo2.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmo2.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmo2.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/elmo1.hw.elixir-czech.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|elmo1.hw.elixir-czech.cz]] (168 CPU, 3 nodes ) - ???resource-elmo1.hw.elixir-czech.cz-desc???
+| CPU | 4x Intel Xeon Gold 5120 14-Core Processor |
+| RAM | 768 GB RAM |
+| disk | ???resource-elmo1.hw.elixir-czech.cz-disk??? |
+| net | ???resource-elmo1.hw.elixir-czech.cz-network??? |
+| comment | ???resource-elmo1.hw.elixir-czech.cz-comment??? |
+| owner | ???resource-elmo1.hw.elixir-czech.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/farin.grid.cesnet.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|farin.grid.cesnet.cz]] (512 CPU, 4 nodes ) - ???resource-farin.grid.cesnet.cz-desc???
+| CPU | 2x AMD EPYC 9554 64-Core Processor |
+| RAM | 2304 GiB |
+| disk | ???resource-farin.grid.cesnet.cz-disk??? |
+| net | ???resource-farin.grid.cesnet.cz-network??? |
+| comment | ???resource-farin.grid.cesnet.cz-comment??? |
+| owner | ???resource-farin.grid.cesnet.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/luna2021.fzu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|luna2021.fzu.cz]] (384 CPU, 6 nodes ) - ???resource-luna2021.fzu.cz-desc???
+| CPU | 2x AMD EPYC 7513 32-Core Processor |
+| RAM | 1024 GiB |
+| disk | ???resource-luna2021.fzu.cz-disk??? |
+| net | ???resource-luna2021.fzu.cz-network??? |
+| comment | ???resource-luna2021.fzu.cz-comment??? |
+| owner | ???resource-luna2021.fzu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/luna2022.fzu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|luna2022.fzu.cz]] (384 CPU, 6 nodes ) - ???resource-luna2022.fzu.cz-desc???
+| CPU | 2x AMD EPYC 7513 32-Core Processor |
+| RAM | 512 GiB |
+| GPU | 1x NVIDIA A40 48GB |
+| disk | ???resource-luna2022.fzu.cz-disk??? |
+| net | ???resource-luna2022.fzu.cz-network??? |
+| comment | ???resource-luna2022.fzu.cz-comment??? |
+| owner | ???resource-luna2022.fzu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/luna2023.fzu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|luna2023.fzu.cz]] (288 CPU, 3 nodes ) - ???resource-luna2023.fzu.cz-desc???
+| CPU | 2x AMD EPYC 9474F 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-luna2023.fzu.cz-disk??? |
+| net | ???resource-luna2023.fzu.cz-network??? |
+| comment | ???resource-luna2023.fzu.cz-comment??? |
+| owner | ???resource-luna2023.fzu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/magma.fzu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|magma.fzu.cz]] (2208 CPU, 23 nodes ) - ???resource-magma.fzu.cz-desc???
+| CPU | 2x AMD EPYC 9454 48-Core Processor |
+| RAM | 1536 GiB |
+| disk | ???resource-magma.fzu.cz-disk??? |
+| net | ???resource-magma.fzu.cz-network??? |
+| comment | ???resource-magma.fzu.cz-comment??? |
+| owner | ???resource-magma.fzu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/cha.natur.cuni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|cha.natur.cuni.cz]] - ???resource-cha.natur.cuni.cz-desc???
+| CPU | 2x Intel(R) Xeon(R) Silver 4216 16-Core Processor |
+| RAM | 192 GiB |
+| GPU | 8x NVIDIA GeForce RTX 2080 Ti 11GB |
+| disk | ???resource-cha.natur.cuni.cz-disk??? |
+| net | ???resource-cha.natur.cuni.cz-network??? |
+| comment | ???resource-cha.natur.cuni.cz-comment??? |
+| owner | ???resource-cha.natur.cuni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/mor.natur.cuni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|mor.natur.cuni.cz]] (80 CPU, 4 nodes ) - ???resource-mor.natur.cuni.cz-desc???
+| CPU | 2x Intel(R) Xeon(R) Silver 4210 10-Core Processor |
+| RAM | 256 GiB |
+| disk | ???resource-mor.natur.cuni.cz-disk??? |
+| net | ???resource-mor.natur.cuni.cz-network??? |
+| comment | ???resource-mor.natur.cuni.cz-comment??? |
+| owner | ???resource-mor.natur.cuni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/pcr.natur.cuni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|pcr.natur.cuni.cz]] (1024 CPU, 16 nodes ) - ???resource-pcr.natur.cuni.cz-desc???
+| CPU | 2x AMD EPYC 7452 32-Core Processor |
+| RAM | 256 GiB |
+| disk | ???resource-pcr.natur.cuni.cz-disk??? |
+| net | ???resource-pcr.natur.cuni.cz-network??? |
+| comment | ???resource-pcr.natur.cuni.cz-comment??? |
+| owner | ???resource-pcr.natur.cuni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/fau.natur.cuni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|fau.natur.cuni.cz]] (192 CPU, 3 nodes ) - ???resource-fau.natur.cuni.cz-desc???
+| CPU | 2x AMD EPYC 7452 32-Core Processor |
+| RAM | 256 GiB |
+| GPU | 8x Quadro RTX 5000 16GB |
+| disk | ???resource-fau.natur.cuni.cz-disk??? |
+| net | ???resource-fau.natur.cuni.cz-network??? |
+| comment | ???resource-fau.natur.cuni.cz-comment??? |
+| owner | ???resource-fau.natur.cuni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/fer.natur.cuni.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|fer.natur.cuni.cz]] (192 CPU, 3 nodes ) - ???resource-fer.natur.cuni.cz-desc???
+| CPU | 2x AMD EPYC 7532 32-Core Processor |
+| RAM | 256 GiB |
+| GPU | 8x NVIDIA RTX A4000 16GB |
+| disk | ???resource-fer.natur.cuni.cz-disk??? |
+| net | ???resource-fer.natur.cuni.cz-network??? |
+| comment | ???resource-fer.natur.cuni.cz-comment??? |
+| owner | ???resource-fer.natur.cuni.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/charon.nti.tul.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|charon.nti.tul.cz]] (480 CPU, 24 nodes ) - ???resource-charon.nti.tul.cz-desc???
+| CPU | 2x Intel Xeon Silver 4114 10-Core Processor |
+| RAM | 12x 8 GB DDR4 2400 ECC Reg dual rank |
+| disk | ???resource-charon.nti.tul.cz-disk??? |
+| net | ???resource-charon.nti.tul.cz-network??? |
+| comment | ???resource-charon.nti.tul.cz-comment??? |
+| owner | ???resource-charon.nti.tul.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/alfrid.meta.zcu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|alfrid.meta.zcu.cz]] (512 CPU, 4 nodes ) - ???resource-alfrid.meta.zcu.cz-desc???
+| CPU | 2x AMD EPYC 9554 64-Core Processor |
+| RAM | 1536 GiB |
+| GPU | 2x NVIDIA L40 48GB |
+| disk | ???resource-alfrid.meta.zcu.cz-disk??? |
+| net | ???resource-alfrid.meta.zcu.cz-network??? |
+| comment | ???resource-alfrid.meta.zcu.cz-comment??? |
+| owner | ???resource-alfrid.meta.zcu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/alfrid-II.meta.zcu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|alfrid-II.meta.zcu.cz]] (512 CPU, 4 nodes ) - ???resource-alfrid-II.meta.zcu.cz-desc???
+| CPU | 2x AMD EPYC 9554 64-Core Processor |
+| RAM | 768 GiB |
+| GPU | 4x NVIDIA L40S 48GB |
+| disk | ???resource-alfrid-II.meta.zcu.cz-disk??? |
+| net | ???resource-alfrid-II.meta.zcu.cz-network??? |
+| comment | ???resource-alfrid-II.meta.zcu.cz-comment??? |
+| owner | ???resource-alfrid-II.meta.zcu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/alfrid-smp.meta.zcu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|alfrid-smp.meta.zcu.cz]] (128 CPU, 1 node ) - ???resource-alfrid-smp.meta.zcu.cz-desc???
+| CPU | 2x AMD EPYC 9554 64-Core Processor |
+| RAM | 4608 GiB |
+| disk | ???resource-alfrid-smp.meta.zcu.cz-disk??? |
+| net | ???resource-alfrid-smp.meta.zcu.cz-network??? |
+| comment | ???resource-alfrid-smp.meta.zcu.cz-comment??? |
+| owner | ???resource-alfrid-smp.meta.zcu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/konos.fav.zcu.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|konos.fav.zcu.cz]] (160 CPU, 8 nodes ) - ???resource-konos.fav.zcu.cz-desc???
+| CPU | 2x Intel(R) Xeon(R) CPU E5-2630 v4 10-Cores Processor |
+| RAM | 128 GB |
+| disk | ???resource-konos.fav.zcu.cz-disk??? |
+| net | ???resource-konos.fav.zcu.cz-network??? |
+| comment | ???resource-konos.fav.zcu.cz-comment??? |
+| owner | ???resource-konos.fav.zcu.cz-owner??? |
+
+[[https://www.metacentrum.cz/pbsmon2/resource/samson.ueb.cas.cz;jsessionid=26A0EFB0D7840995C99DD8262136308C|samson.ueb.cas.cz]] (112 CPU, 1 node ) - ???resource-samson.ueb.cas.cz-desc???
+| CPU | 4x Intel Xeon Platinum 8280 28-Core Processor |
+| RAM | 1007.44 GiB |
+| disk | ???resource-samson.ueb.cas.cz-disk??? |
+| net | ???resource-samson.ueb.cas.cz-network??? |
+| comment | ???resource-samson.ueb.cas.cz-comment??? |
+| owner | ???resource-samson.ueb.cas.cz-owner??? |

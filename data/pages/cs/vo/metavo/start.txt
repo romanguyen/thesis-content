@@ -1,0 +1,55 @@
+====== Metavo ======
+
+MetaCentrum VO je virtuální organizace české Národní Gridové Infrastruktury [[cs:start|Meta Centrum NGI]], a je otevřená všem akademickým pracovníkům a studentům [[https://www.cesnet.cz/sdruzeni/clenske-organizace/|členů sdružení CESNET]]. Uživatelé registrovaní v MetaCentru VO mají možnost bezplatného využití řady aplikačních programů.
+
+** Služba
+| ** | ** Informace** |
+Výpočetní grid je hardwarová a softwarová infrastruktura poskytující spolehlivý, konzistentný a finančně méně náročný přístup k vlekým výpočetním kapacitám.
+
+Uživatelům gridu jsou poskytovány úložné kapacity a výpočetní zdroje které přesahují možnosti jednotlivých supervýpočetních center. Dále mají uživatelé možnost využívat aplikační software z velkého množství vědeckých oborů a je jim také poskytnuta odborná podpora při výskytu jakýchkoliv problémů.
+
+[[cs:sluzby:grid|Více informací]] o gridové službě MetaCentra.
+
+| ** Grid** |
+MetaCentrum Cloud dovoluje uživatelům získat a kofigurovat virtuální stroje postavené z obrazů virtuálních strojů (dodaných uživatelem nebo MetaCentrem).
+
+Výhodou využívání cloudu je škálovatelnost (vytvoření vlastního virtuálního stroje splňujících individuální požadavky), přístupnost (jednoduché webové rozhraní OpenStack), flexibilita (OpenStack APIs/CLIs, možnost instalace jakéhokoliv softwaru), úložné kapacity atd..
+
+[[https://cloud.metacentrum.cz/|Další informace]] o cloudu MetaCentra.
+
+| ** MetaCentrum Cloud** |
+Kubernetes, známý také jako K8s, je open-source systém pro automatizované deploymenty, škálování a správu kontejnerizovaných aplikací.
+
+Platforma je určena pro primárně pro menší skupiny, které vyžadují individuální přístup nebo dlouhý běh specifických cloud native služeb.
+
+[[https://wiki.metacentrum.cz/wiki/Kubernetes_-_Kubus|Další informace]] o Kubus
+
+| ** Kubus** |
+Hadoop je populární open-source framework pro distribuovaná úložiště a zpracování velkých objemů dat. Na rozdíl od tradičního klastrového přístupu MetaCentra, kde musí být data nahrána v jendé dávce před samotným zpracováním, Hadoop je zamýšlen pro postupné sbírání a ukládání dat, které se poté zpracují.
+
+[[https://wiki.metacentrum.cz/wiki/Hadoop|Více informací]] o Hadoop.
+
+| ** Hadoop** |
+
+===== Registrace =====
+Základní registrace v MetaCentru zahrnuje přístup ke gridovým, cloudovým i dalším službám.
+
+[[https://metavo.metacentrum.cz/cs/application/index.html|Přihláška]]
+
+===== Pravidla využití =====
+Členství v MetaCentru je** bezplatné** pro akademické pracovníky a studenty [[https://www.cesnet.cz/sdruzeni/clenske-organizace/|členů sdružení CESNET]], pouze požadujeme ocenění využití prostředků MetaCentra v publikacích uživatelů (technické zprávy, odborné články), nejlépe formou [[https://wiki.metacentrum.cz/wiki/Usage_rules/Acknowledgement|poděkování]]. Členstvím v MetaVO se zároveň získá účet e-Infrastruktury sdružení CESNET. V případě, že už členy e-Infrastruktury CESNETu jste, rozšíří se vaše oprávnění i na výpočetní střediska, zapojená v MetaCentru. Při podávání přihlášky se použijí informace z e-Infrastruktury, zadané již dříve. Přihlášení rovněž znamená projití autentizačním mechanismem [[http://www.eduid.cz/wiki/eduid/members/index|eduID.cz]], popřípadě registrací v [[https://hostel.eduid.cz/cs/overeni_identity.html|hostelu eduID.cz]], nespolupracuje-li vaše instituce s eduID.cz.
+
+Jedenkrát ročně, obvykle na konci kalendářního roku, uživatel žádá o prodloužení svého účtu, při kterém dokládá k jakému účelu zdroje MetaCentra použil a jakých výsledků ve svém oboru dosáhl a přiloží seznam svých publikacích za uplynulý rok. 1x ročně uživatelé podávají výroční zprávu jako podklad pro prodloužení účtů. Podáním přihlášky stvrzujete souhlas s [[https://docs.metacentrum.cz/access/terms|pravidly využití]].
+
+===== Výpočetní prostředky a datové zdroje =====
+Výpočetní a datové prostředky dostupné ve VO jsou zčásti dedikované pro jejich vlastníky a zčásti volně přístupné s prioritním přístupem pro vlastníky.
+
+===== Uživatelská podpora =====
+Dotazy směřujte do RT systému [[mailto:meta@cesnet.cz|meta@cesnet.cz]].
+
+===== VO managers =====
+MetaCentrum, CESNET
+
+[[http://metavo.metacentrum.cz/|http://metavo.metacentrum.cz]]
+
+[[mailto:meta@cesnet.cz|meta@cesnet.cz]]

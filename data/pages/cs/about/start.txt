@@ -1,0 +1,27 @@
+====== About ======
+
+Projekt MetaCentrum vznikl v roce 1996, od roku 1999 je součástí aktivit sdružení [[http://www.cesnet.cz/|CESNET]]. Od svého vzniku se zabývá budováním národního [[http://en.wikipedia.org/wiki/Grid_computing|Gridu]] a jeho propojením se souvisejícími mezinárodními aktivitami. Od června 2009 CESNET vystupuje, prostřednictvím MetaCentra, v roli české Národní Gridové Infrastruktury (NGI), oficiálně uznávané národní součástí [[https://www.metacentrum.cz/cs/about/EGI/index.html|Evropské Gridové Infrastruktury (EGI)]], jejíž přípravu MetaCentrum koordinovalo v [[cs:about:projects|projektu]] EGI_DS.
+
+Jednotlivé vědeckovýzkumné týmy i organizace si v současné době pořizují zdroje ve formě výpočetních clusterů. Propojením individuálně pořízených výpočetních i úložných kapacit do distribuovaného celku (Gridu) je možné dosáhnout výrazného zvýšení efektivity vynaložených investic, zlepšit poskytované služby a významným způsobem zjednodušit spolupráci vědců a jejich týmu na národní i mezinárodní úrovni.
+
+Cílem aktivity MetaCentrum je podpora rozvoje VaV v ČR vybudováním národní gridové infrastruktury (NGI), která propojí výzkumné týmy a instituce v různých regionech ČR a umožní jejich napojení do mezinárodního výzkumného prostředí. Od června 2009 CESNET vystupuje, prostřednictvím MetaCentra, v roli české Národní Gridové Infrastruktury (NGI), oficiálně uznávané národní součástí [[https://www.metacentrum.cz/cs/about/EGI/index.html|Evropské Gridové Infrastruktury (EGI)]].
+
+==== Sdružení prostředků do gridu umožňuje: ====
+  * poskytnout** špičkovou kapacitu** přesahující možnosti jednotlivých organizací,
+  * ** překlenout odstávku** či výpadky vlastního vybavení,
+  * ** zvýšit spolehlivost a dostupnost** ukládaných dat,
+  * ** sdílení a zpracování dat** z unikátních** experimentálních a měřících zařízení**,
+  * přispět k hladké** vědecké spolupráci** bez ohledu na fyzickou vzdálenost a usnadnit** zapojení** týmu** do mezinárodních projektů**.
+
+* [[https://www.metacentrum.cz/cs/about/meta/adv_users/index.html|Výhody gridového prostředí pro uživatele]]
+* [[https://www.metacentrum.cz/cs/about/meta/adv_owners/index.html|Výhody gridového prostředí pro vlastníky clusterů]]
+
+Integrované prostředí národního Gridu poskytne možnost spolupráce mezi pracovníky různých fyzických organizací pomocí konceptu [[cs:vo|virtuálních organizací]], okamžité sdílení dat a zdrojů mezi členy a společné využití některých unikátních služeb. Přidanou hodnotou je pak koordinované zavádění pokročilých služeb (napr. vyvinutých mezinárodními projekty typu EGEE/EGI a DEISA). Zásadní roli v implementaci nových služeb hraje vlastní vývojový tým zapojený do mezinárodní komunity.
+
+===== Základní cíle MetaCentra NGI =====
+Dlouhodobým cílem projektu MetaCentrum je provoz a** koordinace distribuované výpočetní infrastruktury** a datových úložišť a odpovídajícího podpůrného prostředí. Přispívá k podstatně efektivnějšímu využití instalované techniky, umožňuje využití dostupných výpočetních zdrojů pro řešení velmi náročných výpočetních úloh, jejichž zvládnutí je nad možností samostatného pracoviště v ČR. MetaCentrum** podporuje integraci superpočítačových systémů a clusterů** do vyšších celků (tzv. Gridů - dynamických, virtuálních, výpočetních, informačních a znalostních systémů tj. soustavy především výkonných počítačů propojených vysokorychlostní sítí určených pro řešení nejnáročnějších výpočetních a datových problémů). Struktura MetaCentra je současně dostatečně flexibilní na to, aby v případě zájmu dalších výpočetních subjektů (uzlů) mohly tyto být jednoduše a účelně integrovány do stávajícího systému MetaCentra a byl tak zajištěn** trvalý nárůst výpočetních kapacit**.
+
+===== Infrastruktura NGI =====
+* [[http://metavo.metacentrum.cz/|MetaCentrum VO]] (virtuální organizace MetaCentrum) provozuje a spravuje vlastní i svěřené výpočetní prostředky a datová úložište akademických center AV, JČU, MU, MZLU, UK, VUT, ZČU, …, které jsou dostupné všem vědeckovýzkumným pracovníkům a studentům vysokých škol v České republice.
+* MetaCloud
+* Další zdroje (FZÚ AV, CESNET) jsou do mezinárodního gridového prostredí EGI zapojené prostřednictvím námi spravovaných virtuálních organizací [[cs:vo:auger|AUGER]], [[http://egee.cesnet.cz/cs/voce/|VOCE]] a virtuálních organizací ATLAS, ALICE, EUAsia, Gaussian, …

@@ -1,0 +1,15 @@
+====== Outages ======
+
+===== Planned maintenance: frontends and scheduler =====
+  * **Window:** Tue 2026-04-14, 07:00-11:00 CEST
+  * **Impact:** short interruption of login and scheduler commands
+  * **Scope:** selected frontend nodes and PBS scheduler
+
+===== Storage maintenance: scratch metadata =====
+  * **Window:** Thu 2026-04-16, 06:00-08:00 CEST
+  * **Impact:** temporary slower access to selected scratch paths
+  * **Scope:** metadata services for scratch storage
+
+===== Where to follow current incidents =====
+  * [[https://metavo.metacentrum.cz/en/outages/|MetaVO outages]]
+  * [[https://www.metacentrum.cz/en/news/index.jsp|MetaCentrum news]]

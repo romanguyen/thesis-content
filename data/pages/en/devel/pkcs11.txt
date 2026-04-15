@@ -1,0 +1,18 @@
+====== Pkcs11 ======
+
+The grid-pkcs11 package contains a set of PKCS11 modules that allows you to integrate access to Grid credentials with common desktop applications, like web browser or mail clients.
+
+* [[https://www.metacentrum.cz/downloads/grid-pkcs11-1.0.tar.gz|grid-pkcs11-1.0]] ([[https://www.metacentrum.cz/downloads/grid-pkcs11-1.0.tar.gz.asc|sig]])
+
+If you're interested in the development of the modules, please check the appropriate [[https://github.com/kouril/grid-pkcs11|GitHub repository]].
+
+===== IGTF Anchors =====
+This module provides access to certificates of CAs stored on the local filesystem. It tries to load files from default location (/etc/grid-security/certificates) and make them available to the application. The X509_CERT_DIR environment variable can be used to specify an alternative location of the certificates.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/igtf-anchors.png|igtf-anchors}}
+
+===== X.509 Proxy module =====
+The proxy module interfaces the user's X.509 proxy certificate stored on the local filesystem. Using this module it is possible to get your grid credentials to any PKCS11-enabled application. The proxy is expected to reside in the default location unless the X509_USER_PROXY is given.
+
+===== MyProxy module =====
+The myproxy module makes it possible to access credentials in a remote repository from PKCS11-enabled application. It requires the MYPROXY_SERVER and LOGNAME variables to be set as per the MyProxy documentation.

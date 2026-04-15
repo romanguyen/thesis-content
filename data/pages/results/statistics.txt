@@ -1,0 +1,11 @@
+====== Statistics ======
+Usage statistics and metrics for MetaCentrum infrastructure.
+
+===== Resource Utilization =====
+Statistics on CPU, GPU, and storage utilization across the infrastructure.
+
+===== User Statistics =====
+Number of active users, projects, and institutions using MetaCentrum.
+
+===== Job Statistics =====
+Statistics on job submissions, wait times, and resource allocation.

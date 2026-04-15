@@ -1,0 +1,7 @@
+====== International Projects ======
+International projects and collaborations that MetaCentrum participates in.
+
+  * [[https://www.egi.eu|EGI (European Grid Initiative)]] - Pan-European e-infrastructure for research computing, providing advanced computing services.
+  * [[https://eosc.eu|EOSC (European Open Science Cloud)]] - European initiative for open science, FAIR data, and research services.
+  * [[https://www.geant.org|GEANT]] - Pan-European research and education network connecting NRENs.
+  * [[https://prace-ri.eu|PRACE]] - Partnership for Advanced Computing in Europe providing HPC resources.

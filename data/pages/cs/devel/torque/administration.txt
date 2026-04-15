@@ -1,0 +1,11 @@
+====== Administration ======
+
+===== Environment injection =====
+One of the issues we run into with Torque was the need to have machine specific job environment. This would be very impractical to implement into Torque itself, therefore we added generic environment injection using a simple bash script that prints pairs of lines representing environment variable name and value.
+Creating machine specific job environment is now a simple task of changing this script.
+
+===== Admin jobs =====
+Monitoring a batch system is a problematic task. While computational nodes may seem fully functional when tested externally, they still can refuse or crash jobs submitted through the batch system.
+To monitor the batch system from the inside, we implemented a new notion of admin jobs. Each node has a configurable admin slot which can serve one admin job while ignoring all resource semantics normally associated with jobs.
+Admin jobs of course need to be very simple, otherwise they would interfere with normal job operations, but for monitoring purposes this is not a limitation.
+This tied with the Nagios monitoring system provides real-time insight into the current state of the batch system and provides quick detection of any misbehaving nodes.

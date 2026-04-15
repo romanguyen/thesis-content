@@ -1,0 +1,44 @@
+====== Plan-Based-Scheduler ======
+
+===== Úvod =====
+V rámci výzkumu a rozvíjení dizertační práce dr. Klusáčka ([[mailto:klusacek(at)cesnet.cz|klusacek(at)cesnet.cz]]) vznikl za podpory CESNETu unikátní rozvrhový plánovač úloh kompatibilní s prostředím TORQUE resource manager, které se využívá v MetaCentru a CERIT-SC ([[http://www.cerit-sc.cz|www.cerit-sc.cz]]).
+
+Namísto front si plánovač tvoří tzv. rozvrh úloh do kterého vkládá každou nově příchozí úlohu. Díky tomu pak lze předpovídat dobu spouštění každé úlohy. Navíc lze takovýto plán vyhodnocovat a optimalizovat pomocí zabudované optimalizační metaheuristiky.
+
+V současnosti je popisovaný plánovač produkčně nasazen v prostředí CERIT-SC ([[http://www.cerit-sc.cz/]]), kde úspěšně funguje od července 2014.
+
+===== Design =====
+{{https://www.metacentrum.cz/export/sites/metacentrum/en/devel/plan-based-scheduler/plan.png|design}}
+
+Nově navržený plánovač je implementován jako samostatný pbs_sched modul v jinak nezměněném TORQUE resource manageru.
+
+Díky tomu lze "za běhu" přepínat z klasického frontového plánovače na nově vyvinutý rozvrhový plánovač, což umožňuje (v případě nutnosti) relativně bezproblémově překlenout dobu např. aktualizací nebo upgradu.
+
+Přiložené schéma ukazuje hlavní nové celky plánovače, tj.:** rozvrh úloh**, aktualizační rutiny,** optimalizační algoritmus** a nová uživatelská rozhraní.
+
+===== Plánovací algoritmy =====
+Plánovač vytváří iniciální rozvrhy podle tzv. algoritmu konzervativního backfillingu, tj. pomocí zaplňování existujích "děr" v rozvrhu, čímž optimalizuje vytížení strojů.
+
+Takto vytvořený rozvrh je pak periodicky optimalizován pomocí metaheuristiky s cílem vylepšení** férovosti, doby čekání a slowdownu**.
+
+===== Uživatelská rozhraní =====
+{{https://www.metacentrum.cz/export/sites/metacentrum/en/devel/plan-based-scheduler/screenshot3.png|GUI}} [[https://www.metacentrum.cz/export/sites/metacentrum/en/devel/plan-based-scheduler/screenshot3.png]]
+
+Informace o hotovém rozrhu jsou uživatelům k dispozici buď pomocí standardního qstat příkazu anebo pomocí webové aplikace, která ukazuje běžící a naplánované úlohy podle momentálního stavu rozvrhu.
+
+Tao aplikace je plně integrována do standardního portálu [[http://metavo.metacentrum.cz/pbsmon2|PBSMon]], který je v MetaCentru využíván pro monitoring úloh.
+
+===== Vývojáři =====
+Hlavní architekt navrženého plánovače je dr. Dalibor Klusáček, autor původního návrhu, který byl obhájen coby dizertační práce. Hlavní vývojář je Václav Chlumský. Konzultace poskytuje doc. Hana Rudová.
+
+===== Nasazení =====
+Rozvrhový plánovač je** operačně nasazen v CERIT-SC**, kde od července 2014 úspěšně nahradil dosavadní frontové řešení. Plánovač umožnil lepší využití zdrojů a zvýšil tak propustnost celého systému ([[http://www.cerit-sc.cz/]]).
+
+===== Download =====
+Zdrojové kódy jsou k dispozici na: [[https://github.com/CESNET/TorquePlanSched]]**
+**
+
+===== Reference =====
+* KLUSÁČEK, Dalibor, Václav CHLUMSKÝ a Hana RUDOVÁ. Planning and optimization in TORQUE resource manager. In** Proceedings of the 24th ACM International Symposium on High Performance Distributed Computing**. New York, NY, USA: ACM, 2015.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda,//The extension of TORQUE scheduler allowing the use of planning and optimization in Grids.//** Computer Science**, 13 (2). pp. 5-19. ISSN 1508-2806, 2012.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda.//Planning, Predictability and Optimization within the TORQUE Scheduler//. In Antonín Kučera, Thomas Henzinger, Jaroslav Nešetřil, Tomáš Vojnar, David Antoš.** MEMICS 2012**. první. Brno: Novpress s.r.o., 2012.

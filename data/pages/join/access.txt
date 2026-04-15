@@ -1,0 +1,11 @@
+====== Access Methods ======
+Different methods for accessing MetaCentrum computing resources.
+
+===== SSH Access =====
+Connect to frontend nodes using SSH with your MetaCentrum credentials.
+
+===== Web Portal =====
+Access resources through the MetaCentrum web portal interface.
+
+===== Grid Certificates =====
+Use personal certificates for grid service authentication.

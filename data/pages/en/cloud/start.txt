@@ -1,0 +1,34 @@
+====== Cloud ======
+
+MetaCloud is a computing (HPC) cloud built using OpenNebula. Pilot cloud installation was prepared by MetaCentrum (CESNET) and [[https://www.cerit-sc.cz/cs/|CERIT-SC]]. MetaCloud is similar to e.g. Amazon Elastic Compute Cloud (EC2) or Google Compute Engine. MetaCloud is partially compatible with Amazon EC2.
+
+==== {{https://www.metacentrum.cz/export/sites/metacentrum/images/ceritsc.png_1995693183.png|ceritsc}} ====
+==== Enjoy advantages of MetaCloud: ====
+* Scalability - create virtual machines fully matching your needs.
+* Accessibility - use the user-friendly Open Nebula web interface to manage your virtual machines.
+* Flexibility - enjoy freedom in virtual machine management. Your virtual machine is fully in your hands. Install what you want and when you want, but always mind: with great power comes great responsibility.
+* Quick deployment - deploy your virtual machine in couple of seconds.
+* Storage on demand - store your data in your virtual machine (shared storage, Amazon S3 API, GridFTP) .
+* Free for academic use - any member of any academic institution in the Czech Republic gets an access to MetaCloud.
+
+MetaCloud interface allows you to obtain and configure virtual machines from various images (yours or MetaCentrum's), including images compatible with Amazon EC2. Moreover, MetaCloud offers ready-to-use templates and images with standard Linux OS. OS Microsoft Windows has limited use due to license conditions.
+
+==== Start now! ====
+* [[en:vo:metavo|Get an MetaCentrum account.]]
+* [[https://perun.metacentrum.cz/fed/registrar/?vo=meta&group=metacloud|Apply for a membership in MetaCloud.]]
+* Manage your Virtual machine in [[https://cloud.metacentrum.cz/|web interface]].
+
+==== Questions? ====
+[[https://wiki.metacentrum.cz/wiki/Kategorie:Clouds|See MetaCloud wiki tutorials.]]
+
+OR
+
+* Ask us on** cloud@metacentrum.cz** All the correspondence received in that e-mail addresses is recorded in RT (Request Tracker – request tracker) system, which creates a ticket and assigns an Id number to it.
+
+==== MetaCloud hardware resources: ====
+[[https://www.metacentrum.cz/cs/cloud/pbsmon_cloud|View current sizing and usage of MetaCloud resources.]]
+
+More resources will be provided on demand.
+
+More information and documentation can be found at wiki.
+[[http://meta.cesnet.cz/wiki/Kategorie:Clouds]]

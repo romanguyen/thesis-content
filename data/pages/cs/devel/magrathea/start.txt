@@ -1,0 +1,23 @@
+====== Magrathea ======
+
+Systém Magrathea představuje rozšíření plánovače, v němž je soustředěna "znalost" o virtuálním prostředí. Magrathea je nezávislá na konkrétním plánovači (v prostředí MetaCentra spolupracuje s PBSPro a Torque) a skrývá před ním virtualizované prostředí. Jakmile plánovač naplánuje úlohu v jednom z virtuálních počítačů, Magrathea zajistí, že na ostatní virtuální počítače stejného uzlu nebudou po dobu běhu aplikace posílány jiné úlohy.
+
+Tento jednoduchý scénář sdílení infrastruktury umožňuje prioritizaci úloh. V případě, že na uzlu již běží výpočet a přijde požadavek s vyšší prioritou, Magrathea může virtuálnímu počítači odebrat většinu zdrojů (CPU, paměť) a uvolnit tak výpočetní kapacitu uzlu pro prioritní úlohu, která bude spuštěna v jiném virtuálním stroji. Odebrání CPU je přitom na úrovni VMM v podstatě triviální operací. Dochází tak k preempci původní úlohy, která přitom není úplně pozastavena, což výrazně snižuje riziko zhroucení úlohy (což je bohužel relativně častý případ, pokud se snažíme pouze pozastavit aplikaci pomocí signálu suspend) a přitom garantuje, že neexistuje nějaký "zapomenutý" proces, který by nové prioritní úloze odebíral část zdrojů. Podrobnosti o systému Magrathea je možné najít v [[http://wwwtest.metacentrum.cz/cs/downloads/results/index.html|publikacích MetaCentra.]]
+
+Od situace s jedním plně aktivním a druhým preemptnutým virtuálním počítačem je již relativně krátká cesta k uzlům, na nichž běží více virtuálních počítačů s aktivními aplikacemi současně. V takovém případě Magrathea musí zajistit, že celkový počet spuštěných aplikací není vyšší než počet jader (resp. není vyšší než by spustil plánovač na původním fyzickém uzlu). Ve virtuálním prostředí lze přitom nabízet jedno, dvou i vícejaderné virtuální počítače, Magrathea musí proto korektně ošetřit i takové případy.
+
+Magrathea podporuje i situaci, kdy uživatel využívá gridové prostředí pro nabídku služeb. V takovém případě aplikace většinu času pouze čeká na požadavky, po jejich příchodu však musí být schopna na ně rychle reagovat (není tedy možné teprve s příchodem požadavku plánovat a spouštět úlohu). Magrathea podporuje i tzv. frozen stav, kdy virtuální počítač s aplikací "spí" (má odstraněn procesor, ale je trvale přítomen) a umí jej velmi rychle "probudit" pro příchodu konkrétního požadavku.
+
+===== Architektura =====
+Magrathea se skládá ze tří hlavních komponent:
+
+* master daemon reprezentující fyzické stroje,
+* slave daemon běžící v každém virtuálním stroji,
+* status cache uchovávající informaci o stavu běžících virtuálních strojů na clusteru.
+
+{{http://wwwtest.metacentrum.cz/export/sites/metacentrum2/cs/metacentrum/ngi/devel/architecture.png|Magrathea architecture}}
+
+Další informace o systému Magrathea najdete v [[http://archiv.cesnet.cz/doc/techzpravy/2007/metacenter-virtualising-using-magrathea/|technické zprávě CESNETu 25/2007]].
+
+===== Zdrojový kód =====
+Zdrojový kód k systému Magrathea je dostupný společně s dokumentací v sekci "magrathea" v METACentrum CVS.

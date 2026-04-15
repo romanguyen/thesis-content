@@ -1,0 +1,144 @@
+====== Notification ======
+
+===== Notifikační služba v systému Perun =====
+==== Notifikované události ====
+* přijetí přihlášky (akceptace sekretářkou) –//notifikace administrátorovi buňky//
+* žádost o nové/další úcty, prodloužení účtu –//notifikace administrátorovi stroje/clusteru//
+* vytvoření/prodloužení účtů (skutečné vytvoření úctů na cílových strojích) –//notifikace uživateli//
+* zrušení prihlášky (zrušení sekretářkou např. v případě duplicitní žádosti) –//notifikace uživateli//
+* zamítnutí účtů (zrušení např. v případě duplicitní žádosti, nebo požadavku na stroje určené k jinému účelu) –//notifikace uživateli//
+* zrušení adresáře na stroji –//notifikace administrátorovi stroje/clusteru//
+* ukončení služby s chybou –//notifikace administrátorovi stroje/clusteru/buňky/realmu//
+
+Výhledově plánujeme:
+
+* přijetí nového projektu –//notifikace hlavnímu řešiteli//
+* přidání člena do projektu –//notifikace hlavnímu řešiteli//
+* změna quoty –//notifikace uživateli//
+* expirace účtu –//notifikace uživateli (s předstihem)//
+
+==== Obecné řešení ====
+=== Plánování ===
+Pro vytvoření notifikační služby bylo zvoleno řešení, které se do určité míry podobá funkcionalitě služeb v systému Perun. To značí, že jednotlivé notifikace jsou převážně startovány nějakou událostí v datových tabulkách systému Perun.
+
+Notifikace jsou plánovány k provedení plánovacími skripty, vytvořenými zpravidla speciálně pro každý jednotlivý typ notifikace.
+
+Pro některé notifikace ale nejsou změny v aplikačních tabulkách dostačující událostí k jejich spuštení. Například vytvoření účtu na stroji lze považovat za ukončené teprve až je úspešně provedena služba//passwd//. Z toho důvodu bylo potřeba u některých notifikací ješte definovat sadu podmínek, které musí být splněny, aby mohla notifikace proběhnout.
+
+Cílem notifikací je podle jejich typu buďto uživatel, nebo administrátor objektu, jehož stav je notifikován, eventuelně skupina uživatelů/administrátorů. Jestliže existuje více administrátorů, jimž má být notifikovaná informace předána, stanoví se jako cíl notifikace
+skupina emailových adres, sdružená adresa (později URL pro RT systém).
+
+//** Poznámka**//: Pokud některý ze členů METACentra pociťuje potřebu být informován o nějaké notifikované události směřované k administrátorům, stačí požádat některého ze správců systému, aby byl přidán do množiny administrátorů pro daný objekt.
+
+=== Spouštění notifikací ===
+Spouštění notifikací zajišťuje notifikační démon, který v pravidelných intervalech zjišťuje, zda jsou naplánovány nějaké aktuální notifikace ke spuštení. Pokud ano, odstartuje tento démon pro každý typ notifikace specifický notifikační skript. Dokud neobdrží informaci o jeho ukončení, neodstartuje notifikační skript stejného typu. Tím je vyloučeno, aby se dvě různé instance téhož notifikačního skriptu obracely ke stejným datům.
+
+=== Notifikační skripty ===
+Samotné provádění notifikací je svěřeno tzv. notifikačním skriptům, které podle druhu notifikace otestují existenci a splnění dodatečných podmínek a vytvoří a odešlou agregované emaily pro cílové osoby (skupiny osob).
+
+Notifikační skripty vždy zpracovávají všechny aktuálně naplánované notifikace a postupně vytvářejí emaily pro všechny cílové osoby a skupiny osob.
+
+Notifikační skripty obsahují specifickou logiku pro vytvoření typické formy emailu a pro způsob, jakým mají být notifikované údaje agregovány.
+
+Dále mohou obsahovat zvláštní algoritmy pro vyhodnocení dodatečných podmínek (případně časových údajů), tedy pro to, kdy lze připojený soubor podmínek jako celek prohlásit za akceptovatelný a spustit vlastní vytváření emailů. Některé tyto algoritmy se řídí parametry, které byly v počáteční fázi nasazení notifikační služby nastaveny tak, aby notifikace nepřicházely ani příliš casto, zahrnujíce pouze část aktivit, ani aby nebyly příliš zdržovány ocekáváním dalších aktivit, které by měly být notifikovány. Tyto parametry (dále v textu konstanty označené Kx) mohou být kdykoliv nastaveny jinak, pokud by z provozního využívání vzešel požadavek na jejich změnu.
+
+Notifikace, podobně jako služby, mají konfigurační tabulku, která nastavuje, zda je dotyčný typ notifikace aktivní, jméno notifikačního skriptu a některé další parametry.
+
+Touto formou bylo dosaženo jak snadného ladění jednotlivých notifikačních skriptů, tak jejich budoucí jednoduché výměny za skripty, komunikující s RT systémem, jehož nasazení pro notifikační službu se plánuje.
+
+Po odeslání emailů se považuje notifikace za vyřízenou.
+
+==== Realizace ====
+=== Přijetí přihlášky ===
+Po akceptování přihlášky sekretářkou je naplánována notifikace pro administrátora/skupinu administrátorů buňky s aktuálním časem pro provádění. Bez dodatečných podmínek.
+
+Notifikační skript vytvoří z naplánovaných notifikací pro každého administrátora/skupinu administrátorů buňky email, který obsahuje informaci o všech nově akceptovaných přihláškách v této buňce, resp. ve všech buňkách spravovaných stejnou cílovou osobou či skupinou osob.
+
+Protože lze předpokládat, že pověřená osoba (sekretářka/administrátor), která právě akceptovala jednu prihlášku, se bude této činnosti ještě po nějakou dobu věnovat, dá se ocekávat brzký vznik dalších požadavků na notifikaci. Z tohoto důvodu bylo potřeba do
+notifikačního skriptu zapracovat vhodnou strategii, jak na takové budoucí požadavky čekat a zahrnout je do jedné notifikace.
+
+Tato strategie vypadá přibližně takto:
+
+— zjistí se, zda doba, která uběhla od posledního zápisu do notifikační tabulky pro zkoumanou notifikaci je delší, než určitá konstanta (K1=1 hodina). Pokud ano, budeme předpokládat, že pověřená osoba skončila práci s prihláškami a přistoupíme k vytvoření a odeslání notifikací.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/notif_scheme1.jpg|image}}
+
+— Pokud je doba od posledního zápisu kratší, otestujeme ješte čas, který uběhl od prvního zápisu. Je-li tento čas delší, než další konstanta (K2=1 den), rozhodneme se zpracovat všechny záznamy starší, než aktuální čas minus třetí konstanta (K3=2 hodiny). Nezpracované zápisy přeplánujeme na pozdější dobu (dáno konfigurační tabulkou).
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/notif_scheme2.jpg|image}}
+
+— Jestliže doba od prvního zápisu není delší než K2, přeplánujeme všechny zápisy na pozdější dobu (dáno konfigurační tabulkou) a provedení notifikací tak odložíme.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/notif_scheme3.jpg|image}}
+
+Po vytvoření notifikační skript připravené emaily odešle adresátům.
+
+=== Žádost o nové účty/prodloužení účtu ===
+Notifikace je naplánována, vznikne-li akceptovaný požadavek na vytvoření či prodloužení účtu. To značí, že přihláška uživatele, včetně žádosti o zřízení účtů je zpracována sekretářkou resp. administrátorem, nebo dříve přijatý uživatel žádá o další účty (či prodloužení).
+
+Cílovou osobou notifikace je administrátor stroje/clusteru resp. skupina administrátorů. Čas pro provedení notifikace je posunut o konstantu, danou v konfigurační tabulce. Tento posun je zadán pro případ, že administrátor současně s přihláškou odkliká i založení účtů.
+
+Díky výše zmíněnému časovému posunu notifikační skript nejprve testuje, zda požadované účty nejsou již založeny. V tom případě nemá smysl upozorňovat ještě administrátora na vzniklý požadavek, neboť už je splněn.
+
+V opačném případě notifikační skript vytvoří z naplánovaných notifikací pro každého administrátora/skupinu administrátorů buňky email, který obsahuje informaci o všech požadavcích na účty na všech strojích a clusterech, které jsou pod administrací téhož administrátora
+resp. skupiny administrátorů.
+
+Stejně jako u přihlášek lze předpokládat, že se pověřená osoba bude ještě po nějakou dobu věnovat účtům, dá se tudíž očekávat brzký vznik dalších požadavků na notifikaci. Použitá strategie pro odesílání notifikací je tedy stejná, jako u notifikování přihlášek.
+
+Po vytvoření notifikační skript odešle připravené emaily adresátům.
+
+=== Vytvoření/prodloužení účtů ===
+Cílem této notifikace je uživatel, požadující účet.
+
+Notifikace je naplánována v okamžiku vytvoření účtů v datech systému Perun. Její vlastní provedení však musí počkat na skutečné založení požadovaných účtů, tj. na úspěšné ukončení služby//passwd//. Tento požadavek je tedy zaveden jako dodatečná podmínka.
+
+Pro homogenní clustery je notifikačním skriptem vyhodnocováno, na kterých uzlech clusteru již byly účty úspěšně založeny.
+
+Pokud je služba//passwd//, případně celá série//pwd_send//na clusteru, provedena úspěšně, notifikace může být okamžitě provedena.
+
+Pokud ale při provádění výše zmíněných služeb došlo k chybě, lze předpokládat, že příslušný administrátor (kterému se notifikuje havárie služby) provede kroky k nápravě a nové vypropagování služby. V tom případě je žádoucí přeplánovat provedení této notifikace na pozdější dobu a odeslání emailů tak pozdržet. Takové odkládání však musí mít nějaký konečný časový horizont (K4=4 hodiny), po kterém je nezbytné notifikovat uživateli případný neúspěch. Konstanta K4 je dána dobou, za kterou je možné provést dvojí vypropagování služby až ke konečnému chybovému stavu.
+
+Uživateli je tedy poslán email s informací, že jeho požadované účty byly založeny, případně též může obsahovat seznam účtů, které se založit nepodařilo.
+
+=== Zrušení přihlášky ===
+Zrušení přihlášky provede sekretářka nebo příslušný administrátor například v případě, když uživatel, podávající přihlášku, již v systému Perun existuje.
+
+Portálový program, umožňující pověřené osobě zrušení přihlášky, je upraven tak, aby tato byla nejprve povinna uvést důvod zrušení.
+
+Cílem notifikace je vlastník přihlášky.
+
+Notifikace je naplánována na aktuální cas, bez dodatečných podmínek.
+
+Protože nelze očekávat, že by docházelo k nějakému hromadnému rušení přihlášek téhož uživatele, může být notifikace provedena okamžitě. Notifikační skript tedy vytvoří email pro vlastníka přihlášky s informací o zrušení prihlášky (případně přihlášek) a důvodu zrušení.
+
+=== Zamítnutí účtu ===
+K zamítnutí účtu může dojít např. v případě duplicitní žádosti či žádosti o účet, vyhrazený pro určitou odlišnou skupinu uživatelů atp.
+
+Portálový program, umožňující administrátorovi zamítnutí účtu, je upraven tak, aby administrátor byl vždy povinen uvést důvod zrušení.
+
+Cílem notifikace je uživatel, požadující účet (případně jeho prodloužení). Notifikace je naplánována (podobně jako žádost o účty) na čas, posunutý o konstantu danou konfigurační tabulkou. Tím se zabezpečí současné odeslání notifikace v případě zamítnutí několika účtů
+najednou. Bez dodatečných podmínek.
+
+Hromadné zamítání účtů se rovněž nepředpokládá, proto může notifikační skript v naplánovaném čase vytvořit agregovaný email pro uživatele, požadujícího účet, s informací o zamítnutí účtu (účtů) a jeho důvodech.
+
+=== Zrušení adresáře na stroji ===
+Cílovou osobou je administrátor (případně skupina administrátorů) stroje/clusteru, kde se adresář nachází. Jako čas provedení je stanoven aktuální čas. Bez dodatečných podmínek.
+
+Ani hromadné rušení účtů nelze příliš očekávat, snad pouze v případě rušení expirovaných účtů. Pro tyto účely postačí vhodně nastavit konstantu pro naplánování notifikace a tak provedení všech notifikací pozdržet do doby, kdy lze předpokládat, že hromadná akce
+bude již ukončena.
+
+Notifikační skript vytvoří a odešle email obsahující informaci o všech rušených adresářích pro všechny cílové osoby.
+
+=== Ukončení služby s chybou ===
+Osobou, které je tato notifikace určena, je administrátor (případně skupina administrátorů) cíle zhavarované služby, tedy administrátor stroje/clusteru/realmu/bunky.
+
+Čas provedení notifikace - ihned, žádné dodatečné podmínky.
+
+Notifikační skript vytvoří a odešle email obsahující informaci o všech chybně ukončených službách, obsahující též chybové zprávy při jejich havárii.
+
+Poněkud odlišně se postupuje při notifikování chyby na jednotlivých uzlech homogenního clusteru. Zde je žádoucí počkat na dokončení celé série služeb na všech uzlech a pak hromadně notifikovat všechny případné chyby.
+
+=== Administrátorský přístup k notifikacím ===
+Pro snadný administrátorský přístup k notifikacím bylo vytvořeno rozhraní:
+
+[[https://scb.ics.muni.cz/admin/perun/notif]]

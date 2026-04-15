@@ -1,0 +1,18 @@
+====== User Support ======
+Get help with MetaCentrum services and resources.
+
+===== 24/7 Hotline =====
+Call our support hotline for immediate assistance with critical issues.
+
+Phone: +420 234 680 222
+
+===== Email Support =====
+Send us an email for non-urgent questions and detailed inquiries.
+
+Email: support@cesnet.cz
+
+===== Documentation =====
+Browse our comprehensive documentation and FAQ for self-service help.
+
+===== Ticket System =====
+Submit a support ticket for tracking and follow-up on your requests.

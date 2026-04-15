@@ -1,0 +1,240 @@
+====== Nazory ======
+
+==== Rok 2017/2018 ====
+** Jan Boháček,VUT** Vsechno funguje, jak ma! Bezvadna spoluprace, dekuji mooc! Kudy chodim, vsude vas chvalim :-)** Ondřej Kroutil, JČU** Přeji si, aby se už všichni vybodli na těžbu bitcoinů a nám výpočtářům zase zlevnily grafické karty... Jinak Metacentrum funguje perfektně.** Adam Krejčí, MU
+** Chtěl bych poděkovat MetaCentru za přízeň a vyjádřit obdiv k celkové stabilitě systému a nízké četnosti výpadků.** Martin Culka, UOCHB** Děkuji metacentru za poskytování skvělé výpočetní platformy pro můj/náš biochemický výzkum.** Petr Jeřábek, UK** Děkuji za možnost využívat zdroje MetaCentra, za neustálé vylepšování HW i SW vybavení a také za veškerou pomoc při řešení občasných problémů.** Milan Voršilák, ČVUT** Rád bych poděkoval celému týmu MetaCentra za poskytnuté prostředky a služby, bez kterých by náš výzkum nebyl v tomto rozsahu možný.** Bohuslav Janoušek, IBP CAS** We would like to thank the MetaCentrum staff for an excellent collaboration and help in the last year.** Petr Fišer, ČVUT** Srdečně děkuji MetaCentru za umožnění experimentů, bez něj by výzkum trval neúměrně dlouho a nebylo by možné získat statisticky věrohodná data. Velice děkuji pracovníkům uživatelské podpory za vstřícnost a velice cenné rady.** Peter Macejko, ČVUT** Bez Vas by to bylo vyrazne tezsi, diky :-)** Martin Kabeláč, JČU** Děkuji Metacentru za velkou ochotu a rychlost řešit případné problémy a uživatelský komfort při počítaní.** Nikola Koutná, MU** Velice děkuji za všechny poskytnuté zdroje a vynikající technickou podporu!** Josef Melcr, UK** Dekuji za poskytnute zdroje, jejich dostupnost mi umoznila posunovat moji praci rychleji a plynuleji.** Matúš Nemec, MU** Metacentrum je pre nas neocenitelnym nastrojom :)** Stanislav Luňák, VUT** Se službami MetaCentra jsem bez výhrad spokojen a děkuji všem, kteří ho zabezpečují.** Václav Štěpán, UJF CAS** Děkujeme za poskytnutí prostředků – umožňuje nám to více se soustředit na vlastní práci a méně na informatiku.** Iveta Tichá, UK** Děkuji Metacentru za optimálně rychlé spouštění simulací. :)** Jana Pazúriková, MU** I would like to thank Metacentrum operators for their excellent work and willingness to solve basically any problems and answer even stupid questions.
+==== Rok 2016/2017 ====
+Nejnovější vybrané názory uživatelů zaslané většinou s výroční zprávou za rok 2016 ...//moc všem děkujeme za slova díků//
+
+** Petr Fišer, ČVUT** Srdečně děkuji MetaCentru za umožnění experimentů, bez něj by výzkum trval neúměrně dlouho a nebylo by možné získat statisticky věrohodná data. Velice děkuji pracovníkům uživatelské podpory za vstřícnost a velice cenné rady.** Radim Čegan, Biofyzikální ústav AV ČR** Mockrát Vám děkuji za veškerou Vaši pomoc v případě řešení jakýchkoli problémů a nových instalací. Díky Vám je naše práce více produktivní.** Pavlína Lipovská, VŠCHT** Velice si cením možnosti bezplatně využívat výpočetní klastry a paměťové kapacity MetaCentra, pro náročné výpočty v rámci magisterského a doktorského studia je to nedocenitelný pomocník.** Lubomír Piálek, Jihočeská univerzita** Jen velká slova chvály, každá prosba či požadavek byla okamžitě vyřešena. Mnohokrát děkuji za spolupráci** Filip Moučka, UJEP** Děkuji METACENTRu za poskytnutí výpočetních prostředků nezbytných pro moji vědeckou ráci. V roce 2016 veškeré mnou využívané prostředky METACENTRa pracovaly bezchybně.** Vojta Vonášek, FEL ČVUT** Před službami MetaCentra smekám, myslím, že zvládat tak rozsáhlý systém musí byt dost náročné. Jsem velmi rád, že něco takového v Čechách máme - moji kolegové ze zahraničí nám tiše závidí.** Veronika Balounová**, Institute of Molecular Genetics of the ASCR, v. v. i. Pracovníkům Metacentra patří náš velký dík za jejich práci a ochotu, se kterou nám vždy vycházejí vstříc.** Tomas Komarek**, FEL ČVUT Metacentrum je perfektní služba. Díky za ni! Jen by se mi hodilo, kdyby šlo alokovat 128GB RAM paměti pro virtuální stroj v cloud.metacentrum.cz.** Nikola Koutná**, Masarykova univerzita Poděkování a pochvala za vynikající technickou podporu, okamžité odepisování na maily a rychlé vyřešení problémů. Pěkné a přehledné zobrazování stavu úloh, výborná dokumentace.** Vojtěch Duchoslav**, Karlova univerzita Děkuji za veškerou podporu, díky které může metacentrum využívat i takový počítačový analfabet, jako jsem já.** Petr Kurfürst**, ÚTFA MU v Brně Chtěl bych zejména ocenit vynikající přístup operatorů na meta@cesnet.cz a jejich účinnou a rychlou pomoc při řešení problémů.** Jan Bitta**, VŠB - Technical University of Ostrava Není nic lepšího, než když všechno bez problémů funguje. Jako u vás. Jen tak dál.** Jan Blahut**, Karlova univerzita I would like to give a special thanks to helpful people from MetaCentrum help desk, who supported me very kindly during the year and especially during my scientific short mission in A Coruna, when they allocated more resources for me, to make my work much more effective.** Kateřina Luková**, VŠCHT Pro mou práci jsou výsledky kvantově-chemických výpočtů velice významné a chtěla bych tímto MetaCentru poděkovat za bezchybný provoz poskytovaných služeb.** Pavel Pokorný**, VŠCHT Dekuji pracovnikum Metacentra za jejich obetavou praci, kterou umoznuji uzivatelum pristup ke spickove vypocetni technice. Pokud bude zajem, mohu nabidnout konzultace ohledne pouziti software Mathematica pro zacatecniky i pro pokrocile uzivatele.** Jakub Benda**, Karlova univerzita Děkuji Metacentru a CERIT-SC za skvělé a stabilní prostředí pro věděckou činnost!** Petr Jeřábek**, Karlova univerzita Děkuji za možnost využívat zdroje MetaCentra, za neustálé vylepšování HW i SW vybavení a také za veškerou pomoc při řešení občasných problémů.** Veronika Bartáková**, Masarykova univerzita ÚBO MC mi práci značně urychluje, pouštět to všechno na svém nb byla bych ještě někde na začátku. Díky!** Růžena Janoutová**, VUT Brno The computation are used for estimation of vegetation parameters of forest sites and further analysis from satellite and airborne images. The cooperation with MetaCentrum operators was great and very helpfull. I would like to thank them.** Jana Pazúriková**, MU Brno Rada by som poďakovala za neustále rozvíjanie zdrojov (nové stroje, väčšie úložiská, nový PBS systém) a veľmi ochotnú a profesionálnu pomoc v prípade problémov.** Jan Pospíšil**, ZČU Jsem rád, že se Metacentrum u mě dostalo do kategorie "služba, na kterou se mohu vždy spolehnout" :)** Jan Benáček**, MU Brno Děkuji za možnost používat výpočetní možnost Metacentra, bez kterého bych neměl (nebudu mít) o co svůj výzkum opřít.
+==== Rok 2015/2016 ====
+Nejnovější vybrané názory uživatelů zaslané s výroční zprávou za rok 2015 ...//moc všem děkujeme za slova díků//
+
+** Helena Švihlová**, Matematický ústav MFF UK V ramci jednoho projektu jsme se dohodli na pouziti jejich protokolu, ktery zahrnuje zpracovani siti a vypocty pomoci programu Ansys. Ma cast spoluprace v Praze zahrnuje zpracovani vysledku a dale tvorbu siti program ICEM CFD. Nase skupina tento program nevlastni, proto ocenujeme moznost vyuziti sluzeb MetaCentra.** Martin Šícho**, Laboratoř informatiky a chemie VŠCHT Metacentrum se pro mne stalo za uplynulé dva roky skvělým pomocníkem a velice si vážím možnosti využití jeho zdrojů. Myslím si, že všichni, kdo se o infrastrukturu starají, odvádí skvělou práci :)** Petr Jeřábek**, Univerzita Karlova v Praze Děkuji za možnost využívat zdroje MetaCentra, za neustálé vylepšování HW i SW vybavení a také za veškerou pomoc při řešení občasných problémů.
+==== Rok 2014/2015 ====
+** Jakub Kreisinger**, Laboratoř pro Výzkum Biodiverzity, UK
+Velmi si cením toho, že mám možnost zdroje Metacentra při své práci využívat. Nezaznamenal jsem při práci žádné výraznější komplikace a chtěl bych tímto poděkovat všem kteří se na bezvadném chodu této infrastruktury podílí.** Jiří Šturala**, Ústav organické chemie VŠCHT Praha Velice si cením nového plánovače v prostředí CERIT-SC, které umožnuje efektivnější využití zdrojů a také zakoupení nových strojů UV s velkou pamětí a počtem CPU. Také mě velmi potěšila možnost využívat owncloud a filesender, které vědeckou práci velmi zpříjemňují.** Zuzana Křivánková,** Centrum dopravního výzkumu, v.v.i. MetaCentru patří velké díky za to, že tyto služby poskytuje, a jeho zaměstnanci jsou ochotní, vstřícní a problémy řeší v co nejkratším možném čase.** Jan Oppelt,** NCBR-CEITEC MU Jsem velice vděčný za možnost využití zdrojů MetaCentra. Zvláště stroje v velkou RAM pamětí jsou pro mě jinak nedostupné a bez nich bych nebyl schopen některé projekty vůbec začít.** Adam Konečný**, Ústav botaniky a zoologie PřF MU Jsem velmi rád, že Metacentrum existuje a umožňuje rychlé a rozsáhlé počítání, které je pro současný (nejen) základní zoologický výzkum nevyhnutelné a umožňuje tak, aby i naši vědci na našich vědecko-výzkumných institucích mohli moderně bádat v "západním" stylu. Oceňuji rovněž výborný poradenský servis a služby, kdy erudovaní správci Metacentra briskně komunikují s uživatelem!** Václav Martínek**, katedra biochemie, Přírodovědecká fakulta UK Děkuji za možnost využívat zdroje MetaCentra, za neustálé vylepšování HW i SW vybavení a také za veškerou pomoc při řešení občasných problémů. • Velmi pozitivně hodnotím možnost provádění paralelních výpočtů s využitím CUDA akcelerace. V tomto směru je nejefektivnější cluster Doom s modely Tesla K20, konkrétně jeho uzly zařazené ve frontě gpu_long. V případě rozšiřování kapacity, by výrazně vyšších výkonů mohly dosáhnout stroje s GPU Tesla K80 (GK210), které jsou také efektivnější z hlediska poměru výkon/spotřeba.** Michal Čáp,** FEL ČVUT Děkujeme celému týmu Metacentra a sponzorům za zpřístupnění této komfortní výpočetní infrastruktury. Umožňuje nám držet krok s výzkumníky v zahraničí.** Josef Melcr**, UOChB AVČR & Fyzikální ústav UK, MFF
+Děkuji za poskytnuté zdroje, jsou cenným doplňkem ke klastrům mé domovské skupiny. Možnost počítat v Metacentru jsem velmi ocenil letos v lednu, kdy došlo k havárii topení a naše klastry byly částečně zatopeny vodou. Přes újmu a starosti navíc jsem mohl v projektech pokračovat téměř hladce dál.** Václav Štěpán**,**** ÚJF AV ČR Služby MetaCentra jsou pro nás velmi cenné a díky nízkým administrativním bariérám nám úžasně zjednodušují zvlášť práci se studenty - mají kde počítat, zvládnou to používat a my se s nimi můžeme místo konfigurace MPI mezi pracovními stanicemi věnovat fyzice a chemii.** Daniela Toulcová,** Ústav biochemie a mikrobiologie, FPBT VŠCHT Spolupráce s Vámi výrazně urychluje mou vědeckou činnost a napomáhá získání dalších důležitých dat. Tímto bych Vám ráda poděkovala a budu doufat i v nadcházející spolupráci.** Ondřej Šalanda**, VUT FIT Děkuji MetaCentru za poskytnutí zdrojů, bez nich bych svůj výzkum pravděpodobně nemohl realizovat.** Milan Lazecky**, IT4Innovations při VŠB-TUO Mockrát děkuji za rychlé reakce v červenci 2014, kdy jsem CESNET použil pro školení radarové interferometrie. Na poslední chvíli jsem zjistil technické problémy, které jsem s pomocí HelpDesku Metacentra rychle vyřešil.** Martina Višňovská,** CEITEC MU Brno Velmi sa tesim komunikacii s ludmi z metacentra, doposial bola vzdy velmi rychla, vecna a napomocna, vdaka.** Karel Šindelka**, Katedra fyz. a makromolekulární chemie PFF UK Rád bych tuto příležitost využil i k poděkování za služby, bez kterých by můj výzkum byl mnohem složitější, a za velkou ochotu pracovníků MetaCentra při řešení problémů.** Vladislav Pokorný**, Fyzikální ústav AVČR, v.v.i Comments or suggestions From my point of view MetaCentrum is working as well as possible and I would like to thank the whole crew for quick responses to any issues and all their help during the last year.** Ondrej Klimo**, Katedra fyzikální elektroniky, FJFI, ČVUT (ELI) Se službami Metacentra jsem spokojen a jejich využívání doporučuji svým kolegům i studentům.** Václav Mareška**, Ústav biochemie a mikrobiologie, Vysoká škola chemicko-technologická v Praze Děkujeme Metacentru za jejcih včasnou informovanost a velmi dobrý servis.** Tomáš Jirsík**, KYPO ÚVT MU Práce v Metacentru byla pro mě bezproblémová a velmi nápomocná.** Stanislav Kuznetsov**, Computational Intelligence Group, FIT ČVUT Praha Dekuji moc za skvele odvedenou praci! Vzdycky jsem mel okamzitou odezvu a reseni ve velice kratkem case! Za sebe bych Vam chtel poprat hodne zdravy a uspechu v novem roce! Dekuji!** Rafael Doležal**, Centrum biomedicínského výzkumu při Fakultní nemocnici v Hradci Králové Je mi milým potěšením vyjádřit upřimné díky za služby, které MetaCentrum nabízí! Obrovský patří také pracovníkům MetaCentra za jejich ochotu při řešení různých technických problémů a obecně za lidsky příjemné jednání a veřejnou prezentaci MetaCentra. Moc děkuji a přeji vše nejlepší do nového roku!!!** Jan Jirsák**, KCH PŘF Univerzita Jana Evangelisty Purkyně v Ústí nad Labem Jako obvykle bezproblémová spolupráce a svižné řešení požadavků. Děkuji a doufám, že Metacentrum bude fungovat v tomto duchu i nadále.** Jana Pazúriková**, Laboratórium pokročilých sieťových technológií Fakulty Informatiky MU Chcela by som poďakovať nielen za poskytovanie výpočetných zdrojov a užitočných (licencovaných) aplikácií, ale hlavne za veľmi ochotný a ľudský prístup pri (aj trochu neštandardných) požiadavkách zasielaných na support.** Jiří Dušek**, CzechCOS/ICOS Centrum výzkumu globální změny Akademie Věd České Republiky, v.v.i. Děkuji za vstřícnost metacetrové podpory a přeji bezporuchový hardware a spokojené uživatele!** Ladislav Kalvoda**, Laborator Aplikovane fotoniky, Katedra IPL FJFI CVUT Chtěl bych touto cestou poděkovat Metacentru za možnost využívat jeho zdroje a naplňovat tak záměry našeho výzkumného programu. :)** Břetislav Šopík**, CEITEC skupina Prof. Humlíčka MU Jsem vděčný za množnost využívat zdroje MetaCentra a oceňuji dobrou práci, kterou její servisní tým odvádí.** Jan Červenka**, Department of Ecology Faculty of Science Charles University in Prague Chválím včasné reporty o výpadcích a úroveň uživatelské podpory.** Martin Ukrop**, Fakulta Informatiky MU Brno Chválim flexibilitu zo strany MetaCentra, ochotu pomôcť s realizáciou špecifických nárokov.** Martin Šícho**, Laboratoř informatiky a chemie VŠCHT Plánuji také pokračovat v PhD studiu, takže i tam určitě bude prostor pro využití Metacentra. S Metacentrem jsem velice spokojen. Je to pro mě ulehčení a zefektivnění práce v mnoha ohledech a jsem rád, že jsem měl možnost v tomto roce využívat jeho služby a rád bych jej stejným způsobem využíval i následující rok.** Jan Pšikal**, Fyzika laserového plazmatu (FJFI ČVUT) (ELI) Metacentrum se mi hodí pro část výpočtů a je vhodné pro výpočty studentů díky vhodné dokumentaci na wiki.metacetrum.cz, kterou považuji za nezbytnou součást Metacentra.** Vojtěch Zeisek**, Katedra botaniky Přírodovědecké fakulty Univerzity Karlovy v Praze a Botanický ústav Akademie věd ČR MetaCentru prakticky nemám co vytknout. Je to perfektně fungující systém s úžasnými zdroji. Jen tak dál! Děkuji!** Milan Zajíček**, Ústav teorie informace a automatizace Akademie Věd České Republiky, v.v.i.
+Dekuji vsem, diky kterym mohu na uvedenych projektech pracovat a srdecne zdravim.** Lada Biedermannova**, Laboratory of Biomolecular Recognition, Biotechnologický ústav Akademie věd České republiky, v. v. i. Děkuji za naprosto profesionální a přitom bezplatné služby. Jediná připomínka by snad mohla být na webové stránky, které by si zasloužily poněkud zpřehlednit. Jinak je vše perfektní.** Jozef Hritz**, CEITEC/NCBR MU Dakujeme spravcom MATACENTRA za vysoko profesionalny pristup a skvele odvadzanu pracu.** Petr Fišer**, Katedra číslicového návrhu, FIT ČVUT Srdečně děkuji MetaCentru za umožnění experimentů, bez něj by výzkum trval neúměrně dlouho a nebylo by možné získat statisticky věrohodná data. Velice děkuji pracovníkům uživatelské podpory za vstřícnost a velice cenné rady.
+
+==== Rok 2013/2014 ====
+//
+//** Lubomír Krčmář**, FEL ČVUT
+
+Bez Vás, Metacentra, bych nemohl dělat výzkum v oblasti zpracování přirozeného jazyka. Děkuji!
+
+** Kateřina Bartošková**, Ústav teoretické fyziky a astrofyziky, PřF MU
+
+Chtěla bych poděkovat členům administrátorského týmu Metacentra za podporu a vstřicnost k uživateli.
+
+** Vojtěch Spiwok**, Ustav biochemie a mikrobiologie, VŠCHT
+
+Děkujeme Metacentru, CERIT-SC a Cesnetu za poskytnuté prostředky, za okamžité řešení všech problémů a za trpělivost s námi.
+
+** Pavel Pokorný**, Ústav matematiky, VŠCHT
+
+Dekuji vsem pracovnikum Metacentra za dulezitou a uzitecnou praci, kterou pomahaji uzivatelum spickove vypocetni techniky.
+
+** Martin Plutinský**, Lékařská fakulta, UK
+
+Rovnako chcem poďakovať pracovníkom MetaCentra za udržovanie a starostlivosť o výpočtové prostredie.
+
+** Lukáš Pala**, Ústav geoniky AV ČR
+
+Chtěl bych poděkovat Metacentru za skvělý přístup i pravidelnou informovanost ohledně plánovaných údržb, nebo rozšiřování. Počítání je velmi příjemné.
+
+** Břetislav Šopík**, CEITEC
+
+Se službami poskytovanými MetaCentrem jsem naprosto spokojen, ať už po stránce nabízených zařízení tak i po stránce servisu a správy celého systému.
+
+** Vojtěch Létal**, Agent Technology Center, Katedra Počítačů ČVUT
+
+Obecně je podpora ze strany MetaCentra skvělá a nedokáži si představit, že bych v budoucnu při psaní své diplomové práce nevyužil vašich zdroů.
+
+** Jan Jirsák**, Katedra chemie PřF UJEP
+
+Děkuji zejména tech supportu Metacentra za opravdu expresní a kvalifikované řešení problémů. Rovněž oceňuji rychlost, s jakou se Metacentrum rozrůstá, a to jak hardwarově, tak softwarově. Jen tak dál!
+
+** Josef Melcr**, Fyzikální ústav, MFF UK & teoretická skupina prof. Pavla Jungwirtha, UOChB AVČR
+
+Především děkuji za možnost využít takto rozsáhlé zdroje. Velmi oceňuji variabilitu v zabírání výpočetních prostředků, které mi vůbec umožňují počítat úlohy s tak vysokou úrovní paralelizace. Velmi mi usnadňuje práci možnost připojovat si disky /storage/.. do svého lokálního stroje.
+
+** Vojtěch Vonásek**, FEL ČVUT
+
+Vzkazy Metacentru: diky diky diky! Zadávání úloh je jednoduché a technická podpora perfektní. Zatím jsem (ani moji kolegové) neměli problém, který by nešel vyřešit.
+
+** Petr Škoda**, MFF Karlova univerzita
+
+Rád bych poděkoval Metacentru za poskytnuté výpočetní prostředky, jenž umožnili realizovat výše uvedené cíle v krátké časové době. Pozitivní ohodnocení zcela jistě také patří vstřícné a profesionální uživatelské podpoře.
+
+** Rafael Doležal**, Centrum biomedicínského výzkumu při Fakultní nemocnici v Hradci Králové
+
+S fungováním MetaCentra jsem velmi spokojen. Velmi si vážím možnosti provádět výpočty v této organizaci a moc za to děkuji!
+
+** Tomáš Jeníček**, CTU ČVUT
+
+Oceňuji tuto iniciativu, která mi několikrát umožnila nárazově spočítat velké množství úloh za krátký čas, což mi umožnilo prozkoumat mnohem více metod pro optimalizaci, než kolik bych byl schopen za použití osobního počítače.
+
+** Lubomír Piálek**, Katedra zoologie Jihočeská univerzita
+
+Rád bych poděkoval Pavlu Fibichovi (PřF JU) za všemožnou pomoc s instalací a optimalizací programů a MetaCentru/CERIT za možnost provádět zde výpočty.
+
+** Jiří Šturala**, Ústav organické chemie, VŠCHT Praha
+
+Velice si vážím ochoty a rychlosti, s kterou lidé z Metacentra vyřizují mé problémy a připomínky, i když jsem si vědom, že často je to moje chyba, nebo nevědomost.
+
+** Filip Šebesta**, Karlova univerzita
+
+Zde bych chtěl také poděkovat MetaCentru za velmi rychlé řešení všech výpadků.
+
+** Ondřej Pelikán**, FIT VUT Brno
+
+Několikrát jsem využil i zdejší podporu a překvapila mě trpělivost a rychlost se kterou se problémy řeší. Za to bych chtěl velmi poděkovat. Protože když už jsem psychycky v koncích s projektem, alespoň mi ta podpora udělá radost :-). Celkově když jsem se zorientoval v adresářové struktuře, tak je radost zde provádět výpočty. Děkuji za vše.
+
+** Jan Valenta**, Ústav struktury a mechaniky hornin AV ČR
+
+Děkuji pracovníkům Metacentra za bezproblémový chod celé infrastruktury.
+
+** Xiu Wang**, KFMCh PrF UK
+
+I also would like to thank all the staffs of Meta Centrum for their good work and help.
+
+** Dominique Geffroy**, CEITEC
+
+I am very happy with the level of service, and think this is a highly valuable tool, which is a necessary complement to the computing resources provided by my host department.
+
+** Natallia Kulik**, Ústav systémové biologie a ekologie AV ČR
+
+Special thank I would like to address for Pavel Fibich from Ceske Budejovice. He recompiled Gaussian and Gromacs to make possible QM/MM calculation and also strongly supported me during preparation of run files for QM/MM. Thank you very much.
+
+** Vitaliy Viktorovich Chagovets**, Katedra analytické chemie, Univerzita Pardubice
+
+Thank you very much for the service and support and for the possibility to work with good equipment
+
+** Miloš Kozák**, KIV ZČU
+
+Já v současné době Cplex úlohy počítám jinde, nicméně se ptám s ohledem do budoucna, jelikož shledávám ovládání MetaCcentra asi nejlepší z toho kam mám přístup:
+
+* [[http://www.calculquebec.ca/en/resources/compute-servers/guillimin]]
+* [[http://www.calculquebec.ca/en/resources/compute-servers/mammouth|http://www.calculquebec.ca/en/resources/compute-servers/mammouth-parallele-ii]]
+* [[http://www.calculquebec.ca/en/resources/compute-servers/briaree]]
+
+takže jej používám nejradši. Dík Kozák :D
+
+==== Rok 2012 ====
+** Ing. M.S.M.E. Jiřím Jeništa, CSc.**, Ústav fyziky plazmatu AV ČR, v.v.i.
+
+Je skvělé, jak rychle v poslední době provádíte upgrade hardware i software v MetaCentru. Také vítám zpřístupnění počítačů CERIT-SC uživatelům MetaCentra.
+
+==== Rok 2008-2011 ====
+Dále uvádíme pro Vaši představu pár výňatků z výročních zpráv podaných uživateli MetaCentra popisující proč je pro ně výhodné řešit jejich výpočetně a datově náročné úlohy právě v MetaCentru.
+
+** RNDr. Václav Martínek Ph.D.,**** RNDr.**** Petr Jeřábek**** Ph.D.****, Univerzita Karlova**
+
+Děkuji za možnost využívat zdroje MetaCentra, za neustálé vylepšování HW i SW vybavení a také za veškerou pomoc při řešení občasných problémů. V letošním roce jsme využili možnost pilotního provozu paralelních výpočtů s využitím CUDA akcelerace na strojích konos1-10. Díky využití kombinace 12-ti CPU a 2 graf. karet s podporou CUDA, došlo k velmi výraznému (5 až 6-i násobnému) nárůstu rychlosti u některých typů MD výpočtů. Vzhledem k rostoucímu počtu aplikací podporujících CUDA a očekávanému významnému nárůstu výkonu u nové generace graf. karet s jádrem Kepler (28 nm) se tento druh akcelerace výpočtů zdá být velice perspektivní i v dalších letech.
+
+** Josef Melcr, MFF UK**
+
+Velice si vážím poskytnutých výpočetních zdrojů a úložiště, které mi značně usnadňuje práci.
+
+** RNDr. Michal Batko, Ph.D.**, člen projektu MUFIN
+
+MetaCentrum nám umožnilo otestovat a provozovat vyhledávácí systémy nad řádově většími objemy dat než je možné na běžných počítačích. Navíc jsme díky technické podpoře MC byli odstíněni od většiny problémů spojených s provozování hardware a s údržbou operačních systémů a mohli jsme se tak plně soustředit na vlastní výzkum a vývoj.
+
+Věříme však, že naše spolupráce byla přínosem i pro MetaCentrum. Kromě propagace MetaCentra (odkaz z demonstračních stránek s cca 100 unikátními přístupy denně, poděkování v řadě publikovaných článků) jsme pomáhali testovat některé z nových vlastností strojů MC jako je běh aplikací nad virtualizovaným HW nebo dlouhodobé přerušení a obnovení běhu.
+
+** Uživatel "gruber" (Martin Grůber)**:
+Služeb Metacentra jsem využíval pro potřeby syntézy řeči, která je velmi náročná na výpočetní systém. Díky Metacentru jsou provedené výpočty rychlejší a lze jich provádět několik najednou. I v příštím roce budu využívat těchto služeb stejným způsobem.
+
+** Uživatel "hanz" (Jan Čapek)**:
+Občas mi výrazně pomůže, když nemusím několik výpočtů trvajících třeba týden opakovaně počítat na stolním PC, ale mohu v tomto smyslu využít zdrojů METACentra.
+
+** Uživatel "krticka" (Jiří Krtička)**:
+V rámci MetaCentra používám přístup na datové úložiště, které využívám pro ukládání dat ze svých výpočtů a pro zálohování důležitých souborů.
+
+** Uživatel "psutka" (Josef Psutka)**:
+Se službami META centra jsem velmi spokojen.
+** Uživatel "moravka" (Štefan Morávka)**:
+Hlavní přínos projektu METACentra spatřuji ve sdílení výpočetní kapacity. Tím jsou stroje jednak využité (rentabilita investice vzroste) a jednak dostupné (např. pro uživatele potřebující výpočetní výkon nárazově a výkonný HW by si jinak nekoupili).
+
+** Uživatel "majerle" (Mitja Majerle)**:
+META CENTRUM enabled me to test several different computing platforms for the speed of MCNPX and FLUKA calculations. Based on these tests, our institute decided to invest money in buying the cluster of 64 Intel E5420 processors. At the installation of the operating system and tools for parallel computing I inspired myself at the META CENTRUM and with few exceptions (NFS instead of AFS, TORQUE instead of PBSPro) we have a similar, smaller, but very well working cluster.
+
+Česká verze: MetaCentrum mi umožňuje testovat několik rozdílných výpočetních platforem k zrychlení MCNPX a FLUKA výpočtů. Na základě těchto testů se náš institut rozhodl investovat peníze do koupě clusteru skládající se z 64 procesorů Intel E5420, Při instalaci operačního systému a nástrojů pro paralelní počítání jsem se inspiroval zařízením MetaCentra (pouze s několika výjimkami - NFS místo AFS, TOrQue místo PBSPro), takže máme podobný, sice menší ale velmi dobře pracující cluster.
+
+** Uživatel "msob" (Mojmír Šob)**:
+Rok 2008 pro nás byl publikačně velice plodný - máme řadu časopiseckých publikací, vesměs v uznávaných mezinárodních časopisech s vysokým impaktním faktorem. Velice nás všechny těší, že můžeme využívat počítače na Vašem Metacentru, a těšíme se na další spolupráci!
+
+** Některé uživatelské ohlasy z ankety, provedené v červnu 2008 (kvůli zachování anonymity ankety neuvádíme jména uživatelů)**
+
+Přesto, že MetaCentrum používám jen příležitostně, neboť mám možnost počítat i jinde, přijde mi velmi dobře spravované a vysoce funkční a spolehlivé. Dobrá práce, jen tak dál.
+
+Se službou MetaCentra jsem prozatím spokojen.
+
+Můžu říct ze jsem se nesetkal v souvislosti s využívánim MetaCentra s výraznějšími problémy. Za což děkuji.
+
+I když jsem díky MetaCentru zatím nedosáhl žádných publikovatelných výsledků, pokládám jej za vynikajícího pomocníka v mé vědecké práci.
+
+Bez využití MetaCentra by nebylo možno tuto část mé práce provádět. Samozřejmě, pokud neuvažuji velké investice.
+
+Bez výpočtů v MetaCentru by náš výzkum nebyl realizovatelný.
+
+No nemusím čekat než to spočítá můj počítač ;-)
+
+Podle mých dosavadních zkušeností je technická podpora MetaCentra rychlá, ochotná i trpělivá a tolerantní.
+
+Mám s reakcemi na dotazy (i z hlediska fundovanosti i rychlosti) nejlepší zkušenosti! Zejména bych vyzdvihl (omlouvám se ty na které jsem zapomněl) tyto: Miloš Mulač, Jan Kmuníček, Martin Kuba, Zdeněk Salvet
+
+(O zapojení se do MetaCentra): Potřeboval jsem desítky rad obsluhy MetaCentra než jsem byl schopen MetaCentra využívat. Buď je to hodně složité, nebo jsem hodně jednoduchý já. Pomoc lidí z MetaCentra NEOCENITELNÁ!!!
+
+==== Year 2009 ====
+The newest opinion sent by** RNDr. Michal Batko, Ph.D.**, member of MUFIN team
+
+MetaCentrum enables us test and run search engines above larger amount of data than is possible in ordinary PCs. Moreover through the technical support we do not need to solve problems with hardware functioning and with maintenance of operating systems, so we can fully concentrate on the our research and development.
+
+Also we trust, that our cooperation has contribution also for MetaCentrum. Apart from MetaCentrum propagation (link at th demonstation pages with cca 100 unique accesses per day, acknowledgement in many published articles) we help with testing some of new features of MetaCentrum machines like application running over virtualized hardware or long term interrupt and regeneration of run.
+
+==== Year 2008 ====
+Here you can find several excerpts from 2008 annual MetaCentrum user reports describing advantages of MetaCentrum utilization for solving of computationally and data demanding tasks.
+
+** User "gruber" (Martin Grůber)**:
+I used MetaCentrum for computations concerning speech synthesis, that is extremely computationaly demanding. My perfomed calculations are much faster thanks to MetaCentrum and they can be running in paralell. I plan to utilize this services in the same way.
+
+** User "hanz" (Jan Čapek)**:
+Sometimes it can be very useful if I am not forced to repeat my computational jobs lasting about week at my local PC, but I can use MetaCentrum resources for this tasks.
+
+** User "krticka" (Jiri Krtička)**:
+I use access to data storage in MetaCentrum to store data for my calculations and for backup my important files.
+
+** User "psutka" (Josef Psutka)**:
+I am extremely satisfied with MetaCentrum services.
+** User "moravka" (Štefan Morávka)**:
+The most significant added value of MetaCentrum can be seen in sharing of computational capacity. On one side this enables better machines utilization (rentability of investment increases). On the other hand this creates higher availability (i.e. for users requering one bout computational performance and not purchasing powerful hardware on their own).
+
+** User "majerle" (Mitja Majerle)**:
+META CENTRUM enabled me to test several different computing platforms for the speed of MCNPX and FLUKA calculations. Based on these tests, our institute decided to invest money in buying the cluster of 64 Intel E5420 processors. At the installation of the operating system and tools for parallel computing I inspired myself at the META CENTRUM and with few exceptions (NFS instead of AFS, TORQUE instead of PBSPro) we have a similar, smaller, but very well working cluster.
+
+** User "msob" (Mojmír Šob)**:
+Year 2008 was for us extremely fruitful from the publication point of view - we have several articles in scientific journals, mainly in international highly appreciated journals with high impact factor. All of us are pleased that we have the possibility to utilize MetaCentrum computers and we are looking forward to our further collaboration!
+
+** Some user feedbacks form survey made in June 2008 (survey was anonymous, we do not show here names of users)**
+
+Although I use MetaCentrum services just rarely (I have possibility of counting in the different place), I found MetaCentrum very well managed, reliable and functional. Good work, keep doing.
+
+I have been satisfied with MetaCentrum services.
+
+I can say, I have never had serious problems with MetaCentrum utilization. I thank for it.
+
+Although I have not reached any results, which could be published, I consider it great helper in my scientific research.
+
+Without using MetaCentrum services I could not make this part of my job. Obviously, if I do not consider great investitions.
+
+Without MetaCentrum calculations our research would be unfeasible.
+
+So, do not have to wait for my PC to count it :)
+
+According my personal experience, the technical support of MetaCentrum fast, cheerful, patient and tollerant.
+
+I have the best experience with reactions to questions (in the speed an also in the soundness aspect). I want to point out ( I apologize all, who I forgot): Miloš Mulač, Jan Kmuníček, Martin Kuba, Zdeněk Salvet
+
+(About registering to MetaCentrum): I needed tens advices of MetaCentrum support before I was able to utilize MetaCentrum resources. Maybe it is very dificult, maybe I am very simple. But help of MEtaCentrum people was PRICELESS!!!

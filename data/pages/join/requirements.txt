@@ -1,0 +1,12 @@
+====== Requirements ======
+Requirements and eligibility criteria for MetaCentrum membership.
+
+===== Eligibility =====
+  * Member of a Czech academic or research institution
+  * Valid eduID.cz identity or Hostel eduID.cz guest account
+  * Research or educational purpose for using the resources
+
+===== Acceptable Use =====
+  * Resources must be used for academic/research purposes
+  * Commercial use requires separate agreement
+  * Users must comply with CESNET acceptable use policies

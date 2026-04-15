@@ -1,0 +1,27 @@
+# Runtime/cache data (should not be versioned)
+data/cache/
+data/index/
+data/locks/
+data/log/
+data/tmp/
+data/meta/
+data/media_meta/
+data/attic/
+data/media_attic/
+data/deleted.files
+
+# Secrets/local config
+data/conf/local.php
+data/conf/users.auth.php
+data/conf/acl.auth.php
+data/conf/mysql.conf.php
+data/conf/plugins.local.php
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

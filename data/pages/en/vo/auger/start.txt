@@ -1,0 +1,38 @@
+====== Auger ======
+
+The VO auger was setup for members of the [[http://www.auger.org|Pierre Auger collaboration]]. To become a member of auger VO, you must be a member of the collaboration, obtain a personal certificate from your national certification authority and fill a [[https://perun.metacentrum.cz/perun-registrar-cert/?vo=auger|registration form]].
+
+===== Usage rules =====
+Common [[https://edms.cern.ch/document/428036/3|usage rules]] for virtual organizations setup in the scope of the EGI project are valid for the VO auger together with the computing usage rules of the Pierre Auger collaboration.
+
+===== Registration =====
+To be able to access [[https://signup.perun.egi.eu/cert/registrar/?vo=auger|registration form]], you need a valid certificate loaded in your browser. When you fill all fields and press the first button below the form, an email is sent to the address specified in the form. You must visit the web page given in the email for a confirmation. In a new form, fill your desired username and password for an account on the global user interface ui1.grid.cesnet.cz. We expect that this UI will be used only for first tests and that users will install their own UI. Users typically need just a functional DIRAC client, which can be [[https://wiki.egi.eu/wiki/NGI_CZ:DIRAC_for_Auger|easily installed]]. When you fill the second form, email is sent to the VO manager. You can expect an approval within several days (we have to check that you are eligible). A confirmation email is sent when the request is approved or rejected.
+
+===== Approval of a new member =====
+Procedure of the approval of a new auger member is the following: registration form generates an entry in the database and a mail to the VO manager. VO manager checks a list of Auger collaboration members and approves the new user.
+
+===== Computing resources =====
+Computing resources provided for auger the VO are either dedicated resources of groups taking part in the collaboration or "opportunistic" resources of other organizations offered on the voluntary basis.
+
+Resources for the VO infrastructure (registration server, voms and ldap server) are provided by [[http://www.cesnet.cz|CESNET]] (as the NGI_CZ representative) and by the [[http://www.fzu.cz|Institute of Physics]] of the Czech Academy of Sciences. The first computing resources were 2 EGEE sites in the Czech Republic: praguelcg2 and prague_cesnet_lcg2. In September 2007, we had 9 CEs supporting the VO auger, while in 2019 we have 18 sites.
+
+===== Users' Support =====
+All questions can be send to auger at SPAMPROTECTcesnet.cz (remove the part SPAMPROTECT). There is a RT system behind this address for a proper tracking of all requests. Users can also submit tickets via [[http://www.ggus.org|GGUS portal]].
+
+===== Technical details =====
+==== How to add auger to the list of supported VO's on the site. ====
+System administrators can use their favourite configuration tool and use values for auger obtained from the VO registration card at the [[http://cic.in2p3.fr]] [[http://operations-portal.egi.eu/|Operations portal]].
+
+==== Servers supporting auger ====
+Please consult VO ID card at the [[http://operations-portal.egi.eu/|Operations portal]] and BDII queries for most uptodate values.
+
+* VOMS server: voms1.grid.cesnet.cz, voms2.grid.cesnet.cz, port 15004
+* DIRAC server: [[https://dirac.france-grilles.fr/DIRAC/]]
+* LFC catalogue: lfc1.egee.cesnet.cz (used only for old files)
+* UI: ui1.grid.cesnet.cz (account created after registration)
+
+====== VO managers ======
+VO auger for setup by CESNET and Institute of Physics of the Academy of Sciencies of the Czech Republic (FZU) after an approval of a collaboration board in spring 2006. FZU is a member of the Pierre Auger collaboration, CESNET provides its resources in the scope of the EGI project.
+
+//Comments and questions send to Jiri.Chudoba at NOSPAMcern.ch//
+** Created by [[http://www-hep2.fzu.cz/~chudoba/|Jiri Chudoba]].**

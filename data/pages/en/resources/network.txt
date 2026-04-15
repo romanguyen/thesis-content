@@ -1,0 +1,9 @@
+====== Network ======
+
+{{http://metavo.metacentrum.cz/export/sites/meta/images/network-big.gif|network}}
+The contemporary CESNET2 network is built around the DWDM core. Remaining backbone lines of the CESNET2 network are based on the mixture of Ten-Gigabit and Gigabit Ethernet and Packet Over SONET (POS). It ensures very high throughput (bandwidth of all core lines lies in the range of gigabits per second). Internal connections among MetaCentrum nodes are realized using special networks Myrinet (2.5Gb/s) and Infiniband (20Gb/s) for some selected nodes, and Gigabit Ethernet (1Gb/s) otherwise. Geographically remote clusters are connected by backbone CESNET links.
+
+GÉANT is the high bandwidth pan-European research and education backbone that interconnects National Research and Education Networks (NRENs) across Europe and provides worldwide connectivity through links with other regional networks. Together with Europe's national research networks, GÉANT connects 40 million users in over 8,000 institutions across 40 countries.
+
+{{http://metavo.metacentrum.cz/export/sites/meta/images/sit/cesnet2.png|CESNET}}
+More information abou Geant is at [[http://www.ten.cz/provoz/geant.html|CESNET]] or at [[http://www.geant.net|Géant]].

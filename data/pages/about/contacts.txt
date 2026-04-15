@@ -1,0 +1,13 @@
+====== Contacts ======
+Contact information for MetaCentrum staff and support.
+
+===== General Contact =====
+CESNET, z. s. p. o
+Zikova 4, 160 00 Praha 6
+Czech Republic
+
+Email: info@cesnet.cz
+
+===== User Support (24/7) =====
+Phone: +420 234 680 222
+Email: support@cesnet.cz

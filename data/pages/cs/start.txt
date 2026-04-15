@@ -1,0 +1,19 @@
+====== MetaCentrum ======
+
+//Vítejte na stránkách Národní Gridové Infrastruktury MetaCentrum, aktivity sdružení//[[http://www.cesnet.cz|CESNET, z.s.p.o]]//.//
+
+MetaCentrum vystupuje v roli** České Národní Gridové Infrastruktury** (NGI_CZ), oficiálně uznávané národní součástí Evropské Gridové Infrastruktury (EGI). Hlavním úkolem je další rozširování a koordinace plnohodnotné národní gridové infrastruktury v České republice vhodným propojením stávajících a nově pořizovaných** výpočetních a úložných prostředků** akademické komunity v ČR. Vytvoření virtuálního pracovního prostředí MetaCentrum přispívá k podstatně** efektivnějšímu využití instalované techniky**, umožňuje využítí dostupných výpočetních zdrojů pro řešení velmi náročných výpočetních úloh, jejichž zvládnutí je nad možností samostatného pracoviště v ČR. Zájemcům z akademických a výzkumných institucí nabízí MetaCentrum prostředí pro (spolu)práci v oblasti výpočtů a ukládání dat nejen na území ČR, ale i v mezinárodním měřítku (podpora integrace do mezinárodního výzkumného prostoru (ERA) a napojení do Evropské Gridové Infrastruktury EGI).
+
+MetaCentrum** koordinuje**** pořizování nákladného**** programového a aplikačního vybavení**, zajišťuje centrální nákup a správu licencí vybraného licencovaného SW. Zároveň se MetaCentrum aktivně podílí na** výzkumu a vývoji** nezbytného k zajištění optimální funkcionality, bezpečnosti a vysokého výkonu celé infrastruktury. Naši odborníci jsou zapojeni do odpovídajících mezinárodních projektů. Zájemci mohou [[cs:vo|požádat o členství]] v některé z námi spravovaných [[cs:vo|virtuálních organizací]] nebo mohou požádat o vytvoření vlastní virtuální organizace.
+
+===== Důležité informace =====
+* [[cs:vo|Chci počítat a sdílet data]]
+* [[cs:grid|Výhody zapojení do NGI]]
+* [[cs:grid:certificate|Žádost o certifikát]]
+* [[https://docs.metacentrum.cz|Návody a nastavení]]
+* [[http://metavo.metacentrum.cz/|Provozní stránky MetaVO]]
+* [[cs:cloud|MetaCloud]]
+* [[cs:resources:hardware|Seznam HW vybavení]]
+
+===== Mapa rozmístění HW =====
+| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png|mapkaMC_2016_oranz}} |

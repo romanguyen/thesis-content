@@ -1,0 +1,5 @@
+====== Hardware overview ======
+
+The National Grid Infrastructure coordinates the provision of computing resources to users using so-called Virtual Organizations.
+
+List of machines provided by the VO MetaCentrum is available [[en:resources:hardware:start|here]]

@@ -1,0 +1,9 @@
+====== IT4I prvky - varianta ======
+
+Tato stranka obsahuje samostatnou ukazku prvku inspirovanych IT4I:
+
+  * hlavni rozcestnik,
+  * hexagonalni metriky,
+  * sekci Akce a starsi zpravy.
+
+Navigaci prepinejte v horni liste (Vlevo / Nahore / Ciste).

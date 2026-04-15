@@ -1,0 +1,9 @@
+====== IT4I Elements - Variant ======
+
+This page provides a dedicated showcase of IT4I-inspired blocks:
+
+  * main quick-link crossroad,
+  * hexagonal metrics,
+  * the events and older reports section.
+
+Switch navigation mode in the header (Left / Top / Clean).

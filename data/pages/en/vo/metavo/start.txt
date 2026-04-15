@@ -1,0 +1,68 @@
+====== Metavo ======
+
+[[http://metavo.metacentrum.cz/|MetaCentrum]] VO is a regional catch-all virtual organization of the Czech National Grid Organization MetaCentrum NGI and it is intended only for employees and students of research or academic organisations in the Czech Republic and for research purposes only. Users registered in MetaCentrum get access to the computing and storage capacity and a wide range of application software.
+
+MetaCentrum provides following services:
+
+** Service
+| ** | ** Information** |
+A computational grid is a hardware and software infrastructure that provides dependable, consistent, pervasive, and inexpensive access to high-end computational capabilities.
+
+Grid users are provided with storage and computing resources that exceeds possibilities of individual supercomputing centers, wide range of application software from different scientific areas and last but not least with qualified user support for any emerged problems.
+
+More information about grid services can be found [[https://www.metacentrum.cz/en/Services_old/Grid/|here.]]
+
+| ** Grid** |
+MetaCentrum Cloud interface allows you to obtain and configure virtual machines from various images (yours or MetaCentrum's).
+
+Advantages of using cloud service are scalability (create virtual machines that match your needs), accessibility (OpenStack APIs/CLIs, user-friendly OpenStack web interface), flexibility (install whathever software you want), quick deployment and many other.
+
+To see more information about provided cloud service, go [[https://cloud2.metacentrum.cz/|here.]]
+
+| ** MetaCloud** |
+Kubernetes, also known as K8s, is an open-source system for automated deployment, scaling and management of containerized applications.
+
+The platform is designed primarily for smaller groups of groups that require individual access or long-running cloud-native specific services.
+
+More information about Kubus can be found [[https://wiki.metacentrum.cz/wiki/Kubernetes_-_Kubus|here]].
+
+| ** Kubus** |
+Hadoop is a popular open-source framework for distributed storage and distributed processing of large volumes of data. Unlike traditional cluster resources in MetaCentrum, which assume just-in-time stage-in of data before processing, the Hadoop environment is intended for mid- to long-term storage/collection of data to be processed.
+
+More information about Hadoop can be found [[https://www.metacentrum.cz/en/Services_old/Hadoop/|here]].
+
+| ** Hadoop** |
+
+===== Get Account =====
+Basic MetaCenter registration is common for grid resources, MetaCentrum Cloud, and Hadoop services.
+
+[[https://metavo.metacentrum.cz/cs/application/index.html|Registration form]]
+
+===== Usage rules =====
+MetaCentrum membership is free for researchers and students of academic institutions in the Czech Republic. We only require agreement with usage rules, acknowlegement in user's publications, and annual report of achieved results.
+
+Please, read MetaCentrum VO [[https://docs.metacentrum.cz/access/terms|rules]] very carefully! By submitting the application form you agree with MetaVO usage rules and you certify that you have read and understood terms and conditions of use of MetaCentrum hardware and software equipment and documentation.
+
+Your MetaCentrum VO membership is bound to the extension of your account required at the end of each year. Your account can be extended online by filling [[http://metavo.metacentrum.cz/en/myaccount/prodlouzeni|form field]], in which you have to decribe your current activities including new, planned ones.
+
+===== Registration =====
+By submitting the application form you agree with MetaVO usage rules and you certify that you have read and understood terms and conditions of use of MetaCentrum hardware and software equipment and documentation.
+
+The current state of registration can be checked on Registration state checking page, the access requires an user login name and password chosen during the registration process.
+For checking personal data we use Czech Academic Identity Federation [[https://www.eduid.cz|eduID.cz]]. The identity and data are provided by user's home organisation, which guarantees their validity.
+
+===== Approval of a new member =====
+Procedure of the approval of a new member is the following: registration form generates an entry in the database and a mail to the VO manager.
+
+===== Computing resources =====
+Computing resources provided for VO will be either dedicated resources of groups taking part in the collaboration or "opportunistic" resources of other organizations offered on the voluntary basis.
+
+===== Users Support =====
+Primary contact for solving of majority of problems related to MetaCentrum VO operation is RT adress [[mailto:meta@cesnet.cz|meta@cesnet.cz .]] You can also send all error messages or problems you encountered using VO resources, questions regarding concrete application and/or system software as well as information about abnormal function of installed software to the same address. This address is a queue in our local request tracking system (RT) that enables administrators to monitor user requests, analyze them efficiently and provide fast, reliable solutions.
+
+==== VO managers ====
+MetaCentrum, CESNET
+
+[[http://egee.cesnet.cz/en/voce/|http://vo.metacentrum.cz/]]
+
+[[mailto:voce@cesnet.cz|meta@cesnet.cz]]

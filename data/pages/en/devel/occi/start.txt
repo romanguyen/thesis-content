@@ -1,0 +1,26 @@
+====== Occi ======
+
+===== Introduction =====
+Open Cloud Computing Interface (OCCI) is a protocol and API for broad range of managment tasks. We participate in OGF's OCCI Working Group to develop OCCI and support it for server- amd client-side applications through the rOCCI framework nad jOCCI Java libraries.
+
+===== rOCCI =====
+rOCCI is a suite of libraries, a command-line client application and a server-side service to facilitate use of the OCCI protocol as standardized by OGF. In short, its main purpose is to enable OCCI interfaces for cloud resource management in sites whose Cloud Management Frameworks do not support OCCI natively.
+
+The rOCCI suite consists of the following components:
+
+* ** rOCCI-core** is an implementation of the OCCI class structure in Ruby. It allows developers to work with OCCI concepts hands-on, treating OCCI classes as actual classes in their program.
+* ** rOCCI-api** is a library for OCCI transport over HTTPs.
+* ** rOCCI-server** is a stateless translation service that accepts OCCI requests, contacts an underlying Cloud Management Framework through a product-specific backend, and translates its response back to OCCI. Backends for different cloud management frameworks as well as popular public cloud services are available. An up-to-date overview of the implementation status of various beckends can be found at the developers' Backend Development Status page.
+* ** rOCCI-cli** is a command-line client, allowing management of cloud resources in any cloud site that exposes an OCCI interface.
+
+Cloud users who wish to manage their resources over OCCI may chose from among several implementation approaches. They may use rOCCI-core and rOCCI-api libraries in their own Ruby-based applications. They may also wrap around the existing rOCCI-cli command line client. Other client-side OCCI implementations (e.g., jOCCI) are also available.
+
+Full documentation for rOCCI can be found at [[https://wiki.egi.eu/wiki/rOCCI:ROCCI|wiki.egi.eu/wiki/rOCCI:ROCCI]].
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/OCCI_clients_servers_ALL.png_1935174323.png|OCCI_clients_servers_ALL}}
+
+@@H3@@
+==== References ====
+Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In//Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,//ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346
+
+Kimle M., Parák B., Šustr Z. (2015).** jOCCI - General-Purpose OCCI Client Library in Java**. In//International Symposium on Grids and Clouds//. Taipei, Taiwan.

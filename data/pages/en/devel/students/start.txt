@@ -1,0 +1,49 @@
+====== Students ======
+
+| thesis title | author | thesis type | year |
+| [[https://is.muni.cz/auth/th/410315/fi_b/|Evaluation of key-value data storags in Perun system]] | [[https://is.muni.cz/auth/osoba/410315|Simona Kruppová]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/422680/fi_b/|OAuth 2.0 Integration into Perun System]] | [[https://is.muni.cz/auth/osoba/ondrejvelisek|Ondřej Velíšek]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/395986/fi_b/|Tool for modification of FITS files headers]] | [[https://is.muni.cz/auth/osoba/395986|Jan Hlava]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/422783/fi_b/|A tool for retrieving photometric data of stellar objects]] | [[https://is.muni.cz/auth/osoba/422783|Michal Krajčovič]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/409915/fi_b/|Web application for astronomical observation diaries]] | [[https://is.muni.cz/auth/osoba/409915|Ondřej Skýba]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/410074/fi_b/|Tool for modification of FITS files headers]] | [[https://is.muni.cz/auth/osoba/410074|Martin Vrábel]] | bachelor thesis | 2016 |
+| [[https://is.muni.cz/auth/th/255739/fi_m/|Robust nad scalable data store for Perun system]] | [[https://is.muni.cz/auth/osoba/norexan|Michal Šťava]] | master thesis | 2015 |
+| [[https://is.muni.cz/auth/th/396000/fi_b/|Testing of distributed file systems for Cloud]] | [[https://is.muni.cz/auth/osoba/396000|Adam Tomek]] | bachelor thesis | 2015 |
+| [[https://is.muni.cz/auth/th/396193/fi_b/|Web application for astronomical observation diaries]] | [[https://is.muni.cz/auth/osoba/396193|Robert Havlíček]] | bachelor thesis | 2015 |
+| [[https://is.muni.cz/auth/th/410043/fi_b/|Implementation of documents search using metadata in Liferay portal]] | [[https://is.muni.cz/auth/osoba/410043|Matěj Šípka]] | bachelor thesis | 2015 |
+| [[https://is.muni.cz/auth/th/410071/fi_b/|Tool for modification of FITS files headers]] | [[https://is.muni.cz/auth/osoba/410071|Marek Jonis]] | bachelor thesis | 2015 |
+| [[https://is.muni.cz/auth/th/395936/fi_b/|Reimplementation of astronomical program from Fortran to GUI]] | [[https://is.muni.cz/auth/osoba/395936|Jakub Beer]] | bachelor thesis | 2015 |
+| [[https://is.muni.cz/auth/th/396210/fi_b/|Efficient access to database data in Perun system]] | [[https://is.muni.cz/auth/osoba/396210|Katarína Hrabovská]] | bachelor thesis | 2014 |
+| [[https://is.muni.cz/auth/th/396049/fi_b/|Design and implementation of interface for monitoring Engine - component of the Perun system]] | [[https://is.muni.cz/auth/osoba/cechackova|Jana Čecháčková]] | bachelor thesis | 2014 |
+| [[https://is.muni.cz/auth/th/256627/fi_m/|Redesign of GUI for Perun system]] | [[https://is.muni.cz/auth/osoba/256627|Pavel Zlámal]] | master thesis | 2014 |
+| [[https://is.muni.cz/auth/th/256333/fi_m_a2/|Photometric Archive of Astronomical Images]] | [[https://is.muni.cz/auth/osoba/256333|Peter Lényi]] | master thesis | 2014 |
+| [[https://is.muni.cz/auth/th/396126/fi_b/|Web user interface for plotting light curves of objects from astronomical database WASP]] | [[https://is.muni.cz/auth/osoba/396126|Jiří Kimeš]] | bachelor thesis | 2014 |
+| [[https://is.muni.cz/auth/th/373866/fi_m/|Flexible Accounting Framework for Heterogeneous Computing Infrastructures]] | [[https://is.muni.cz/auth/osoba/373866|Michal Kimle]] | master thesis | 2013 |
+| [[https://is.muni.cz/auth/th/256254/fi_m/|Cloud accounting in MetaCenter]] | [[https://is.muni.cz/auth/osoba/256254|Boris Parák]] | master thesis | 2013 |
+| [[https://is.muni.cz/auth/th/389966/fi_m/|Web application for agenda administration in Institudfe of experimental biology]] | [[https://is.muni.cz/auth/osoba/389966|Stanislav Liška]] | master thesis | 2013 |
+| [[https://is.muni.cz/auth/th/255920/fi_m/|Perun Attribute Framework]] | [[https://is.muni.cz/auth/osoba/255920|Slávek Licehammer]] | master thesis | 2012 |
+| [[https://is.muni.cz/auth/th/324681/fi_b/|Scalability of optimalization algorithm on multicore machines]] | [[https://is.muni.cz/auth/osoba/324681|Eduard Tomek]] | bachelor thesis | 2012 |
+| [[https://is.muni.cz/auth/th/256016/fi_b/|Users' Registration Component in Perun System]] | [[https://is.muni.cz/auth/osoba/256016|Filip Drahovský]] | bachelor thesis | 2011 |
+| [[https://is.muni.cz/auth/th/256699/fi_b/|Cluster Maintenance Scheduling in a Distributed Environment]] | [[https://is.muni.cz/auth/osoba/michal.babacek|Michal Babáček]] | bachelor thesis | 2011 |
+| [[https://is.muni.cz/auth/th/256494/fi_b/|Ruby and JRuby Performance Comparison]] | [[https://is.muni.cz/auth/osoba/256494|Kateřina Kuklová]] | bachelor thesis | 2011 |
+| [[https://is.muni.cz/auth/th/143303/fi_m/|Estimation of job execution time in the MetaCentrum job planning system]] | [[https://is.muni.cz/auth/osoba/143303|Michal Kafka]] | master thesis | 2010 |
+| [[https://is.muni.cz/auth/th/207636/fi_b/|Ruby and JRuby Performance Comparison]] | [[https://is.muni.cz/auth/osoba/207636|Jiří Syrový]] | bachelor thesis | 2010 |
+| [[https://is.muni.cz/auth/th/256772/fi_b/|Digital Signature In a Web Browser]] | [[https://is.muni.cz/auth/osoba/256772|Jiří Harazim]] | bachelor thesis | 2010 |
+| [[https://is.muni.cz/auth/th/256009/fi_b/|OpenId provider for Identity Federation]] | [[https://is.muni.cz/auth/osoba/256009|Igor Gilány]] | bachelor thesis | 2010 |
+| [[https://is.muni.cz/auth/th/256333/fi_b/|Web Application for License Registration in MetaCentrum]] | [[https://is.muni.cz/auth/osoba/256333|Peter Lényi]] | bachelor thesis | 2010 |
+| [[https://is.muni.cz/auth/th/256301/fi_b/|OpenCMS Plugin for Shibboleth Authentication of Users]] | [[https://is.muni.cz/auth/osoba/256301|Ladislav Toldy]] | bachelor thesis | 2010 |
+| [[https://is.muni.cz/auth/th/208054/fi_b/|Ruby and JRuby Performance Comparison]] | [[https://is.muni.cz/auth/osoba/208054|Jan Kadera]] | bachelor thesis | 2010 |
+[[en:devel:students:slurm|Job scheduling with the SLURM resource manager]]
+
+[[http://is.muni.cz/osoba/173052|Michal Novotný]]
+
+| bachelor thesis | 2010 |
+| [[http://is.muni.cz/th/172704/fi_b/|Application for Collecting Identity Federation Metadata]] | [[http://is.muni.cz/osoba/172704|Jiří Novák]] | bachelor thesis | 2009 |
+[[http://is.muni.cz/th/98993/fi_m/|Security in Service Oriented Architecture]]
+
+| [[http://is.muni.cz/osoba/98993|Jakub Ferenc]] | master thesis | 2009 |
+[[http://is.muni.cz/th/139558/fi_b/|Job accounting for a supercomputing center]]
+
+| [[http://is.muni.cz/osoba/139558|Jiří Sedláček]] | bachelor thesis | 2008 |
+| [[http://is.muni.cz/th/143185/fi_b/|Graphical User Interface for a Computational Job Management System]] | [[http://is.muni.cz/osoba/143185|Vítězslav Plšek]] | bachelor thesis | 2008 |
+| [[http://is.muni.cz/th/99055/fi_b/|Comparison of computational power of programmable GPU and CP]] | [[http://is.muni.cz/osoba/99055|Jiří Šimáček]] | bachelor thesis | 2006 |

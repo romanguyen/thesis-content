@@ -1,0 +1,9 @@
+====== Home metric cards ======
+
+Format: `Title|Target page id or URL|Bootstrap icon class`
+
+* Superpocitace|resources:hardware:start|bi-diagram-3
+* Vyzkum|projekty:start|bi-search
+* Spoluprace s prumyslem|sluzby:start|bi-gear-wide-connected
+* Pro uzivatele|vo:start|bi-people-fill
+* Prave hledame|about:start|bi-briefcase-fill

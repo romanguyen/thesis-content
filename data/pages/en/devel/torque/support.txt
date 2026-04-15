@@ -1,0 +1,12 @@
+====== Support ======
+
+One of the long term challenges in our GRID is to communicate as much information about the internal functionality of the GRID as possible. Most common interaction between users and user support are related to jobs that are waiting for execution without any obvious cause for not being executed immediately.
+
+===== Fairshare =====
+While adding new features into our scheduler we are continuously improving information feedback. One of the already implemented features is fairshare information.
+Fairshare was originally a purely internal scheduler metric. One of the issues of fairshare information is that it's meaningless without the added semantics that are only present in the scheduler. Our implementation is using PBS Cache to store pre-processed fairshare information which can then be accessed by anyone.
+While this was a relatively simple modification, it helped to alleviate most of the confusion and is now displayed along other information in the PBSMon web interface.
+
+===== Job Archiving =====
+Due to performance reason and memory constraints, information about old jobs is removed from the system 24 hours after their completion. This lead to issues when diagnosing issues users had with their jobs, because most information had to be data mined from the batch system logs.
+To solve this problem, we are now archiving all information about jobs removed from the system into permanent files, that can be easily diagnosed by users support.

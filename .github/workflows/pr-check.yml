@@ -1,0 +1,23 @@
+name: PR Check
+
+on:
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  validate-content-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.2"
+
+      - name: Run content repo validation
+        run: php scripts/git_pr_check.php --repo-root=. --mode=all --profile=content-repo

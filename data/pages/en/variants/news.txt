@@ -1,0 +1,48 @@
+~~NOTOC~~
+====== News - Variant ======
+
+This page first shows a compact overview of news and outages.
+Below the overview, selected archive news from `en:news:start` are shown.
+
+===== News archive =====
+
+===== EGI.eu is now seeking to employ a Director to lead the EGI.eu organisation =====
+More info about the open position can be found at [[http://www.egi.eu/|EGI.eu]] web page.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0015.html|permalink]] //Ivana Krenkova//, Thu Nov 14 09:58:00 CET 2013
+
+===== EGI Inspired Newsletter - Summer 2012 =====
+Summer 2012 issue of our Inspired newsletter is now online.
+
+  * HTML version: [[http://go.egi.eu/Summer12]]
+  * PDF version: [[http://go.egi.eu/Summer12PDF]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0014.html|permalink]] //Ivana Krenkova//, Thu Sep 06 11:43:00 CEST 2012
+
+===== EGI Inspired Newsletter - Spring 2012 =====
+The Spring 2012 issue of the EGI Inspired newsletter is out.
+
+  * HTML version: [[http://go.egi.eu/Spring12]]
+  * PDF version: [[http://go.egi.eu/Spring12PDF]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0013.html|permalink]] //Ivana Krenkova//, Thu May 24 10:15:00 CEST 2012
+
+===== EGI Inspired Newsletter - Winter 2012 =====
+The Winter 2012 issue of the EGI Inspired newsletter is out.
+
+  * HTML version: [[http://go.egi.eu/Winter12]]
+  * PDF version: [[http://go.egi.eu/Winter12PDF]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0012.html|permalink]] //Ivana Krenkova//, Mon Feb 20 09:36:00 CET 2012
+
+===== EGI Inspired Newsletter - Autumn 2011 =====
+The autumn edition of the EGI newsletter, Inspired, is available [[http://www.egi.eu/results/newsletters/Inspired_Autumn_2011/|on-line]].
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0011.html|permalink]] //Ivana Krenkova//, Tue Nov 01 16:48:00 CET 2011
+
+===== EGI Inspired Newsletter - Summer 2011 =====
+The summer edition of the EGI newsletter, Inspired, is available on-line [[http://go.egi.eu/Summer11]].
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0010.html|permalink]] //Ivana Krenkova//, Tue Aug 23 11:22:00 CEST 2011
+
+  * [[en:news:start|All news]]

@@ -1,0 +1,11 @@
+====== Network ======
+
+{{http://metavo.metacentrum.cz/export/sites/meta/images/network-big.gif|síť}}
+
+Konektivita v rámci ČR je zajišťována sítí CESNET2. Vnitřní propojení mezi uzly MetaCentra je realizováno pomocí speciálních sítí Myrinet (2.5Gb/s) a Infiniband (20Gb/s) v případě vybraných uzlů, nebo sítí Gigabit Ethernet (1Gb/s). Clustery mezi geograficky vzdálenými místy jsou propojeny páteřními linkami CESNETu.
+
+Zahraniční konektivita je zajišťována sítí GÉANT. První generace evropské páteřní akademické sítě GÉANT byla oficiálně uvedena do provozu 1. prosince 2001 jako pokračování předchozí sítě TEN-155. Propojila národní sítě pro vědu, výzkum a vzdělávání v Evropských zemích a zajistila jejich spojení s analogickými světovými sítěmi (především v Severní Americe a v Asii). Díky použité technologii DWDM nabízí vedle klasické IP služby i přepínání optických tras či vlnových délek. Díky tomu umožňuje vytvářet vyhrazená propojení na míru - pro konkrétní koncová zařízení s extrémními požadavky na objem datových přenosů - tzv. end-to-end služby. Rychlost jádra postupně roste. V současnosti probíhá přechod z n×10 Gb/s na n×40 Gb/s. Ostatní trasy jsou provozovány s rychlostmi v odpovídajícími potřebám připojených NREN, typicky v řádu gigabitů za sekundu.
+
+{{http://metavo.metacentrum.cz/export/sites/meta/images/sit/cesnet2.png|CESNET}}
+
+Více informací o síti Géant je dostupných na stránce [[http://www.cesnet.cz/sluzby/pripojeni/topologie/|CESNETu]] nebo přímo na stránkách sítě [[http://www.geant.net|Géant]].

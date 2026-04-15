@@ -1,0 +1,21 @@
+====== Virtualization ======
+
+===== VirtCloud: Virtualizace v pojetí MetaCentra =====
+V klasickém "Cloud Computingu" jsou fyzické zdroje ve vlastnictví a správě jedné organizace, umístěné na jednom místě. Naše pojetí virtualizace gridového prostředí umožňuje integrovat i zdroje různých vlastníků, s využitím mimořádného prostředí sítě CESNET2 distribuovaných po celém území ČR. Virtualizované zdroje je možné propojit do virtuálních clusterů, zajistit jejich úplné oddělení od jiných prostředí stejného nebo dalších uživatelů, provozovat na nich specifické prostředí včetně konkrétních verzí operačního systému, vývojových nástrojů, middleware i aplikací.
+
+==== Klíčové výhody ====
+* //Optimalizace//využití zdrojů výpočetních center.
+* //Bezpečnost//- Virtualizace zajišťuje naprosté oddělení uživatelských prostředí mezi sebou a tak mimo jiné i garantuje vysokou míru ochrany, přitom jednotné rozhraní mezi fyzickými a virtualizovanými zdroji umožňuje zajistit správu celého systému bez enormních provozních nákladů.
+* //Dostupnost a jednoduchost použití//- Virtualizace v pojetí MetaCentra má za cíl zvýšení flexibility a atraktivity prostředí pro uživatele. Pro uživatele musí být spuštění sady virtuálních strojů stejně snadné, jako spuštění jedné úlohy a to včetně transparentní konfigurace virtuální sítě a spuštění všech systémových služeb (např. uživatelská brána do privátní sítě). Prostředky výpočetního prostředí je možné přidělit ve formě virtuálního clusteru, který bude plně ve správě uživatelské skupiny a počínaje operačním systémem zcela shodný s jejími zavedenými zvyklostmi, fyzicky je ovšem provozován na sdílené infrastruktuře. Největší výhodou je možnost replikovat úlohu na totožném virtuálním clusteru.
+
+Vytvořit prostředí tohoto typu vyžaduje náročný vývoj. Už v předchozích letech byla značná část strojů v MetaCentru virtualizována, většina uživatelů ani netuší, že již dlouho počítá ve virtuálním prostředí. Bezprostřední výstup pro uživatele, tedy možnost spustit virtuální cluster z vlastní instalace operačního systému a uživatelského softwaru, plánujeme na konec roku 2009. Pro konzervativní uživatele samozřejmě bude dále provozováno stávající prostředí, náročný uživatel může získat iluzi clusteru "pod vlastním pracovním stolem", s plným řízením včetně administrátorského přístupu.
+
+Vývojová skupina MetaCentra vyvinula rozšíření dávkového systému Torque a vlastní nástroj nazvaný [[cs:devel:magrathea|Magrathea]], který spolu s řídícím modulem na každém fyzickém pracovním uzlu zabezpečuje zavedení obrazu operačního systému a správu přidělených fyzických zdrojů. Vlastní virtualizace využívá standardní technologie XEN.
+
+Virtuální síť se stává zdrojem, který může být přidělen uživatelům stejně jako výpočetní uzel či úložný prostor. Virtuální cluster je pak definován jako sada virtuálních strojů propojená virtuální sítí. Díky tomuto přístupu se z hlediska uživatelů zcela smazávají hranice dané strukturou komunikační sítě (např. hranice lokalitami technicky vyjádřené síťovými segmenty) a otevírá se prostor pro oddělení jednotlivých virtuálních clusterů. Virtualizace v této oblasti mimo jiné umožňuje používat v různých virtuálních clusterech shodnou adresaci jednotlivých strojů, dokonce i spouštět dvě instance virtuálních clusterů se stejnými adresami.
+
+===== Implementace virtualizace v MetaCentru s využitím akademické sítě CESNET2 =====
+Významnou a unikátní součástí virtualizace v pojetí MetaCentra je komunikační infrastruktura. MetaCentrum samotné je rozprostřeno v Brně, Plzni, Českých Budějovicích a Praze. Díky zázemí národní sítě pro vědu a výzkum CESNET2 lze stavět na pokročilých technologiích VPLS a L2 switching založené na DWDM (Xponder) dovolujících dynamicky budovat "síťové oblaky" (virtuální sítě na linkové vrstvě) propojující libovolné zdroje nacházející se v této akademické síti. Vznik i zánik takového oblaku se obejde bez podstatné režie zahrnující konfigurace řady síťových zařízení.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/en/about/schema272x362.gif|Virtualized MetaCentrum}} [[https://www.metacentrum.cz/export/sites/metacentrum/en/about/schema543x724.gif]]
+Více informací o architektuře systému a implementaci v MetaCentru najdete v [[https://www.metacentrum.cz/cs/results/techreports/index.html|Technické zprávě]].

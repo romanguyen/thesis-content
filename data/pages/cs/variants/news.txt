@@ -1,0 +1,50 @@
+~~NOTOC~~
+====== Novinky - varianta ======
+
+Tato stranka nejdriv ukazuje prehled novinek a odstavkovych oznameni.
+Pod prehledem je archiv vybranych novinek prevzaty z `cs:news:start`.
+
+===== Archiv novinek =====
+
+===== EGI.eu vyhlasuje vyberove rizeni na noveho reditele =====
+Vice informaci a detaily k vypsane pozici najdete na strance [[http://www.egi.eu/|EGI.eu]].
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0015.html|permalink]] //Ivana Krenkova//, Thu Nov 14 09:58:00 CET 2013
+
+===== EGI Inspired Newsletter - Leto 2012 =====
+Letni vydani EGI Inspired newsletter je k dispozici online.
+
+  * HTML verze: [[http://go.egi.eu/Summer12]]
+  * PDF verze: [[http://go.egi.eu/Summer12PDF]]
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0014.html|permalink]] //Ivana Krenkova//, Thu Sep 06 11:43:00 CEST 2012
+
+===== EGI Inspired Newsletter - Jaro 2012 =====
+Vyslo dalsi cislo informacniho obcastniku projektu EGI-InSPIRE ''Inspired''.
+
+  * HTML verze: [[http://go.egi.eu/Spring12]]
+  * PDF verze: [[http://go.egi.eu/Spring12PDF|http://go.egi.eu/Winter12PDF]]
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0013.html|permalink]] //Ivana Krenkova//, Thu May 24 10:05:00 CEST 2012
+
+===== EGI Inspired Newsletter - Zima 2012 =====
+Vyslo dalsi cislo informacniho obcastniku projektu EGI-InSPIRE ''Inspired''.
+
+  * HTML verze: [[http://go.egi.eu/Winter12]]
+  * PDF verze: [[http://go.egi.eu/Winter12PDF]]
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0012.html|permalink]] //Ivana Krenkova//, Mon Feb 20 09:36:00 CET 2012
+
+===== EGI Inspired Newsletter - Podzim 2011 =====
+Vyšlo dalsi cislo informacniho obcastniku projektu EGI-InSPIRE ''Inspired''.
+Ctete [[http://www.egi.eu/results/newsletters/Inspired_Autumn_2011/|on-line]].
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0011.html|permalink]] //Ivana Krenkova//, Tue Nov 01 16:48:00 CET 2011
+
+===== EGI Inspired Newsletter - Leto 2011 =====
+Vyslo dalsi cislo informacniho obcastniku projektu EGI-InSPIRE ''Inspired''.
+Ctete [[http://go.egi.eu/Summer11|on-line]].
+
+[[https://www.metacentrum.cz/cs/news/index.jsp#news_0010.html|permalink]] //Ivana Krenkova//, Tue Aug 23 11:22:00 CEST 2011
+
+  * [[cs:news:start|Vsechny novinky]]

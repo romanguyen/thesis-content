@@ -1,0 +1,9 @@
+====== Moonshot ======
+
+The Moonshot project develop technology that brings advantages of identity federations to a a broad range of non-Web services. It is a Janet-led initiative, in partnership with the GÉANT and other projects.
+
+CESNET participates in the project mainly on integrating the technology with Grid tools (e.g. for on-line CAs) and with distributed file systems.
+
+The goal of the technology is to enable the management of access to a broad range of services and applications, using a single technology and infrastructure. This is expected to significantly improve the delivery of these services by providing users with a common single sign-on, for both internal and external services. Service providers will be able to more easily offer their services to users from other organisations using a single common authentication mechanism. This will enhance the user’s experience, and reduce costs for those organisations supporting users, and delivering services to them.
+
+[[http://www.project-moonshot.org/]]

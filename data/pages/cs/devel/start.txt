@@ -1,0 +1,45 @@
+====== Devel ======
+
+Software vyvíjený v MetaCentru lze rozdělit do několika skupin.
+
+* [[cs:devel|Clouds and scheduling]]
+* [[cs:devel|Complex monitoring and accounting]]
+* [[cs:devel|Infrastructure Security]]
+* [[cs:devel|Middleware development and support]]
+* [[cs:devel|Identity management, operation and tools]]
+* [[cs:devel|Development in cross discipline projects]]
+* [[cs:devel|Students work]]
+
+===== Clouds and scheduling =====
+* System [[cs:devel:magrathea|Magrathea]] for managing virtualized cluster environment.
+* [[cs:cloud|HPC Cloud]] - MetaCloud is a computing (HPC) cloud built using Amazon compatible cloud interface.
+* [[https://www.metacentrum.cz/en/devel/torque_old/index.html|Torque batch system]] - job management system. Fork of the original Torque batch system that was greatly enhanced for stability and to cover all features provided by the Czech NGI. The system is coupled with a custom high-performance queue based scheduler.
+* Alea [[cs:devel:simulator|Simulator]] - advanced, open source, platform independent job scheduling simulator designed for study, testing and evaluation of various job scheduling techniques. This simulator is capable to realistically simulate complicated job scheduling problems using real or artificial workload and failure traces. Alea provides both textual and graphical simulation outputs and includes implementations of several common scheduling algorithms. New algorithms can be added through provided interfaces.
+
+===== Complex monitoring and accounting =====
+* gLite [[https://www.metacentrum.cz/en/devel/lb/index.html|Logging and Bookkeeping]] (L&B) - a service for monitoring the status of various processes such as compute jobs, data transfers or virtual machines. Comes with a reliable asynchronous message delivery solution, complex querying interface and additional advanced features such as notifications.
+* [[cs:devel:pbsmon|PBSmon]] - web service for job submission configurations and a monitoring tool, based on knowledge of option relationships, also allowing to display machines satisfying the requested options and their current utilisation.
+* [[cs:devel:pakiti|Pakiti]] detect machines that are not kept up-to-date with security patches.
+
+===== Infrastructure Security =====
+* [[cs:devel:pakiti|Pakiti]]
+* Handling and Prevention of Security Incidents
+
+===== Middleware development and support =====
+CESNET provides four products as its contribution to the European Middleware Initiative:
+
+* [[http://www.gridsite.org/|GridSite]] - a solution for authenticating and authorizing users accessing Web-based resources with their X.509 certificates.
+* [[https://twiki.cern.ch/twiki/bin/view/EMI/EmiJra1T4SecurityCommonAuthNLib|EMI Common AuthenticatioN Library]] (caNl) - a joint initiative by EMI partners, caNl provides essentail authentication features in a uniform way across multiple middlewares and programming languages. Cesnet is reponsible for the C part of the product.
+* [[http://egee.cesnet.cz/en/JRA1/PR/|ProxyRenewal]] - a service responsible for secure and controlled periodical renewal of user proxy certificates. Its primary goal is to support long-time jobs running in the grid.
+[[https://www.metacentrum.cz/en/devel/lb/index.html|gLite Logging and Bookkeeping]] (L&B) - see complex monitoring and accounting above for details
+
+===== Identity management, operation and tools =====
+* [[cs:devel:identity_federations|Identity federations]] - institution-based AAI to access services operated by other institution in the federation.
+* [[cs:devel:moonshot|Moonshot]] develop technology that brings advantages of identity federations to a a broad range of non-Web services.
+* Account and resources administration application [[https://www.metacentrum.cz/en/devel/perun/perun_old.html|Perun]],
+* our extensions, improvements and patches of program [[cs:devel:heimdal|Heimdal]], an open source implementation of autentization mechanism Kerberos V5
+* set of [[cs:devel:pkcs11|PKCS11 modules]],
+
+===== Development in cross discipline projects =====
+===== ** Students work** =====
+* [[cs:devel:students|student's works]].

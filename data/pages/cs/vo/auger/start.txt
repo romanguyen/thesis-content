@@ -1,0 +1,6 @@
+====== Auger ======
+
+Virtualní organizace auger je přístupná pouze členům mezinárodního experimentu [[http://www.auger.org|Pierre Auger Observatory]]. Oficiálním jazykem projektu je angličtina, proto veškerou dokumentaci najdete na [[cs:vo:auger|anglické verzi]] těchto stránek.
+
+//Návrhy a připomínky posílejte na Jiri.Chudoba at NOSPAMcern.ch//
+** Vytvořeno [[http://www-hep2.fzu.cz/~chudoba/|Jiri Chudoba]].**

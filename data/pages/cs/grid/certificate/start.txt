@@ -1,0 +1,30 @@
+====== Certificate ======
+
+===== Žádost o TCS osobní certifikát =====
+Osobní certifikáty TCS jsou „běžné“ osobní certifikáty vhodné** pro zabezpečení eletronické pošty** (digitální podpis, šifrování zpráv). Certifikáty obsahují jméno uživatele, název jeho domovské organizace, unikátní identifikátor uživatele přidělený jeho domovskou organizací a jednu až deset jeho emailových adres ověřených domovskou organizací.slouží pouze k zabezpečení elektronické pošty a vydává je [[https://pki.cesnet.cz/cs/tcs-personal.html|CESNET]].
+
+Osobní certifikáty TCS jsou dostupné uživatelům organizací zařazených v národní akademické federaci identit//[[http://eduid.cz|eduID.cz]]//.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/CA_pecet1.png|CA_pecet1}} [[https://pki.cesnet.cz/cs/tcs-personal-user.html]]
+
+Přečtěte si [[https://pki.cesnet.cz/cs/tcs-personal.html|návod]].
+
+Vydávají se na tři roky roky.
+
+Certifikáty vydává certifikační úřad//TERENA Personal CA 4//.
+
+===== Osobní gridový certifikát CESNET CA4 =====
+Pokud požadujete certifikát pro gridové účely, použijte certifikát od [[https://pki.cesnet.cz/cs/ch-personal-ca4.html|CESNET CA 4]]
+
+CESNET CA4 vydává osobní certifikáty použitelné k přihlašování ke gridovým službám, pro digitální podpis a k šifrování dat.
+
+Osobní certifikáty jsou vydávány s platností maximálně na 13 měsíců.
+
+Pro vyřízení žádosti o certifikát je nutná osobní registrace u registrační úřadu a předložení písemných dokladů potvrzujících správnost identifikačních dat uvedených v žádosti.
+
+Přečtěte si [[https://pki.cesnet.cz/cs/ch-personal-ca4.html|návod]].
+
+===== Registrace gridového certifikátu v MetaCentru =====
+Získaný gridový certifikát je třeba zaregistrovat na portále MetaCentra. Máte-li certifikát nainstalovaný v prohlížeči, [[http://metavo.metacentrum.cz/cs/myaccount/personal|registrace]] se provede při prvním vstupu na [[http://metavo.metacentrum.cz/cs/myaccount/personal|osobní stránky]] MetaCentra.
+
+Podporujeme certifikáty i jiných vydavatelů, každý uživatel může mít zaregistrovaných více certifikátů. V případě problémů nebo dotazů nás kontaktujte přes RT [[mailto:meta@cesnet.cz|meta@cesnet.cz]].

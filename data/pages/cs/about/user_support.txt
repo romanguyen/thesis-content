@@ -1,0 +1,20 @@
+====== User Support ======
+
+Před odesláním požadavku se podívejte, zda nenajdete odpověď na svůj dotaz na stránce [[cs:faq|FAQ]].
+
+Primární kontakt pro řešení většiny problémů spojených s provozem VO MetaCentra je adresa [[mailto:meta@cesnet.cz|meta@cesnet.cz]]. Na tuto adresu lze posílat všechny připomínky a náměty pro práci MetaCentra NGI, dotazy týkající se zapojení nových zdrojů, gridovým certifikátům, programovému vybavení, atd.
+
+Pro otázky či problémy týkající se MetaCentra NGI a ostatních virtuálních organizací spravovaných MetaCentrem je mailová adresa [[mailto:support@metacentrum.cz|support@metacentrum.cz]].
+
+Pokud máte otázky ohledně cloudů, zašlete nám email na adresu odpovídající Vámi použivaném cloudu:
+
+* MetaCloud - [[mailto:cloud@metacentrum.cz|cloud@metacentrum.cz]]
+* FedCloud - [[mailto:fedcloud@metacentrum.cz|fedcloud@metacentrum.cz]]
+
+==== RT systém ====
+Veškerá nová korespondence došlá na výše zmiňované emailové adresy je zaznamenána v RT (Request Tracking - sledování požadavků) systému, který vytvoří tzv. lístek a přidělí mu jednací číslo.
+
+O vytvoření lístku je e-mailem informován autor původního e-mailu i všichni lidé v MetaCentru odpovědní za řešení problémů uživatelů. Jednací číslo lístku se objevuje v záhlaví (subject) všech e-mailů týkajících se daného lístku, např. [MetaCentrum #12345]. Podle tohoto jednacího čísla jsou veškeré e-maily přiřazovány k příslušnému lístku. Pokud tedy odpovídáte na dotaz pracovníka MetaCentra týkající se určitého lístku, zachovejte tuto identifikaci lístku v záhlaví e-mailu.
+
+==== Výukové materiály MetaCentra ====
+Pro naše uživatele jsme připravili několik [[https://www.youtube.com/channel/UCsUNUO4xXrXnoc1_cxa8Tyw|výukových videí]], pokrývajících základy práce se zdroji MetaCentra.

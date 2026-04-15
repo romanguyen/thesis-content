@@ -1,0 +1,7 @@
+====== Support contacts ======
+
+  * Organization: CESNET, z. s. p. o.
+  * Address: Zikova 4, 160 00 Praha 6
+  * Tel: +420 234 680 222
+  * GSM: +420 602 252 531
+  * Email: [[mailto:support@cesnet.cz|support@cesnet.cz]]

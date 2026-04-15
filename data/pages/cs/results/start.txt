@@ -1,0 +1,15 @@
+====== Results ======
+
+===== Splněné cíle =====
+MetaCentru se podařilo splnit tyto cíle:
+
+* vytvořit jednotné uživatelské rozhraní, včetně správy účtů a mechanismu přihlašování se do MetaCentra
+* vytvořit uniformní autentizační a bezpečnostní mechanismy, podporující práci formou tzv. single sign-on (uživatel se pouze jednou autentizuje a následně již může pracovat se všemi zdroji MetaCentra bez omezení a zejména bez nutnosti znovu explicitně prokazovat svou totožnost)
+* vytvořit sdílený diskový prostor, přístupný jak v rámci celého MetaCentra, tak i z koncových stanic jednotlivých uživatelů
+* zpřístupnit jednotný systém dávkového zpracování úloh
+* garantovat vysokorychlostní připojení na páteř počítačové sítě
+* podporovat vývoj a používání paralelních a distribuovaných programů a paralelizovaného programového vybavení
+
+****
+
+* [[https://www.cesnet.cz/sdruzeni/dokumenty/|Roční zprávy a další dokumenty CESNETu]]

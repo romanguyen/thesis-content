@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_repo": "CESNET/metacentrum-user-docs",
+    "source_path": "data/hardware/clusters.json",
+    "last_updated": "2026-04-08"
+  },
+  "organizations": [
+    {
+      "name_en": "CESNET",
+      "name_cs": "CESNET",
+      "clusters": [
+        {
+          "name": "adan.grid.cesnet.cz",
+          "cpu": 6144,
+          "nodes": 48,
+          "location_en": "Prague",
+          "location_cs": "Praha",
+          "details_url": "https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz",
+          "photo_url": "https://www.metacentrum.cz/images/clusters/adan.jpg"
+        },
+        {
+          "name": "turin.grid.cesnet.cz",
+          "cpu": 3328,
+          "nodes": 52,
+          "location_en": "Pilsen",
+          "location_cs": "Plzen",
+          "details_url": "https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz",
+          "photo_url": "https://www.metacentrum.cz/images/clusters/turin.jpg"
+        }
+      ]
+    },
+    {
+      "name_en": "CERIT-SC",
+      "name_cs": "CERIT-SC",
+      "clusters": [
+        {
+          "name": "bee.cerit-sc.cz",
+          "cpu": 960,
+          "nodes": 10,
+          "location_en": "Brno",
+          "location_cs": "Brno",
+          "details_url": "https://www.metacentrum.cz/pbsmon2/resource/bee.cerit-sc.cz",
+          "photo_url": "https://www.metacentrum.cz/images/clusters/bee.jpg"
+        }
+      ]
+    }
+  ]
+}

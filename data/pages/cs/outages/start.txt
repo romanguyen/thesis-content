@@ -1,0 +1,15 @@
+====== Odstavky ======
+
+===== Planovana odstavka: frontendy a scheduler =====
+  * **Termin:** ut 14. 4. 2026, 07:00-11:00 CEST
+  * **Dopad:** kratkodobe omezeni prihlasovani a scheduler prikazu
+  * **Rozsah:** vybrane frontend uzly a PBS scheduler
+
+===== Udrzba ulozist: metadata scratch =====
+  * **Termin:** ct 16. 4. 2026, 06:00-08:00 CEST
+  * **Dopad:** docasne pomalejsi pristup do vybranych scratch cest
+  * **Rozsah:** metadata sluzby scratch ulozist
+
+===== Kde sledovat aktualni stav =====
+  * [[https://metavo.metacentrum.cz/outages/|MetaVO odstavky]]
+  * [[https://www.metacentrum.cz/cs/news/index.jsp|MetaCentrum novinky]]

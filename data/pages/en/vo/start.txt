@@ -1,0 +1,11 @@
+====== Vo ======
+
+Users of the European Grid Infrastructure are organised into Virtual Organisations (VO). A VO is a group of people who share similar interests, have similar goals, and need to work collaboratively sharing resources (e.g. data, software, expertise, CPU, storage space) regardless of their geographical location. There are already more than [[http://operations-portal.egi.eu/vo|200 VOs hosted on EGI]].**** Users are invited to join these VOs, or establish new ones for their own communities.
+
+===== Getting account in VO =====
+Virtual organizations managed by MetaCentrum:
+
+| ** Virtual organizations** | ** Description** | ** Get account** |
+| ** MetaCentrum VO** | MetaCentrum VO is a regional catch-all virtual organization of the Czech National Grid Organization (NGI) and it is intended only for employees and students of research or academic organizations in the Czech Republic and for research purposes only. Users registered in MetaCentrum get access to the computing and storage capacity and a wide range of application software. | [[en:vo:metavo|MetaCentrum]] |
+| ** VO Auger** | Set up and is accesible exclusively for members of the Pierre Auger Observatory. | [[en:vo:auger|Auger]] |
+| ** EUAsia VO** | Supports e-Science researches within the Asia-Pacific region. Estabilished as a part of EUAsiaGrid project. | [[en:vo:eu_asia|EUAsia]] |

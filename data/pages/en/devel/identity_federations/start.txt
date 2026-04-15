@@ -1,0 +1,4 @@
+====== Identity Federations ======
+
+Identity federations make it possible to leverage institution-based AAI to access services operated by other institution in the federation.
+CESNET and Masaryk University operates a set of a [[http://atlases.muni.cz/|clinical and histological medical images]] that is integrated with a large number of identity federations worldwide. While operating services like this we identified several limitations of current identity federations and launched a research introducing a concept of user-centric identity federations.

@@ -1,0 +1,14 @@
+====== Software ======
+Software applications and modules available on MetaCentrum systems.
+
+===== Module System =====
+Use the module system to load and manage software environments.
+
+===== Available Software =====
+  * Compilers (GCC, Intel, PGI)
+  * Scientific libraries (MKL, OpenBLAS, FFTW)
+  * Application software (MATLAB, Gaussian, ANSYS)
+  * Development tools (Python, R, Julia)
+
+===== Software Installation =====
+Users can request installation of additional software through the support system.

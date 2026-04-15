@@ -1,0 +1,10 @@
+====== Registration ======
+Complete the registration process to get access to MetaCentrum resources.
+
+===== Registration Steps =====
+  - Verify your eligibility (member of Czech academic institution)
+  - Prepare your eduID.cz identity
+  - Fill in the registration form in Perun
+  - Wait for approval (usually within 1 working day)
+
+[[https://perun.metacentrum.cz|Start Registration]]

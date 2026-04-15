@@ -1,0 +1,13 @@
+====== Results ======
+
+===== Achieved goals =====
+MetaCentrum has achived the following goals:
+
+* To unify end user's interfaces, both at the administrator and user levels including accounts administration and login mechanism into MetaCentrum.
+* To establish an unified authentication and security mechanisms supporting single sign-on work (user has to be authenticated once and consecutively can work with all METACentrum resources without any limits and especially without any needs to explicitly prove his/her identity).
+* To create a shared disc space accessible in the frame of the whole MetaCentrum as well as specific users end workstations.
+* To make accessible an unified batch queueing system.
+* To guarantee high-speed network connectivity to the national network backbone.
+* To support development and usage of parallel and distributed programs and parallel programming equipment.
+
+* [[https://www.cesnet.cz/cesnet/documents/?lang=en|CESNET annual report and other documents]]

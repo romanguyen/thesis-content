@@ -1,0 +1,44 @@
+====== Grid ======
+
+A computational grid is a hardware and software infrastructure that provides dependable, consistent, pervasive, and inexpensive access to high-end computational capabilities. It coordinates resources that are not under centralized management and provides non-trivial quality of services.
+The** National Grid Infrastructure (NGI)** in the Czech Republic has been for several years operated and managed by MetaCentrum. The main purposes of the NGI are the provision of central grid service, coordination of individual subjects or offering a storage resources for handling and storing big data.
+
+==== What is an NGI? ====
+NGIs (National Grid Initiatives) are officially recognised bodies that ensure the operation of the grid infrastructures in their own country, and an effective and transparent representation of the needs and wishes of their scientific communities, resource providers and e-infrastructure related institutions. They provide a single point of contact in each country, which is fundamental for efficient coordination between the NGIs, users, resource owners and other interests.
+
+Within the EGI (European grid infrastructure) model, NGIs are free to organise and distribute their resources and services among their community as they want. Computing resources continue to be hosted and funded within the member states or the relevant international facilities.
+
+=== Technically and organisation-wise NGIs ensure that ===
+* storage and computing resources are provided according to agreed conditions and standards
+* the national grid Infrastructure is continuously operated and maintained to an agreed level of service
+* user communities are registered and supported
+* resource owners/providers are registered and supported
+* standards, policies and other consensus accepted by EGI are implemented.
+
+==== Advantages for grid users ====
+* computing and data services whose memory and CPU requirements exceeds possibilities of individual supercomputing centers
+* wide range of application software from various scientific areas (computer science, computational chemistry, biomedical computing, bioinformatics, physics and many more)
+* prioritization of resource access according to the scientific achievements
+* user support that provides resolutions for individual application problems, algorithm optimalization and any other problems that appear for users in different scientific fields of interests
+* integration into internationl grid infrastructure (EGI) and international research area (ERA)
+
+==== Advantages for owners of clusters ====
+* qualificated support during selection of hardware and software, installation, operation of computing clusters, neccessary administration, updates etc.
+* account managment, installation and operation of task management systems
+* common operation monitoring
+* priority even dedicated access to own machines
+
+==== What is EGI? ====
+Video presentation: [[http://www.youtube.com/europeangrid|EGI and e-Infrastructures in Europe]] (source [[http://www.egi.eu/]])
+
+[[http://www.egi.eu/export/sites/egi/about/press/EGIbrochure.pdf|EGI brochure (pdf)]], [[http://web.eu-egi.eu/blueprint.pdf|EGI blueprint]] (source [[http://www.egi.eu/]])
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/EGI_history.png|EGI_history}} [[https://www.metacentrum.cz/export/sites/metacentrum/images/EGI_history.png]] On 1 May 2010 EGI took over the coordination of European grid infrastructure. Through the previous DataGrid and Enabling Grids for E-SciencE (EGEE) projects, researchers across the globe reaped the benefits of grid technologies. Now EGI.eu, the organisation established to coordinate EGI, hopes to continue this trend. Although EGI marks a change from short-term funded projects to a long-term service, for the first four years EGI.eu will be financially supported by the European Commission funded project EGI-InSPIRE. EGI will need to develop strong coordination, engage with user communities and forge links with other providers if Europe is to retain its competitive edge in the global landscape of e-Infrastructures.
+
+The main objective of the European Grid Initiative (EGI) is to establish a sustainable grid service for the European scientific community, through the creation of a long-term, pan-European grid infrastructure. The European Grid Initiative (EGI) is a partnership between National Grid Initiatives (NGIs), which are responsible for grid infrastructure related matters in each participating country, and a coordinating body, the EGI organisation (EGI.eu), based in Amsterdam. Its central role is to facilitate the interaction and collaboration between NGIs.Within the EGI partnership, NGIs and EGI.eu are thus working together to operate and further develop a sustainable pan-European grid infrastructure, enabling optimal sharing of computing and data resources, and supporting collaborative scientific discoveries in the European Research Area (ERA).
+
+EGI.eu is governed by a Council, which is responsible for providing the long-term direction of the organisation, and the Executive Board, which provides guidance to the Director, who leads the organisation on a day-to-day basis. The EGI Council currently consists of 30 NGI members as well as two EIROforum members. Projects included in the European Strategy Forum for Research Infrastructures (ESFRI) Road Map - the EC’s initiative to develop the scientific integration of Europe and to strengthen its international outreach - are also invited to contribute to, and benefit from EGI, as is any organisation that subscribes to EGI’s objectives.
+
+The long-term sustainability model of EGI relies primarily on the NGIs, which have long-term guaranteed funding at the national level. The computing resources will continue to be hosted and funded within the member states or the relevant international facilities. EGI.eu, as the coordinating body, will be funded through membership fees paid by NGIs, with a contribution from the European Commission (EC).
+
+[[http://www.egi.eu/]]

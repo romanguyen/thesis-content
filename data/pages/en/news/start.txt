@@ -1,0 +1,176 @@
+====== News ======
+
+===== EGI.eu is now seeking to employ a Director to lead the EGI.eu organisation =====
+More info about the open position can be found at [[http://www.egi.eu/|EGI.eu]] web page.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0015.html|permalink]]//Ivana Křenková//, Thu Nov 14 09:58:00 CET 2013
+===== EGI Inspired Newsletter - Summer 2012 =====
+Summer 2012 issue of our Inspired newsletter is now online!
+- html version - [[http://go.egi.eu/Summer12]]
+- PDF version - [[http://go.egi.eu/Summer12PDF]]
+
+This issue features:
+* A preview of the Technical Forum in Prague
+* Steve Brewer summarises the EGI Federated Cloud Task Force's activities
+* The MPI Virtual Team reports on a number of problems solved
+* Stephen Burke & Jelena Tamuliene talk about their secondment projects
+* Sara Coelho profiles VO auger
+* Sergio Andreozzi ponders the costs of e-science and introduces the
+first numbers
+* Gergely Sipos writes about the latest developments in Federated
+Identity Management
+* Owen Appleton rounds up the achievements of the gSLM project
+
+As always, your comments/feedback and ideas for stories are very
+welcome – please email [[mailto:press@egi.eu|press@egi.eu]].
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0014.html|permalink]]//Ivana Křenková//, Thu Sep 06 11:43:00 CEST 2012
+===== EGI Inspired Newsletter - Spring 2012 =====
+The Spring 2012 issue of the EGI Inspired newsletter is out in:
+- html version: [[http://go.egi.eu/Spring12]]
+- pdf version: [[http://go.egi.eu/Spring12PDF]]
+This issue's features:
+
+* A profile of IberGrid
+* Integration of Desktop Grids in EGI
+* The latest infrastructure figures and trends
+* An introduction to the new EGI Customer Relationship Management tool
+* An outlook of EGI's strategy for Europe 2020
+* The state-of-the-art on Science Gateways
+* And the premiere of the 'Stories from the Grid' videos
+
+As always, your comments/feedback and ideas for stories are very
+welcome at press@egi.eu.
+Online abstract submission to the EGI Technical Forum 2012 is now
+open. See http://tf2012.egi.eu/ for more details.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0013.html|permalink]]//Ivana Křenková//, Thu May 24 10:15:00 CEST 2012
+===== EGI Inspired Newsletter - Winter 2012 =====
+The Winter2012 issue of the EGI Inspired newsletter is out:
+- html version: [[http://go.egi.eu/Winter12]]
+- pdf version: [[http://go.egi.eu/Winter12PDF]]
+This issue's features:
+- EGI.eu's second anniversary
+- Community Forum 2012: Programme preview
+- Community Forum 2012: Training workshops - go with the (work)flow
+- Case study: Hunting for new viruses
+- Music research and grid computing
+- Sustainability: the next steps
+- European Research Area – No investment without reform
+- A positive outlook for availability in EGI
+- EGI going social
+- Mascot found!
+If you want to contribute with ideas, suggestions or stories to the
+newsletter don't forget to let us know at press@egi.eu.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0012.html|permalink]]//Ivana Křenková//, Mon Feb 20 09:36:00 CET 2012
+===== EGI Inspired Newsletter - Autumn 2011 =====
+The summer edition of the EGI newsletter, Inspired, is now available [[http://www.egi.eu/results/newsletters/Inspired_Autumn_2011/|on-line]]
+
+Content:
+
+- Reward: Mascot Missing
+- Introducing the NGI Coordinators
+- The grid is under attack!
+- Project profile: SHIWA and outGRID
+- Case study: A gem of a user
+- Staged rollout of grid middleware components to EGI
+- Horizon 2020 – what to expect?
+- Lyon: A great place to make friends
+- NGI Profile: NGI-DE
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0011.html|permalink]]//Ivana Křenková//, Tue Nov 01 16:48:00 CET 2011
+===== EGI Inspired Newsletter - Summer 2011 =====
+The summer edition of the EGI newsletter, Inspired, is now available on-line [[http://go.egi.eu/Summer11]]
+
+Content:
+
+* Cyril L'Orphelin introduces the latest improvements to the EGI Operations Portal
+* Steve Brewer reports on the HealthGrid meeting in Bristol
+* Richard McLennan wants everyone in the community to visit the new Training Marketplace
+* Rosette Vandenbroucke tells us about the newly published e-IRG White Paper 2011
+* Sergio Andreozzi is looking for the best Service Level Management practices
+* Viviane Li investigated what Lyon has to offer in preparation for the EGI Technical Forum in September
+* Sara Coelho brings you a profile France Grilles, the Technical Forum's co-hosts
+
+EGI InSpire welcome your feedback on this and contributions to future newsletters. Please email press@egi.eu.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0010.html|permalink]]//Ivana Křenková//, Tue Aug 23 11:22:00 CEST 2011
+===== Inspired Newsletter - Spring 2011 =====
+The spring edition of the EGI newsletter, Inspired, is now available on-line [[http://www.egi.eu/results/newsletters/Inspired_Spring_2011/index.html]]
+
+Content:
+
+* EMI: Scaling new heights
+* User Forum 2011 wrap up
+* MoUs and SLAs: collaborations from theory to practice
+* EGI User Virtualisation Workshop
+* Project profile: GISELA
+* Driving EGI policy
+* Operations architecture and latest infrastructure figures
+* Opinion: Finding out what researchers need
+* The SEERA-EI e-Infrastructure analysis
+* EDGI's tool to submit 10,000 jobs to the grid
+
+EGI InSpire welcome your feedback on this and contributions to future newsletters. Please email press@egi.eu.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0009.html|permalink]]//Ivana Křenková//, Mon May 02 17:48:00 CEST 2011
+===== CESNET Large Infrastructure project starts =====
+We started a strategic project titled//CESNET Large Infrastructure//. It is on of the high-priority projects focused in building large infrastructures for research and innovations. The project is planned for 2011 to 2015 and is going to build on an previous CESNET research project,//Optical National Research Network and Its New Applications//. Its goal is to further develop the infrastructure and services which we offer to Czech research and education community. Read further details in the [[http://www.ces.net/doc/press/2011/pr110309.html|press release]].
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0008.html|permalink]]//Ivana Křenková//, Wed Mar 30 12:12:00 CEST 2011
+===== Inspired Newsletter - Winter 2011 =====
+The winter edition of the EGI newsletter, Inspired, is now available on-line [[http://go.egi.eu/rakjd|http://www.egi.eu/results/newsletters/Inspired_Winter_2011/]]
+
+Content:
+
+* User Forum 2011: Programme preview
+* WeNMR: an infrastructure for NMR and structural biology
+* Project profile: Initiative for Globus in Europe
+* Collecting operational requirements
+* TERENA conference preview
+* and more
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0007.html|permalink]]//Ivana Křenková//, Thu Feb 17 08:41:00 CET 2011
+===== Collaborative environments seminar =====
+CESNET association will held a collaborative environments seminar on Thursday,** 2 December 2010** (Prague) devoted to variety of voice and video broadcast technologies (from IP telephony to uncompressed high-definition video). Seminar will be held in Czech language.
+
+More information are available at [[http://metavo.metacentrum.cz/cs/seminars/seminar3/index.html|http://www.cesnet.cz/akce/2010/vzdalena-spoluprace/]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0006.html|permalink]]//Ivana Křenková//, Fri Nov 12 10:19:00 CET 2010
+===== Grid Computing Seminar 2010 =====
+Grid Computing Seminar 2010, hosted by ﻿the MetaCentrum (CESNET association's project) and Bull company, was attended by more than seventy participants. The main topic of the meeting was providing current and potential users with information on the MetaCentrum NGI ﻿activities in the Czech Republic and current trends in HPC at the national and international level. Representatives of the three largest Czech e-Infrastructure projects (CESNET, IT4Innovations, CERIT-SC) presented their vision of ﻿the Czech e-Infrastructure future in a panel discussion.
+﻿
+Detailed information can be found at [[http://metavo.metacentrum.cz/en/seminars/seminar3/index.html|http://metavo.cesnet.cz/en/seminars/seminar3/index.html]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0005.html|permalink]]//Ivana Křenková//, Mon Oct 18 10:07:00 CEST 2010
+===== NEW: CESNET grid certificate available =====
+[[http://pki.cesnet.cz/cs/tcs-personal.html|CESNET TCS]] yesterday announced a new PKI service for the Czech academic community. Beside the personal CESNET CA certificate//(TERENA Personal CA//), CESNET grid personal certificate (//TERENA eScience Personal CA)//for authentication, digital signature, and data encryption in Grid infrastructure is available. Both personal certificates are now associated to the//[[http://eduid.cz/|eduID.cz]]//service.
+
+The certificates are issued to employees and students of Czech universities, Czech Academy of Sciences, and any organizations cooperating with these entities in the practice of research, educational and administrative functions as well as computers and application services operated by these organizations.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0004.html|permalink]]//Ivana Křenková//, Tue Oct 05 09:55:00 CEST 2010
+===== Grid Computing Seminar 2010 =====
+Seminar of grid computing will be held on October 15, 2010 from 10 a.m. in the conference room of Masaryk dormitory, Thákurova 1, Prague. The seminar is organized by MetaCentrum project of CESNET association with participation of Bull s.r.o. company.
+The primary aim of the seminar is to inform current as well as new, potential users of high performance computing about available possibilities for solving broad range of research problems and challenges at national and international level. The participation of top representatives of the most important, newly forming e-Infrastructures of the Czech Republic is also planned. Registration deadline is October 12, 2010.
+[[http://metavo.metacentrum.cz/en/seminars/seminar3/index.html|More information and registration form]]
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0003.html|permalink]]//Ivana Křenková//, Tue Oct 05 09:33:00 CEST 2010
+===== EGI-InSPIRE newsletter available =====
+The first issue of ''Inspired'', the newsletter from the EGI-InSPIRE project, is now available:
+[[http://www.egi.eu/export/sites/egi/results/newsletters/Newsletter_Summer2010.pdf|Newsletter_Summer2010.pdf]]
+
+Its contents includes:
+
+* Applications database is up and running
+* Central European ROC evolves into NGI
+* Distributed monitoring service is operational
+* Policy groups have started to meet
+* Upcoming Events
+* Technical Forum preview
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0002.html|permalink]]//Ivana Křenková//, Wed Sep 29 13:24:00 CEST 2010
+===== MetaCentrum NGI and VO have separate web portals =====
+The old MetaCentrum portal was split into two new portals.
+
+[[https://www.metacentrum.cz/en/news/index.jsp#news_0001.html|permalink]]//Martin Kuba//, Fri Sep 24 16:03:00 CEST 2010

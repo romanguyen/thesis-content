@@ -1,0 +1,11 @@
+====== About ======
+
+{{http://metavo.metacentrum.cz/export/sites/meta/images/about_META-big.gif|O MetaCentru}} Information about MetaCentrum, its aims, activities, history, publications, and many others
+
+* [[en:about:meta|Project MetaCentrum]] - short description of activities, mission, and history of the MetaCentrum
+* [[en:devel|Our development]] - description of software and improvements developed in MetaCentrum
+* [[en:devel:virtualization|Virtualization]] of physical infrastructure - computing resources, storage capacity and computer networks
+* [[en:results|Results]] - annual reports, technical reports, yearbooks, and publications
+* [[en:about:projects|Participation in projects]] - list of national and international projects
+* [[en:about:nazory|Users testimonials]]
+* [[en:about:contacts|Contacts]]

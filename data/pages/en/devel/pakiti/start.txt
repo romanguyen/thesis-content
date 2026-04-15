@@ -1,0 +1,13 @@
+====== Pakiti ======
+
+===== Introduction =====
+We are developing Pakiti service for machines detection that are not kept up-to-date with security patches. Unpatched security vulnerabilities pose a significant risk for large infrastructures and utilizing the Pakiti service allows the security staff to mitigate the risk. We are providing that service also for the whole EGI infrastructure.
+
+Pakiti 2 - [[https://github.com/CESNET/pakiti2|github.com/CESNET/pakiti2]]
+
+Pakiti 3 - [[https://github.com/CESNET/pakiti3|github.com/CESNET/pakiti3]]
+
+===== References =====
+Mingchao Ma, Daniel Kouřil, Michal Procházka, Cyril L'Orphelin, Olivier Lequeux, Pierre Veyre, Christos Kanellopoulos, Paschalis Korosoglou.//EGI Security Monitoring//.** The International Symposium on Grids and Clouds (ISGC)**. Academia Sinica, Taipei, Taiwan, February 26 – March 2, 2012.
+
+Michal Procházka, Daniel Kouřil, Romain Wartel, Christos Kanellopoulos, Christos Triantafyllidis.//A Race for Security: Identifying Vulnerabilities on 50 000 Hosts Faster than Attackers//.** The International Symposium on Grids and Clouds and the Open Grid Forum - ISGC2011**. Academia Sinica, Taipei, Taiwan, March 25-30, 2011.

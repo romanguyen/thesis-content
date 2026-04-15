@@ -1,0 +1,30 @@
+====== Cloud ======
+
+====== Development for HPC Cloud ======
+
+CESNET/MetaCentrum participates in international collaborations to enable HPC-oriented cloud federations. Prominent among them are the [[https://www.egi.eu/federation/egi-federated-cloud/|EGI Federated Cloud]] and the [[https://www.egi.eu/federation/egi-federated-cloud/|INDIGO-DataCloud Project]]. There are major focus areas wherein CESNET contributes. These are covered by their own profile pages:
+* [[en:devel:occi|Interoperable cloud resource management through the OCCI standard]],
+Federated AAI with:
+* [[https://perun.cesnet.cz/web/|Perun]] – a identity and attribute authority
+* [[en:devel:identity_federations|Identity Federations]]
+* [[https://wiki.metacentrum.cz/gswiki/GridSite_Architecture|GridSite]] – an Apache module for X.509-based authentication
+
+Aside of those, the following areas are also receiving attention.
+
+===== Virtual Networking in Federated Clouds =====
+Local virtual networks at cloud sites enable isolation and improve security in multi-tenant environments. The effort is underway to make these local virtual networks manageable over open standard protocols, and potentially achieve the same for inter-site networks spanning multiple sites operated by multiple providers relying on different cloud management frameworks. CESNET developers focus not only on the standardization part, but also develop tools for OpenNebula-based cloud sites: the [[https://wiki.egi.eu/wiki/rOCCI:ROCCI|rOCCI suite]] and [[https://github.com/CESNET/NOW|NOW (Network Orchestrator Wrapper)]].
+===== Appliance Generation an Distribution across Federated Infrastructures =====
+IaaS and PaaS models of providing cloud services rely on virtual appliances. In popular terms, they are “images” of either bare operating systems, typically entailing popular Linux distributions, which can be further contextualized once users instantiate their own virtual resources, or operating systems with applications pre-installed for use in the given platform, which may often consist of a number of complimentary appliances. Such appliances must be offered to users of any cloud service – they are the basic units the users see and select from when they decide to procure resources in the cloud. Understandably, cloud service providers are often expected to offer a variety of appliances. Even in a simple IaaS scenario, users expect to see a range of OS distributions and flavours. With PaaS, the variety is even greater. Obviously a range of appliances can be obtained from cloud marketplaces, but that only offsets rather than solves the problem since the challenges of maintaining their appliances are the same for local cloud site administrators and marketplace maintainers alike. This, inevitably, means that cloud site or marketplace administrators must not only offer a selection of appliances, but also manage them throughout their life cycle, keep them secured and updated, and eventually discontinue them when the time comes. It is not only cumbersome but also inherently insecure to leave updates to the user instantiating the given appliance. On top of that, the ability to always offer “fresh” appliances to its users is a competitive advantage a cloud site may wish to exploit. A set of tools is being developed / maintained to automate the life cycle of cloud appliances and their distribution to resource sites. Those include:
+* NIFTY – OpenNebula Image File Synchronization Utility
+* COMFY – Cloud Image Factory
+* ITCHY – Virtual Appliance Handling Utility
+* CloudKeeper
+
+The whole chain provides for regular regeneration of up-to-date appliance templates, their conversion and redistribution across the infrastructure.
+===== Heterogeneous Resource Usage Accounting =====
+CESNET develops a suite of accounting/monitoring data collectors and processors for heterogeneous infrastructures to effectively measure the efficiency of resource usage in different HPC/HTC environments such as Cloud, PBS/TORQUE, Hadoop, etc. The title for the overall product is:
+* [[https://github.com/CESNET/michal|MICHAL]] – Multi-Input Cloud Hardware Accounting Layer
+
+MICHAL relies on OpenTSDB for collection and Grafana for custom visualisation of resource usage statistics. It is capable of evaluating actual resource usage alongside resource reservation records (such CPUs assigned to a cloud VM as opposed to actual usage of said CPUs). Such statistic help resource providers to allocate their resources and make decisions on overcommit strategies, etc.
+==== References ====
+Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In//Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,//ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346

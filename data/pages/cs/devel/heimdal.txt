@@ -1,0 +1,4 @@
+====== Heimdal ======
+
+===== Heimdal - patche a modifikace =====
+Tyto informace jsou dočasně přístupné pouze v [[http://metavo.metacentrum.cz/en/docs/software/devel/heimdal.html|anglické verzi]].

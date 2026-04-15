@@ -1,0 +1,10 @@
+====== Home stories ======
+
+Format: `DD/MM|YYYY|Title|Target page id or URL|Image URL`
+
+* 08/04|2026|Workshop AI Confidential|news:start|https://www.metacentrum.cz/export/sites/metacentrum/images/EGI_history.png
+* 09/04|2026|AdvanceMed 2026|news:start|https://www.metacentrum.cz/export/sites/metacentrum/images/ceritsc.png_1995693183.png
+* 28/04|2026|Supercomputers and VLQ quantum computing excursion|news:start|https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/pbsmon1.png
+* 05/05|2026|Training: how to run GPU workloads|news:start|https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png
+* 13/05|2026|Open Access Day for researchers|news:start|https://www.cesnet.cz/wp-content/uploads/2022/10/Foto-1035-1-scaled.jpg
+* 26/05|2026|MetaCentrum community meetup|news:start|https://www.metacentrum.cz/export/sites/metacentrum/en/devel/plan-based-scheduler/screenshot3.png

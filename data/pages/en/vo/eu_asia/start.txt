@@ -1,0 +1,8 @@
+====== Eu Asia ======
+
+EUAsia VO is a catch-all virtual organization built to support e-Science research within the Asia-Pacific region. It has been established as a part of [[http://www.euasiagrid.org/|EUAsiaGrid]] project. To improve the collaboration among EUAsiaGrid partners a number of distinct tutorials describing utilization of several audio- and videoconferencing tools can be find below:
+
+* [[https://www.metacentrum.cz/cs/VO/EU_Asia/tutorial/psi.html|Psi setup]]
+* [[https://www.metacentrum.cz/cs/VO/EU_Asia/tutorial/SJphone.html|SJPhone setup for Windows]]
+* [[https://www.metacentrum.cz/cs/VO/EU_Asia/tutorial/linux.html|SJPhone setup for Linux]]
+* [[https://www.metacentrum.cz/cs/VO/EU_Asia/tutorial/mirial.html|Mirial tutorial]]

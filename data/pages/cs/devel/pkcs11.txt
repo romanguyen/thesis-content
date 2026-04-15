@@ -1,0 +1,3 @@
+====== Pkcs11 ======
+
+informace jsou pouze v [[cs:devel:pkcs11|anglické verzi]]

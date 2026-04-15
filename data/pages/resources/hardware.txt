@@ -1,0 +1,13 @@
+====== Hardware ======
+Overview of computing hardware available through MetaCentrum.
+
+===== Computing Clusters =====
+High-performance computing clusters distributed across Czech academic institutions.
+
+===== GPU Resources =====
+NVIDIA GPU accelerators for machine learning and scientific computing.
+
+===== Specialized Hardware =====
+Large memory nodes, high-frequency CPUs, and other specialized resources.
+
+[[https://metavo.metacentrum.cz/pbsmon2/hardware|View Full Hardware List]]

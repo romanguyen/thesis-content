@@ -1,0 +1,7 @@
+====== Slurm ======
+
+** Job scheduling with the SLURM resource manager** ([[http://wwwtest.metacentrum.cz/export/sites/metacentrum2/cs/metacentrum/ngi/devel/students/slurm/thesis.pdf|PDF]])
+
+Abstract: Cílem této bakalářské práce je poskytnout analýzu systému SLURM, která poslouží při vývoji plánovače na tomto systému postaveném. V jejím rámci byl proveden podrobný průzkum možností kooperace mezi SLURMem a plánovačem a sebraný materiál pak posloužil k evaluaci a porovnání možných přístupů. Informace v této práci by měly vývojáři pomoci rozhodnout se, jaký přístup je vhodný pro jeho záměry, a také umožnit následnou implementaci. Jejím zdrojem jsou zdrojové kódy SLURMu, které byly předmětem našeho zkoumání více než jeden a půl roku.
+
+Detaily k bakalářské práci ([[http://is.muni.cz/th/173052/fi_b/|IS MU]])

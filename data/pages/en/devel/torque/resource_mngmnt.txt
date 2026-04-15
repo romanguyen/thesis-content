@@ -1,0 +1,22 @@
+====== Resource Mngmnt ======
+
+Plain Torque has very weak resource semantics and leaves most of resource management logic to the scheduler. This approach suffers from scalability issues and also doesn't allow multiple schedulers on one server, because the scheduler requires exclusive access to the GRID to maintain synchronized GRID state.
+In our fork, we have moved resource semantics into the server, which now supports static allocation of generic resources and serves as a guard preventing any invalid (over limit) requests.
+
+===== Exclusive jobs =====
+Torque originally didn't have any notion of exclusive jobs (jobs that claim entire nodes). Since this semantic was requested by our users we implemented it into Torque. This allows users to request nodes using their properties instead of specifying number of CPU cores.
+
+===== GPU Cards =====
+The easiest approach when dealing with GPU cards as a resource is to set these cards into exclusive mode. This unfortunately suits only a small subset of users.
+In our fork, GPU cards are handled as all other generic resources, with added semantics on computational nodes, where the access to GPU cards is enforced using UNIX access rights.
+Users will only see and will be able to access the card they were assigned by the scheduling system. To simplify access, information about this card(s) is also exported into the jobs environment.
+
+===== Software Licenses =====
+Software licenses pose a particular challenge in scheduling. Licenses are special type of resource that has several specific characteristics:
+
+* Software licenses are claimed dynamically, when a particular software is started. This in most cases will not directly match the job life-time.
+* Many software licenses in the MetaCentrum license pool are shared between the GRID and desktop users.
+* There is no reliable technique for locking or reserving licenses for a specific user on a specific machine.
+
+These characteristics lead to many problems, particularly race-conditions when licenses are depleted by an external entity before a job can actually utilise them.
+In our scheduler, we are currently using a simulation of license reservation, this together with data-mining techniques allows us to close the time gaps for race-conditions to a reasonable length. While this does not eliminate issues with licenses entirely, it is a big step towards static license reservation.

@@ -1,0 +1,35 @@
+====== Pbsmon ======
+
+===== Introduction =====
+Pbsmon is a web application for observing the current state of both hardware and virtual computing resources of the virtual organization MetaVO which gathers computing resources of main universities in the Czech Republic.
+
+The main purpose of Pbsmon is to provide an intuitive interface to the complicated infrastructure consisting of clusters of virtualised machines assigned to various job queues.
+
+===== Overview =====
+The MetaVO virtual organization is operated by the Czech NGI MetaCentrum, and allows all students and employees of academic institutions to perform scientific computations on resources donated by computing centers of several universities. The hardware resources are usually clusters of PC-compatible servers with multiple CPUs, with each hardware machine running one or more virtual machines. Both hardware and virtual machines are commanded by a job planning system called PBS (Portable Batch System - MetaVO has recently transitioned from PBSPro to Torque, both are versions of PBS).
+
+The virtual machines are used for two purposes. The first purpose is enabling users who are the owners of a particular hardware machine immediate access to their machine even when a non-privileged user's job is already assigned to the machine. The second purpose is to enable dynamic creation of clusters of virtual machines from user-supplied images of operatings systems.
+
+The virtual machines considerably complicate the infrastructure. When somebody wants to see how are hardware resources utilized in MetaVO, their state must be computed from information about states of the virtual machines running on them.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/pbsmon1.png|hardware machines}}
+//Image 1: State of hardware machines as shown by Pbsmon//
+The states of virtual machines and their assignment to hardware machines can be observed too.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/pbsmon2.png|virtual machines on hardware machines}}
+//Image 2: Mapping of virtual machines onto hardware machines as shown by Pbsmon//
+Each virtual machine is displayed with information about its configuration, properties, assignment ot queues, and its current load by user jobs.
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/pbsmon3.png|state of virtual machine}}
+//Image 3: State of a virtual machine as shown by Pbsmon//
+Pbsmon also contains a personalised view for each user, showing which machines are accessible to the user and through which queues.
+
+Pbsmon collects information from several sources. Information about virtual machines, jobs, job queues and users are taken from any number of job planing systems compatible with PBS. Mapping of virtual machines to hardware machines is takes from pbs_cache, which is a home-grown system for stroing runtime data. Information about hardware machines is taken from [[en:devel:perun|Perun]], a system for managing resources.
+
+Pbsmon also displays the utilization of other resources, like disk arrays for storing scientific data:
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/disk_arrays.png|disk_arrays}}
+
+Except the computational grid organized by PBS, Pbsmon now also displays the state of a cloud service named OpenNebula:
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/PBSMon/cloud_hda.png|cloud_hda}}

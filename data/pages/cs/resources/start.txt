@@ -1,0 +1,26 @@
+====== Resources ======
+
+MetaCentrum NGI provozuje a spravuje vlastní i svěřené výpočetní prostředky a datová úložište akademických center AV, JČU, MU, MZLU, UK, FZU, VUT, ZČU, …, které jsou dostupné všem vědeckovýzkumným pracovníkům a studentům vysokých škol v České republice. [[cs:resources:hardware:start|Výpočetní kapacity]] jsou postaveny na clusterovém nebo cloudovém řešení. Clusterové řešení zahrnuje dvě varianty, SMP a HD clustery. Oba typu clusterů jsou tvořeny v podstatě samostatnými počítači (uzly), které se ale u obou variant liší zejména v počtu procesorů a velikosti operační paměti.
+
+* ** HD-clustery** (High Density) mají menší počet jader (zpravidla 16-20) ve sdílené paměti a disponují vnitřní pamětí kolem 16-32 GB. HD-clustery pokrývají potřebu vellkého množství procesorů pro aplikace, které nejsou vnitřně paralelní a využívají většího množství souběžně běžících instancí.
+* ** SMP-clustery** (Symmetric MultiProcessing) mají alespoň 64 (a spíše i více) jader a disponují vnitřní pamětí alespoň 256 GB. Jsou orientované na aplikace s velkými paměťovými nároky nebo na aplikace vyžadující větší počet procesorů komunikujících pomocí sdílené paměti.
+
+Uzly většiny clusterů jsou propojeny vysokorychlostní [[cs:resources:network|sítí]] (Infiniband), v současné době dosahující přenosové rychlosti 40 Gbps, s nižším zpožděním než Ethernet. Některé uzly (zejména HD clusterů) mohou být vybaveny i vhodnými akcelerátory, např. vysoce výkonnými grafickými kartami.
+
+Vedle těchto gridových rozhraní, v současnosti spojených s provozováním klasických dávkových systémů, jsou vybrané výpočetní zdroje dostupné i přes MetaCloud rozhraní kompatibilní s komerčními instalacemi typu Amazon EC2 nebo Google cloud.
+
+==== Počítače ====
+Národní Gridová Infrastruktura koordinuje poskytování výpočetních prostředků uživatelům pomocí tvz. Virtuálních Organizací.
+
+Seznam aktuálně používaných strojů ve VO MetaCentrum je dostuný na následujícím [[cs:resources:hardware:start|odkazu]]:
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/resources/hardware/metavo_hardware.png|MetaVO hardware}} [[cs:resources:hardware:start|https://www.metacentrum.cz/cs/resources/hardware.html]]
+
+==== Síť ====
+Základní kámen celé e-infrastruktury CESNETu je vysokorychlostní síť CESNET2. Hlavní univerzitní města České Republiky tvoří efektivní páteř této sítě.
+
+Síť CESNET2 je připojena k Evropské GÉANT síti.
+
+Více informací o síti CESNET2 můžete nalézt na webu [[https://www.cesnet.cz/sluzby/pripojeni/topologie/|CESNETu]].
+
+{{https://www.cesnet.cz/wp-content/uploads/2012/10/cesnet2-topo1.gif|cesnet2-topo}}

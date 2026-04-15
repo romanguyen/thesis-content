@@ -1,0 +1,11 @@
+====== Current Projects ======
+Ongoing research and development projects at MetaCentrum.
+
+===== Infrastructure Development =====
+Continuous improvement and expansion of computing infrastructure.
+
+===== Cloud Technologies =====
+Development of cloud services and container orchestration platforms.
+
+===== Security Research =====
+Research into authentication, authorization, and secure computing.

@@ -1,0 +1,7 @@
+====== Slurm ======
+
+** Job scheduling with the SLURM resource manager** ([[https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/students/slurm/thesis.pdf|PDF]])
+
+Abstract: The aim of this bachelor work is to provide SLURM analysis based on which development of a scheduling system employing SLURM can be undertaken. It deeply explores possible ways of cooperation between the resource manager and a scheduler, gathering material required for an evaluation and comparing the ways between each other. The gathered information allows a developer to decide which approach is suitable for his intentions, and it also directly enables implementing it. Most of the knowledge comes directly from SLURM source codes that have been an object of our exploration for more than one and half year.
+
+About thesis ([[http://is.muni.cz/th/173052/fi_b/?furl=%2Fth%2F173052%2Ffi_b%2F;lang=en|IS MU]])

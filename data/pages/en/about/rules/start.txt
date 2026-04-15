@@ -1,0 +1,116 @@
+====== Rules ======
+
+- NGI MetaCentrum is operated by CESNET, Association of Legal Entities (further referred to as “the CESNET Association” or “the MetaCentrum Administrator”), [[http://www.cesnet.cz/|https://www.cesnet.cz/]].
+- MetaCentrum’s mission consists in providing computing, storage and software resources to users, who employ those resources for research, development and education. MetaCentrum services include the operation of the e-infrastructure and entrusted computing and storage resources, centralized management of hardware and software, support of user communities, development of infrastructure services, and integration with the European e-infrastructure: EGI ([[https://www.egi.eu]]). The level and essential characteristics of services are defined in technical documentation available on-line at [[start|https://www.metacentrum.cz]].
+- MetaCentrum services are accessible to legal entities who provide their computing resources through MetaCentrum, and to other legal entities who meet the Terms and conditio ns for the access to the CESNET e-infrastructure (further referred to as the “Terms and Conditions“) published at [[https://www.cesnet.cz/conditions/?lang=en]] Natural persons, who are currently and legally either employees or students of said legal entities, may become users of MetaCentrum resources.
+- Users may only use MetaCentrum resources for purposes related to science, research, development, promotion of education, culture and prosperity, in compliance with the Acceptable Use Policy of the CESNET Large Infrastructure included among the Terms and Conditions. Exceptional use of MetaCentrum resources for commercial computing is governed by Section “Rules of Commercial Use” below.
+- MetaCentrum services are available free of charge on a “best effort” basis. The operator strives to maintain the availability and security of the service, and makes sure that tools and provisions used in operating and managing the service comply with applicable standards. Services are provided 24/7 with essential services run in high-availability mode and automatically monitored. Support is available during normal working hours.
+- If not stipulated otherwise, personal data processing conforms with Personal Data Processing specification published at [[https://www.cesnet.cz/personal-data-processing/?lang=en]].
+- MetaCentrum typically communicates electronically. All documentation is available on-line at [[start|https://www.metacentrum.cz]]. User requests should be directed by e-mail to [[mailto:meta@cesnet.cz|meta@cesnet.cz]]. E-mail exchanges with users are recorded in a Request Tracking System ([[https://rt.cesnet.cz]]).
+
+===== Virtual Organisations =====
+MetaCentrum Users are members of area-specific virtual organisations (VO), which bring together user groups that need to cooperate while processing data and sharing computing workload. The extent and level of services provided to individual users depends on their membership in VOs. A single user may be a member of multiple VOs.
+
+Every VO must nominate a VO Manager, who partners with MetaCentrum to negotiate conditions of use (goals and policies of the VO), cooperate with MetaCentrum to define membership rules for the given VO and contact addresses for membership management and user support, define technical requirements governing resource providers, and take responsibility for communicating with MetaCentrum and resolving technical and security issues.
+
+MetaCentrum employs a VO management tool (Perun, [[http://perun.cesnet.cz|https://perun.cesnet.cz]]). Should a VO choose a different VO management tool, it is responsible for integrating it with MetaCentrum services, including Perun. MetaCentrum, however, integrates with tools used by the EGI.
+
+A generic virtual organisation, MetaVO, is available to facilitate basic access and use. It is managed by MetaCentrum and populated with users who do not require their own separate VO.
+
+MetaCentrum may require users to prove that they are entitled to using MetaCentrum services in line with the [[https://www.cesnet.cz/conditions/?lang=en|Acceptable Use Policy]]. Confirmation is usually required annually while extending VO membership. Invitations to extend VO membership are sent out to users automatically through the VO management system, and directed to the administrative contact e-mail address they have provided. The invitation also explains how to extend VO membership. This is typically done by logging on to the system through the eduID.cz federation ([[https://www.eduid.cz/]]). Other possibilities are sponsored account or Hostel eduID.cz.
+
+Should a person’s membership in a VO expire, their account is disabled (by resetting access rights and marking the account as expired). Data owned by that user may be made available to other members of the VO upon the user’s request. It is possible to restore a disabled account later by rejoining the VO. Unless specified otherwise by the VO Manager under Article 6, disabled accounts are deleted after three years. That also applies to user data whose original owners failed to request transfer of ownership to a different VO member..
+
+===== Safe Conduct =====
+Users may use MetaCentrum services only for such intents and purposes that are in line with the policies of their VO, Terms and Conditions, and these Rules of Use.
+
+Users must protect access details of their MetaCentrum accounts. User accounts are strictly personal and must never be shared with other individuals. User accounts must be protected with non-trivial passwords, which may neither be communicated to others, nor recorded in accessible locations. Should their access details (passwords, keys, etc.) leak, users must immediately change them and notify the MetaCentrum Administrator at [[mailto:abuse@metacentrum.cz|abuse@metacentrum.cz]].
+
+Any activities that could result in breaching the copyright of software owners or authors, especially copying protected software, analysing or reverse engineering code or using illegally obtained software, are strictly forbidden.
+
+Any attempt to gain ungranted privileges (access rights, storage capacity, computing time) in MetaCentrum sites is strictly forbidden. It is expressly forbidden to attempt to obtain passwords or keys of other users, or to exploit system or software deficiencies to gain additional access rights. Any actions that could result in access rights being obtained by a third person, or otherwise putting the operation of MetaCentrum resources at risk, are also forbidden. Should a user observe suspicious behaviour of MetaCentrum computing resources, or come to suspect that their user account may have been misused, they must notify the MetaCentrum Administrator.
+
+While using MetaCentrum services, users must act considerately towards others. Computing workload is managed by a centralized scheduler and users must never bypass it. Use cases that could seriously hamper the work of other users accessing shared resources (shared file systems, interactive nodes) must be consulted with MetaCentrum system administrators beforehand and must not be executed without prior notice.
+
+Scientific jobs or experiments that could be identified as attacks, security breaches or other transgressions of Internet rules must not be carried out without prior consent by MetaCentrum administrators. These include especially experiments involving distributed scanning, downloading or collecting data, or testing the throughput, performance, reliability or vulnerability of resources. The user is responsible for making sure that all data processing is based on appropriate legal basis. If data or services are exposed during the processing, they must not harm the reputation of Metacentrum or oth er organizations.
+
+Data privacy in MetaCentrum is only provided through setting UNIX access rights in file systems. Achieving a higher level of data or software privacy is the sole responsibility of users. Better privacy may be reached by applying access rights or encryption. MetaCentrum is in no way responsible for misuse of data or software owned by individual users.
+
+The use of MetaCentrum hardware or software must be adequately acknowledged in resulting products, especially in publications (technical reports, articles), by following acknowledgement guidelines at [[https://docs.metacentrum.cz/access/terms/#acknowledgements-and-publications]]. The prescribed text of the acknowledgement may vary over time, reflecting changing sources of funding, and users must always verify the current wording of the acknowledgement using this page. MetaCentrum reserves the right to showcase the activities of its users in annual reports and similar works.
+
+MetaCentrum administrators may restrict or block user access for administrative, operational or security reasons. In case of a serious breach of usage or security rules MetaCentrum administrators may deny the responsible user access permanently.
+
+Users acknowledge that MetaCentrum resources employ software systems and applications whose use is governed by specific license agreements. Users must get acquainted with applicable license conditions before use, and adhere with such conditions. License conditions regarding individual software packages are included in MetaCentrum documentation: [[https://docs.metacentrum.cz/en/docs/software]].
+
+===== Rules Specific to MetaVO =====
+MetaVO is a generic virtual organisation operated by MetaCentrum for members of education and research institutes and their foreign coworkers. MetaCentrum is the VO Manager for MetaVO.
+
+User accounts are created on application ([[http://metavo.metacentrum.cz/en/application/index.html]]) and acceptance of these Rules. MetaVO members also automatically become members of the CESNET e-infrastructure, and accounts are created for them in e-INFRA CZ ([[https://www.e-infra.cz]]). User accounts are provided for one calendar year. Accounts may be extended at the end of each year on request, accompanied with a brief activity report and confirmation of affiliation with Czech academia, typically by authenticating with a user account of a user’s home organisation within the eduID.cz federation ([[https://www.eduid.cz/]]).
+
+User accounts cease to exist if not extended, or if explicitly discontinued by decision of MetaVO or the user concerned. Discontinuation notices are sent by e-mail to addresses given by each affected user in their membership application. Data belonging to discontinued accounts are not removed immediately, but rather kept for a period of three years, should the user account be renewed with a new application or request for extension.
+
+E-mail address [[mailto:meta@cesnet.cz|meta@cesnet.cz]] is the primary contact for reporting issues related to MetaVO. All messages arriving to that address are kept in the Request Tracking system (RT), which opens up tickets and assigns each a tracking number. MetaCentrum Service Documentation is available on-line at [[https://docs.metacentrum.cz/]].
+
+Certain services provided by MetaVO are only provided to users who accept additional conditions – typically where licensed software is concerned. Users register for the use of such services by applying for membership in specialized groups; group membership applications are subject to approval by VO or group managers.
+
+Publications that acknowledge use of the e-infrastructure can be registered using a dedicated service ([[https://metavo.metacentrum.cz/en/myaccount/pubs]]). Users who have registered their publications are treated preferentially by the workload scheduler.
+
+===== Rules Specific to the MetaCentrum Cloud =====
+- Membership in MetaVO is required to access MetaCentrum Cloud. Instructions for users originating from institutes in ELIXIR CZ or EGI are given at [[https://docs.e-infra.cz/compute/openstack/additional-information/register/]].
+Users are responsible for efficient use of MetaCentrum Cloud resources, especially for freeing up resources they do not need anymore. MetaCentrum Administrator is entitled to monitor adherence to rules and verify the contents of running machines.
+
+Essential cloud resources are allocated in so-called user projects. Those are assigned automatically to each user, allowing for the given unalterable quantity of resources. The resources in these user-projects are temporary and governed by COP rules. To allocate additional permanent resources or deploy production services one must apply for a so-called g roup project on webpage [[https://projects.brno.openstack.cloud.e-infra.cz/]])
+
+In case a user account is blocked or suspended, the MetaCentrum Administrator is entitled to free up all assigned resources and terminate all running virtual machines.
+
+The MetaCentrum cloud environment allows users to run their own virtual infrastructure (such as compute nodes) with operating systems fully under their own control. Cloud users are therefore responsible for configuring such resources in a secure manner. Additionally, they are required to adhere to the “Cloud Policy” ([[https://docs.e-infra.cz/compute/openstack/additional-information/cloud-policy/]]).
+
+===== Rules Concerning Participating Sites =====
+MetaCentrum comprises resources provided by CESNET and CERIT-SC research e-infrastructures, other infrastructures and projects, as well as other computing sites at other academic institutes.
+
+Computing sites connected to MetaCentrum continue to operate and manage their resources. Most importantly, the connected sites make sure that adequate housing is provided, running expenses are covered, and local technical support is provided. MetaCentrum, alongside its centralized services, also provides consulting, training and essential software packages. Management of computing and storage resources is negotiated between MetaCentrum and sites on a case-by-case basis.
+
+Owners of connected sites must keep their information up-to-date, especially concerning contact details, extent of services provided, and long-term conditions under which their resources are made available to individual VOs.
+
+MetaCentrum strives to provide a uniform interface for job processing and data storage across a system of independent, individually managed clusters. Therefore providers must cooperate with MetaCentrum and run services necessary for integration with MetaCentrum. Issues are reported through the Request Tracker operated by MetaCentrum.
+
+Connected site owners must cooperate with MetaCentrum while resolving security incidents, and comply with MetaCentrum Security Policy ([[https://docs.metacentrum.cz/access/terms#security]]).
+
+Owners of connected computing resources make sure their hardware services are operational and available. Resources are monitored by a centralized monitoring system, which collects availability details across MetaCentrum. Based on such details, or on valid complaints concerning a given set of resources, MetaCentrum may decide to make such resources inaccessible. Owners of computing resources provided in this manner are invited to monitor the availability of their resources at a more detailed level and, if possible, make their monitoring data available to MetaCentrum.
+
+Owners of resources connected to MetaCentrum undertake to provide their services to at least one VO cooperating with MetaCentrum. Owners must cooperate with VOs especially in managing software and assuring data security.
+
+Resource owners do not own intellectual property originating from jobs processed and data stored on their resources.
+
+Resource owners may require acknowledgement not only from MetaCentrum, but also from users who use their resources on a large scale.
+
+Resource owners can name users who shall be provided with priority access to resources provided by themselves, or even to additional MetaCentrum resources to compensate adequately for their own capacities used up by users from other institutes.
+
+Conditions of providing computing resources and responsibilities for operation and administration tasks may be specified in greater detail by a separate agreement between a provider and the MetaCentrum Administrator.
+
+===== Rules of Commercial Use of Computing Resources Provided through MetaCentrum =====
+MetaCentrum cannot make its own resources available on a commercial basis, and excludes any liability regarding the availability or quality of its services.
+
+MetaCentrum resources are primarily intended for non-commercial use in research, development and education; licensing conditions for most of the available application software packages do not even allow for any other types of use.
+
+Commercial use of computing resources provided through MetaCentrum must adhere to rules laid out below.
+
+Commercial use of resources provided through MetaCentrum is possible exclusively upon agreement between the user and the computing centre whose resources are to be used commercially.
+
+Resources for commercial use must be accessed separately. For that purpose, a separate VO will be created in Perun upon the user’s request, adhering to conditions stated by the MetaCentrum Administrator.
+
+MetaCentrum must be notified of the commercial use case.
+
+===== Rules Specific to the EGI =====
+MetaCentrum provides support to parties providing resources into the European Grid Infrastructure (EGI – https://www.egi.eu), and to Czech users thereof. MetaCentrum also runs services required to integrate Czech resources into the EGI, provides its own resources to the EGI, and runs services required to run a national node and supported VOs.
+
+Sites integrated with EGI must comply with [[https://ims.egi.eu/display/EGIPP/EGI+Information+Security+Management+ISM|EGI security policies]] and pass certification under [[https://ims.egi.eu/display/EGIPP/EGI+Information+Security+Management+ISM|conditions specified by EGI]].
+
+===== Final Stipulations =====
+The MetaCentrum Administrator may change these Rules. A new version of the Rules must always be published on the CESNET Web Site at least one month prior to their coming into force.
+
+These Rules are available in Czech and English. In case of discrepancies between the two language versions the Czech one takes precedence.
+
+These Rules were published on January 1, 2024. They become effective and substitute the previous version of the Rules on February 1, 2024.
+
+[[https://www.metacentrum.cz/en/about/rules/rules-old.html|previous rules]]

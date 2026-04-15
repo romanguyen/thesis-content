@@ -1,0 +1,33 @@
+====== Cloud ======
+
+MetaCloud je IaaS (Infrastruktura jako Služba) cloud běžící nad OpenNebulou v3.0, částečně kompatibilní s Amazon EC2 rozhraním. Pilotní cloudovou instalaci akademického MetaCloudu připravilo MetaCentrum (CESNET) ve spolupráci s centrem [[https://www.cerit-sc.cz/cs/|CERIT-SC]].
+Cloud rozhraní je určeno pro řešení nestandardních požadavků uživatelů MetaCentra, kterým nevyhovuje spouštění úloh dávkovým systémem. Cloud umožňuje spouštět celé virtuální stroje postavené z obrazů virtuálních strojů (dodaných uživateli nebo připravených MetaCentrem), včetně obrazů používaných na Amazon EC2.
+
+MetaCloud nabízí virtuální výpočetní prostředí přístupné prostřednictvím uživatelsky přívětivého webového rozhraní [[https://carach1.ics.muni.cz/|OpenNebula Sunstone]].
+
+==== Výhody použití MetaCloudu: ====
+* Vysoká škálovatelnost - virtuální stroj lze vytvořit podle vašich požadavků.
+* Snadná přístupnost - virtuální stroje se spravují jednoduchým webovým rozhraním.
+* Flexibilita použití zdrojů - správu vašeho virtuálního stroje máte plně ve svých rukou. Můžete na něj instalovat vlastní programy, spouštět výpočty bez nutnosti někoho kontaktovat.
+* Úložné kapacity - vaše data můžete ukládat ve virtuálním stroji (pomocí sdíleného úložiště, Amazon S3 API, GridFTP) .
+* Použití je zdarma pro všechny členy akademické obce.
+
+==== Získejte přístup do Cloudu. ====
+* [[cs:vo:metavo|Podejte přihlášku do MetaCentra]]
+* [[https://perun.metacentrum.cz/fed/registrar/?vo=meta&group=metacloud|Připojte se do skupiny MetaCloud.]]
+* Vytvořte si virtuální stroje ve [[https://cloud.metacentrum.cz/|webovém rozhraní]].
+
+==== Máte otázky? ====
+[[http://meta.cesnet.cz/wiki/Kategorie:Cloudy|Projděte si tutoriály MetaCloudu na wiki.]]
+
+nebo
+
+* Napište nám na** cloud@metacentrum.cz**. Váš email bude zaznamenán v našem interním tiketovacím systému.
+
+** HW zdroje**
+
+[[https://www.metacentrum.cz/cs/cloud/pbsmon_cloud|Aktuální přehled a využití HW zdrojů.]]
+
+V případě velkého zájmu jsme připraveni vyhradit další zdroje.
+Další informace a dokumentace je na wiki
+[[http://meta.cesnet.cz/wiki/Kategorie:Cloudy]].

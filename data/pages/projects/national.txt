@@ -1,0 +1,6 @@
+====== National Projects ======
+Czech national projects that MetaCentrum participates in.
+
+  * **e-INFRA CZ:** Czech national e-infrastructure providing computing, storage, and network services for research and education.
+  * **ELIXIR CZ:** Czech national node of the European life science infrastructure ELIXIR.
+  * **IT4Innovations:** Collaboration with the national supercomputing center.

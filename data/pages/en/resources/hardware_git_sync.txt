@@ -1,0 +1,32 @@
+====== Hardware (Git Sync Pilot) ======
+
+This page is generated from a canonical hardware source used for Git integration experiments.
+
+  * Source repository: **CESNET/metacentrum-user-docs**
+  * Last source update: **2026-04-08**
+
+---- GENERATED:BEGIN hardware-clusters ----
+
+===== CESNET =====
+  * **Cluster: adan.grid.cesnet.cz**
+    * CPU: 6144
+    * nodes: 48
+    * Location: Prague
+    * Details: [[https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz|https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz]]
+    * Photo: [[https://www.metacentrum.cz/images/clusters/adan.jpg|https://www.metacentrum.cz/images/clusters/adan.jpg]]
+  * **Cluster: turin.grid.cesnet.cz**
+    * CPU: 3328
+    * nodes: 52
+    * Location: Pilsen
+    * Details: [[https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz|https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz]]
+    * Photo: [[https://www.metacentrum.cz/images/clusters/turin.jpg|https://www.metacentrum.cz/images/clusters/turin.jpg]]
+
+===== CERIT-SC =====
+  * **Cluster: bee.cerit-sc.cz**
+    * CPU: 960
+    * nodes: 10
+    * Location: Brno
+    * Details: [[https://www.metacentrum.cz/pbsmon2/resource/bee.cerit-sc.cz|https://www.metacentrum.cz/pbsmon2/resource/bee.cerit-sc.cz]]
+    * Photo: [[https://www.metacentrum.cz/images/clusters/bee.jpg|https://www.metacentrum.cz/images/clusters/bee.jpg]]
+
+---- GENERATED:END hardware-clusters ----

@@ -1,0 +1,17 @@
+====== Resources ======
+
+===== Computers =====
+The National Grid Infrastructure coordinates the provision of computing resources to users using so-called Virtual Organizations.
+
+List of machines provided by the VO MetaCentrum is available on the following page:
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/cs/resources/hardware/metavo_hardware.png|MetaVO hardware}} [[en:resources:hardware:start|https://www.metacentrum.cz/en/resources/hardware.html]]
+
+===== Network =====
+The core element of the whole CESNET e-infrastructure is the high-speed CESNET2 network. Main university cities of Czech Republic are connected into effective backbone. CESNET2 network is based on DWDM infrastructure.
+
+CESNET2 network is connected to European GÉANT network.
+
+More information about the CESNET2 network can be found on the [[https://www.cesnet.cz/services/ip-connectivity-ip/cesnet2-network-topology/?lang=en|CESNET website]].
+
+{{https://www.metacentrum.cz/export/sites/metacentrum/images/cesnet2-topo1.gif|cesnet2-topo1}}

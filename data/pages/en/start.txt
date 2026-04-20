@@ -1,6 +1,6 @@
 ====== MetaCentrum ======
 
-//Welcome to MetaCentrum NGI web pages, the activity of the CESNET association.//
+//Welcome to MetaCentrum, the Czech National Grid Infrastructure operated by CESNET.//
 
 The National Grid Infrastructure is operated by MetaCentrum, CESNET department responsible for coordinating and managing grid activities in the Czech Republic on behalf of the Czech NGI. Long-term goal of the MetaCentrum project is** operation and coordination of distributed computing and data storage infrastructure** in the Czech Republic as a dynamic network of resources across different locations and administrative domains, as a part of the pan-European infrastructure built in the framework of the [[https://www.metacentrum.cz/en/grid/EGI/index.html|EGI project]], accompanied by an appropriate support environment and continual** expansion of available computational capacities**. The main aim of the project is the constitution of a virtual computer that allows effective utilization of installed facilities and** solving tasks whose memory and/or CPU requirements exceeds possibility of individual single computing centers**. MetaCentrum structure is flexible enough, any academic subject within the Czech Republic is able to fully** integrate** any** computing capacities** in current MetaCentrum infrastructure getting significant higher computing power for research.
 

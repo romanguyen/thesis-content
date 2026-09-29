@@ -3,333 +3,354 @@
 MetaCentrum se v rámci rozvoje gridových technologií účastnilo a v současné době aktivně účastní řady mezinárodních projektů.
 
 ===== Projekty, v nichž je MetaCentrum zapojeno prostřednictvím CESNETu =====
-==== //Současné nebo schválené projekty// ====
-| Název | EOSC-hub [[http://eosc-hub.eu/]] Integrating and managing services for the European Open Science Cloud |
-| Období | Start Date 2018-01-01, End Date: 2020-12-31 |
-The consortium of 100 partners from more than 50 countries will develop the vision of the Hub as the integration and management system of the future European Open Science Cloud. The EOSC-hub project mobilises providers from the EGI Federation, EUDAT CDI, INDIGO-DataCloud and other major European research infrastructures to deliver a common catalogue of research data, services and software for research. For researchers, this will mean a broader access to services supporting their scientific discovery and collaboration across disciplinary and geographical boundaries. EOSC-hub will significantly reduce the fragmentation of the IT facilities and digital tools in Europe. By bringing together a broad range of services from general and domain-specific research digital infrastructures under a common integration and operation layer, the EOSC-hub will foster new modes of working for collaborative research to deliver trusted services.
+==== Současné nebo schválené projekty ====
+~~PROJECT:EOSC-hub — Integrating and managing services for the European Open Science Cloud~~
+~~PERIOD:2018-01-01 – 2020-12-31~~
+~~GOAL~~
+Konsorcium stovky partnerů z více než 50 zemí rozvíjí EOSC-hub jako integrační a řídicí platformu budoucího Evropského cloudu pro otevřenou vědu. Projekt propojuje poskytovatele z federace EGI, EUDAT CDI, INDIGO-DataCloud a dalších evropských výzkumných infrastruktur ve společném katalogu výzkumných dat, služeb a softwaru. Výzkumníkům tím usnadňuje přístup ke službám napříč obory i zeměmi. Sdružením obecných a oborově zaměřených infrastruktur pod společnou provozní vrstvu snižuje roztříštěnost evropských IT nástrojů a podporuje důvěryhodné služby pro spolupráci ve výzkumu.
 
-| Cíl projektu |
-| Úkol MC |
-| ** Název**: | ** ELIXIR-EXCELERATE** (H2020-INFRADEV-1-2015-1) [[http://cordis.europa.eu/project/rcn/198519_en.html|ELIXIR-EXCELERATE: Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences]] |
-| ** Období**: | ** Start date:** 2015-09-01,** End date:** 2019-09-01 |
-** ELIXIR-EXCELERATE** - [[http://cordis.europa.eu/project/rcn/198519_en.html|ELIXIR-EXCELERATE: Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences.]] The life sciences are undergoing a transformation. Modern experimental tools study the molecules, reactions, and organisation of life in unprecedented detail. The precipitous drop in costs for high-throughput biology has enabled European research laboratories to produce an ever-increasing amount of data. Life scientists are rapidly generating the most complex and heterogeneous datasets that science can currently imagine, with unprecedented volumes of biological data to manage.
-Data will only generate long-term value if it is Findable, Accessible, Interoperable and Re-usable (FAIR). This requires a scalable infrastructure that connects local, national and European efforts and provides standards, tools and training for data stewardship.
-Formally established as a legal entity in January 2014, ELIXIR - the European life science Infrastructure for Biological Information - is a distributed organisation comprising national bioinformatics research infrastructures and the European Bioinformatics Institute (EMBL-EBI). This coordinated infrastructure includes data standards, exchange, interoperability, storage, security and training.
-Recognising the importance of a data foundation for European life sciences, the ESFRI and European Council named ELIXIR as one of Europe’s priority Research Infrastructures. In response ELIXIR have developed ELIXIR-EXCELERATE. The project will fast-track ELIXIR’s early implementation phase by i) coordinate and enhance existing resources into a world-leading data service for academia and industry, ii) grow bioinformatics capacity and competence across Europe, and iii) complete the management processes needed for a large distributed infrastructure.
-| ** Cíl projektu**: | ELIXIR-EXCELERATE will deliver a step-change in the life sciences. It will enable cost-effective and sustainable management and re-use of data for millions of users across the globe and improve the competitiveness of European life science industries through accessible data and robust standards and tools. |
-Do projektu MAGIC přináší CESNET svoji dlouholetou expertýzu v oblastech AAI.
+~~ENDGOAL~~
+~~LINKS:http://eosc-hub.eu/|~~
+~~ENDPROJECT~~
 
-** Development and integration activities in Compute Platform workpackage, with aim of AAI in clouds.**
+~~PROJECT:ELIXIR-EXCELERATE — Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences~~
+~~PERIOD:2015-09-01 – 2019-09-01~~
+~~GOAL~~
+[[http://cordis.europa.eu/project/rcn/198519_en.html|ELIXIR-EXCELERATE]] urychluje rozvoj evropské infrastruktury pro biologická data. Moderní experimentální metody vytvářejí stále větší a rozmanitější datové soubory; aby měly trvalou hodnotu, musí být dohledatelné, přístupné, interoperabilní a znovu využitelné (FAIR). To vyžaduje propojení místních, národních a evropských kapacit, společné standardy, nástroje a vzdělávání v oblasti správy dat.
+ELIXIR vznikl jako právní subjekt v lednu 2014 a propojuje národní bioinformatické infrastruktury s Evropským bioinformatickým institutem (EMBL-EBI). Pokrývá standardy, výměnu dat, interoperabilitu, ukládání, bezpečnost a školení. ESFRI a Evropská rada jej označily za prioritní výzkumnou infrastrukturu. Projekt ELIXIR-EXCELERATE koordinuje a rozvíjí stávající zdroje, posiluje evropské bioinformatické kapacity a dokončuje řízení rozsáhlé distribuované infrastruktury. Cílem je nákladově efektivní a udržitelná správa a opětovné využití dat pro výzkum i průmysl.
+~~ENDGOAL~~
+~~TASKS~~
+CESNET se podílí na vývoji a integraci výpočetní platformy se zaměřením na autentizaci a autorizaci (AAI) v cloudovém prostředí.
 
-| Úkoly MetaCentra |
-** Info**:
+~~ENDTASKS~~
+~~LINKS:http://cordis.europa.eu/project/rcn/198519_en.html|~~
+~~ENDPROJECT~~
 
-** Název**:
+~~PROJECT:MAGIC — Middleware for collaborative Applications and Global vIrtual Communities~~
+~~PERIOD:květen 2015 – duben 2017~~
+~~GOAL~~
+Projekt MAGIC usiluje o dohodu mezi Evropou, Latinskou Amerikou a dalšími zapojenými regiony. Chce sjednotit a doplnit stavební prvky middlewaru potřebné pro mezinárodní výzkumné týmy, trh digitálních služeb a aplikací v reálném čase, mobilitu výzkumníků a práci celosvětových vědeckých komunit. Jeho konkrétní cíle jsou:
 
-**//MAGIC (H2020-INFRASUPP-2014-2) Middleware for collaborative Applications and Global vIrtual Communities
-| //** |
-| ** Období**: | květen 2015 - duben 2017 |
-The MAGIC Project seeks to establish a set of agreements for Europe, Latin America and other participating World Regions, aiming at consolidating and completing the building blocks of middleware necessary for the establishment of a marketplace of services and real-time applications for international and inter-continental research groups which facilitates mobility and the work of global science communities. More specifically, the project specific goals are:
-* To foster the deployment of the platforms that enable mobility of people and seamless access to services by promoting the establishment of identity federations interconnected via eduGAIN, creating awareness of privacy and security issues and spreading eduroam by: sharing experiences, carrying out training and making available shared infrastructure to ease the process in the partner world regions.
-* To develop a model for inter-operation between NREN cloud application markets of participating world regions, based on cloud provisioning and taking advantage of applications developed and run by NRENs across different continents to create a model for a worldwide application market for collaboration tools and services
-* To seek consensus among participating world regions on the importance of interoperability of real-time applications and work towards the adoption of standards such as those proposed by the Global CEO Forum to promote the creation of a worldwide environment for these applications.
-* To foster the collaborative work of Global Science Communities by actively promoting the participation of Latin American and other regions’ researchers in European Commission Calls and those of other international funding agencies with high impact in the participating regions and other networking activities.
+  * Podporovat platformy pro mobilitu osob a bezproblémový přístup ke službám: propojit federace identit přes eduGAIN, šířit povědomí o soukromí a bezpečnosti a rozvíjet eduroam sdílením zkušeností, školeními a společnou infrastrukturou.
+  * Vytvořit model interoperability cloudových katalogů aplikací národních výzkumných a vzdělávacích sítí (NREN) v různých regionech a podpořit celosvětový trh nástrojů a služeb pro spolupráci.
+  * Dosáhnout shody na interoperabilitě aplikací v reálném čase a podpořit přijetí standardů navržených fórem Global CEO Forum.
+  * Posilovat spolupráci světových vědeckých komunit a zapojení výzkumníků z Latinské Ameriky i dalších regionů do výzev Evropské komise a dalších mezinárodních grantových programů.
 
-| ** Cíl projektu**: |
+~~ENDGOAL~~
+~~TASKS~~
 Do projektu MAGIC přináší CESNET svoji dlouholetou expertýzu v oblastech AAI. Jsme zapojeni ve třech pracovních skupinách:
 
-* WP1 Management
-* WP2 Platforms for Mobility - To promote, coordinate and support the effort to create in the Caribbean, Africa and Asia an authorisation and authentication infrastructure (AAI) for academic services and processes
-* WP3 Cloud provisioning and Groupware Standards
+  * WP1: řízení projektu.
+  * WP2: platformy pro mobilitu, koordinace a podpora akademické autentizační a autorizační infrastruktury v Karibiku, Africe a Asii.
+  * WP3: poskytování cloudových služeb a standardy pro skupinovou spolupráci.
 
-| Úkoly MetaCentra |
+~~ENDTASKS~~
+~~ENDPROJECT~~
 
-| ** Info**: |
+~~PROJECT:AARC — Authentication and Authorisation for Research and Collaboration~~
+~~PERIOD:duben 2015 – březen 2017~~
+~~GOAL~~
+Projekt AARC řeší technické a funkční překážky bránící vzájemné spolupráci stávajících autentizačních a autorizačních infrastruktur (AAI) pro výzkum a vzdělávání. Jeho cíle jsou:
 
-**//AARC (H2020-EINFRA-2014-2) Authentication and Authorisation for Research and Collaboration
-| ** Název**: | //** |
-| ** Období**: | duben 2015 - březen 2017 |
-The goal of AARC is to address technical and functional gaps that prevent the interoperability of existing R&E AAIs. AARC objectives are:
+  * Navrhnout integrovaný AAI rámec pro různé vědní obory založený na provozovaných federovaných službách včetně eduGAIN.
+  * Rozšířit využívání federovaného přístupu ve výzkumných komunitách.
+  * Pilotně ověřit klíčové součásti AAI tam, kde současné služby nestačí potřebám uživatelů.
+  * Ověřit výsledky výzkumných i servisních aktivit ve spolupráci s výzkumnými komunitami.
 
-* Deliver the design of an integrated cross-discipline AAI framework, built on federated access production services (eduGAIN)
-* Increase the uptake of federated access within different research communities
-* Pilot critical components of the proposed integrated AAI where existing production services do not address user needs
-* Validate the results of both the JRA and SA by engaging with the research communities
-
-| ** Cíl projektu**: |
+~~ENDGOAL~~
+~~TASKS~~
 V projektu AARC je CESNET zapojen v pracovních skupinách AAI, nabízí zde vlstní systém pro správu osobních účtů Perun. Jsme zapojení v pracovních skupinách JRA1 a SA1:
 
-* JRA1 Architectures for an integrated and interoperable AAI - Identify and overcome technical, organisational and legal obstacles that hinder seamless interoperability and user experience among existing AAIs.
-* SA1 Pilots on the integrated AAI - The work in SA1 will be driven by use-cases that will be selected as a result of the work of JRA1 and in consultation with the user communities and e-Infrastructure providers. The pilots will have to demonstrate that the solutions proposed by JRA1 and NA3 are effective in addressing the requirements of both users communities and different service providers (commercial and non-commercial) in terms of usability, security, reliability and provided functionalities. Some of the SA1 work will start in parallel with JRA1 and NA3, based on the already known requirements; the other part of the work will commence when the interim results of both JRA1 and NA3 are available. SA1 feedback from the pilots will be taken into account for NA3 and JRA1 to refine their final results.
+  * JRA1: architektura integrované a interoperabilní AAI, identifikace a překonávání technických, organizačních a právních překážek mezi stávajícími infrastrukturami.
+  * SA1: pilotní nasazení navržené AAI podle potřeb výzkumných komunit a poskytovatelů služeb. Piloty ověřují použitelnost, bezpečnost, spolehlivost a funkce řešení JRA1 a NA3; jejich zpětná vazba slouží k doladění konečných výsledků.
 
-| Úkoly MetaCentra |
 [[http://www.egi.eu/news-and-media/newsfeed/news_2015_002.html]]
+~~ENDTASKS~~
+~~ENDPROJECT~~
 
-| ** Info**: |
+~~PROJECT:INDIGO-DataCloud — INtegrating Distributed data Infrastructures for Global ExplOitation~~
+~~PERIOD:duben 2015 – říjen 2017~~
+~~GOAL~~
+INDIGO-DataCloud vyvíjí datovou a výpočetní platformu pro vědecké komunity, kterou lze nasadit na různém hardwaru i v hybridních veřejných a soukromých e-infrastrukturách. Konsorcium navazuje na zkušenosti evropských týmů s vývojem middlewaru pro distribuované výpočetní infrastruktury, vysokovýkonné výpočty, gridy a cloudy.
+Projekt propojuje evropské vývojáře, poskytovatele zdrojů a vědecké komunity. Dodává softwarové komponenty pro spouštění aplikací v cloudech, gridech a na HPC clusterech. Rozšiřuje služby typu PaaS a umožňuje infrastrukturám EGI, EUDAT, PRACE či Helix Nebula zpřístupnit své služby přes federované AAI v souladu s pravidly GÉANT. Důraz klade na transparentní a důvěryhodné poskytování služeb.
+Zatímco infrastruktura jako služba (IaaS) je již dostupná ve veřejném i soukromém sektoru, vědecké komunity dosud nemají dostatek možností na úrovni PaaS a SaaS. INDIGO proto vytváří otevřené nástroje pro cloudové výpočty, úložiště a sítě a podporuje vznik udržitelných evropských kompetencí v oblasti PaaS.
 
-**//INDIGO-Datacloud (H2020-EINFRA-2014-1) INtegrating Distributed data Infrastructures for Global ExplOitation
-| ** Název**: | //** |
-| ** Období**: | duben 2015 - říjen 2017 |
-INDIGO-DataCloud (INtegrating Distributed data Infrastructures for Global ExplOitation) aims at developing a data/computing platform targeted at scientific communities, deployable on multiple hardware, and provisioned over hybrid (private or public) e-infrastructures. The expertise of the INDIGO consortium builds on the body of work of several research groups with significant and unrivalled experience in middleware development for production-class distributed e-infrastructures. The quality of their achievements is demonstrated by the results of previous projects and initiatives carried out in Europe across the past ten years of collaborations on scientific computing based on different consolidated and emerging paradigms (HPC, Grid and Cloud).
-In INDIGO, key European developers, resource providers, e-infrastructures and scientific communities have joined to ensure the successful exploitation and sustainability of the project outcome. INDIGO will develop and deliver software components allowing execution of applications on Cloud and Grid based
-infrastructures, as well as on HPC clusters. The project will extend existing PaaS (Platform as a Service) solutions, allowing public and private e-infrastructures, including those provided by EGI, EUDAT, PRACE and Helix Nebula, to integrate their existing services, make them available through AAI services compliant with GEANT’s interfederation policies, thus guaranteeing transparency and trust in the provisioning of such services.
-In Cloud computing, both the public and private sectors are already offering Cloud resources as IaaS (Infrastructure as a Service). However, there are numerous areas of interest to scientific communities where Cloud computing uptake is currently lacking, especially at the PaaS and SaaS (Software as a Service) levels. INDIGO therefore aims at developing tools and platforms based on Open Source solutions addressing scientific challenges in the Cloud computing, storage and network areas. A key strength and benefit of the INDIGO consortium, for both the scientific and industrial sectors, is the potential to create a new sustainable Cloud competence in Europe for PaaS, similar to what OpenNebula or OpenStack have done for IaaS.
+~~ENDGOAL~~
+~~TASKS~~
+**WP3: správa softwaru a pilotní služby.** CESNET je zástupcem vedoucího této pracovní oblasti, která zajišťuje kvalitu softwaru a úspěšné nasazení pilotních služeb. Účastníme se:
 
-| ** Cíl projektu**: |
-** Work package 3 Software Management and Pilot Services** (WP3, SA) (WP deputy leader: CESNET) will support service activities, that in INDIGO are mainly oriented to guarantee a high quality software management, and a successful deployment of pilot services. We participate in:
+  * T3.2: vydávání a údržba softwaru.
+  * T3.3: pilotní služby.
 
-* T3.2 Software release and maintenance
-* T3.3 Pilot services
+**WP4: virtualizace zdrojů.** Pracovní oblast se zaměřuje na virtualizaci výpočetních, úložných a síťových zdrojů a jejich standardizované a spolehlivé poskytování vzdáleným uživatelům nebo nadřazeným federovaným platformám včetně služeb WP5. Zapojujeme se do:
 
-** Work package 4 Resource Virtualization** (WP4, JRA) focuses on virtualizing local compute, storage and networking resources (IaaS) and on providing those resources in a standardized, reliable and performing way to remote customers or to higher level federated services, building virtualized site independent platforms. With higher-level services we mainly, but not exclusively, refer to the platform services provided by WP5. We participate in:
+T4.3: virtualizace sítí (vedoucím je CESNET). Milníky v síťové oblasti:
 
-T4.3 Network Virtualization (CESNET is the leader) - Milestones for the networking area:
-* M4.18: Prototype implementation for local virtual networks
-* M4.1: Results of cross-sites virtual network solution evaluation
-* M4.20: Providing results of first SDN orchestration evaluation
-* M4.21: Proposals and pilot versions of tools for using SDN across sites
+  * M4.18: prototyp místních virtuálních sítí.
+  * M4.1: vyhodnocení virtuálních sítí mezi lokalitami.
+  * M4.20: první výsledky hodnocení orchestrace SDN.
+  * M4.21: návrhy a pilotní verze nástrojů pro SDN mezi lokalitami.
 
-** Work package 5 PaaS Platform Development** (WP5, JRA). Design and implementation of a PaaS layer allowing scientific communities to exploit, in a powerful and high-level way, several heterogeneous computing and data e-infrastructure such as: IaaS Cloud, Helix Nebula, EGI Grid, EGI Federated Cloud, PRACE, HPC, EUDAT, etc. It will be possible to process large amounts of data and to exploit the efficient storage and preservation technologies and infrastructure already available in the European e-infrastructure, with the appropriate mechanisms to ensure security and privacy. We participate in:
+**WP5: vývoj platformy PaaS.** Tato oblast propojuje různorodé výpočetní a datové infrastruktury, například cloudové IaaS, Helix Nebula, EGI, PRACE, HPC a EUDAT. Vědeckým komunitám umožňuje zpracovávat velké objemy dat, využívat evropské úložné kapacity a zároveň zachovat bezpečnost a soukromí. Zapojujeme se do:
 
-* T5.2 Security and Authorization (Lead Partner: INFN; deputy: CESNET)
+  * T5.2: bezpečnost a autorizace (vedoucí INFN, zástupce CESNET).
 
-| Úkoly MetaCentra |
 [[http://www.egi.eu/news-and-media/newsfeed/news_2015_002.html]]
+~~ENDTASKS~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-**//EGI - Engage (H2020-EINFRA-2014-2) Engaging the EGI Community towards an Open Science Commons
-| ** Název**: | //** |
-| ** Období**: | březen 2015 - září 2017 |
+~~PROJECT:EGI-Engage — Engaging the EGI Community towards an Open Science Commons~~
+~~PERIOD:březen 2015 – září 2017~~
+~~GOAL~~
 Projekt EGI-Engange pokračuje v přechodu k trvale udržitelné panevropské e-infrastruktuře iniciované sérií EGEE*/EGI* projektů pomocí podpory Gridů a Cloudů v oblastech high-performance a high-throughput výpočtů.
 
-The mission of EGI-Engage is to accelerate the implementation of the Open Science Commons vision, where researchers from all disciplines have easy and open access to the innovative digital services, data, knowledge and expertise they need for their work. The Open Science Commons is grounded on three pillars: the e-Infrastructure Commons, an ecosystem of key services; the Open Data Commons, where any researcher can access, use and reuse data; and the Knowledge Commons, in which communities have shared ownership of knowledge and participate in the co-development of software and are technically supported to exploit state-of-the-art digital services. EGI-Engage will expand the capabilities offered to scientists (e.g. improved cloud or data services) and the spectrum of its user base by engaging with large Research Infrastructures (RIs), the long-tail of science and industry/SMEs. The main engagement instrument will be a network of eight Competence Centres, where National Grid Initiatives (NGIs), user communities, technology and service providers will join forces to collect requirements, integrate community-specific applications into state-of-the-art services, foster interoperability across e-Infrastructures, and evolve services through a user-centric development model. The project will also coordinate the NGI efforts to support the long-tail of science by developing ad hoc access policies and by providing services and resources that will lower barriers and learning curves.
+Posláním projektu EGI-Engage je urychlit uskutečnění vize Open Science Commons: výzkumníci ze všech oborů mají mít otevřený přístup k digitálním službám, datům, znalostem a odbornosti potřebné pro svou práci. Vize stojí na třech pilířích: společné e-infrastruktuře služeb, otevřených datech a sdílených znalostech vznikajících ve spolupráci komunit a poskytovatelů. EGI-Engage rozšiřuje cloudové i datové služby pro velké výzkumné infrastruktury, menší výzkumné týmy a průmysl. Síť osmi kompetenčních center propojuje národní gridové iniciativy, výzkumné komunity a poskytovatele technologií, sbírá jejich požadavky, integruje oborové aplikace a podporuje interoperabilitu. Projekt také koordinuje přístupová pravidla, služby a zdroje, které usnadňují využití infrastruktury novým uživatelům.
 
-| ** Cíl projektu**: |
+~~ENDGOAL~~
+~~TASKS~~
 MetaCentrum reprezentuje české národní gridové prostředí a poskytuje všechny nezbytně nutné služby umožňující souvislou integraci národních zdrojů a lokálních koncových uživatelů do panevropské gridové infrastruktury.
 
-Zapojení v EGI-Engage WPs:
+Zapojení do pracovních oblastí EGI-Engage:
 
-* WP3/JRA1.1 – AAI, JRA1.4 – Operational tools
-* WP4/JRA2.2 – Fed Cloud
-* WP5/SA1.3 – Platforms operation
-* WP6/SA2.1 – Training, SA2.2 – User support, SA2.3 – ELIXIR ESFRI Competence Centre, SA2.4 – BBMRI Competence Centre, SA2.5 – MoBrain Competence Centre
+  * WP3/JRA1.1: AAI; JRA1.4: provozní nástroje.
+  * WP4/JRA2.2: federovaný cloud.
+  * WP5/SA1.3: provoz platforem.
+  * WP6/SA2.1: školení; SA2.2: uživatelská podpora; SA2.3–SA2.5: kompetenční centra ELIXIR ESFRI, BBMRI a MoBrain.
 
-| ** Úkoly MetaCentra**: |
-[[http://www.egi.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.egi.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-| ** Název**: | **//EGI InSPIRE - European Grid Initiative: Integrated Sustainable Pan-European Infrastructure for Researchers in Europe//** |
-| ** Období**: | květen 2010-březen 2015 |
+~~PROJECT:EGI InSPIRE — European Grid Initiative: Integrated Sustainable Pan-European Infrastructure for Researchers in Europe~~
+~~PERIOD:květen 2010 – březen 2015~~
+~~GOAL~~
 Projekt EGI InSPIRE pokračuje v přechodu k trvale udržitelné panevropské e-infrastruktuře iniciované sérií EGEE projektů pomocí podpory Gridů v oblastech high-performance a high-throughput výpočtů. Projekt poskytne centrální koordinující organizaci nutnou k integraci a vzájemné interoperabilitě individuálních národních gridových infrastruktur (NGI), ke sběru požadavků a poskytování uživatelské podpory pro současné a nové uživatele. Navíc bude sloužit pro definici, ověření a integraci UMD, middlewaru od externích poskytovatelů potřebného pro přístup na infrastrukturu.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | MetaCentrum reprezentuje české národní gridové prostředí a poskytuje všechny nezbytně nutné služby umožňující souvislou integraci národních zdrojů a lokálních koncových uživatelů do panevropské gridové infrastruktury. |
+~~ENDGOAL~~
+~~TASKS~~
+MetaCentrum reprezentuje české národní gridové prostředí a poskytuje všechny nezbytně nutné služby umožňující souvislou integraci národních zdrojů a lokálních koncových uživatelů do panevropské gridové infrastruktury.
 ** Cíle MetaCentra**:
 
 Primárním cílem MetaCentra je poskytovat všechny požadované služby jako jsou gridové operace, monitorování a helpdesk systém na národní úrovni umožňující tak začlenění českého gridového prostředí do EGI ekosystému a paralelně s tím i možnost pro české vědecké pracovníky stát se uživateli evropské EGI infrastruktury.
 
-[[http://www.egi.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.egi.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-==== //Dokončené projekty// ====
-| ** Název**: | **//EMI - European Middleware Initiative//** |
-| ** Období**: | květen 2010-duben 2013 |
+==== Dokončené projekty ====
+~~PROJECT:EMI — European Middleware Initiative~~
+~~PERIOD:květen 2010 – duben 2013~~
+~~GOAL~~
 Projekt EMI je spojenectvím tří hlavních poskytovatelů middlewaruv Evropě, konkrétně ARC, gLite, Unicore a dalších konsorcií. Cílem projektu EMI je dodávka konsolidovné sady komponent middlewaru vhodných pro nasazení v EGI, PRACE a dalších distribuovaných výpočetních infrastrukturách, rozšíření interoperability mezi gridy a jinými výpočetními infrastrukturami a ustavení trvale udržitelného modelu pro údržbu a vývoj middlewaru splňujícího požadavky uživatelských komunit.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Úkoly MetaCentra jsou primárně spojeny s vývojem specifických částí UMD middlewaru stejně jako s prací v oblasti interoperability mezi hlavními poskytovateli middlewaru v Evropě. |
+~~ENDGOAL~~
+~~TASKS~~
+Úkoly MetaCentra jsou primárně spojeny s vývojem specifických částí UMD middlewaru stejně jako s prací v oblasti interoperability mezi hlavními poskytovateli middlewaru v Evropě.
 ** Cíle MetaCentra**:
 
 Cílem MetaCentra v EMI projektu je příspěvek k vývoji specifických komponent plánované distribuce middlewaru UMD poskytnutím expertízy při vývoji a udržování kódu specifických služeb (jako např. služba logging and bookkeeping a další).
 
-[[http://www.eu-emi.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.eu-emi.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-| ** Název**: | **//CHAIN - Coordination and Harmonisation of Advanced e-INfrastructures//** |
-| ** Období**: | prosinec 2010-listopad 2012 |
+~~PROJECT:CHAIN — Coordination and Harmonisation of Advanced e-INfrastructures~~
+~~PERIOD:prosinec 2010 – listopad 2012~~
+~~GOAL~~
 Cílem projektu CHAIN je koordinace současného gridového úsilí a jejich výsledků s vizí harmonického a optimalizovaného interakčního modelu e-infrastruktury a specificky gridových rozhraní mezi Evropou a zbytkem světa. Projekt bude definovat koherentní operační a organizační model, v němž řada evropských zemí-regionů bude působit - ve spolupráci s projektem EGI - jako mosty/brány k dalším regionům a kontinentům.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Úkolem MetaCentra v projektu CHAIN je využít expertízu získanou zkušeností z aktivního řešení projektu EUAsiaGrid a přenést lokálně získané znalosti do vybudovaní světového, vzájemně propojeného gridového prostředí. |
+~~ENDGOAL~~
+~~TASKS~~
+Úkolem MetaCentra v projektu CHAIN je využít expertízu získanou zkušeností z aktivního řešení projektu EUAsiaGrid a přenést lokálně získané znalosti do vybudovaní světového, vzájemně propojeného gridového prostředí.
 ** Cíle MetaCentra**:
 
 Hlavním cílem MetaCentra v projektu CHAIN je podílet se na definici procesů a pravidel vyžadovaných pro ustavení jednotné, celosvětové, gridové trvale udržitelne infrastruktury.
 
-[[http://www.chain-project.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.chain-project.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
+~~PROJECT:CHAIN-REDS — Coordination and Harmonisation of Advanced e-Infrastructures for Research and Education Data Sharing~~
+~~PERIOD:prosinec 2012 – červen 2015~~
+~~GOAL~~
+CHAIN-REDS navazuje na projekt CHAIN a rozvíjí jeho model spolupráce evropských a mimoevropských e-infrastruktur. Šíří osvědčené postupy, usnadňuje interoperabilitu regionálních infrastruktur a propojuje jejich hlavní aktéry. Cílem je celosvětový ekosystém, v němž virtuální výzkumné komunity, týmy i jednotlivci mohou využívat distribuované výpočetní zdroje, úložiště, data, služby a aplikace. Projekt podporuje koordinaci mimoevropských výzkumných a vzdělávacích infrastruktur s Evropou a spolupráci gridů i dalších distribuovaných výpočetních platforem.
 
-| ** Název**: | **//CHAIN-REDS -//** Coordination and Harmonisation of Advanced e-Infrastructures for Research and Education Data Sharing |
-| ** Období**: | prosinec 2012-červen 2015 |
-Pokračování projektu CHAIN. je koordinace současného gridového úsilí a jejich výsledků s vizí harmonického a optimalizovaného interakčního modelu e-infrastruktury a specificky gridových rozhraní mezi Evropou a zbytkem světa dle modelu definovaného projektu CHAIN. The project aims to support and disseminate the best practices currently adopted in Europe and other continents, and promote and facilitate interoperability among different regional eInfrastructures. CHAIN-REDS gathers the main stakeholders of regional eInfrastructures, collectively engaged in studying and defining a path towards a global eInfrastructure ecosystem that will allow VRCs, research groups and even single researchers to access and efficiently use worldwide distributed resources (i.e. computing, storage, data, services, tools, applications). The core objective of CHAIN-REDS project is to promote, coordinate and support the effort of a critical mass of non-European eInfrastructures for Research and Education to collaborate with Europe addressing interoperability and interoperation of Grids and other Distributed Computing Infrastructures.
+~~ENDGOAL~~
+~~TASKS~~
+MetaCentrum zkoumá využitelnost federací identit a dalších způsobů autentizace a autorizace v rozvíjejících se regionech a pomáhá s jejich zaváděním. Podporuje také vzájemné propojení infrastruktur a doporučuje pravidla pro jejich administrativní spolupráci včetně dohod o úrovni služeb (SLA).
 
-| ** Cíl projektu**: |
-MetaCentrum task is mainly to explore the usability of Identity federations and other AA approaches in developing regions and to help using these technologies. Other task is support inter-operations and encourage the administrative part of them by SLAs recommendation.
-
-| ** Úkoly MetaCentra**: |
 ** Cíle MetaCentra**:
 
-The main goal for MetaCentrum will be to support inter-operation of Grids and other Distributed Computer Infrastructures by broadening the authentication processes. MetaCentrum will also continue its previous task from CHAIN on definition of processes and rules required for building a uniform worlwide grid sustainable infrastructure.
+Hlavním cílem MetaCentra je rozšířit autentizační postupy umožňující spolupráci gridů a dalších distribuovaných výpočetních infrastruktur. Navazuje přitom na svou práci v projektu CHAIN při definování procesů a pravidel pro jednotnou, celosvětovou a dlouhodobě udržitelnou gridovou infrastrukturu.
 
-[[http://www.chain-project.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.chain-project.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-| ** Název**: | **//EPIKH - Exchange Programme to advance e-Infrastructure Know-How//** |
-| ** Období**: | březen 2009-březen 2013 |
+~~PROJECT:EPIKH — Exchange Programme to advance e-Infrastructure Know-How~~
+~~PERIOD:březen 2009 – březen 2013~~
+~~GOAL~~
 Hlavní cíle projektu jsou: Posilovat vliv e-infrastruktury ve vědeckém výzkumu definováním a uskutečňováním podpůrných programů na vzdělávacích akcích, jako jsou Gridové školy a kurzy High-performance computing. Rozšiřovat zapojení v aktivitách e-Science a spolupráci jak geograficky, tak mezi jednotlivými obory.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Diseminace, semináře. |
+~~ENDGOAL~~
+~~TASKS~~
+Diseminace, semináře.
 ** Cíle MetaCentra**:
 
 MetaCentrum je aktivní v lokálním řešení obecných cílů projektu.
 
-[[http://www.epikh.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://www.epikh.eu/|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-//
-//
-
-| ** Název**: | //** EUAsiaGrid**// |
-| ** Období**: | duben 2008-červen 2010 |
+~~PROJECT:EUAsiaGrid~~
+~~PERIOD:duben 2008 – červen 2010~~
+~~GOAL~~
 Cíle projektu lze rozdělit po několika oblastí: zaprvé šířit povědomí o infrastruktuře, middlewaru a službách EGEE v asijských zemích pomocí specifických diseminačních aktivit jako jsou workshopy, konference a živé demonstrace, zadruhé sebrat požadavky lokálních uživatelů zejména z pohledu požadovaných zdrojů, gridových služeb, aplikačního softwaru a tréninkových potřeb.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | MetaCentrum se skrze CESNET účastní v projektu vedení aktivity WP3 (Application Support) a bude aktivně přizpívat k práci aktivity WP2 (Requirement Capture) a aktivity WP5 (Training) pomocí širokých znalostí v oblasti gridového middleware, nasazení řešení v provozu a portace aplikací. |
+~~ENDGOAL~~
+~~TASKS~~
+MetaCentrum se skrze CESNET účastní v projektu vedení aktivity WP3 (Application Support) a bude aktivně přizpívat k práci aktivity WP2 (Requirement Capture) a aktivity WP5 (Training) pomocí širokých znalostí v oblasti gridového middleware, nasazení řešení v provozu a portace aplikací.
 ** Cíle MetaCentra**:
 
 MetaCentrum se účastní propagace gridových technik v asijském regionu. Detailně je MetaCentrum zodpovědné za vedení aktivity WP3, oblast výpočetní chemie, koordinaci dalších oblastí, přenos EGEE know-how a pomoc při identifikaci a ustavení nových skupin a virtuálních organizací. V aktivitě WP5 bude MetaCentrum (CESNET) přispívat k chodu tréninkové infrastruktury (t-infrastructure) a bude se aktivně účastnit tréninkových aktivit mezi partnery v projektu a dalšími klíčovými institucemi v asijsko-pacifickém regionu.
 
-[[http://www.euasiagrid.org/]]
+~~ENDTASKS~~
+~~LINKS:http://www.euasiagrid.org/|http://egee.cesnet.cz/cs/info/results.html#eua~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-[[http://egee.cesnet.cz/cs/info/results.html#eua]]
-
-| ** Výsledky**: |
-
-| ** Název**: | //** EGEE - Enabling Grids for E-sciencE**// |
-| ** Období**: | duben 2004-duben 2006 (EGEE/fáze I), květen 2006-duben 2008 (EGEE II/fáze II), květen 2008-duben 2010 (EGEE III/fáze III) |
+~~PROJECT:EGEE — Enabling Grids for E-sciencE~~
+~~PERIOD:duben 2004 – duben 2006 (EGEE I), květen 2006 – duben 2008 (EGEE II), květen 2008 – duben 2010 (EGEE III)~~
+~~GOAL~~
 Projekt EGEE navazuje na současný bouřlivý rozvoj gridových technologií. Jedná se o infrastrukturní projekt, jehož cílem je vybudovat a spravovat celoevropskou gridovou infrastrukturu dostupnou evropské vědecké komunitě 24 hodin denně. Projekt je financován Evropskou unií a svým rozsahem patří mezi jedny z největších gridových projektů vůbec.
 
-| ** Cíl projektu**: |
-SA1 (European Grid Support, Operation and Management)
-NA3 (User Training and Induction)
-NA4 (Application Identification and Support)
-| ** Úkoly MetaCentra**: | JRA1 (Middleware Re-engineering and Integration) |
+SA1 (podpora, provoz a správa evropského gridu)
+NA3 (školení a uvedení uživatelů)
+NA4 (identifikace a podpora aplikací)
+~~ENDGOAL~~
+~~TASKS~~
+JRA1 (přepracování a integrace middlewaru)
 ** Cíle**
 ** MetaCentra**:
 
 Kapacity MetaCentra v tomto projektu jsou věnovány jednak spolupráci na vývoji, integraci, testování a validaci middleware, především pak dalším rozvoji logovací služby a souvisejících součástí middleware (včetně bezpečnostních požadavků), dále především na aktivitách spojených s monitorování gridu a poskytováním uživatelské podpory. Neméně důležitou součástí projektu je podíl MetaCentra na identifikaci nových aplikací a zejména tréninku nových uživatelů včetně šíření informací o možnostech a využití GRIDů do povědomí širší veřejnosti.
 
-| ** Info**: | [[http://egee-intranet.web.cern.ch/egee-intranet/gateway.html]], [[https://www.metacentrum.cz/cs/about/egeesite|http://egee.cesnet.cz]] |
-[[http://egee.cesnet.cz/cs/info/results.html#egee]]
+~~ENDTASKS~~
+[[http://egee-intranet.web.cern.ch/egee-intranet/gateway.html|Další informace]], [[https://www.metacentrum.cz/cs/about/egeesite|http://egee.cesnet.cz]]
+~~LINKS:|http://egee.cesnet.cz/cs/info/results.html#egee~~
+~~ENDPROJECT~~
 
-| ** Výsledky**: |
-
-| ** Název**: | //** MediGrid**// |
-| ** Období**: | leden 2005-prosinec 2009 |
+~~PROJECT:MediGrid~~
+~~PERIOD:leden 2005 – prosinec 2009~~
+~~GOAL~~
 Cílem projektu je návrh, vývoj a pilotní implementace MediGridu - prostředí a modulárního systému aplikací pro distribuované zpracování datových a výpočetních úloh ve zdravotnictví (ve zdravotnickém výzkumu i praxi). Základní sjednocující technologií bude síť Grid, která bude umožňovat vkládání jednotlivých odborných modulů pro sdílení dat (včetně modulů s možností sdílení dat v reálném čase a telekonzultací), modulů pro sběr a analýzu dat a modulů pro výměnu odborných informací. Součástí systému bude modul biomedicínské ontologie, který bude zajišťovat snadný přístup k aplikačním modulům a jejich spolupráci.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Vývoj metod a nástrojů pro využití sítě Grid v biomedicíně. |
+~~ENDGOAL~~
+~~TASKS~~
+Vývoj metod a nástrojů pro využití sítě Grid v biomedicíně.
 ** Cíle MetaCentra**:
 
 Návrh a pilotní implementace gridového systému propojujícího moduly, agenty a další nástroje s odborným obsahem a nabízejícího uživatelské rozhraní s jasně definovanou sémantikou a možností interaktivní spolupráce uživatelů v oblasti zdravotnictví.
 
-[[https://www.metacentrum.cz/cs/about/medigridsite|http://www.medigrid.cz]]
+~~ENDTASKS~~
+~~LINKS:https://www.metacentrum.cz/cs/about/medigridsite|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-| ** Název**: | **//EGI DS - European Grid Initiative Design Study//** |
-| ** Období**: | září 2007-prosinec 2009 |
+~~PROJECT:EGI DS — European Grid Initiative Design Study~~
+~~PERIOD:září 2007 – prosinec 2009~~
+~~GOAL~~
 European Grid Initiative (EGI) Design Study reprezentuje snahu o ustavení trvale držitelné gridové infrastruktury v Evropě. Na základech potřeb a požadavků výzkumné komunity se očekáva, že projekt EGI DS umožní další kvalitativní skok v oblasti výzkumných infrastruktur podporujících vědecký výzkum v European Research Area (ERA). Základním stavebním kamenem European Grid Initiative (EGI) jsou National Grid Initiatives (NGI), které zajišťují provoz gridových infrastruktur v každé zemi. EGI propojí existující NGI a bude aktivně podporovat ustavení nových NGI. Cílem EGI Design Study (EGI_DS) je ohodnotit koordinační úsilí, identifikovat procesy a mechanismy pro ustavení EGI, definovat strukturu odpovídající instituce a iniciovat ustavení EGI organizace. Projekt EGI Design Study je financován sedmým rámcovým programem EU.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | MetaCentrum je aktivní ve dvou oblastech: aktivita WP2 věnovaná identifikaci, sběru a konsolidaci uživatelských požadavků na trvale udržitelnou gridovou infrastrukturu pomocí individuálních případových studií použití Gridu a aktivita WP3 activity - definování klíčových funkcí trvale udržitelného gridového prostředí. |
+~~ENDGOAL~~
+~~TASKS~~
+MetaCentrum je aktivní ve dvou oblastech: aktivita WP2 věnovaná identifikaci, sběru a konsolidaci uživatelských požadavků na trvale udržitelnou gridovou infrastrukturu pomocí individuálních případových studií použití Gridu a aktivita WP3 activity - definování klíčových funkcí trvale udržitelného gridového prostředí.
 ** Cíle MetaCentra**:
 
 Účast na definování způsobu jak lze gridové prostředí udržet z dlouhodobé perspektivy.
 
-[[http://web.eu-egi.eu/]]
+~~ENDTASKS~~
+~~LINKS:http://web.eu-egi.eu/|http://egee.cesnet.cz/cs/info/results.html#egi~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-[[http://egee.cesnet.cz/cs/info/results.html#egi]]
-
-| ** Výsledky**: |
-
-| ** Název**: | //** Ithanet**// |
-| ** Období**: | duben 2006-duben 2008 |
+~~PROJECT:Ithanet~~
+~~PERIOD:duben 2006 – duben 2008~~
+~~GOAL~~
 Ithanet je síť výzkumných center (v oblasti Středozemí) zabývajících se molekulárním a klinickým výzkumem thalassaemie a souvisejících haemoglobinopatologií. Konsorcium Ithanet je složeno z většiny velkých evropských výzkumných center zabývajících se touto problematikou včetně spolupracujících institucí z neevropské části Středozemí a zemí kolem Černého moře.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Úkoly týmu CESNETu (MetaCentra) se týkaly především vytvoření, nasazení, udržby a podpory kolaborativni platformy, vedeni aktivity WP2, vzdělávání uživatelů v oblasti Gridů a hledání nových aplikací pro Gridy. |
+~~ENDGOAL~~
+~~TASKS~~
+Úkoly týmu CESNETu (MetaCentra) se týkaly především vytvoření, nasazení, udržby a podpory kolaborativni platformy, vedeni aktivity WP2, vzdělávání uživatelů v oblasti Gridů a hledání nových aplikací pro Gridy.
 ** Cíle MetaCentra**:
 
 Vybudování videokonferenčního prostředí s podporou pro silně zabezpečená prostředí (přes firewally a NATy), rozvoj modelu použití VPN pro tyto aplikace, další zkušenosti při spolupráci s lékařskou komunitou.
 
-[[http://www.ithanet.eu]]
+~~ENDTASKS~~
+~~LINKS:http://www.ithanet.eu|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
-
-| ** Název**: | //** GRIDLAB - A Grid Application Toolkit and Testbed**// |
-| ** Období**: | leden 2002-duben 2005 |
+~~PROJECT:GRIDLAB — A Grid Application Toolkit and Testbed~~
+~~PERIOD:leden 2002 – duben 2005~~
+~~GOAL~~
 Cílem projektu GridLab je produkce aplikačně orientovaných gridových služeb a nástrojů umožňujících dynamické zprostředkování zdrojů, monitoring, management dat, bezpečnostní, informační a adaptivní služby. Služby jsou dostupné pomocí použití Grid Application Toolkit (GAT). GAT poskytuje aplikacím přístup k různým GridLabovým službám, zdrojům, specifickým knihovnám a nástrojům takovým způsobem, že koncový uživatel a zejména aplikační vývojář může psát a spouštět aplikace na GRIDu bez potřeby detailní znalosti prostředí.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | WP5 (GridLab Testbed Management) |
+~~ENDGOAL~~
+~~TASKS~~
+WP5 (správa testovacího gridového prostředí GridLab)
 ** Cíle**
 ** MetaCentra**:
 
 V rámci projektu GridLab se MetaCentrum účastní všech aktivit nutných pro výstavbu a chod rozsáhlých gridových testů poskytujících prototyp budoucích produkčních gridů. GridLabový testbed je dostupný pro všechny další pracovní skupiny k vývoji, testování, hodnocení a využití nových komponent.
 
-| ** Info**: | [[http://www.gridlab.org]] |
+~~ENDTASKS~~
+~~LINKS:http://www.gridlab.org|~~
+~~ENDPROJECT~~
 
-| ** Název**: | //** DATAGRID - Research and Technological Development for an International Data Grid**// |
-| ** Období**: | 2001-2004 |
+~~PROJECT:DATAGRID — Research and Technological Development for an International Data Grid~~
+~~PERIOD:2001 – 2004~~
+~~GOAL~~
 DataGrid je projektem sponzorovaným Evropskou unií, jehož cílem je vystavět výpočetní infrastrukturu napříč široce distribuovanými vědeckými komunitami. Tato infrastruktura poskytuje možnost provádět intenzivní výpočty a analýzy rozsáhlých sdílených databází s obsahem dat řádově stovky TeraBytů až PetaBytů.
 
-| ** Cíl projektu**: |
-WP1 (Workload Management System)
-WP6 (Testbed and Demonstrators)
-| ** Úkoly MetaCentra**: | WP7 (Network Monitoring) |
+WP1 (systém pro správu úloh)
+WP6 (testovací prostředí a demonstrace)
+~~ENDGOAL~~
+~~TASKS~~
+WP7 (monitorování sítě)
 ** Cíle**
 ** MetaCentra**:
 
 Vývoj Workload Management System (WMS). WMS je používán pro interakci uživatele s prostředím GRIDu. Cílem WMS je distribuované plánování a management výpočetních zdrojů v GRIDovém prostředí. Umožňuje uživatelům GRIDu zasílat úlohy a spouštět je na těch výpočetních zdrojích, které nejlépe odpovídají požadavkům úlohy. WMS optimalizuje využití výpočetních zdrojů a umožňuje získat informace o stavu dané úlohy a stažení spočtených výsledků. MetaCentrum bylo zodpovědné za vývoj logovací a účtovací služby.
 
-| ** Info**: | [[http://www.eu-datagrid.org]] |
+~~ENDTASKS~~
+~~LINKS:http://www.eu-datagrid.org|~~
+~~ENDPROJECT~~
 
 ===== Další partnerské projekty =====
 Mimo vlastních projektů MetaCentra se také podílíme na řešení dalších projektů rámcově souvisejících s posláním MetaCentra. To nám na jedné straně umožňuje podílet se na řešení zajímavých projektů se zřetelem na prospěch uživatelů MetaCentra, na straně druhé nám tento přístup otevírá možnost navázat a následně prohlubovat oboustrannou spolupráci s řešiteli takýchto projektů.
 
 V případě, že máte zájem s MetaCentrem spolupracovat formou řešení samostatných projektů, které lze pod MetaCentrem zastřešit, neváhejte nás [[mailto:meta@cesnet.cz|kontaktovat]].
 
-| ** Název**: | //** CoreGRID**// |
-| ** Období**: | 2004-2007 |
+~~PROJECT:CoreGRID~~
+~~PERIOD:2004 – 2007~~
+~~GOAL~~
 Cílem projektu CoreGRID Síť Excelence (NoE) je posílení a rozvinutí vědecké a technologické kvality oblasti Gridů a Peer-to-Peer technologií. Projekt je zaměřen na výzkum v šesti komplementárních výzkumných oblastech vybraných na základě jejich strategické důležitosti a vědecké významnosti v celoevropském měřítku pro rozvoj další generace gridového middlewaru. Jmenovitě se jedná o správu znalostí & datů; programové modely; architekturu systému; gridové informační a monitorovací služby; správu zdrojů a plánování; prostředí pro řešení problemů, nástroje a gridové systémy.
 
-| ** Cíl projektu**: |
-| ** Úkoly MetaCentra v rámci MU**: | WP5 (Grid Information and Monitoring Services) |
+~~ENDGOAL~~
+~~TASKS~~
+WP5 (gridové informační a monitorovací služby)
 ** Cíle MetaCentra v rámci MU**:
 
 Jako vedoucí tým pracovní skupiny WP5 se činnost MetaCentra (v rámci MU) soustřeďuje na výzkum v oblasti gridových monitorovacích služeb. Primárním výzkumným cílem je studium a poskytování obecné informační a monitorovací služby pro nižší vrstvy správy Gridu, tak jak je vyžadován projektem Next Generation GRID.
 
-[[http://www.coregrid.net]]
+~~ENDTASKS~~
+~~LINKS:http://www.coregrid.net|~~
+~~ENDPROJECT~~
 
-| ** Info**: |
+~~PROJECT:CERIT-SC~~
+~~LINKS:http://www.cerit-sc.cz/|~~
+~~ENDPROJECT~~
 
-| ** Název**: | //** CERIT-SC**// |
-[[http://www.cerit-sc.cz/|http://www.cerit-sc.cz]]
-
-| ** Info**: |
-
-==== //Přijaté / dokončené projekty [[http://fondrozvoje.cesnet.cz/vyhlaseni.aspx|fondu rozvoje CESNETu]]:// ====
+==== Přijaté / dokončené projekty fondu rozvoje CESNETu ====
+[[http://fondrozvoje.cesnet.cz/vyhlaseni.aspx|Informace o fondu rozvoje CESNETu]]
 | ** Rok** | ** Název** | ** Řešitel** |
 | 2007 | IPv6 infrastruktura na MU (MUv6) | doc. RNDr. Luděk Matyska, CSc |
 | 2007 | Integrace videokonferenčního systému do běžné praxe ZČU | Ing. Vladimír Nový |

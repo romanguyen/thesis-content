@@ -1,18 +1,108 @@
-====== Sluzby ======
+====== Služby ======
 
-Služby dostupné s účtem MetaCentra:
+Vyberte si prostředí pro výpočty, provoz vlastních aplikací nebo práci s výzkumnými daty. U každé služby najdete její účel, doporučené využití a odkaz na dokumentaci nebo webové rozhraní.
 
-MetaCentrum Grid [[https://docs.metacentrum.cz/]]
-* [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|PBS]]
-* [[https://docs.metacentrum.cz/en/docs/ondemand|OnDemand]]
-* [[https://docs.metacentrum.cz/en/docs/software/sw-list/jupyter|JupyterNotebook]]
-* [[https://docs.metacentrum.cz/en/docs/software/fields/genomics/alphafold|Alphafold]]
-* [[https://docs.metacentrum.cz/en/docs/related/galaxy|Galaxy]]
+  * [[#gridove_vypocty|Gridové výpočty]]
+  * [[#cloud|Cloud]]
+  * [[#kubernetes|Kubernetes]]
+  * [[#vyzkumne_nastroje|Výzkumné nástroje]]
 
-* [[https://brno.openstack.cloud.e-infra.cz/|MetaCentrum Cloud]]
-[[https://docs.cerit.io/en/docs/platform/overview|Kubernetes]] (CERIT-SC)
-* [[https://docs.cerit.io/en/docs/rancher/rancher|Rancher]]
-* [[https://docs.cerit.io/en/docs/web-apps/jupyterhub|JupyterHub/Binder]] (také s podporou AI chatu)
-* [[https://docs.cerit.io/en/docs/web-apps/foldify|Foldify]]
-[[https://docs.cerit.io/en/docs/web-apps/foldify|Chat AI]] [[https://docs.metacentrum.cz/en/docs/related/galaxy|WebUI]]
-* [[https://docs.metacentrum.cz/en/docs/related/galaxy]]
+===== Gridové výpočty =====
+
+Pro náročné výpočty, dávkové úlohy a využití sdílených výpočetních zdrojů.
+
+==== MetaCentrum Grid / PBS ====
+
+Spouštějte výpočetní úlohy na infrastruktuře MetaCentra. Plánovač PBS zajišťuje odesílání úloh a přidělování dostupných zdrojů.
+
+**Pro koho:** výzkumníci, kteří potřebují výpočetní kapacitu pro simulace, analýzy nebo dávkové zpracování.
+
+[[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|Dokumentace (EN)]] · [[cs:resources:hardware:start|Výpočetní zdroje]]
+
+===== Cloud =====
+
+Pro vlastní virtuální stroje a přizpůsobené softwarové prostředí.
+
+==== MetaCentrum Cloud ====
+
+Vytvářejte a spravujte virtuální stroje prostřednictvím cloudové infrastruktury. Zvolte si prostředí a software podle potřeb svého projektu.
+
+**Pro koho:** výzkumné týmy a uživatelé, kteří potřebují vlastní operační systém nebo dlouhodobě běžící prostředí.
+
+[[https://brno.openstack.cloud.e-infra.cz/|Otevřít službu]] · [[https://docs.metacentrum.cz/en/docs/cloud|Dokumentace (EN)]]
+
+===== Kubernetes =====
+
+Pro kontejnerové aplikace a jejich správu v platformě CERIT-SC.
+
+==== Kubernetes / CERIT-SC ====
+
+Nasazujte kontejnerové aplikace a služby v prostředí Kubernetes. Platforma nabízí prostředí pro provoz výzkumných aplikací a týmových nástrojů.
+
+**Pro koho:** týmy, které pracují s kontejnery a potřebují provozovat vlastní aplikace.
+
+[[https://docs.cerit.io/en/docs/platform/overview|Dokumentace (EN)]]
+
+==== Rancher ====
+
+Webové rozhraní pro práci s prostředím Kubernetes. Usnadňuje orientaci v clusterech a správu nasazených aplikací.
+
+**Pro koho:** uživatelé a správci kontejnerových aplikací, kteří preferují grafické rozhraní.
+
+[[https://docs.cerit.io/en/docs/rancher/rancher|Dokumentace (EN)]]
+
+===== Výzkumné nástroje =====
+
+Pro interaktivní práci, analýzu dat a specializované vědecké úlohy.
+
+==== OnDemand ====
+
+Přistupujte k prostředí MetaCentra přes webový prohlížeč. OnDemand nabízí grafický přístup k výpočetní infrastruktuře a interaktivním aplikacím.
+
+**Pro koho:** uživatelé, kterým vyhovuje webové rozhraní pro práci s výpočetními zdroji.
+
+[[https://docs.metacentrum.cz/en/docs/graphical/ondemand|Dokumentace (EN)]]
+
+==== Jupyter / JupyterHub / Binder ====
+
+Pracujte s interaktivními notebooky pro analýzu dat, programování a sdílení výpočetních postupů. JupyterHub a Binder poskytují související webová prostředí v platformě CERIT-SC.
+
+**Pro koho:** datoví analytici, výzkumníci a vyučující pracující s notebooky.
+
+[[https://docs.metacentrum.cz/en/docs/software|Software v MetaCentru (EN)]] · [[https://docs.cerit.io/en/docs/web-apps/jupyterhub|Dokumentace JupyterHub/Binder (EN)]]
+
+==== AlphaFold ====
+
+Nástroj pro výpočetní predikci struktur proteinů. Informace o dostupném softwaru a jeho používání najdete v dokumentaci MetaCentra.
+
+**Pro koho:** výzkumníci v bioinformatice a strukturní biologii.
+
+[[https://docs.metacentrum.cz/en/docs/software|Dokumentace softwaru (EN)]]
+
+==== Galaxy ====
+
+Webové prostředí pro sestavování a spouštění analytických postupů nad výzkumnými daty. Zpřístupňuje nástroje pro analýzu prostřednictvím grafického rozhraní.
+
+**Pro koho:** výzkumníci, kteří potřebují reprodukovatelné analytické postupy bez vlastního programování.
+
+[[https://docs.metacentrum.cz/en/docs/graphical/usegalaxy|Dokumentace (EN)]]
+
+==== Foldify ====
+
+Webová aplikace pro predikci struktur proteinů pomocí nástrojů AlphaFold, ColabFold a dalších. Umožňuje odesílat výpočty a prohlížet jejich výsledky v prohlížeči.
+
+**Pro koho:** výzkumníci v bioinformatice a strukturní biologii, kteří preferují webové rozhraní.
+
+[[https://foldify.cloud.e-infra.cz/|Otevřít službu]] · [[https://docs.cerit.io/en/docs/web-apps/foldify|Dokumentace (EN)]]
+
+==== Chat AI ====
+
+Chatovací rozhraní pro práci s jazykovými modely v rámci služeb AIaaS. Dokumentace popisuje dostupné možnosti a způsob přístupu.
+
+**Pro koho:** uživatelé, kteří chtějí využít jazykové modely přes webové rozhraní.
+
+[[https://docs.cerit.io/en/docs/ai-as-a-service/chat-ai|Dokumentace (EN)]]
+
+===== Účet a pomoc =====
+
+Začínáte s MetaCentrem? Přečtěte si [[cs:faq:start#clenstvi|jak získat účet]] nebo [[https://docs.metacentrum.cz/en/docs/access/account|návod k registraci (EN)]]. S výběrem vhodné služby vám pomůže [[mailto:meta@cesnet.cz|uživatelská podpora]].

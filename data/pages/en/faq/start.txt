@@ -1,63 +1,81 @@
-====== Faq ======
+====== FAQ ======
 
-==== General ====
-* [[en:faq|What is MetaCentrum NGI?]]
-* [[en:faq|What is difference between MetaCentrum NGI and MetaCentrum VO?]]
-* [[en:faq|Whom do I contact in case I have any questions or problems regarding MetaCentrum VO or NGI?]]
-* [[en:faq|What is EGI?]]
+Answers to common questions about MetaCentrum, membership and virtual organizations. For detailed technical guides, visit the [[https://docs.metacentrum.cz/en/docs/welcome|MetaCentrum documentation]].
 
-==== Membership ====
-* [[en:faq|What are the benefits of becoming a MetaCentrum member?]]
-* [[en:faq|What are the prerequisites for becoming a MetaCentrum member?]]
+  * [[#basics|Basics]]
+  * [[#membership|Membership and access]]
+  * [[#virtual_organizations|Virtual organizations]]
 
-==== Virtual Organizations ====
-* [[en:faq|Do I need a VO?]]
-* [[en:faq|How to set up a VO?]]
-* [[en:faq|How to get computing resources for the VO?]]
+===== Basics =====
 
-more [[https://wiki.egi.eu/wiki/VO_Managment_FAQS|EGI VO FAQs]]
+==== What is MetaCentrum NGI? ====
 
-------
+MetaCentrum is the Czech **National Grid Infrastructure (NGI)**, operated as part of CESNET's activities. It connects computing and storage resources from research and academic institutions and makes them available for scientific collaboration.
 
-=== What is MetaCentrum NGI? ===
-MetaCentrum, an activity of CESNET association, is the official Czech National Grid Initiative. [[en:start|More]]
+Read more on the [[en:about:start|About MetaCentrum]] page.
 
-=== What is difference between MetaCentrum NGI and MetaCentrum VO? ===
-Meta Centrum NGI operates as a part of the [[https://www.metacentrum.cz/en/EGI.html|European Grid Initiative (EGI.eu)]] with aim to enable coherent electronic access for researchers to all computational and data based resources and facilities in the Czech Republic, Europe, and worldwide. It operates with the following goals:
+==== What is the difference between MetaCentrum NGI and MetaCentrum VO? ====
 
-* Establish and coordinate a sustainable Czech Grid infrastructure as a dynamic network of resources across different locations and administrative domains, as a part of the pan-European infrastructure built in the framework of the EGI project,
-* Establish an infrastructure compatible and interoperable with existing European and worldwide Grid frameworks,
-* Enable coherent access for researchers to all computational and data based resources and facilities required to carry out their research, independent of resource or researcher location,
-* Provide a platform for interdisciplinary collaboration, support end-users, researchers, education centers, and resource providers,
-* Represent the interests of the national Grid community towards other national and international bodies,
-* Development of grid middleware and involvement in international grid infrastructure through participation in corresponding international projects.
+**NGI** refers to the national infrastructure and its coordination. A **virtual organization (VO)** is a group of users who share resources and access permissions within that infrastructure.
 
-MetaCentrum VO (http://metavo.metacentrum.cz) is catch-all virtual organization, which offers computational and storage resources to all MetaCentrum members.
+MetaCentrum VO provides its members with access to computing and storage capacity. See the [[en:vo:start|virtual organizations]] page for an overview of managed organizations.
 
-=== ** Whom do I contact in case I have any questions or problems regarding MetaCentrum VO or NGI?** ===
-MetaCentrum VO - meta@cesnet.cz MetaCentrum NGI - support@metacentrum.cz
-** What is EGI?**
+==== Where can I get help with a question or problem? ====
 
-[[https://www.metacentrum.cz/cs/about/EGI/index.html|The European Grid Initiative (EGI)]] is a partnership between National Grid Initiatives (NGIs), which are responsible for grid infrastructure related matters in each participating country, and a coordinating body, the EGI organisation (EGI.eu), based in Amsterdam. Its central role is to facilitate the interaction and collaboration between NGIs.Within the EGI partnership, NGIs and EGI.eu are thus working together to operate and further develop a sustainable pan-European grid infrastructure, enabling optimal sharing of computing and data resources, and supporting collaborative scientific discoveries in the European Research Area (ERA).
+For questions about your account, computing or MetaCentrum services, contact **[[mailto:meta@cesnet.cz|meta@cesnet.cz]]**. For broader e-INFRA CZ enquiries, use [[mailto:einfra-support@einfra.cz|einfra-support@einfra.cz]].
 
-** What are the benefits of becoming a MetaCentrum member?**
+Include the following in your request:
 
-[[en:grid|Advantages]]
+  * your username,
+  * the job ID and computing environment, if relevant,
+  * the error message or steps needed to reproduce the problem.
 
-** What are the prerequisites for becoming a MetaCentrum member?**
+See the [[https://docs.metacentrum.cz/en/docs/support|user support guide]] for further recommendations.
 
-No recommendation nor project approval and registration is needed. The new user is treated in a best effort way, giving him or her an opportunity to start using the resources to a reasonable extent. The scheudling policy takes care of the amount of CPU hours already consumed b ya particular user and decreases a priority of users with large portion of used resources giving more chance to newcomers or occasional users to have their jobs run fast. Also, users could have access to the priority queues through registering publications created with the use of MetaCentrum resources and having an acknowledgment paragraph (see https://metavo.metacentrum.cz/osobni/personal/publikace.do). This a way how users with high quality research are prioritized without hassle of registration and pre-allocation.
+==== What is EGI? ====
 
-** Do I need a VO?**
+[[https://www.egi.eu/|EGI]] connects European research infrastructures and supports shared use of computing and data resources. National infrastructures, including MetaCentrum, help research communities collaborate across institutions and countries.
 
-If you are part of a research community whose members are geographically apart, belong to independent organizations, and collaborate via electronic means to achieve a common goal, probably you are already part of a Virtual Organization ([[https://www.metacentrum.cz/en/VO/old_index.html|VO]]) without knowing. However, on GRIDs, VOs have the specificity that their members share computing resources. If the computing resources in your institute are not sufficient to your group needs, maybe the establishment of a VO within your research community is a good solution for you.
+===== Membership =====
 
-** How to set up a VO?**
+==== What are the benefits of MetaCentrum membership? ====
 
-VO users can access computing resources in institutes where they are not known in person based on the VO membership records kept under the** Virtual Organization M**** anagement Service (VOM**** S)**. List of [[http://operations-portal.egi.eu/vo|VOs in EGI]]. Contact us: support@metacentrum.cz.
+Membership gives you access to a shared environment for research and collaboration:
 
-** How to get computing resources for the VO?**
+  * computing and storage capacity,
+  * scientific software and data-processing tools,
+  * collaboration and resource sharing between research teams.
 
-In most of the places, VOs do not own physical resources but they own a right to use them. That right is earned according to the funding that sites receive from projects where VO members are involved. Therefore, sites do allocate a share of their ressources to a given VO depending on the funding they receive from local projects associated to that VO. This is the normal procedure on how newly VOs provide resources to the GRID. The GRID spirit behind is that everyone can use everybody resources as long as these resources aren't really needed.
+See the [[en:grid:start|grid overview]] and [[https://docs.metacentrum.cz/en/docs/welcome|service documentation]] for more information.
 
-If the VO has very few members without computing resources, there is always the possibility to ask external sites to support this VO. However, external sites only accept to do that if they get something in exchange. If you have something to offer, sites will probably consider opening their resources to your VO.
+==== Who can use MetaCentrum and how do I get an account? ====
+
+MetaCentrum is available to members, students and employees of Czech academic and non-commercial research institutions for research and educational purposes. Registration requires a valid academic affiliation; other applicants should contact user support first.
+
+  - Check the [[https://docs.metacentrum.cz/en/docs/access/terms|terms and conditions]].
+  - Follow the [[https://docs.metacentrum.cz/en/docs/access/account|account registration guide]] and complete the application. Applications are approved manually.
+  - After approval, follow the [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|guide to running your first computing job]].
+
+===== Virtual organizations =====
+
+==== Do I need my own virtual organization? ====
+
+You do not need to establish your own organization for ordinary use of resources through MetaCentrum VO. A separate VO may suit a research community that needs its own membership management and resource-sharing policies.
+
+Discuss your requirements with [[mailto:meta@cesnet.cz|user support]].
+
+==== How do I establish a virtual organization? ====
+
+Contact the MetaCentrum administrators through [[mailto:meta@cesnet.cz|user support]] first. Describe the community's purpose, expected number of members and computing or storage requirements.
+
+The administrators can discuss suitable membership management, access policies and options for joining the infrastructure.
+
+==== How does a virtual organization get computing resources? ====
+
+A VO receives access through agreements with resource providers and the infrastructure's access policies. Available capacity may depend on project conditions and assigned permissions.
+
+Contact the MetaCentrum administrators to discuss additional capacity or contributing your own resources.
+
+===== Further guides and help =====
+
+For technical questions about computing, software and data, use the [[https://docs.metacentrum.cz/en/docs/support/faqs|technical FAQs]]. If you still need help, contact [[mailto:meta@cesnet.cz|meta@cesnet.cz]].

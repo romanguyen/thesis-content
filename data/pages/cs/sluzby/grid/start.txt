@@ -1,51 +1,51 @@
-====== Grid ======
+====== Gridové výpočty ======
 
-Jednotlivé vědeckovýzkumné týmy i organizace si v současné době pořizují zdroje ve formě výpočetních clusterů. Propojením individuálně pořízených výpočetních i úložných kapacit do distribuovaného celku (Gridu) je možné dosáhnout výrazného zvýšení efektivity vynaložených investic, zlepšit poskytované služby a významným způsobem zjednodušit spolupráci vědců a jejich týmu na národní i mezinárodní úrovni.
+Grid propojuje výpočetní a úložné zdroje různých institucí do společného prostředí. MetaCentrum tuto infrastrukturu zpřístupňuje pro vědecké výpočty, analýzu dat a spolupráci výzkumných týmů.
 
-Cílem aktivity MetaCentrum je podpora rozvoje VaV v ČR vybudováním národní gridové infrastruktury (NGI), která propojí výzkumné týmy a instituce v různých regionech ČR a umožní jejich napojení do mezinárodního výzkumného prostředí. Od června 2009 CESNET vystupuje, prostřednictvím MetaCentra, v roli české Národní Gridové Infrastruktury (NGI), oficiálně uznávané národní součástí [[https://www.metacentrum.cz/cs/about/EGI/index.html|Evropské Gridové Infrastruktury (EGI)]].
+  * [[#jak_grid_funguje|Jak grid funguje]]
+  * [[#vyhody_pro_uzivatele|Výhody pro uživatele]]
+  * [[#jak_zacit|Jak začít]]
+  * [[#zapojeni_vlastnich_zdroju|Zapojení vlastních zdrojů]]
 
-==== Sdružení prostředků do gridu umožňuje: ====
-  * poskytnout** špičkovou kapacitu** přesahující možnosti jednotlivých organizací,
-  * ** překlenout odstávku** či výpadky vlastního vybavení,
-  * ** zvýšit spolehlivost a dostupnost** ukládaných dat,
-  * ** sdílení a zpracování dat** z unikátních** experimentálních a měřících zařízení**,
-  * přispět k hladké** vědecké spolupráci** bez ohledu na fyzickou vzdálenost a usnadnit** zapojení** týmu** do mezinárodních projektů**.
+===== Jak grid funguje =====
 
-Integrované prostředí národního Gridu poskytne možnost spolupráce mezi pracovníky různých fyzických organizací pomocí konceptu [[cs:vo|virtuálních organizací]], okamžité sdílení dat a zdrojů mezi členy a společné využití některých unikátních služeb. Přidanou hodnotou je pak koordinované zavádění pokročilých služeb (napr. vyvinutých mezinárodními projekty typu EGEE/EGI a DEISA). Zásadní roli v implementaci nových služeb hraje vlastní vývojový tým zapojený do mezinárodní komunity.
+Výpočetní clustery a úložné kapacity zůstávají u svých poskytovatelů, ale jsou dostupné prostřednictvím sdílených služeb a přístupových pravidel. Uživatelé mohou pracovat se zdroji napříč zapojenými institucemi.
 
-==== Výhody gridového prostředí pro uživatele ====
-Integrované prostředí národního Gridu poskytne možnost spolupráce mezi pracovníky různých fyzických organizací pomocí
-konceptu virtuálních organizací, okamžité sdílení dat a zdrojů mezi členy a spolecné využití některých unikátních služeb.
+MetaCentrum koordinuje českou národní gridovou infrastrukturu (NGI). Výpočetní úlohy se odesílají do plánovače PBS, který přiděluje dostupné zdroje podle požadavků úlohy a pravidel infrastruktury.
 
-* ** Výpočetní a datové** služby.
-* Široká nabídka** aplikačního SW** z mnoha vědních oborů.
-* ** Monitorování úloh** prostřednictvím webového rozhraní.
-* ** Prostředí pro spolupráci** mezi týmy z ČR i ze zahraničí.
-* ** Integrace infrastruktury NGI** do mezinárodního výzkumného prostoru.
-* ** Virtualizace infrastruktury** umožňuje uživatelům spouštět spolecně s programy celé operační systémy, respektive plně přizpůsobené prostředí.
-* Uživatelská** podpora**.
-* Integrace s** eduID.cz** infrastrukturou.
+[[cs:resources:hardware:start|Prohlédnout výpočetní zdroje]] · [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|Dokumentace výpočtů (EN)]]
 
-==== Výhody gridového prostředí pro vlastníky clusterů ====
-Vlastníkům clusteru nabízíme:
+===== Výhody pro uživatele =====
 
-* ** Prioritu** nebo i** výhradní přístup** na svých strojích.
-* ** Pomoc při výběru, instalaci a provozu** výpočetních clusterů, včetně jednotné správy systémového a aplikačního SW, aktualizací, atd.
-* ** Správu** účtů, instalaci a** provoz systému pro správu úloh**.
-* Společný** provozní dohled**, průběžné řešení technických a organizačních záležitostí provozu clusteru.
-* Možnost** přizpůsobení výpočetního prostředí** potřebám či zvyklostem místní uživatelské komunity formou virtuálních uzlů a clusterů.
-* Pomoc při** řešení bezpečnostních incidentů** (napojení na bezpečnostní tým CSIRT CESNETu).
-* Pomoc se** zapojením do mezinárodního gridového prostředí**, usnadnění spolupráce se zahraniční skupinou.
-* Pomoc s optimalizací využití vlastněného clusteru,** poskytnutí accountingových dat** pro účely vykazování v projektu.
-* Sdílení** programového vybavení** podle licenčních podmínek.
+  * **Sdílená výpočetní kapacita** pro simulace, analýzy a dávkové zpracování.
+  * **Vědecký software** z různých výzkumných oblastí.
+  * **Práce s daty** a spolupráce mezi týmy z více institucí.
+  * **Správa a sledování úloh** prostřednictvím nástrojů MetaCentra.
+  * **Uživatelská podpora** pro otázky k prostředí a používání služeb.
 
-Integrací clusteru do národního gridového prostředí je uživatelům lokálního clusteru umožněn přístup do celonárodního a podle zájmu i do mezinárodního gridového prostředí.
+===== Jak začít =====
 
-Pro úlohy, které by na vlastním clusteru dlouho čekaly pro nedostatek lokálních kapacit, jsou k dispozici virtuální stroje běžící stejnou instalaci systému jako lokální uzly.
+  - **Získejte účet.** Postup najdete v [[cs:faq:start#clenstvi|FAQ k členství]] a [[https://docs.metacentrum.cz/en/docs/access/account|návodu k registraci (EN)]].
+  - **Připravte první úlohu.** Pokračujte [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|průvodcem základní výpočetní úlohou (EN)]].
+  - **Vyberte software a zdroje.** Využijte [[https://docs.metacentrum.cz/en/docs/software|dokumentaci softwaru (EN)]] a [[cs:resources:hardware:start|přehled hardwaru]].
 
-Distribuované systémy ukládání dat a přistupu k nim zajistí, že data, nad nimiž výpočet probíhá, jsou zabezpečeným způsobem dostupná i na dodatečně alokovaných uzlech mimo lokální cluster. Vytváříme tím zdání dynamicky se „nafukujícího“ clusteru, který se přizpůsobuje momentálnímu vytížení.
+Pro webový přístup k výpočetnímu prostředí se podívejte na [[https://docs.metacentrum.cz/en/docs/graphical/ondemand|OnDemand (EN)]].
 
-Při výpadku clusteru zapojeného do národní infrastruktury mužeme úlohy dočasně přesměrovat na aktuálně méně vytížený cluster a uživatelům tak výpadek úplně skrýt.
+===== Zapojení vlastních zdrojů =====
 
-==== Jak připojit akademické nebo výzkumné výpočetní zdroje do NGI? ====
-Pokud jste správcem zdrojů akademické nebo výzkumné instituce a máte zájem o jejich zapojení do MetaCentra (NGI), kontaktujte nás na e-mail**** [[mailto:support@metacentrum.cz|support@metacentrum .cz]].
+Akademické a výzkumné instituce mohou s MetaCentrem konzultovat zapojení vlastních výpočetních nebo úložných kapacit. Společné prostředí podporuje sdílení zdrojů a spolupráci mezi institucemi.
+
+Mezi oblasti spolupráce patří:
+
+  * výběr, instalace a provoz výpočetních clusterů,
+  * správa účtů, softwarového prostředí a plánování úloh,
+  * provozní dohled a řešení technických problémů,
+  * pravidla přístupu k vlastním a sdíleným kapacitám.
+
+Pro projednání možností napište na [[mailto:meta@cesnet.cz|meta@cesnet.cz]] a popište svou instituci, dostupné zdroje a zamýšlené využití.
+
+===== Evropská spolupráce =====
+
+MetaCentrum je součástí prostředí evropské výzkumné spolupráce. [[https://www.egi.eu/|EGI]] propojuje infrastruktury a výzkumné komunity napříč zeměmi; vysvětlení NGI a virtuálních organizací najdete v [[cs:faq:start|FAQ]].
+
+[[cs:sluzby:start|Zpět na služby]]

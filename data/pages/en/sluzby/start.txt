@@ -1,18 +1,108 @@
-====== Sluzby ======
+====== Services ======
 
-MetaCentrum VO provides users with following services:
+Choose an environment for computing, hosting your applications or working with research data. Each service includes its purpose, suggested users and a link to documentation or its web interface.
 
-MetaCentrum Grid [[https://docs.metacentrum.cz/]]
-* [[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|PBS]]
-* [[https://docs.metacentrum.cz/en/docs/ondemand|OnDemand]]
-* [[https://docs.metacentrum.cz/en/docs/software/sw-list/jupyter|JupyterNotebook]]
-* [[https://docs.metacentrum.cz/en/docs/software/fields/genomics/alphafold|Alphafold]]
-* [[https://docs.metacentrum.cz/en/docs/related/galaxy|Galaxy]]
+  * [[#grid_computing|Grid computing]]
+  * [[#cloud|Cloud]]
+  * [[#kubernetes|Kubernetes]]
+  * [[#research_tools|Research tools]]
 
-* [[https://brno.openstack.cloud.e-infra.cz/|MetaCentrum Cloud]]
-[[https://docs.cerit.io/en/docs/platform/overview|Kubernetes]] (CERIT-SC)
-* [[https://docs.cerit.io/en/docs/rancher/rancher|Rancher]]
-* [[https://docs.cerit.io/en/docs/web-apps/jupyterhub|JupyterHub/Binder]] (with support of AI chat)
-* [[https://docs.cerit.io/en/docs/web-apps/foldify|Foldify]]
-[[https://docs.cerit.io/en/docs/web-apps/foldify|Chat AI]] [[https://docs.metacentrum.cz/en/docs/related/galaxy|WebUI]]
-* [[https://docs.metacentrum.cz/en/docs/related/galaxy]]
+===== Grid computing =====
+
+For demanding computations, batch jobs and shared computing resources.
+
+==== MetaCentrum Grid / PBS ====
+
+Run computing jobs on MetaCentrum infrastructure. The PBS scheduler handles job submission and allocation of available resources.
+
+**For:** researchers who need computing capacity for simulations, analysis or batch processing.
+
+[[https://docs.metacentrum.cz/en/docs/computing/run-basic-job|Documentation]] · [[en:resources:hardware:start|Computing resources]]
+
+===== Cloud =====
+
+For your own virtual machines and a customized software environment.
+
+==== MetaCentrum Cloud ====
+
+Create and manage virtual machines through the cloud infrastructure. Choose an environment and software that suit your project.
+
+**For:** research teams and users who need their own operating system or a long-running environment.
+
+[[https://brno.openstack.cloud.e-infra.cz/|Open service]] · [[https://docs.metacentrum.cz/en/docs/cloud|Documentation]]
+
+===== Kubernetes =====
+
+For containerized applications and their management on the CERIT-SC platform.
+
+==== Kubernetes / CERIT-SC ====
+
+Deploy containerized applications and services in Kubernetes. The platform provides an environment for research applications and team tools.
+
+**For:** teams working with containers who need to host their own applications.
+
+[[https://docs.cerit.io/en/docs/platform/overview|Documentation]]
+
+==== Rancher ====
+
+A web interface for working with Kubernetes environments. It helps users navigate clusters and manage deployed applications.
+
+**For:** users and administrators of containerized applications who prefer a graphical interface.
+
+[[https://docs.cerit.io/en/docs/rancher/rancher|Documentation]]
+
+===== Research tools =====
+
+For interactive work, data analysis and specialized scientific tasks.
+
+==== OnDemand ====
+
+Access MetaCentrum through your web browser. OnDemand provides graphical access to computing infrastructure and interactive applications.
+
+**For:** users who prefer a web interface for working with computing resources.
+
+[[https://docs.metacentrum.cz/en/docs/graphical/ondemand|Documentation]]
+
+==== Jupyter / JupyterHub / Binder ====
+
+Use interactive notebooks for data analysis, programming and sharing computational workflows. JupyterHub and Binder provide related web environments on the CERIT-SC platform.
+
+**For:** data analysts, researchers and teachers working with notebooks.
+
+[[https://docs.metacentrum.cz/en/docs/software|MetaCentrum software]] · [[https://docs.cerit.io/en/docs/web-apps/jupyterhub|JupyterHub/Binder documentation]]
+
+==== AlphaFold ====
+
+A tool for computational prediction of protein structures. See the MetaCentrum documentation for available software and usage information.
+
+**For:** researchers in bioinformatics and structural biology.
+
+[[https://docs.metacentrum.cz/en/docs/software|Software documentation]]
+
+==== Galaxy ====
+
+A web environment for building and running analytical workflows on research data. It provides access to analysis tools through a graphical interface.
+
+**For:** researchers who need reproducible analytical workflows without writing their own programs.
+
+[[https://docs.metacentrum.cz/en/docs/graphical/usegalaxy|Documentation]]
+
+==== Foldify ====
+
+A web application for predicting protein structures with AlphaFold, ColabFold and other tools. Submit computations and view their results in your browser.
+
+**For:** researchers in bioinformatics and structural biology who prefer a web interface.
+
+[[https://foldify.cloud.e-infra.cz/|Open service]] · [[https://docs.cerit.io/en/docs/web-apps/foldify|Documentation]]
+
+==== Chat AI ====
+
+A chat interface for working with language models through AIaaS services. The documentation describes available options and access.
+
+**For:** users who want to work with language models through a web interface.
+
+[[https://docs.cerit.io/en/docs/ai-as-a-service/chat-ai|Documentation]]
+
+===== Account and help =====
+
+New to MetaCentrum? Read [[en:faq:start#membership|how to get an account]] or follow the [[https://docs.metacentrum.cz/en/docs/access/account|registration guide]]. Contact [[mailto:meta@cesnet.cz|user support]] for help choosing a service.

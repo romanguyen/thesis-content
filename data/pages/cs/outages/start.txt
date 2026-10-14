@@ -1,15 +1,28 @@
-====== Odstavky ======
+====== Odstávky ======
 
-===== Planovana odstavka: frontendy a scheduler =====
-  * **Termin:** ut 14. 4. 2026, 07:00-11:00 CEST
-  * **Dopad:** kratkodobe omezeni prihlasovani a scheduler prikazu
-  * **Rozsah:** vybrane frontend uzly a PBS scheduler
+Informace o plánované údržbě a omezeních výpočetní infrastruktury. Aktuální oznámení ověřujte v provozním přehledu MetaVO.
 
-===== Udrzba ulozist: metadata scratch =====
-  * **Termin:** ct 16. 4. 2026, 06:00-08:00 CEST
-  * **Dopad:** docasne pomalejsi pristup do vybranych scratch cest
-  * **Rozsah:** metadata sluzby scratch ulozist
+  * [[https://metavo.metacentrum.cz/en/news/outages.jsp|Aktuální odstávky na MetaVO (EN)]]
+  * [[mailto:meta@cesnet.cz|Kontaktovat podporu]]
 
-===== Kde sledovat aktualni stav =====
-  * [[https://metavo.metacentrum.cz/outages/|MetaVO odstavky]]
-  * [[https://www.metacentrum.cz/cs/news/index.jsp|MetaCentrum novinky]]
+**Archiv místních oznámení:** následující záznamy uvádějí plánovaná okna údržby z dubna 2026. Nejde o živý přehled aktuálních incidentů.
+
+===== Plánovaná odstávka: frontendy a scheduler =====
+  * **Termín:** 14. 4. 2026, 07:00–11:00 CEST
+  * **Dopad:** krátkodobé omezení přihlašování a příkazů plánovače
+  * **Dotčené služby:** vybrané frontendové uzly a plánovač PBS
+
+Pokud se během uvedeného okna nemůžete přihlásit nebo pracovat s plánovačem, podívejte se na podrobnosti v provozních oznámeních. Při přetrvávajícím problému kontaktujte podporu a uveďte použitý frontend a případné chybové hlášení.
+
+===== Údržba úložišť: metadata scratch =====
+  * **Termín:** 16. 4. 2026, 06:00–08:00 CEST
+  * **Dopad:** dočasně pomalejší přístup k vybraným cestám scratch
+  * **Dotčené služby:** metadata služeb úložišť scratch
+
+Při problému s přístupem k datům uveďte v požadavku na podporu dotčenou cestu, ID úlohy a čas výskytu problému. Záznam popisuje ohlášené omezení, nikoli aktuální dostupnost služby.
+
+===== Kde sledovat aktuální stav =====
+
+Pro nejnovější oznámení použijte [[https://metavo.metacentrum.cz/en/news/outages.jsp|provozní přehled MetaVO (EN)]]. Další informace najdete v [[https://docs.metacentrum.cz/en/docs/support/outages|dokumentaci odstávek (EN)]].
+
+S neočekávaným problémem se obraťte na [[mailto:meta@cesnet.cz|meta@cesnet.cz]].

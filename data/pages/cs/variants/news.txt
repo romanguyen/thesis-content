@@ -1,5 +1,5 @@
 ~~NOTOC~~
-====== Novinky - varianta ======
+====== Novinky – varianta ======
 
 Tato stránka nejdřív ukazuje přehled novinek a odstávkových oznámení.
 Pod přehledem je archiv vybraných novinek převzatý z `cs:news:start`.

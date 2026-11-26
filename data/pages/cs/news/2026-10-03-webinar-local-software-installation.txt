@@ -1,0 +1,43 @@
+====== Pozvánka na webinář "Lokální instalace softwarových balíčků" ======
+
+//Ivana Křenková, 3. 10. 2026//
+
+{{:news:2026:webinar-local-software-installation-banner.png?800|Série webinářů MetaCentra: Lokální instalace softwarových balíčků, 21. 10. 2026, 13:00, events.cesnet.cz/e/meta4}}
+
+Chcete zefektivnit své vědecké výpočty a využít kapacitu MetaCentra na maximum?
+
+Zveme vás na čtvrtý webinář ze série webinářů MetaCentra, který zaměříme na **Lokální instalace softwarových balíčků** v prostředí gridové služby MetaCentrum – ukážeme si, jaké moduly jsou v MetaCentru k dispozici, jak si nainstalovat vlastní nástroje, na jaká omezení práv na strojích můžete narazit, jak používat správce balíčků a kompilovat zdrojové kódy. Ukážeme si také spuštění aplikace v kontejneru.
+
+Datum: 21. října 2026, 13:00 až 15:00
+
+Program webináře:
+
+  * Dostupné SW moduly a jak je využívat
+  * Předkompilované binární soubory
+  * Správci balíčků – Mamba, pip, R, apt
+  * Apptainer (Singularity) kontejnery
+  * Kompilace zdrojového kódu
+  * Diskuse a zodpovězení dotazů
+
+Webinář je vhodný pro vědecké pracovníky, studenty, IT specialisty a správce z akademického a výzkumného sektoru, kteří mají přístup k infrastruktuře MetaCentrum nebo o jeho využití uvažují. Víte o kolegovi nebo kolegyni, kterým by se naše výpočetní kapacita hodila, ale ještě nás neznají? Přepošlete jim prosím tuto pozvánku.
+
+→ **Registrace** a více informací: [[https://events.cesnet.cz/event/76/|https://events.cesnet.cz/e/meta4/]]
+
+==== O nové sérii webinářů ====
+
+Každý měsíc vám představíme jedno konkrétní téma podle vašeho zájmu. Chtěli byste se o něčem v MetaCentru dozvědět více? Budeme rádi, když nám dáte vědět, co by vás zajímalo příště.
+
+V rámci této série webinářů jsme již představili:
+
+  * 23. 6. [[https://events.cesnet.cz/e/meta1|Úvod do možností využití výpočetní infrastruktury MetaCentrum]]
+  * 20. 7. [[https://events.cesnet.cz/e/meta2|AI nástroje (nejen) pro výzkum]]
+  * 2. 9. [[https://events.cesnet.cz/e/meta3|Efektivní práce s daty v infrastruktuře MetaCentrum]]
+
+Materiály z těchto školení naleznete na [[https://github.com/CESNET/metacentrum-webinars|https://github.com/CESNET/metacentrum-webinars]]
+
+→ [[https://metavo.metacentrum.cz/cs/seminars/index.html|Sledujte stránku akcí]] (najdete zde odkazy na předchozí akce včetně školicích materiálů)
+
+Těšíme se na Vaši účast!\\
+Tým MetaCentra
+
+//Zdroj: [[https://metavo.metacentrum.cz/cs/news/novinka_2026_0022.html|novinky MetaVO]], převzato 26. 11. 2026.//

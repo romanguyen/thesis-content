@@ -1,4 +1,4 @@
-====== Meta ======
+====== Projekt MetaCentrum ======
 
 MetaCentrum vzniklo jako reakce na konkrétní situaci v akademické komunitě České republiky na počátku roku 1996. Když se v roce 1994 v rámci pilotního projektu Fondu rozvoje vysokých škol České republiky rozhodovalo o zřízení prvních center podpory výkonných výpočtů, zvítězil přístup, který řada oponentů nazvala drobením. Šlo o to, že namísto zakoupení a instalace jediného výkonného superpočítače bylo rozhodnuto vytvořit zárodky v počátku tří, v konečném důsledku pak pěti center podpory výkonných výpočtů v prostředí vysokých škol České republiky. Výsledkem těchto úvah proto bylo rozhodnutí zakoupit 3 systémy POWER Challenge frmy SGI a instalovat je na Ústavu výpočetní techniky Univerzity Karlovy, v Centru výpočetních a informačních služeb Vysokého učení technického v Brně a na Ústavu výpočetní techniky Masarykovy univerzity v Brně. Současně se předpokládalo, že nejpozději v následujícím roce budou instalovány systémy s obdobným výkonem na Západočeské univerzitě v Plzni a ve Výpočetním centru Českého vysokého učení v Praze.
 

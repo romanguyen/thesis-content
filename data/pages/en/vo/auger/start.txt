@@ -31,7 +31,7 @@ Please consult VO ID card at the [[http://operations-portal.egi.eu/|Operations p
 * LFC catalogue: lfc1.egee.cesnet.cz (used only for old files)
 * UI: ui1.grid.cesnet.cz (account created after registration)
 
-====== VO managers ======
+===== VO managers =====
 VO auger for setup by CESNET and Institute of Physics of the Academy of Sciencies of the Czech Republic (FZU) after an approval of a collaboration board in spring 2006. FZU is a member of the Pierre Auger collaboration, CESNET provides its resources in the scope of the EGI project.
 
 //Comments and questions send to Jiri.Chudoba at NOSPAMcern.ch//

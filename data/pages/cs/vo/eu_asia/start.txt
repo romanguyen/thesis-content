@@ -1,4 +1,4 @@
-====== Eu Asia ======
+====== EU-Asia ======
 
 EUAsia VO je virtuální organizace dostupná všem uživatelům. Jejím cílem je podporovat výzkum využívající výpočetní výkon distribuovaných počítačů v oblasti Asie a Pacifiku. Tato virtuální organizace byla založena jako součást projektu [[http://www.euasiagrid.org/|EUAsiaGrid]]. Níže jsou uvedeny návody na zprovoznění audio a videokonferenčních nástrojů, které se používají ke komunikaci mezi členy této virtuální organizace:
 

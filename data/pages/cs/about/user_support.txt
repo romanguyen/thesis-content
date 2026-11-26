@@ -1,6 +1,6 @@
-====== User Support ======
+====== Uživatelská podpora ======
 
-Před odesláním požadavku se podívejte, zda nenajdete odpověď na svůj dotaz na stránce [[cs:faq|FAQ]].
+Před odesláním požadavku se podívejte, zda nenajdete odpověď na svůj dotaz na stránce [[cs:faq:start|FAQ]].
 
 Primární kontakt pro řešení většiny problémů spojených s provozem VO MetaCentra je adresa [[mailto:meta@cesnet.cz|meta@cesnet.cz]]. Na tuto adresu lze posílat všechny připomínky a náměty pro práci MetaCentra NGI, dotazy týkající se zapojení nových zdrojů, gridovým certifikátům, programovému vybavení, atd.
 

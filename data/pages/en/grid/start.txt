@@ -1,4 +1,4 @@
-====== Grid ======
+====== National Grid Infrastructure ======
 
 CESNET represents the National Grid Initiative (NGI) of the Czech Republic. The National Grid Infrastructure is operated by MetaCentrum, CESNET department responsible for coordinationg and managing grid activities in the Czech Republic on behalf of the Czech NGI.
 

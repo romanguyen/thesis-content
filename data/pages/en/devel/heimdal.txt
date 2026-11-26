@@ -1,6 +1,5 @@
-====== Heimdal ======
+====== Heimdal – patches and modifications ======
 
-===== Heimdal - patches and modifications =====
 Heimdal is an open source implementation of the Kerberos V5 authentication mechanism described by IETF RFC 1510. Heimdal is used as a basic authentication method in the MetaCentre project. This page contains description of software we have created or adapted during work on MetaCentre. Most of this work was done by Daniel Kouril and Mirek Ruda.
 
 [[http://metavo.metacentrum.cz/en/docs/software/devel/PKINIT.html|Support for PKI authentication]]

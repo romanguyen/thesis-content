@@ -1,0 +1,13 @@
+====== Ohlédnutí za Seminářem MetaCentra 2026 ======
+
+//Ivana Křenková, 8. 10. 2026//
+
+Dne 1. října 2026 jsme v moderních prostorách pražského hotelu Diplomat přivítali téměř 150 účastníků na každoročním **[[https://metavo.metacentrum.cz/en/seminars/Seminar2026/index.html|Semináři výkonného počítání MetaCentrum 2026]]**. Letos proběhl jako samostatná celodenní sekce v rámci větší dvoudenní **Konference CESNET 2026**. Akce potvrdila, jak rychle se výzkumné výpočty mění. Tradičnímu HPC dnes sekunduje zpracování rozsáhlých datových sad pomocí cloudových technologií a zapojení umělé inteligence včetně velkých jazykových modelů (LLM).
+
+Kompletní program a všechny probírané **prezentace** si můžete prohlédnout a stáhnout na [[https://metavo.metacentrum.cz/en/seminars/Seminar2026/index.html|stránce Semináře 2026]].
+
+Pokud jste se akce nemohli zúčastnit osobně, na **YouTube** je k dispozici záznam z celého dne – jednotlivé přednášky si můžete pohodlně přehrát [[https://youtube.com/playlist?list=PLLFAoCruDFwg|v tomto playlistu]] (EN titulky jsou k dispozici).
+
+Podrobný článek o akci si můžete přečíst na webu [[https://www.e-infra.cz/en/news/recap-metacentrum-high-performance-computing-seminar-2026|e-INFRA CZ]].
+
+//Zdroj: [[https://metavo.metacentrum.cz/cs/news/novinka_2026_0023.html|novinky MetaVO]], převzato 26. 11. 2026.//

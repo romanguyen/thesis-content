@@ -1,4 +1,4 @@
-====== Magrathea ======
+====== Magrathea system ======
 
 Magrathea provides an interface between batch scheduling system(s) and virtual machine monitors. It allows jobs to be submitted in a controlled manner into virtual machines running on cluster nodes (when several virtual machines are running on a single cluster node). Magrathea can also be seen as a scheduler running on each cluster node which schedules virtual machines according to jobs submitted into them by batch scheduling systems. Current implementation supports PBS Pro scheduling system, which has to be slightly modified to support all features of Magrathea, and Xen and VServer virtual machine monitors.
 

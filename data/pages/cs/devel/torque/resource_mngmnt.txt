@@ -1,4 +1,4 @@
-====== Resource Mngmnt ======
+====== Správa zdrojů v systému Torque ======
 
 Plain Torque has very weak resource semantics and leaves most of resource management logic to the scheduler. This approach suffers from scalability issues and also doesn't allow multiple schedulers on one server, because the scheduler requires exclusive access to the GRID to maintain synchronized GRID state.
 In our fork, we have moved resource semantics into the server, which now supports static allocation of generic resources and serves as a guard preventing any invalid (over limit) requests.

@@ -1,4 +1,4 @@
-====== Metavo ======
+====== MetaVO ======
 
 MetaCentrum VO je virtuální organizace české Národní Gridové Infrastruktury [[cs:start|Meta Centrum NGI]], a je otevřená všem akademickým pracovníkům a studentům [[https://www.cesnet.cz/sdruzeni/clenske-organizace/|členů sdružení CESNET]]. Uživatelé registrovaní v MetaCentru VO mají možnost bezplatného využití řady aplikačních programů.
 

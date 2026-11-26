@@ -1,0 +1,26 @@
+====== Seminář výkonného počítání MetaCentrum na Konferenci CESNET 2026 (30. 9. – 1. 10. 2026) ======
+
+//Ivana Křenková, 2. 9. 2026//
+
+Ve dnech **30. září a 1. října 2026** proběhne v pražském hotelu Diplomat odborná Konference CESNET 2026, jejíž druhý den bude věnován celodennímu **[[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|Semináři výkonného počítání MetaCentrum 2026]]**. Setkání představí vědecké komunitě aktuální trendy a nástroje národní e-infrastruktury pro distribuované výpočty, správu a zpracování dat a provoz AI modelů.
+
+//Konference i seminář budou probíhat v českém jazyce.//\\
+//Seminář organizuje MetaCentrum (CESNET a CERIT-SC) ve spolupráci s Datovými úložišti CESNET.//
+
+{{:news:2026:seminar-metacentrum-2026-cs.png?800|Konference CESNET 2026, MetaCentrum – Seminář výkonného počítání: 30. 9. 2026 společný program konference, 1. 10. 2026 seminář, Diplomat Hotel Prague, Evropská 15, Praha 6; účast zdarma, registrace nutná}}
+
+Metodika vědeckých výpočtů se rychle vyvíjí. K tradičnímu HPC se stále častěji přidává **zpracování objemných datových sad, provoz velkých jazykových modelů (LLM), cloudová řešení, Kubernetes a vývoj aplikací akcelerovaný umělou inteligencí**. Letošní seminář proto tato klíčová témata propojí a nabídne ucelený přehled i praktické postupy přímo využitelné v každodenním výzkumu.
+
+**Konference CESNET 2026 bude dvoudenní:**
+
+  * **První den** (10–17 h) je společný a můžete se těšit na průřezová témata sdružení CESNET – od vysokorychlostních sítí, multimédií a identity managementu až po kybernetickou bezpečnost a distribuované výpočty.
+  * **Druhý den** (9–17 h) proběhne ve více sekcích, při registraci na akci si vyberete, které z nich se zúčastníte:
+    * **Seminář MetaCentra + datová úložiště** (představení služeb CESNETu a CERIT-SC)
+    * **Bezpečnost**
+    * **Výzkum + Multimédia a další**
+
+→ **[[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|Detailní program Semináře MetaCentra a odkaz na registraci]]**
+
+Těšíme se na setkání
+
+//Zdroj: [[https://metavo.metacentrum.cz/cs/news/novinka_2026_0021.html|novinky MetaVO]], převzato 26. 11. 2026.//

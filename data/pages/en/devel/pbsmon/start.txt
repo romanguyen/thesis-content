@@ -1,4 +1,4 @@
-====== Pbsmon ======
+====== PBSmon ======
 
 ===== Introduction =====
 Pbsmon is a web application for observing the current state of both hardware and virtual computing resources of the virtual organization MetaVO which gathers computing resources of main universities in the Czech Republic.
@@ -24,7 +24,7 @@ Each virtual machine is displayed with information about its configuration, prop
 //Image 3: State of a virtual machine as shown by Pbsmon//
 Pbsmon also contains a personalised view for each user, showing which machines are accessible to the user and through which queues.
 
-Pbsmon collects information from several sources. Information about virtual machines, jobs, job queues and users are taken from any number of job planing systems compatible with PBS. Mapping of virtual machines to hardware machines is takes from pbs_cache, which is a home-grown system for stroing runtime data. Information about hardware machines is taken from [[en:devel:perun|Perun]], a system for managing resources.
+Pbsmon collects information from several sources. Information about virtual machines, jobs, job queues and users are taken from any number of job planing systems compatible with PBS. Mapping of virtual machines to hardware machines is takes from pbs_cache, which is a home-grown system for stroing runtime data. Information about hardware machines is taken from [[en:devel:perun:start|Perun]], a system for managing resources.
 
 Pbsmon also displays the utilization of other resources, like disk arrays for storing scientific data:
 

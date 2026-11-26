@@ -1,7 +1,7 @@
-====== Plan-Based-Scheduler ======
+====== Rozvrhový plánovač úloh pro TORQUE ======
 
 ===== Úvod =====
-V rámci výzkumu a rozvíjení dizertační práce dr. Klusáčka ([[mailto:klusacek(at)cesnet.cz|klusacek(at)cesnet.cz]]) vznikl za podpory CESNETu unikátní rozvrhový plánovač úloh kompatibilní s prostředím TORQUE resource manager, které se využívá v MetaCentru a CERIT-SC ([[http://www.cerit-sc.cz|www.cerit-sc.cz]]).
+V rámci výzkumu a rozvíjení dizertační práce dr. Klusáčka (<klusacek@cesnet.cz>) vznikl za podpory CESNETu unikátní rozvrhový plánovač úloh kompatibilní s prostředím TORQUE resource manager, které se využívá v MetaCentru a CERIT-SC ([[http://www.cerit-sc.cz|www.cerit-sc.cz]]).
 
 Namísto front si plánovač tvoří tzv. rozvrh úloh do kterého vkládá každou nově příchozí úlohu. Díky tomu pak lze předpovídat dobu spouštění každé úlohy. Navíc lze takovýto plán vyhodnocovat a optimalizovat pomocí zabudované optimalizační metaheuristiky.
 
@@ -40,5 +40,5 @@ Zdrojové kódy jsou k dispozici na: [[https://github.com/CESNET/TorquePlanSched
 
 ===== Reference =====
 * KLUSÁČEK, Dalibor, Václav CHLUMSKÝ a Hana RUDOVÁ. Planning and optimization in TORQUE resource manager. In** Proceedings of the 24th ACM International Symposium on High Performance Distributed Computing**. New York, NY, USA: ACM, 2015.
-* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda,//The extension of TORQUE scheduler allowing the use of planning and optimization in Grids.//** Computer Science**, 13 (2). pp. 5-19. ISSN 1508-2806, 2012.
-* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda.//Planning, Predictability and Optimization within the TORQUE Scheduler//. In Antonín Kučera, Thomas Henzinger, Jaroslav Nešetřil, Tomáš Vojnar, David Antoš.** MEMICS 2012**. první. Brno: Novpress s.r.o., 2012.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda, //The extension of TORQUE scheduler allowing the use of planning and optimization in Grids.//** Computer Science**, 13 (2). pp. 5-19. ISSN 1508-2806, 2012.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda. //Planning, Predictability and Optimization within the TORQUE Scheduler//. In Antonín Kučera, Thomas Henzinger, Jaroslav Nešetřil, Tomáš Vojnar, David Antoš.** MEMICS 2012**. první. Brno: Novpress s.r.o., 2012.

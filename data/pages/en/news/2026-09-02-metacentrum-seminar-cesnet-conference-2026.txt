@@ -1,0 +1,24 @@
+====== MetaCentrum High-Performance Computing Seminar at the CESNET 2026 Conference (30. 9. – 1. 10. 2026) ======
+
+//Ivana Křenková, 2 September 2026//
+
+The CESNET 2026 Conference will take place on **September 30 and October 1,** 2026, at the Diplomat Hotel in Prague, with its second day dedicated to the full-day **[[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|MetaCentrum High-Performance Computing Seminar 2026]]**. The event will introduce the scientific community to current trends and tools within the national e-infrastructure for distributed computing, data management and processing, and the deployment of AI models.
+
+//**The conference will be held in Czech.**//\\
+//The seminar is organized by MetaCentrum (CESNET and CERIT-SC) in collaboration with CESNET Data Storage.//
+
+{{:news:2026:seminar-metacentrum-2026-en.jpg?800|CESNET Conference 2026, MetaCentrum High-Performance Computing Seminar: 30. 9. 2026 conference common program, 1. 10. 2026 seminar, Diplomat Hotel Prague, Evropská 15, Praha 6; free attendance, registration required}}
+
+The methodology of scientific computing is rapidly evolving. In addition to traditional HPC, researchers are increasingly dealing with **large-scale dataset processing, the deployment of large language models (LLMs), cloud solutions, Kubernetes, and AI-accelerated application development**. This year's seminar brings these key areas together to offer a comprehensive overview along with practical approaches directly applicable to everyday research.
+
+==== Two-Day Conference Format ====
+
+  * **Day One (September 30, 10:00–17:00)** features a joint program covering cross-cutting topics from CESNET – ranging from high-speed networks, multimedia, and identity management to cybersecurity and distributed computing.
+  * **Day Two (October 1, 9:00–17:00)** is organized into multiple parallel tracks:
+    * **MetaCentrum Seminar + Data Storage** (presentation of services by CESNET and CERIT-SC)
+    * Cybersecurity
+    * Research + Multimedia and more
+
+→ **[[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|Detailed program and the registration form link]]**
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0021.html|MetaVO news]], retrieved 26 November 2026.//

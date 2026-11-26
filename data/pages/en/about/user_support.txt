@@ -1,6 +1,6 @@
-====== User Support ======
+====== User support ======
 
-[[en:faq|FAQ]]
+[[en:faq:start|FAQ]]
 
 Comments and questiones concerning MetaCentrum VO operation, such as membership, resources, error messages, technical issues or problems related to applications, should be sent at [[http://meta@cesnet.cz|meta@cesnet.cz]]. Regular time of requests solving is during the working days between 9:00 – 17:00.
 

@@ -1,4 +1,4 @@
-====== Moonshot ======
+====== Moonshot project ======
 
 The Moonshot project develop technology that brings advantages of identity federations to a a broad range of non-Web services. It is a Janet-led initiative, in partnership with the GÉANT and other projects.
 

@@ -1,4 +1,4 @@
-====== Rules ======
+====== Pravidla použití ======
 
 - Provozovatelem služeb MetaCentra je CESNET zájmové sdružení právnických osob (dále též jen “sdružení CESNET” nebo “správce MetaCentra”), [[http://www.cesnet.cz/|https://www.cesnet.cz/]].
 - Posláním MetaCentra je zpřístupnění výpočetních, úložných a softwarových zdrojů uživatelům, kteří je využívají pro výzkumné, vývojové a výukové účely. Služby MetaCentra zahrnují provoz e-infrastruktury a svěřených výpočetních a úložných zdrojů, centrální správu hardware i software, podporu uživatelských komunit, rozvoj infrastrukturních služeb i integraci s evropskou e-infrastrukturou EGI ([[https://www.egi.eu/]]). Úroveň a základní vlastnosti služeb jsou definovány technickou dokumentací na webu [[start|https://www.metacentrum.cz]] /.

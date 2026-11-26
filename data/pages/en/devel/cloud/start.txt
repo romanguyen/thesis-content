@@ -1,12 +1,10 @@
-====== Cloud ======
-
 ====== Development for HPC Cloud ======
 
 CESNET/MetaCentrum participates in international collaborations to enable HPC-oriented cloud federations. Prominent among them are the [[https://www.egi.eu/federation/egi-federated-cloud/|EGI Federated Cloud]] and the [[https://www.egi.eu/federation/egi-federated-cloud/|INDIGO-DataCloud Project]]. There are major focus areas wherein CESNET contributes. These are covered by their own profile pages:
-* [[en:devel:occi|Interoperable cloud resource management through the OCCI standard]],
+* [[en:devel:occi:start|Interoperable cloud resource management through the OCCI standard]],
 Federated AAI with:
 * [[https://perun.cesnet.cz/web/|Perun]] – a identity and attribute authority
-* [[en:devel:identity_federations|Identity Federations]]
+* [[en:devel:identity_federations:start|Identity Federations]]
 * [[https://wiki.metacentrum.cz/gswiki/GridSite_Architecture|GridSite]] – an Apache module for X.509-based authentication
 
 Aside of those, the following areas are also receiving attention.
@@ -27,4 +25,4 @@ CESNET develops a suite of accounting/monitoring data collectors and processors 
 
 MICHAL relies on OpenTSDB for collection and Grafana for custom visualisation of resource usage statistics. It is capable of evaluating actual resource usage alongside resource reservation records (such CPUs assigned to a cloud VM as opposed to actual usage of said CPUs). Such statistic help resource providers to allocate their resources and make decisions on overcommit strategies, etc.
 ==== References ====
-Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In//Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,//ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346
+Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In //Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,// ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346

@@ -1,4 +1,4 @@
-====== Slurm ======
+====== Job scheduling with the SLURM resource manager ======
 
 ** Job scheduling with the SLURM resource manager** ([[https://www.metacentrum.cz/export/sites/metacentrum/cs/devel/students/slurm/thesis.pdf|PDF]])
 

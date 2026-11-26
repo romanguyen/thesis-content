@@ -2,9 +2,7 @@
 
 Format: `DD/MM|YYYY|Title|Target page id or URL|Image URL or lib/tpl/reskin/img/ path`
 
-* 08/04|2026|Workshop AI Confidential|news:start|lib/tpl/reskin/img/stories/ai.svg
-* 09/04|2026|AdvanceMed 2026|news:start|lib/tpl/reskin/img/stories/medicine.svg
-* 28/04|2026|Superpočítače a kvantový počítač VLQ zblízka|news:start|lib/tpl/reskin/img/stories/quantum.svg
-* 05/05|2026|Školení: Jak připravit GPU úlohy|news:start|lib/tpl/reskin/img/stories/gpu.svg
-* 13/05|2026|Open Access Day pro výzkumníky|news:start|lib/tpl/reskin/img/stories/open-access.svg
-* 26/05|2026|MetaCentrum community meetup|news:start|lib/tpl/reskin/img/stories/community.svg
+* 02/12|2026|Webinář: Úvod do prostředí MetaCentrum Cloud|news:2026-11-12-webinar-metacentrum-cloud|lib/tpl/reskin/img/stories/ai.svg
+* 21/10|2026|Záznam webináře: Lokální instalace softwarových balíčků|news:2026-10-27-webinar-local-software-installation-recording|lib/tpl/reskin/img/stories/gpu.svg
+* 16/10|2026|Nový multijob scratch|news:2026-10-16-multijob-scratch|lib/tpl/reskin/img/stories/quantum.svg
+* 01/10|2026|Seminář výkonného počítání MetaCentrum 2026|news:2026-10-08-metacentrum-seminar-2026-recap|lib/tpl/reskin/img/stories/community.svg

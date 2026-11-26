@@ -1,4 +1,4 @@
-====== Torque ======
+====== Dávkový systém Torque ======
 
 Batch systems are the core component of GRIDs. Their main task is to manage the life time of computational jobs.
 Torque batch system consists of three main components:

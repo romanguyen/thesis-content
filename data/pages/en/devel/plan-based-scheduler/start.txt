@@ -1,4 +1,4 @@
-====== Plan-Based-Scheduler ======
+====== Plan-based TORQUE scheduler ======
 
 ===== Introduction =====
 This pages summarizes our recent research and implementation of a** plan-based TORQUE scheduler**.
@@ -54,8 +54,8 @@ Current stable version can be obtained at: [[https://github.com/CESNET/TorquePla
 
 ===== References =====
 * KLUSÁČEK, Dalibor, Václav CHLUMSKÝ a Hana RUDOVÁ. Planning and optimization in TORQUE resource manager. In** Proceedings of the 24th ACM International Symposium on High Performance Distributed Computing**. New York, NY, USA: ACM, 2015.
-* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda,//The extension of TORQUE scheduler allowing the use of planning and optimization in Grids.//** Computer Science**, 13 (2). pp. 5-19. ISSN 1508-2806, 2012.
-* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda.//Planning, Predictability and Optimization within the TORQUE Scheduler//. In Antonín Kučera, Thomas Henzinger, Jaroslav Nešetřil, Tomáš Vojnar, David Antoš.** MEMICS 2012**. první. Brno: Novpress s.r.o., 2012.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda, //The extension of TORQUE scheduler allowing the use of planning and optimization in Grids.//** Computer Science**, 13 (2). pp. 5-19. ISSN 1508-2806, 2012.
+* Václav Chlumský, Dalibor Klusáček and Miroslav Ruda. //Planning, Predictability and Optimization within the TORQUE Scheduler//. In Antonín Kučera, Thomas Henzinger, Jaroslav Nešetřil, Tomáš Vojnar, David Antoš.** MEMICS 2012**. první. Brno: Novpress s.r.o., 2012.
 
 ===== Experimental Evaluation Testbed and Setup =====
 As this software is an actual scheduler instead of a simulator we cannot use the whole workload "as is" since typical workloads lasted for several months. Clearly, it would take too much time to evaluate the scheduler using the whole log. Instead of that we have extracted several "interesting" job intervals from each workload. First, we have plotted when there was a significant activity and contention in the original log, using the number of waiting jobs at the given time as a metric. Using this information we have extracted those intervals that lasted for at least 5 days and contained some reasonable number of waiting jobs. Such an interval was considered as promising, as it was more likely to show differences between different scheduling solutions. Finally we have divided job runtimes and all inter-arrival times between two consecutive jobs by a given factor. As a result we have obtained workloads which are proportional to the original ones and exhibit similar behavior, but have shorter durations (makespan), i.e., they are much more suitable for our experiments. For example, if the original data covered one week and we have used 7.0 as the factor, then it took only 1 day to perform the simulation.

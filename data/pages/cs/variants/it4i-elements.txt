@@ -1,4 +1,4 @@
-====== IT4I prvky - varianta ======
+====== IT4I prvky – varianta ======
 
 **Demonstrační stránka:** ukázkové metriky, karty a starší zprávy ověřují rozvržení; nepředstavují živý provozní přehled.
 
@@ -6,7 +6,7 @@
   * hexagonální metriky,
   * posuvná sekce akcí a starších zpráv.
 
-Rozvržení přepínejte v záhlaví (Vlevo / Nahoře / MetaCentrum).
+Rozložení a styl přepínejte v záhlaví v nabídce Předvolby: Rozložení (Levé menu / Horní menu) a Styl (Vzhled CESNET / Design MetaCentrum / Bootstrap 5).
 
 ===== Vložené video =====
 

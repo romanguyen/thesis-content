@@ -1,5 +1,5 @@
 ~~NOTOC~~
-====== News - Variant ======
+====== News – variant ======
 
 This page first shows a compact overview of news and outages.
 Below the overview, selected archive news from `en:news:start` are shown.

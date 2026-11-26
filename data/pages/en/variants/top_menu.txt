@@ -1,18 +1,18 @@
 ====== Top Navigation Variant ======
 
-This page collects links for the second interface version where navigation is placed on top.
-The style is inspired by CESNET service pages, but all content remains MetaCentrum-specific.
+This page collects sample links to combinations of layout and style.
+The header offers the same choice under Preferences (Layout and Style).
 
 ===== Demo links =====
 
-  * [[en:resources:hardware:start?layout=top&style=cesnet|Hardware page with top navigation (CESNET-inspired)]]
-  * [[en:variants:news?layout=left|Dedicated news page (overview + archive)]]
-  * [[en:variants:it4i-elements?style=metacentrum|Dedicated IT4I elements page (MetaCentrum design)]]
-  * [[en:news:start?layout=left&style=reskin|News page with original left sidebar variant]]
-  * [[en:start?layout=left&style=reskin|Start page with original clean/content-first variant]]
+  * [[en:resources:hardware:start?layout=top&style=cesnet|Hardware – Top menu, CESNET look]]
+  * [[en:variants:news?layout=left|News – variant (overview + archive), Left menu]]
+  * [[en:variants:it4i-elements?style=metacentrum|IT4I elements – variant, MetaCentrum design]]
+  * [[en:news:start?layout=left&style=cesnet|News – Left menu, CESNET look]]
+  * [[en:start?layout=left&style=cesnet|Home page – Left menu, CESNET look]]
 
 ===== Notes =====
 
-  * `layout=top` switches the navigation placement.
-  * `style=cesnet` applies the blue/orange top-menu visual variant.
-  * Without these parameters, the default left-sidebar layout is used.
+  * `layout=top` / `layout=left` match the Top menu / Left menu choices.
+  * `style=cesnet` / `style=metacentrum` / `style=bootstrap5` match the CESNET look / MetaCentrum design / Bootstrap 5 choices.
+  * Without these parameters, Top menu and CESNET look are used.

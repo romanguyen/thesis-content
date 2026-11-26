@@ -11,8 +11,8 @@ if (!empty($options['help'])) {
 $root = dirname(__DIR__);
 
 $sourcePath = $options['source'] ?? ($root . '/scripts/hardware_clusters.json');
-$outEn = $options['out-en'] ?? ($root . '/data/pages/en/resources/hardware_git_sync.txt');
-$outCs = $options['out-cs'] ?? ($root . '/data/pages/cs/resources/hardware_git_sync.txt');
+$outEn = $options['out-en'] ?? ($root . '/scripts/generated/hardware_git_sync.en.txt');
+$outCs = $options['out-cs'] ?? ($root . '/scripts/generated/hardware_git_sync.cs.txt');
 
 $sourceRealPath = resolvePath($root, $sourcePath);
 if (!is_file($sourceRealPath)) {
@@ -85,7 +85,7 @@ function printUsage()
 {
     $usage = <<<TXT
 Usage:
-  php scripts/git_hardware_sync.php [--source=scripts/hardware_clusters.json] [--out-en=data/pages/en/resources/hardware_git_sync.txt] [--out-cs=data/pages/cs/resources/hardware_git_sync.txt]
+  php scripts/git_hardware_sync.php [--source=scripts/hardware_clusters.json] [--out-en=scripts/generated/hardware_git_sync.en.txt] [--out-cs=scripts/generated/hardware_git_sync.cs.txt]
 
 TXT;
 

@@ -1,0 +1,45 @@
+====== Invitation to the webinar "Local installations of software packages" ======
+
+//Ivana Křenková, 3 October 2026//
+
+{{:news:2026:webinar-local-software-installation-banner.png?800|MetaCentrum webinar series banner (in Czech): Local installation of software packages, 21 October 2026, 13:00, events.cesnet.cz/e/meta4}}
+
+Would you like to make your scientific computing more efficient and take full advantage of MetaCentrum's capacity?
+
+We invite you to the fourth webinar in the MetaCentrum webinar series, which will focus on **Local installations of software packages** in the MetaCentrum grid service environment – we will show you what modules are available in MetaCentrum, how to install your own tools, what machine permission limitations you might encounter, how to use package managers, and how to compile source codes. We will also demonstrate running an application in a container.
+
+Date: October 21, 2026, 1PM to 3PM
+
+**This event is held in Czech language. Videorecording with English subtitles will be available shortly after the webinar.**
+
+Webinar agenda:
+
+  * Available SW modules and how to use them
+  * Precompiled binaries
+  * Package managers – Mamba, pip, R, apt
+  * Apptainer (Singularity) containers
+  * Compiling source code
+  * Discussion and Q&A
+
+The webinar is suitable for researchers, students, IT specialists, and administrators from the academic and research sector who have access to the MetaCentrum infrastructure or are considering using it. Do you know a colleague who could use our computing capacity but doesn't know us yet? Please forward this invitation to them.
+
+→ **Registration** and more information: [[https://events.cesnet.cz/event/76/|https://events.cesnet.cz/e/meta4/]]
+
+==== About the new webinar series ====
+
+Every month we will introduce one specific topic based on your interest. Would you like to learn more about something in MetaCentrum? We will be glad if you let us know what you would be interested in next.
+
+As part of this webinar series, we have already presented:
+
+  * June 23: [[https://events.cesnet.cz/e/meta1|Introduction to the possibilities of using the MetaCentrum computing infrastructure]]
+  * July 20: [[https://events.cesnet.cz/e/meta2|AI tools (not only) for research]]
+  * Sept 2: [[https://events.cesnet.cz/e/meta3|Effective data handling in the MetaCentrum infrastructure]]
+
+Materials from these training sessions can be found at [[https://github.com/CESNET/metacentrum-webinars|https://github.com/CESNET/metacentrum-webinars]]
+
+→ [[https://metavo.metacentrum.cz/en/seminars/index.html|Follow the events page]] (you will find links to previous events including training materials here)
+
+We look forward to your participation!\\
+The MetaCentrum Team
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0022.html|MetaVO news]], retrieved 26 November 2026.//

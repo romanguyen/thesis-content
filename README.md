@@ -40,10 +40,13 @@ Regenerate pages:
 php scripts/git_hardware_sync.php
 ```
 
-Generated targets:
+Generated targets (kept outside `data/pages/`, so they are not public wiki pages;
+the public hardware page is `resources:hardware:start`):
 
-- `data/pages/en/resources/hardware_git_sync.txt`
-- `data/pages/cs/resources/hardware_git_sync.txt`
+- `scripts/generated/hardware_git_sync.en.txt`
+- `scripts/generated/hardware_git_sync.cs.txt`
+
+The `Hardware Sync Check` workflow regenerates both files and fails if they differ from the committed copies.
 
 ## T2 representative content repairs (16 November 2026)
 
@@ -77,3 +80,43 @@ ffmpeg -hide_banner -loglevel error -f lavfi \
 ```
 
 The illustrative server-room image was already present in this repository; the showcase does not claim it depicts a particular site. Media/source permissions, a full content migration, current external service availability and two separately deployed websites have not been approved or certified by these local repairs.
+
+## Lockdown content changes (26 November 2026)
+
+### Media provenance (lockdown)
+
+Downloaded on 2026-11-26 so pages no longer load them from other sites. The bytes are unchanged; this records where
+they came from, not a redistribution permission.
+
+| Local media | Used on | Source URL | SHA-256 |
+| --- | --- | --- | --- |
+| `:resources:metacentrum-hw-map-2016.png` (400×256 PNG) | `cs:start`, `en:start` (HW map) | `https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png` | `0ded4a75c2a1fc783bd564bce61c25cf1e970964f929766c3189a0a27edb05c8` |
+| `:news:2026:webinar-metacentrum-cloud-banner.png` (1200×240 PNG) | `news:2026-11-12-webinar-metacentrum-cloud` (cs, en) | `https://metavo.metacentrum.cz/export/sites/meta/images/other/Webinar_bannerx12x.png_524804141.png` | `56242690435c0008f9735218087a0012f2a99d3f59a790a92360bbf316788971` |
+| `:news:2026:scratch-types-overview.png` (801×447 PNG) | `news:2026-10-16-multijob-scratch` (cs, en) | `https://metavo.metacentrum.cz/export/sites/meta/images/other/image-scratch-en.png_2027164944.png` | `8b2e3bb7d2e7b5e47ee7f5ce17a14b9495824162bbccbfc83dd3c048e0b48615` |
+| `:news:2026:webinar-local-software-installation-banner.png` (800×160 PNG) | `news:2026-10-03-webinar-local-software-installation` (cs, en) | `https://metavo.metacentrum.cz/export/sites/meta/images/other/webinar4_banner.png_1380295843.png` | `e8eeb282e57c87b5b3d32d5969e0a43194716da080993a6bf07a0fab6f058ff2` |
+| `:news:2026:seminar-metacentrum-2026-cs.png` (800×400 PNG) | `cs:news:2026-09-02-metacentrum-seminar-cesnet-conference-2026` | `https://metavo.metacentrum.cz/export/sites/meta/images/other/seminar-metacentrum5-mensi.png_1380298540.png` | `3f5814bdc2910ba24805be537f696dfb7c0634a95d1b7f5e87b0f793a177b09a` |
+| `:news:2026:seminar-metacentrum-2026-en.jpg` (800×400 JPEG) | `en:news:2026-09-02-metacentrum-seminar-cesnet-conference-2026` | `https://metavo.metacentrum.cz/export/sites/meta/images/other/seminar-metacentra5-EN.jpg_1380298540.jpg` | `e6c265664934b68dddd666722950996944dbf09e79317fce139ef039321f2bfa` |
+
+### News text provenance (lockdown)
+
+The six newest articles in each language were taken on 2026-11-26 from the MetaVO news lists
+`https://metavo.metacentrum.cz/cs/news/news.jsp` and `https://metavo.metacentrum.cz/en/news/news.jsp`.
+Each article is the page `news:YYYY-MM-DD-name` (date from the MetaVO byline) and ends with a link to its original
+`https://metavo.metacentrum.cz/{cs,en}/news/novinka_2026_00NN.html`:
+
+| Page name (cs and en) | MetaVO item |
+| --- | --- |
+| `2026-11-12-webinar-metacentrum-cloud` | `novinka_2026_0027` |
+| `2026-10-27-webinar-local-software-installation-recording` | `novinka_2026_0026` |
+| `2026-10-16-multijob-scratch` | `novinka_2026_0024` |
+| `2026-10-08-metacentrum-seminar-2026-recap` | `novinka_2026_0023` |
+| `2026-10-03-webinar-local-software-installation` | `novinka_2026_0022` |
+| `2026-09-02-metacentrum-seminar-cesnet-conference-2026` | `novinka_2026_0021` |
+
+The HTML was converted to DokuWiki syntax (inline styles, empty blocks and spacers dropped; headings, lists, bold
+text, tables and links kept; relative MetaVO links made absolute). The two embedded YouTube players were left out
+because the wiki allows no iframes; the playlist link in the same article remains. Obvious typos fixed: cs
+"opatřetn" → "opatřen", "odkazy ne předchozí" → "odkazy na předchozí", "školících" → "školicích", "titulky: ." →
+"titulky.", "Ve dne ch" → "Ve dnech"; en "vidorecording" → "video recording", "opertations" → "operations",
+"**D**etailed" link text joined; titles of item 0021 "(30. 9. -1. 10. 2026)" → "(30. 9. – 1. 10. 2026)".
+Older articles (2010–2013) stay as the historical archive.

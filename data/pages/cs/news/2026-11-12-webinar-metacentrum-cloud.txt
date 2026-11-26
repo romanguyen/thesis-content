@@ -1,0 +1,49 @@
+====== Pozvánka na webinář Úvod do prostředí MetaCentrum Cloud ======
+
+//Ivana Křenková, 12. 11. 2026//
+
+{{:news:2026:webinar-metacentrum-cloud-banner.png?800|Série webinářů MetaCentra: Úvod do prostředí MetaCentrum Cloud, 2. 12. 2026, 13:00, events.cesnet.cz/e/meta5}}
+
+Chcete se seznámit s možnostmi cloudové infrastruktury MetaCentra a naučit se pracovat s virtuálními stroji?
+
+Zveme vás na pátý webinář ze série webinářů MetaCentra, který zaměříme na **základy používání MetaCentrum Cloudu**. Ukážeme si, jak virtuální stroje fungují a jak je nastavit, jak přistupovat k zabezpečení a jaký je rozdíl mezi osobními a skupinovými projekty. Představíme práci v grafickém rozhraní OpenStack, nástroj Terraform pro pokročilejší uživatele i novou grafickou platformu CozyStack.
+
+**Název:** Úvod do prostředí MetaCentrum Cloud\\
+**Datum:** 2. 12. 2026 od 13 hodin\\
+**Přednáší:** Klára Moravcová\\
+**Jazyk:** čeština, záznam bude opatřen anglickými titulky a vystaven na Youtubu\\
+**Předpokládaná délka:** 90 minut + diskuse
+
+==== Program webináře ====
+
+  * Virtuální stroje a jejich nastavení (flavory a další parametry)
+  * Bezpečnost – otevírání portů a pravidelné upgrady
+  * Osobní a skupinové projekty
+  * Práce v grafickém rozhraní OpenStack
+  * Terraform
+  * Představení nové grafické platformy CozyStack
+  * Diskuse a zodpovězení dotazů
+
+Webinář je vhodný pro vědecké pracovníky, studenty, IT specialisty a správce z akademického a výzkumného sektoru, kteří mají přístup k infrastruktuře MetaCentrum nebo o jejím využití uvažují. Víte o kolegovi nebo kolegyni, kterým by se naše výpočetní kapacita hodila? Přepošlete jim prosím tuto pozvánku.
+
+→ **Registrace a více informací:** [[https://events.cesnet.cz/event/83/|https://events.cesnet.cz/event/83/]]
+
+==== O nové sérii webinářů ====
+
+Každý měsíc vám představíme jedno konkrétní téma podle vašeho zájmu. Chtěli byste se o něčem v MetaCentru dozvědět více? Budeme rádi, když nám dáte vědět, co by vás zajímalo příště.
+
+V rámci této série webinářů jsme již představili:
+
+  * 23. 6. [[https://events.cesnet.cz/e/meta1|Úvod do možností využití výpočetní infrastruktury MetaCentrum]]
+  * 20. 7. [[https://events.cesnet.cz/e/meta2|AI nástroje (nejen) pro výzkum]]
+  * 2. 9. [[https://events.cesnet.cz/e/meta3|Efektivní práce s daty v infrastruktuře MetaCentrum]]
+  * 21. 10. [[https://events.cesnet.cz/e/meta4|Lokální instalace softwarových balíčků]]
+
+Praktické příklady z těchto školení naleznete na [[https://github.com/CESNET/metacentrum-webinars|https://github.com/CESNET/metacentrum-webinars]]
+
+→ [[https://metavo.metacentrum.cz/cs/seminars/index.html|Sledujte stránku akcí]] (najdete zde odkazy na předchozí akce včetně školicích materiálů)
+
+Těšíme se na Vaši účast!\\
+Tým MetaCentra
+
+//Zdroj: [[https://metavo.metacentrum.cz/cs/news/novinka_2026_0027.html|novinky MetaVO]], převzato 26. 11. 2026.//

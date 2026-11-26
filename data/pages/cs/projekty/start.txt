@@ -360,8 +360,6 @@ Jako vedoucí tým pracovní skupiny WP5 se činnost MetaCentra (v rámci MU) so
 | 2005 | Ověření migrace XEN virtuálních strojů | Ing. Michal Švamberg |
 | 2005 | Protokoly a aplikace distribuovaných datových skladů (PADS) | doc. RNDr. Luděk Matyska, CSc. |
 | 2003 | Univerzální autentizace pomocí hardwarových tokenů | doc. RNDr. Luděk Matyska, CSc. |
-Vybudování střižny a vývoj distribuovaného kódovacího
-prostředí pro přípravu videa on-demand na Ústavu výpočetní
-| 2002 | techniky Masarykovy univerzity v Brně | Ing. Jaroslav Ledvinka |
+| 2002 | Vybudování střižny a vývoj distribuovaného kódovacího prostředí pro přípravu videa on-demand na Ústavu výpočetní techniky Masarykovy univerzity v Brně | Ing. Jaroslav Ledvinka |
 | 2002 | Mobilní uzel AccessGridu | doc. RNDr. Luděk Matyska, CSc. |
 | 2002 | Distribuované datové sklady (DiDaS) | doc. RNDr. Luděk Matyska, CSc. |

@@ -1,0 +1,36 @@
+====== Introducing multijob scratch concept ======
+
+//Ivana Křenková, 16 October 2026//
+
+Does your research run dozens or hundreds of calculations on the same large dataset, such as a set of reference genome, a chemical database or a text corpus? You no longer need to copy that data in and out for every single job.
+
+With the new **multijob scratch**, your temporary workspace persists between jobs. Copy your dataset into a dedicated multijob scratch folder once, and all your subsequent jobs can use it right away, for days or even weeks, with no repeated data transfers.
+
+**Please note:** Multijob scratch is temporary storage, not an archive. Always transfer your final results to regular storage and **delete your files from scratch when your project is complete**. Although unused files are automatically removed after several weeks, cleaning up promptly frees up valuable high-speed storage for other researchers.
+
+==== Choose your variant ====
+
+  * **Multijob fast scratch** (''multijob=brno'' or ''multijob=plzen''): high-speed parallel storage located in Brno or Plzeň, ideal for data-intensive analyses with intensive reading and writing (I/O operations). The Brno storage is known as BeeGFS, which many of you already know; the Plzeň storage is brand new.
+  * **Multijob global scratch** (''multijob=global''): slower network storage (CephFS) that is accessible from every compute node in MetaCentrum. It is a good fit when your jobs mostly read large shared files or pass results from one step to the next.
+
+==== How to get started ====
+
+Unlike standard local scratch, where the system creates a scratch directory for you automatically (defined as $SCRATCHDIR), with multijob scratch you create your own project directory manually once in ''/scratch/multijob-{brno|plzen|global}/$USER/'' and point your jobs to it.
+
+For ready-to-use job scripts and a short guide to picking the right scratch for your work, see our [[https://docs.metacentrum.cz/en/docs/computing/infrastructure/scratch-storages|scratch documentation page]].
+
+==== Comparison of MetaCentrum scratch types ====
+
+{{:news:2026:scratch-types-overview.png?800|Overview of MetaCentrum scratch types}}
+
+Choosing the right scratch type is one of the most important decisions for job performance. The overview below will help you decide.
+
+^ Type ^ PBS resource ^ Speed and availability ^ Lifetime ^ Best use ^
+| **Local scratch**\\ //(default choice)// | ''scratch_local=10gb'' | **Moderate** (HDD on some nodes); available on **every node** | **Single job** (deleted when the job ends); PBS sets ''$SCRATCHDIR'' automatically | **Standard single-node jobs** with ordinary data sizes that read inputs once and write results once |
+| **Local SSD scratch** | ''scratch_ssd=10gb'' | **Fast** (SSD); available on **most nodes** | **Single job** (deleted when the job ends); PBS sets ''$SCRATCHDIR'' automatically | **I/O-heavy jobs** limited by disk speed: many small files (e.g. genomics tools), database processing or frequent checkpointing |
+| **Scratch in RAM** | ''scratch_shm=true''\\ //(plus a large ''mem='')// | **Ultra fast** (RAM, ''/dev/shm''); available **everywhere** | **Single job** (lost immediately if the job crashes or is killed); PBS sets ''$SCRATCHDIR'' automatically | **Small, disposable intermediate data** that needs maximum speed. //Note:// the scratch size counts against your ''mem='' request, so ask for enough memory for both the program and the files. |
+| **Shared scratch** | ''scratch_shared=10gb'' | **Fast** (parallel SSD filesystem); available on **selected clusters** | **Single job** (deleted when the job ends); all nodes of the job see the same ''$SCRATCHDIR'' | **Multi-node jobs (e.g. MPI)** in which processes on different nodes must read and write the same files during the job |
+| **Multijob fast scratch**\\ NEW | ''multijob=brno''\\ or\\ ''multijob=plzen'' | **Fast** (parallel storage); available on **Brno** (''bee'') or **Plzeň** (''fobos''/''deimos'') nodes | **Persists between jobs**; unused files are deleted after several weeks.\\ **You create the directory:** ''/scratch/multijob-brno/$USER/'' (or ''multijob-plzen'') | **Reusing a large dataset across many jobs** (e.g. a 500 GB database queried by 300 jobs over two weeks) without copying it in every time |
+| **Multijob global scratch**\\ NEW | ''multijob=global'' | **Slower** (cross-site CephFS network storage); available on **every node** | **Persists between jobs**; unused files are deleted after several weeks.\\ **You create the directory:** ''/scratch/multijob-global/$USER/'' | **Reusing data across many jobs** when speed is not critical: shared software state, rarely read files, or passing data along a chain of dependent jobs |
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0024.html|MetaVO news]], retrieved 26 November 2026.//

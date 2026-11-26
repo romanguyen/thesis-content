@@ -1,0 +1,49 @@
+====== Webinar invitation: Basics of using MetaCentrum Cloud ======
+
+//Ivana Křenková, 12 November 2026//
+
+{{:news:2026:webinar-metacentrum-cloud-banner.png?800|MetaCentrum webinar series banner (in Czech): Introduction to MetaCentrum Cloud, 2 December 2026, 13:00, events.cesnet.cz/e/meta5}}
+
+Would you like to explore the possibilities offered by MetaCentrum's cloud infrastructure and learn how to work with virtual machines?
+
+Join us for the fifth webinar in the MetaCentrum webinar series, where we will focus on the **basics of using MetaCentrum Cloud**. We will explain how virtual machines work and how to configure them, discuss security and explore the differences between personal and group projects. We will also introduce the OpenStack graphical interface, Terraform for more advanced users, and the new CozyStack graphical platform.
+
+**Title:** Introduction to MetaCentrum Cloud\\
+**Date:** 2 December 2026 at 1:00 p.m.\\
+**Presenter:** Klára Moravcová\\
+**Language:** Czech; English subtitles will be added to the video recording (and placed on YouTube)\\
+**Expected duration:** 90 minutes + discussion
+
+==== Webinar programme ====
+
+  * Virtual machines and their configuration (flavors and other parameters)
+  * Security: opening ports and performing regular upgrades
+  * Personal and group projects
+  * Working with the OpenStack graphical interface
+  * Terraform
+  * Introduction to the new CozyStack graphical platform
+  * Discussion and Q&A
+
+The webinar is intended for researchers, students, IT specialists and administrators in the academic and research sectors who have access to the MetaCentrum infrastructure or are considering using it. Do you know a colleague who could benefit from our computing capacity? Please feel free to forward this invitation to them.
+
+→ **Registration and further information:** [[https://events.cesnet.cz/event/83/|https://events.cesnet.cz/event/83/]]
+
+==== About the new webinar series ====
+
+Each month, we will introduce a topic based on your interests. Is there something you would like to learn more about in MetaCentrum? We would be happy to hear what you would like us to cover next.
+
+Previous webinars in the series:
+
+  * 23 June: [[https://events.cesnet.cz/e/meta1|Introduction to the possibilities of using the MetaCentrum computing infrastructure]]
+  * 20 July: [[https://events.cesnet.cz/e/meta2|AI tools (not only) for research]]
+  * 2 September: [[https://events.cesnet.cz/e/meta3|Efficient data management in the MetaCentrum infrastructure]]
+  * 21 October: [[https://events.cesnet.cz/e/meta4|Local installation of software packages]]
+
+Practical examples from these sessions are available at [[https://github.com/CESNET/metacentrum-webinars|https://github.com/CESNET/metacentrum-webinars]].
+
+→ [[https://metavo.metacentrum.cz/cs/seminars/index.html|Visit our events page]] for links to past events and training materials.
+
+We look forward to seeing you!\\
+The MetaCentrum Team
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0027.html|MetaVO news]], retrieved 26 November 2026.//

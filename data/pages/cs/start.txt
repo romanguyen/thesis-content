@@ -1,6 +1,4 @@
-====== MetaCentrum ======
-
-//Vítejte na stránkách Národní Gridové Infrastruktury MetaCentrum, aktivity sdružení//[[http://www.cesnet.cz|CESNET, z.s.p.o]]//.//
+===== MetaCentrum =====
 
 MetaCentrum vystupuje v roli** České Národní Gridové Infrastruktury** (NGI_CZ), oficiálně uznávané národní součástí Evropské Gridové Infrastruktury (EGI). Hlavním úkolem je další rozšiřování a koordinace plnohodnotné národní gridové infrastruktury v České republice vhodným propojením stávajících a nově pořizovaných** výpočetních a úložných prostředků** akademické komunity v ČR. Vytvoření virtuálního pracovního prostředí MetaCentrum přispívá k podstatně** efektivnějšímu využití instalované techniky**, umožňuje využítí dostupných výpočetních zdrojů pro řešení velmi náročných výpočetních úloh, jejichž zvládnutí je nad možností samostatného pracoviště v ČR. Zájemcům z akademických a výzkumných institucí nabízí MetaCentrum prostředí pro (spolu)práci v oblasti výpočtů a ukládání dat nejen na území ČR, ale i v mezinárodním měřítku (podpora integrace do mezinárodního výzkumného prostoru (ERA) a napojení do Evropské Gridové Infrastruktury EGI).
 

@@ -1,0 +1,21 @@
+====== Videozáznam z webináře "Lokální instalace softwarových balíčků" ======
+
+//Ivana Křenková, 27. 10. 2026//
+
+Minulý týden proběhl v pořadí čtvrtý webinář MetaCentra na téma **Lokální instalace softwarových balíčků**.
+
+Záznam je k dispozici na [[https://youtu.be/KvfIknX3Bf4|YouTube MetaCentra]], kde je doplněn anglickými titulky.
+
+Prezentaci, užitečné odkazy a příkazy, které si můžete jednoduše zkopírovat, naleznete také na [[https://github.com/CESNET/metacentrum-webinars|GitHubu]].
+
+Máte námět na další webinář?\\
+Pokud byste měli nápad na téma některého z příštích webinářů, ozvěte se nám – stačí odpovědět na tento e-mail, nebo napsat na naši podporu <meta@cesnet.cz>. Budeme rádi za každý podnět.
+
+Pátý webinář se bude konat ve středu **2. prosince** a tématem bude **MetaCentrum Cloud**. O jeho konání budeme dále informovat v novinkách.
+
+→ [[https://metavo.metacentrum.cz/cs/seminars/index.html|Sledujte stránku akcí]] (najdete zde odkazy na předchozí akce včetně školicích materiálů)
+
+Těšíme se na Vaši účast!\\
+Tým MetaCentra
+
+//Zdroj: [[https://metavo.metacentrum.cz/cs/news/novinka_2026_0026.html|novinky MetaVO]], převzato 26. 11. 2026.//

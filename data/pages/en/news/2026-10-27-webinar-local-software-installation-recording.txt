@@ -1,0 +1,20 @@
+====== Videorecording from "Local Installation of Software Packages" webinar ======
+
+//Ivana Křenková, 27 October 2026//
+
+Last week, the fourth MetaCentrum webinar took place, focusing on the "**Local Installation of Software Packages.**"
+
+The recording is available on the [[https://youtu.be/KvfIknX3Bf4|MetaCentrum YouTube channel]], complete with English subtitles.\\
+You can also find the presentation, useful links, and ready-to-copy commands on [[https://github.com/CESNET/metacentrum-webinars|GitHub]].
+
+Do you have an idea for our next webinar?\\
+If you have a topic suggestion for any of our upcoming webinars, please let us know – simply reply to this email or contact our support team at <meta@cesnet.cz>. We welcome all of your ideas.
+
+The fifth webinar will be held on **Wednesday, December 2nd**, and will cover **MetaCentrum Cloud**. We will provide further details in our upcoming news updates.
+
+→ Follow our [[https://metavo.metacentrum.cz/en/seminars/index.html|events page]] (where you can find links to past events, including training materials)
+
+We look forward to your participation!\\
+The MetaCentrum Team
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0026.html|MetaVO news]], retrieved 26 November 2026.//

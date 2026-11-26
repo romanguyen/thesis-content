@@ -1,0 +1,13 @@
+====== Recap: MetaCentrum High-Performance Computing Seminar 2026 ======
+
+//Ivana Křenková, 8 October 2026//
+
+On October 1, 2026, we welcomed nearly 150 participants to the annual **[[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|MetaCentrum High Performance Computing Seminar 2026]]** at the modern facilities of the Hotel Diplomat in Prague. This year, the seminar took place as a standalone full-day section within the larger two-day **CESNET Conference 2026**. The event confirmed how rapidly research computing is evolving. Traditional HPC is now complemented by the processing of large datasets using cloud technologies and the integration of artificial intelligence, including large language models (LLMs).
+
+You can view and download the complete program and all **presentations** covered during the seminar on the [[https://metavo.metacentrum.cz/cs/seminars/Seminar2026/index.html|Seminar 2026 page]].
+
+If you were unable to attend the event in person, a recording of the entire day is available on **YouTube** – you can conveniently watch individual presentations [[https://youtube.com/playlist?list=PLLFAoCruDFwg|in this playlist]] (English subtitles are available).
+
+You can read a detailed article about the event on the [[https://www.e-infra.cz/en/news/recap-metacentrum-high-performance-computing-seminar-2026|e-INFRA CZ]] website.
+
+//Source: [[https://metavo.metacentrum.cz/en/news/novinka_2026_0023.html|MetaVO news]], retrieved 26 November 2026.//

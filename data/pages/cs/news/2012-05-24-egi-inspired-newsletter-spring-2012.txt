@@ -4,19 +4,18 @@
 
 Vyšlo další číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''.
 
-- html verze:
-[[http://go.egi.eu/Spring12]] - pdf verze:
-[[http://go.egi.eu/Spring12PDF|http://go.egi.eu/Winter12PDF]]
+  * html verze: [[http://go.egi.eu/Spring12]]
+  * pdf verze: [[http://go.egi.eu/Spring12PDF]]
 
 Z obsahu:
 
-* A profile of IberGrid
-* Integration of Desktop Grids in EGI
-* The latest infrastructure figures and trends
-* An introduction to the new EGI Customer Relationship Management tool
-* An outlook of EGI's strategy for Europe 2020
-* The state-of-the-art on Science Gateways
-* And the premiere of the 'Stories from the Grid' videos
+  * A profile of IberGrid
+  * Integration of Desktop Grids in EGI
+  * The latest infrastructure figures and trends
+  * An introduction to the new EGI Customer Relationship Management tool
+  * An outlook of EGI's strategy for Europe 2020
+  * The state-of-the-art on Science Gateways
+  * And the premiere of the 'Stories from the Grid' videos
 
 As always, your comments/feedback and ideas for stories are very
 welcome at press@egi.eu.

@@ -1,0 +1,15 @@
+====== EGI-InSPIRE newsletter available ======
+
+//Ivana Křenková, 29 September 2010//
+
+The first issue of ''Inspired'', the newsletter from the EGI-InSPIRE project, is now available:
+[[http://www.egi.eu/export/sites/egi/results/newsletters/Newsletter_Summer2010.pdf|Newsletter_Summer2010.pdf]]
+
+Its contents includes:
+
+  * Applications database is up and running
+  * Central European ROC evolves into NGI
+  * Distributed monitoring service is operational
+  * Policy groups have started to meet
+  * Upcoming Events
+  * Technical Forum preview

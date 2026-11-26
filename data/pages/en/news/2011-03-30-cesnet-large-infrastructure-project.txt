@@ -1,0 +1,5 @@
+====== CESNET Large Infrastructure project starts ======
+
+//Ivana Křenková, 30 March 2011//
+
+We started a strategic project titled //CESNET Large Infrastructure//. It is on of the high-priority projects focused in building large infrastructures for research and innovations. The project is planned for 2011 to 2015 and is going to build on an previous CESNET research project, //Optical National Research Network and Its New Applications//. Its goal is to further develop the infrastructure and services which we offer to Czech research and education community. Read further details in the [[http://www.ces.net/doc/press/2011/pr110309.html|press release]].

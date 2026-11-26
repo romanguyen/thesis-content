@@ -3,16 +3,17 @@
 //Ivana Křenková, 6. 9. 2012//
 
 Letní vydání EGI Inspired newsletter je k dipozici online!
-- html verzen - [[http://go.egi.eu/Summer12]]
-- PDF verze - [[http://go.egi.eu/Summer12PDF]]
+
+  * html verzen - [[http://go.egi.eu/Summer12]]
+  * PDF verze - [[http://go.egi.eu/Summer12PDF]]
 
 Z obsahu (tučně jsou zvýrazněné naše příspěvky):
 
-* A preview of the Technical Forum in Prague
-* Steve Brewer summarises the EGI Federated Cloud Task Force's activities
-* ** The MPI Virtual Team reports on a number of problems solved**
-* Stephen Burke & Jelena Tamuliene talk about their secondment projects
-* ** Sara Coelho profiles VO auger**
-* Sergio Andreozzi ponders the costs of e-science and introduces the first numbers
-* ** Gergely Sipos writes about the latest developments in Federated Identity Management**
-* Owen Appleton rounds up the achievements of the gSLM project
+  * A preview of the Technical Forum in Prague
+  * Steve Brewer summarises the EGI Federated Cloud Task Force's activities
+  * ** The MPI Virtual Team reports on a number of problems solved**
+  * Stephen Burke & Jelena Tamuliene talk about their secondment projects
+  * ** Sara Coelho profiles VO auger**
+  * Sergio Andreozzi ponders the costs of e-science and introduces the first numbers
+  * ** Gergely Sipos writes about the latest developments in Federated Identity Management**
+  * Owen Appleton rounds up the achievements of the gSLM project

@@ -1,0 +1,7 @@
+====== CESNET zjednodušil vydávání osobních certifikátů ======
+
+//Ivana Křenková, 5. 10. 2010//
+
+Služba [[http://pki.cesnet.cz/cs/tcs-personal.html|CESNET TCS]] včera oznámila dvě novinky ve vydávání certifikátů. Kromě běžných osobních certifikátů CESNET//(TERENA Personal CA//) nově vydává osobní eScience cetrtifikáty TCS (//TERENA eScience Personal CA)//pro použití k autentizaci v gridových infrastrukturách a k zabezpečení elektronické pošty.
+
+Druhou novinkou je napojení vydávání obou typů osobních certifikátů na národní akademickou federaci identit//[[http://eduid.cz/|eduID.cz]]//. O certifikát je možné nyní požádat prostřednictvím [[http://pki.cesnet.cz/cs/tcs-personal-user.html|federovaného webového portálu]].

@@ -1,0 +1,14 @@
+====== Inspired Newsletter - Winter 2011 ======
+
+//Ivana Křenková, 17 February 2011//
+
+The winter edition of the EGI newsletter, Inspired, is now available on-line [[http://go.egi.eu/rakjd|http://www.egi.eu/results/newsletters/Inspired_Winter_2011/]]
+
+Content:
+
+  * User Forum 2011: Programme preview
+  * WeNMR: an infrastructure for NMR and structural biology
+  * Project profile: Initiative for Globus in Europe
+  * Collecting operational requirements
+  * TERENA conference preview
+  * and more

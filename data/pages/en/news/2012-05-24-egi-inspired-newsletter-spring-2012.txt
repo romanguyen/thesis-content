@@ -3,17 +3,19 @@
 //Ivana Křenková, 24 May 2012//
 
 The Spring 2012 issue of the EGI Inspired newsletter is out in:
-- html version: [[http://go.egi.eu/Spring12]]
-- pdf version: [[http://go.egi.eu/Spring12PDF]]
+
+  * html version: [[http://go.egi.eu/Spring12]]
+  * pdf version: [[http://go.egi.eu/Spring12PDF]]
+
 This issue's features:
 
-* A profile of IberGrid
-* Integration of Desktop Grids in EGI
-* The latest infrastructure figures and trends
-* An introduction to the new EGI Customer Relationship Management tool
-* An outlook of EGI's strategy for Europe 2020
-* The state-of-the-art on Science Gateways
-* And the premiere of the 'Stories from the Grid' videos
+  * A profile of IberGrid
+  * Integration of Desktop Grids in EGI
+  * The latest infrastructure figures and trends
+  * An introduction to the new EGI Customer Relationship Management tool
+  * An outlook of EGI's strategy for Europe 2020
+  * The state-of-the-art on Science Gateways
+  * And the premiere of the 'Stories from the Grid' videos
 
 As always, your comments/feedback and ideas for stories are very
 welcome at press@egi.eu.

@@ -1,0 +1,15 @@
+====== EGI Inspired Newsletter - Léto 2011 ======
+
+//Ivana Křenková, 23. 8. 2011//
+
+Vyšlo další číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''. Čtěte [[http://go.egi.eu/Summer11|on-line]]
+
+Z obsahu:
+
+  * Cyril L'Orphelin introduces the latest improvements to the EGI Operations Portal
+  * Steve Brewer reports on the HealthGrid meeting in Bristol
+  * Richard McLennan wants everyone in the community to visit the new Training Marketplace
+  * Rosette Vandenbroucke tells us about the newly published e-IRG White Paper 2011
+  * Sergio Andreozzi is looking for the best Service Level Management practices
+  * Viviane Li investigated what Lyon has to offer in preparation for the EGI Technical Forum in September
+  * Sara Coelho brings you a profile France Grilles, the Technical Forum's co-hosts

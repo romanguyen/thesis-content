@@ -3,18 +3,22 @@
 //Ivana Křenková, 20 February 2012//
 
 The Winter2012 issue of the EGI Inspired newsletter is out:
-- html version: [[http://go.egi.eu/Winter12]]
-- pdf version: [[http://go.egi.eu/Winter12PDF]]
+
+  * html version: [[http://go.egi.eu/Winter12]]
+  * pdf version: [[http://go.egi.eu/Winter12PDF]]
+
 This issue's features:
-- EGI.eu's second anniversary
-- Community Forum 2012: Programme preview
-- Community Forum 2012: Training workshops - go with the (work)flow
-- Case study: Hunting for new viruses
-- Music research and grid computing
-- Sustainability: the next steps
-- European Research Area – No investment without reform
-- A positive outlook for availability in EGI
-- EGI going social
-- Mascot found!
+
+  * EGI.eu's second anniversary
+  * Community Forum 2012: Programme preview
+  * Community Forum 2012: Training workshops - go with the (work)flow
+  * Case study: Hunting for new viruses
+  * Music research and grid computing
+  * Sustainability: the next steps
+  * European Research Area – No investment without reform
+  * A positive outlook for availability in EGI
+  * EGI going social
+  * Mascot found!
+
 If you want to contribute with ideas, suggestions or stories to the
 newsletter don't forget to let us know at press@egi.eu.

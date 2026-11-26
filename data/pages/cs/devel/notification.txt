@@ -23,7 +23,7 @@ Pro vytvoření notifikační služby bylo zvoleno řešení, které se do urči
 
 Notifikace jsou plánovány k provedení plánovacími skripty, vytvořenými zpravidla speciálně pro každý jednotlivý typ notifikace.
 
-Pro některé notifikace ale nejsou změny v aplikačních tabulkách dostačující událostí k jejich spuštění. Například vytvoření účtu na stroji lze považovat za ukončené teprve až je úspěšně provedena služba//passwd//. Z toho důvodu bylo potřeba u některých notifikací ještě definovat sadu podmínek, které musí být splněny, aby mohla notifikace proběhnout.
+Pro některé notifikace ale nejsou změny v aplikačních tabulkách dostačující událostí k jejich spuštění. Například vytvoření účtu na stroji lze považovat za ukončené teprve až je úspěšně provedena služba //passwd//. Z toho důvodu bylo potřeba u některých notifikací ještě definovat sadu podmínek, které musí být splněny, aby mohla notifikace proběhnout.
 
 Cílem notifikací je podle jejich typu buďto uživatel, nebo administrátor objektu, jehož stav je notifikován, eventuelně skupina uživatelů/administrátorů. Jestliže existuje více administrátorů, jimž má být notifikovaná informace předána, stanoví se jako cíl notifikace
 skupina emailových adres, sdružená adresa (později URL pro RT systém).
@@ -90,11 +90,11 @@ Po vytvoření notifikační skript odešle připravené emaily adresátům.
 === Vytvoření/prodloužení účtů ===
 Cílem této notifikace je uživatel, požadující účet.
 
-Notifikace je naplánována v okamžiku vytvoření účtů v datech systému Perun. Její vlastní provedení však musí počkat na skutečné založení požadovaných účtů, tj. na úspěšné ukončení služby//passwd//. Tento požadavek je tedy zaveden jako dodatečná podmínka.
+Notifikace je naplánována v okamžiku vytvoření účtů v datech systému Perun. Její vlastní provedení však musí počkat na skutečné založení požadovaných účtů, tj. na úspěšné ukončení služby //passwd//. Tento požadavek je tedy zaveden jako dodatečná podmínka.
 
 Pro homogenní clustery je notifikačním skriptem vyhodnocováno, na kterých uzlech clusteru již byly účty úspěšně založeny.
 
-Pokud je služba//passwd//, případně celá série//pwd_send//na clusteru, provedena úspěšně, notifikace může být okamžitě provedena.
+Pokud je služba //passwd//, případně celá série //pwd_send// na clusteru, provedena úspěšně, notifikace může být okamžitě provedena.
 
 Pokud ale při provádění výše zmíněných služeb došlo k chybě, lze předpokládat, že příslušný administrátor (kterému se notifikuje havárie služby) provede kroky k nápravě a nové vypropagování služby. V tom případě je žádoucí přeplánovat provedení této notifikace na pozdější dobu a odeslání emailů tak pozdržet. Takové odkládání však musí mít nějaký konečný časový horizont (K4=4 hodiny), po kterém je nezbytné notifikovat uživateli případný neúspěch. Konstanta K4 je dána dobou, za kterou je možné provést dvojí vypropagování služby až ke konečnému chybovému stavu.
 

@@ -25,4 +25,4 @@ CESNET develops a suite of accounting/monitoring data collectors and processors 
 
 MICHAL relies on OpenTSDB for collection and Grafana for custom visualisation of resource usage statistics. It is capable of evaluating actual resource usage alongside resource reservation records (such CPUs assigned to a cloud VM as opposed to actual usage of said CPUs). Such statistic help resource providers to allocate their resources and make decisions on overcommit strategies, etc.
 ==== References ====
-Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In//Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,//ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346
+Parák B., Šustr Z., Kimle M., Fernández P., García Á., Sachtouris S. and Muñoz V. (2016).** Evolution of the Open Cloud Computing Interface**. In //Proceedings of the 6th International Conference on Cloud Computing and Services Science - Volume 2: OCCI,// ISBN 978-989-758-182-3, pages 339-346. DOI: 10.5220/0005934103390346

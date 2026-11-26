@@ -4,7 +4,7 @@
 
 Personal TCS certificates are used for** email encryption**. CESNET provides these certificates as part of [[http://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx|Trusted Certificate Service]] project.
 
-Personal TCS certificates are available for users from organizations included in Czech Academic Identity Federation//[[http://eduid.cz/en/index|eduID.cz]]//via federated web portal.
+Personal TCS certificates are available for users from organizations included in Czech Academic Identity Federation //[[http://eduid.cz/en/index|eduID.cz]]// via federated web portal.
 
 Here you can find manuals
 

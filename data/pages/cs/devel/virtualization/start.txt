@@ -4,7 +4,7 @@
 V klasickém "Cloud Computingu" jsou fyzické zdroje ve vlastnictví a správě jedné organizace, umístěné na jednom místě. Naše pojetí virtualizace gridového prostředí umožňuje integrovat i zdroje různých vlastníků, s využitím mimořádného prostředí sítě CESNET2 distribuovaných po celém území ČR. Virtualizované zdroje je možné propojit do virtuálních clusterů, zajistit jejich úplné oddělení od jiných prostředí stejného nebo dalších uživatelů, provozovat na nich specifické prostředí včetně konkrétních verzí operačního systému, vývojových nástrojů, middleware i aplikací.
 
 ==== Klíčové výhody ====
-* //Optimalizace//využití zdrojů výpočetních center.
+* //Optimalizace// využití zdrojů výpočetních center.
 * //Bezpečnost//- Virtualizace zajišťuje naprosté oddělení uživatelských prostředí mezi sebou a tak mimo jiné i garantuje vysokou míru ochrany, přitom jednotné rozhraní mezi fyzickými a virtualizovanými zdroji umožňuje zajistit správu celého systému bez enormních provozních nákladů.
 * //Dostupnost a jednoduchost použití//- Virtualizace v pojetí MetaCentra má za cíl zvýšení flexibility a atraktivity prostředí pro uživatele. Pro uživatele musí být spuštění sady virtuálních strojů stejně snadné, jako spuštění jedné úlohy a to včetně transparentní konfigurace virtuální sítě a spuštění všech systémových služeb (např. uživatelská brána do privátní sítě). Prostředky výpočetního prostředí je možné přidělit ve formě virtuálního clusteru, který bude plně ve správě uživatelské skupiny a počínaje operačním systémem zcela shodný s jejími zavedenými zvyklostmi, fyzicky je ovšem provozován na sdílené infrastruktuře. Největší výhodou je možnost replikovat úlohu na totožném virtuálním clusteru.
 

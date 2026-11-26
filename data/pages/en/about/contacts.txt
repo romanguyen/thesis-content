@@ -5,8 +5,8 @@
 If for some reason you need to personally meet one of our user support workers, you can do so at following addresses:
 
 ===== Brno office =====
-//Šumavská 416/15, 602 00 Brno - areal CENTRUM ŠUMAVSKÁ, building B, 3rd floor - main entrace from Šumavská street, next entrance from Chaloupeckého náměstí (Chaloupecky square)//By TRAM - routes 1 and 6 (Hrnčířská stop), 12 and 13 (Klusáčkova stop)//By trolley or BUS - routes 29, 34, 36 and 81 (Klusáčkova stop)//
-| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapa_Sumavska.png_425408102.png|mapa_Sumavska}} [[http://www.mapy.cz/s/1QFo]] | {{https://www.metacentrum.cz/images/photo_sumavska15.jpeg|photo_sumavska15}} [[https://www.metacentrum.cz/images/photo_sumavska15.jpeg]] | {{https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg|photo_vchod_Sumavska}} [[https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg]] |
+//Šumavská 416/15, 602 00 Brno - areal CENTRUM ŠUMAVSKÁ, building B, 3rd floor - main entrace from Šumavská street, next entrance from Chaloupeckého náměstí (Chaloupecky square)//\\ //By TRAM - routes 1 and 6 (Hrnčířská stop), 12 and 13 (Klusáčkova stop)//\\ //By trolley or BUS - routes 29, 34, 36 and 81 (Klusáčkova stop)//
+| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapa_Sumavska.png_425408102.png|Map: Šumavská 416/15, Brno}} [[http://www.mapy.cz/s/1QFo|Map on Mapy.cz]] | {{https://www.metacentrum.cz/images/photo_sumavska15.jpeg|Šumavská 416/15 building}} | {{https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg|Entrance from Šumavská street}} |
 
 A chip card is required to move around the building, a visitor's card can be obtained at the reception (access from Šumavská Street).
 
@@ -21,17 +21,17 @@ A chip card is required to move around the building, a visitor's card can be obt
 
 Archived sources: [[https://www.cesnet.cz/wp-content/uploads/2022/10/Foto-1035-1-scaled.jpg|photograph of the CESNET Prague building]] and [[https://www.cesnet.cz/wp-content/uploads/2022/10/Adresa_CESNET_1.png|original address image]]. Unavailable remote thumbnails are not embedded here; archived links are not guaranteed to remain available.
 
-//Grid support, primarly for VO ALICE, ATLAS, AUGER, BELLE, CTA and contact for Luna cluster -//[[https://www.cesnet.cz/cgi-bin/hledkont?jmeno=chudoba|Jiří Chudoba]]
+//Grid support, primarly for VO ALICE, ATLAS, AUGER, BELLE, CTA and contact for Luna cluster -// [[https://www.cesnet.cz/cgi-bin/hledkont?jmeno=chudoba|Jiří Chudoba]]
 
 //Na Slovance 1999/2, 182 21 Praha 8, Institute of Physics AVČR//
-{{:contacts:prague-map.png?480|Archived map: Na Slovance, Prague}} [[https://mapy.cz/s/1dPd7]]
+{{:contacts:prague-map.png?480|Archived map: Na Slovance, Prague}} [[https://mapy.cz/s/1dPd7|Map on Mapy.cz]]
 
 ===== České Budějovice office =====
-//Contact person for MetaCentrum office in České Budějovice is//[[http://www.cesnet.cz/cgi-bin/hledkont?jmeno=fibich|Pavel Fibich]]//.//Na Zlaté stoce 692/1, České Budějovice, Department of Botany, University of South Bohemia//
+//Contact person for MetaCentrum office in České Budějovice is// [[http://www.cesnet.cz/cgi-bin/hledkont?jmeno=fibich|Pavel Fibich]]. //Na Zlaté stoce 692/1, České Budějovice, Department of Botany, University of South Bohemia//
 
-{{:contacts:ceske-budejovice-map.png?480|Archived map: Na Zlaté stoce, České Budějovice}} [[https://mapy.cz/s/1dPez]]
+{{:contacts:ceske-budejovice-map.png?480|Archived map: Na Zlaté stoce, České Budějovice}} [[https://mapy.cz/s/1dPez|Map on Mapy.cz]]
 
 ===== Plzeň office =====
-//Contact person for MetaCentrum office in Plzeň is//[[http://www.zcu.cz/about/people/staff.html?osoba=10011|Pavel Vondruška]]//.//Univerzitní 20, 306 14 Plzeň, CIV building, office UI412//
+//Contact person for MetaCentrum office in Plzeň is// [[http://www.zcu.cz/about/people/staff.html?osoba=10011|Pavel Vondruška]]. //Univerzitní 20, 306 14 Plzeň, CIV building, office UI412//
 
-{{:contacts:plzen-map.png?480|Archived map: Univerzitní, Plzeň}} [[https://mapy.cz/s/1dPi2]]
+{{:contacts:plzen-map.png?480|Archived map: Univerzitní, Plzeň}} [[https://mapy.cz/s/1dPi2|Map on Mapy.cz]]

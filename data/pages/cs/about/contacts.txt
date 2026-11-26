@@ -8,7 +8,7 @@ Pokud z nějakého důvodu potřebujete osobně potkat některého z našich čl
 
 ===== Kde nás najdete (Brno) =====
 CESNET z.s.p.o., Šumavská 416/15 - areál CENTRUM ŠUMAVSKÁ, budova B, 3. patro - vchod z ulice Šumavská přes recepci (hlavní vchod) nebo od parku na Chaloupeckého náměstí. MHD: TRAM č. 1, 6 (zastávka Hrnčířská), 12, 13 (Klusáčkova), trolejbus 29, 34, 36 a BUS 81 (Klusáčkova)
-| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapa_Sumavska.png_425408102.png|mapa_Sumavska}} [[http://www.mapy.cz/s/1QFo]] | {{https://www.metacentrum.cz/images/photo_sumavska15.jpeg|photo_sumavska15}} [[https://www.metacentrum.cz/images/photo_sumavska15.jpeg]] | {{https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg|photo_vchod_Sumavska}} [[https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg]] |
+| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapa_Sumavska.png_425408102.png|Mapa: Šumavská 416/15, Brno}} [[http://www.mapy.cz/s/1QFo|Mapa na Mapy.cz]] | {{https://www.metacentrum.cz/images/photo_sumavska15.jpeg|Budova Šumavská 416/15}} | {{https://www.metacentrum.cz/images/photo_vchod_Sumavska.jpeg|Vchod z ulice Šumavská}} |
 
 Pro pohyb po budově je potřeba chipová karta, návštěvnickou je možné získat na recepci (přístup z ulice Šumavská).
 
@@ -25,17 +25,17 @@ Pro pohyb po budově je potřeba chipová karta, návštěvnickou je možné zí
 
 Archivní zdroje: [[https://www.cesnet.cz/wp-content/uploads/2022/10/Foto-1035-1-scaled.jpg|fotografie pražské budovy CESNET]] a [[https://www.cesnet.cz/wp-content/uploads/2022/10/Adresa_CESNET_1.png|původní adresní obrázek]]. Nedostupné vzdálené náhledy zde nejsou vloženy; dostupnost archivních odkazů není zaručena.
 
-//Gridová podpora, primárně pro VO ALICE, ATLAS, AUGER, BELLE, CTA a kontakt pro Luna cluster -//[[https://www.cesnet.cz/cgi-bin/hledkont?jmeno=chudoba|Jiří Chudoba]]
+//Gridová podpora, primárně pro VO ALICE, ATLAS, AUGER, BELLE, CTA a kontakt pro Luna cluster -// [[https://www.cesnet.cz/cgi-bin/hledkont?jmeno=chudoba|Jiří Chudoba]]
 
 //Na Slovance 1999/2, 182 21 Praha 8, Institute of Physics AVČR//
-{{:contacts:prague-map.png?480|Archivní mapa: Na Slovance, Praha}} [[https://mapy.cz/s/1dPd7]]
+{{:contacts:prague-map.png?480|Archivní mapa: Na Slovance, Praha}} [[https://mapy.cz/s/1dPd7|Mapa na Mapy.cz]]
 
 ===== České Budějovice =====
-//Kontakt pro MetaCentrum v Českých Budějovicích je//[[http://www.cesnet.cz/cgi-bin/hledkont?jmeno=fibich|Pavel Fibich]]//.//Na Zlaté stoce 692/1, České Budějovice, Department of Botany, University of South Bohemia//
+//Kontakt pro MetaCentrum v Českých Budějovicích je// [[http://www.cesnet.cz/cgi-bin/hledkont?jmeno=fibich|Pavel Fibich]]. //Na Zlaté stoce 692/1, České Budějovice, Department of Botany, University of South Bohemia//
 
-{{:contacts:ceske-budejovice-map.png?480|Archivní mapa: Na Zlaté stoce, České Budějovice}} [[https://mapy.cz/s/1dPez]]
+{{:contacts:ceske-budejovice-map.png?480|Archivní mapa: Na Zlaté stoce, České Budějovice}} [[https://mapy.cz/s/1dPez|Mapa na Mapy.cz]]
 
 ===== Plzeň =====
-//Kontakt pro MetaCentrum v Plzni je//[[http://www.zcu.cz/about/people/staff.html?osoba=10011|Pavel Vondruška]]//.//Univerzitní 20, 306 14 Plzeň, CIV building, office UI412//
+//Kontakt pro MetaCentrum v Plzni je// [[http://www.zcu.cz/about/people/staff.html?osoba=10011|Pavel Vondruška]]. //Univerzitní 20, 306 14 Plzeň, CIV building, office UI412//
 
-{{:contacts:plzen-map.png?480|Archivní mapa: Univerzitní, Plzeň}} [[https://mapy.cz/s/1dPi2]]
+{{:contacts:plzen-map.png?480|Archivní mapa: Univerzitní, Plzeň}} [[https://mapy.cz/s/1dPi2|Mapa na Mapy.cz]]

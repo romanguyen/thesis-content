@@ -1,4 +1,4 @@
-====== Resources ======
+====== Vybavení ======
 
 MetaCentrum NGI provozuje a spravuje vlastní i svěřené výpočetní prostředky a datová úložište akademických center AV, JČU, MU, MZLU, UK, FZU, VUT, ZČU, …, které jsou dostupné všem vědeckovýzkumným pracovníkům a studentům vysokých škol v České republice. [[cs:resources:hardware:start|Výpočetní kapacity]] jsou postaveny na clusterovém nebo cloudovém řešení. Clusterové řešení zahrnuje dvě varianty, SMP a HD clustery. Oba typu clusterů jsou tvořeny v podstatě samostatnými počítači (uzly), které se ale u obou variant liší zejména v počtu procesorů a velikosti operační paměti.
 

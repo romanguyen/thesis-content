@@ -1,4 +1,4 @@
-====== Vo ======
+====== Přihláška do VO ======
 
 Uživatelé Evropské Gridové Infrastruktury (EGI) jsou organizováni do Virtuálních organizací (VO). Pod pojmem VO si lze představit skupinu lidí, kteří sdílejí podobné zájmy, cíle a potřebují spolupracovat a sdílet stejné zdroje (data, sotware, CPU, úložné prostory atd.) bez ohledu na jejich geografickou polohu. V současnosti existuje již více než 200 VO hostovaných EGI. Uživatelé jsou zváni k připojení k těmto VO, nebo si mohou založit novou VO pro vlastní potřeby.
 

@@ -1,4 +1,4 @@
-====== Notification ======
+====== Notifikace v systému Perun ======
 
 ===== Notifikační služba v systému Perun =====
 ==== Notifikované události ====

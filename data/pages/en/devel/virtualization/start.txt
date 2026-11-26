@@ -1,4 +1,4 @@
-====== Virtualization ======
+====== Virtualization of physical infrastructure ======
 
 ===== VirtCloud: Virtual Network for User-controlled Virtual Clusters =====
 Virtual Cloud Computing represents the next wave of virtualization and offers significant market opportunities by providing a new, simpler, and much more pervasive platform for on-demand, desktop and application service delivery. Creating a virtual cloud is not trivial, the security, storage, performance, networking and elasticity are really hard to obtain. But once it is done, it can offer many revolutionary new services.

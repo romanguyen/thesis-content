@@ -1,4 +1,4 @@
-====== About ======
+====== O MetaCentru ======
 
 Projekt MetaCentrum vznikl v roce 1996, od roku 1999 je součástí aktivit sdružení [[http://www.cesnet.cz/|CESNET]]. Od svého vzniku se zabývá budováním národního [[http://en.wikipedia.org/wiki/Grid_computing|Gridu]] a jeho propojením se souvisejícími mezinárodními aktivitami. Od června 2009 CESNET vystupuje, prostřednictvím MetaCentra, v roli české Národní Gridové Infrastruktury (NGI), oficiálně uznávané národní součástí [[https://www.metacentrum.cz/cs/about/EGI/index.html|Evropské Gridové Infrastruktury (EGI)]], jejíž přípravu MetaCentrum koordinovalo v [[cs:projekty:start|projektu]] EGI_DS.
 

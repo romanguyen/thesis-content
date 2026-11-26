@@ -1,4 +1,4 @@
-====== User Support ======
+====== Uživatelská podpora ======
 
 Před odesláním požadavku se podívejte, zda nenajdete odpověď na svůj dotaz na stránce [[cs:faq|FAQ]].
 

@@ -1,4 +1,4 @@
-====== Devel ======
+====== R and D ======
 
 Beside operating the infrastructure and providing it to researches across different scientific areas, there is also a need to maintain and further develop its "background" services. These services help infrastructure administrators to cope with various infrastructure-related issues (e.g., scheduling subsystem, security and monitoring, clouds and virtualizations, etc.). Of main interest are also services that serve infrastructure users (e.g., PBSMon, Perun, etc.).
 

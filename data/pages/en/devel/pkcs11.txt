@@ -1,4 +1,4 @@
-====== Pkcs11 ======
+====== grid-pkcs11 modules ======
 
 The grid-pkcs11 package contains a set of PKCS11 modules that allows you to integrate access to Grid credentials with common desktop applications, like web browser or mail clients.
 

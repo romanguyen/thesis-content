@@ -1,4 +1,4 @@
-====== Devel ======
+====== Výzkum a vývoj ======
 
 Software vyvíjený v MetaCentru lze rozdělit do několika skupin.
 

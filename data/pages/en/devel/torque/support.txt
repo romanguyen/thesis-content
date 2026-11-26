@@ -1,4 +1,4 @@
-====== Support ======
+====== User support features in Torque ======
 
 One of the long term challenges in our GRID is to communicate as much information about the internal functionality of the GRID as possible. Most common interaction between users and user support are related to jobs that are waiting for execution without any obvious cause for not being executed immediately.
 

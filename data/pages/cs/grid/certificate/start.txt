@@ -1,4 +1,4 @@
-====== Certificate ======
+====== Osobní certifikáty ======
 
 ===== Žádost o TCS osobní certifikát =====
 Osobní certifikáty TCS jsou „běžné“ osobní certifikáty vhodné** pro zabezpečení eletronické pošty** (digitální podpis, šifrování zpráv). Certifikáty obsahují jméno uživatele, název jeho domovské organizace, unikátní identifikátor uživatele přidělený jeho domovskou organizací a jednu až deset jeho emailových adres ověřených domovskou organizací.slouží pouze k zabezpečení elektronické pošty a vydává je [[https://pki.cesnet.cz/cs/tcs-personal.html|CESNET]].

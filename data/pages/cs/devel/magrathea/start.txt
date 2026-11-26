@@ -1,4 +1,4 @@
-====== Magrathea ======
+====== Systém Magrathea ======
 
 Systém Magrathea představuje rozšíření plánovače, v němž je soustředěna "znalost" o virtuálním prostředí. Magrathea je nezávislá na konkrétním plánovači (v prostředí MetaCentra spolupracuje s PBSPro a Torque) a skrývá před ním virtualizované prostředí. Jakmile plánovač naplánuje úlohu v jednom z virtuálních počítačů, Magrathea zajistí, že na ostatní virtuální počítače stejného uzlu nebudou po dobu běhu aplikace posílány jiné úlohy.
 

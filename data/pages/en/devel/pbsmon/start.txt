@@ -1,4 +1,4 @@
-====== Pbsmon ======
+====== PBSmon ======
 
 ===== Introduction =====
 Pbsmon is a web application for observing the current state of both hardware and virtual computing resources of the virtual organization MetaVO which gathers computing resources of main universities in the Czech Republic.

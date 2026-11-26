@@ -1,4 +1,4 @@
-====== Cloud ======
+====== MetaCloud ======
 
 MetaCloud je IaaS (Infrastruktura jako Služba) cloud běžící nad OpenNebulou v3.0, částečně kompatibilní s Amazon EC2 rozhraním. Pilotní cloudovou instalaci akademického MetaCloudu připravilo MetaCentrum (CESNET) ve spolupráci s centrem [[https://www.cerit-sc.cz/cs/|CERIT-SC]].
 Cloud rozhraní je určeno pro řešení nestandardních požadavků uživatelů MetaCentra, kterým nevyhovuje spouštění úloh dávkovým systémem. Cloud umožňuje spouštět celé virtuální stroje postavené z obrazů virtuálních strojů (dodaných uživateli nebo připravených MetaCentrem), včetně obrazů používaných na Amazon EC2.

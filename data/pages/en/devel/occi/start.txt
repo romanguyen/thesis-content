@@ -1,4 +1,4 @@
-====== Occi ======
+====== OCCI standard development and support ======
 
 ===== Introduction =====
 Open Cloud Computing Interface (OCCI) is a protocol and API for broad range of managment tasks. We participate in OGF's OCCI Working Group to develop OCCI and support it for server- amd client-side applications through the rOCCI framework nad jOCCI Java libraries.

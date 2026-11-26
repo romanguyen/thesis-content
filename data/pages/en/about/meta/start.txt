@@ -1,4 +1,4 @@
-====== Meta ======
+====== Project MetaCentrum ======
 
 MetaCentrum project, an activity of the [[en:about:meta|CESNET]] association, operates and manages** distributed computing infrastructure** consisting of computing and storage resources owned by CESNET as well as those of co-operative academic centers within the Czech Republic. MetaCentrum is responsible for building the National Grid and its integration to related international activities, especially in the European Union. It is actively involved in many international Grid projects such as EGI-Engage, EGI Federated Cloud, ELIXIR-Excelerate, INDIGO DataCloud, AARC.
 

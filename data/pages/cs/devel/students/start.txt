@@ -1,4 +1,4 @@
-====== Students ======
+====== Studentské práce ======
 
 | Název práce | Autor | Typ práce | Rok |
 | [[https://is.muni.cz/auth/th/410315/fi_b/|Evaluation of key-value data storags in Perun system]] | [[https://is.muni.cz/auth/osoba/410315|Simona Kruppová]] | bachelor thesis | 2016 |

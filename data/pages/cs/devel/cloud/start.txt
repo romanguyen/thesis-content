@@ -1,6 +1,4 @@
-====== Cloud ======
-
-====== Development for HPC Cloud ======
+====== Vývoj pro HPC cloud ======
 
 CESNET/MetaCentrum participates in international collaborations to enable HPC-oriented cloud federations. Prominent among them are the [[https://www.egi.eu/federation/egi-federated-cloud/|EGI Federated Cloud]] and the [[https://www.egi.eu/federation/egi-federated-cloud/|INDIGO-DataCloud Project]]. There are major focus areas wherein CESNET contributes. These are covered by their own profile pages:
 * [[cs:devel:occi|Interoperable cloud resource management through the OCCI standard]],

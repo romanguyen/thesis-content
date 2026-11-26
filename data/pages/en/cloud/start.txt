@@ -1,4 +1,4 @@
-====== Cloud ======
+====== MetaCloud ======
 
 MetaCloud is a computing (HPC) cloud built using OpenNebula. Pilot cloud installation was prepared by MetaCentrum (CESNET) and [[https://www.cerit-sc.cz/cs/|CERIT-SC]]. MetaCloud is similar to e.g. Amazon Elastic Compute Cloud (EC2) or Google Compute Engine. MetaCloud is partially compatible with Amazon EC2.
 

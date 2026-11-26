@@ -1,4 +1,4 @@
-====== Simulator ======
+====== Alea simulator ======
 
 ===== Introduction =====
 Newly proposed scheduling algorithms must be heavily tested and evaluated before they are applied in the real systems. Due to many reasons, such as the cost of resources, the reliability, the varying background load or the dynamic behavior of components, experimental evaluation cannot be mostly performed in the real systems. To obtain reliable results, many simulations with various setups must be performed using the same and controllable conditions that simulate different real life scenarios. This is often unreachable in the real Grid.

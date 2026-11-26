@@ -1,4 +1,4 @@
-====== Administration ======
+====== Torque administration ======
 
 ===== Environment injection =====
 One of the issues we run into with Torque was the need to have machine specific job environment. This would be very impractical to implement into Torque itself, therefore we added generic environment injection using a simple bash script that prints pairs of lines representing environment variable name and value.

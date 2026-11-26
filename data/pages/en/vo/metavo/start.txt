@@ -1,4 +1,4 @@
-====== Metavo ======
+====== MetaVO ======
 
 [[http://metavo.metacentrum.cz/|MetaCentrum]] VO is a regional catch-all virtual organization of the Czech National Grid Organization MetaCentrum NGI and it is intended only for employees and students of research or academic organisations in the Czech Republic and for research purposes only. Users registered in MetaCentrum get access to the computing and storage capacity and a wide range of application software.
 

@@ -1,4 +1,4 @@
-====== Plan-Based-Scheduler ======
+====== Plan-based TORQUE scheduler ======
 
 ===== Introduction =====
 This pages summarizes our recent research and implementation of a** plan-based TORQUE scheduler**.

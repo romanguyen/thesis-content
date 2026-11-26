@@ -1,4 +1,4 @@
-====== Grid ======
+====== Národní gridová infrastruktura ======
 
 Jednotlivé vědeckovýzkumné týmy i organizace si v současné době pořizují zdroje ve formě výpočetních clusterů. Propojením individuálně pořízených výpočetních i úložných kapacit do distribuovaného celku (Gridu) je možné dosáhnout výrazného zvýšení efektivity vynaložených investic, zlepšit poskytované služby a významným způsobem zjednodušit spolupráci vědců a jejich týmu na národní i mezinárodní úrovni.
 

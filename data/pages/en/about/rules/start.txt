@@ -1,4 +1,4 @@
-====== Rules ======
+====== Rules of Use ======
 
 - NGI MetaCentrum is operated by CESNET, Association of Legal Entities (further referred to as “the CESNET Association” or “the MetaCentrum Administrator”), [[http://www.cesnet.cz/|https://www.cesnet.cz/]].
 - MetaCentrum’s mission consists in providing computing, storage and software resources to users, who employ those resources for research, development and education. MetaCentrum services include the operation of the e-infrastructure and entrusted computing and storage resources, centralized management of hardware and software, support of user communities, development of infrastructure services, and integration with the European e-infrastructure: EGI ([[https://www.egi.eu]]). The level and essential characteristics of services are defined in technical documentation available on-line at [[start|https://www.metacentrum.cz]].

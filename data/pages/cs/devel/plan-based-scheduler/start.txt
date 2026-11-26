@@ -1,4 +1,4 @@
-====== Plan-Based-Scheduler ======
+====== Rozvrhový plánovač úloh pro TORQUE ======
 
 ===== Úvod =====
 V rámci výzkumu a rozvíjení dizertační práce dr. Klusáčka ([[mailto:klusacek(at)cesnet.cz|klusacek(at)cesnet.cz]]) vznikl za podpory CESNETu unikátní rozvrhový plánovač úloh kompatibilní s prostředím TORQUE resource manager, které se využívá v MetaCentru a CERIT-SC ([[http://www.cerit-sc.cz|www.cerit-sc.cz]]).

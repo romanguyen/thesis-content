@@ -1,4 +1,4 @@
-====== Contacts ======
+====== Kontakty ======
 
 **Importovaný kontaktní přehled:** adresy, dopravní pokyny a mapové podklady jsou archivní; před návštěvou je ověřte u [[mailto:meta@cesnet.cz|uživatelské podpory MetaCentra]]. Mapy nejsou živou navigací.
 

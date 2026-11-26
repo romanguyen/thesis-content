@@ -1,4 +1,4 @@
-====== Network ======
+====== Síť ======
 
 {{http://metavo.metacentrum.cz/export/sites/meta/images/network-big.gif|síť}}
 

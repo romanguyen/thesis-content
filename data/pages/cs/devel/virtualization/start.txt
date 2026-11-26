@@ -1,4 +1,4 @@
-====== Virtualization ======
+====== Virtualizace fyzické infrastruktury ======
 
 ===== VirtCloud: Virtualizace v pojetí MetaCentra =====
 V klasickém "Cloud Computingu" jsou fyzické zdroje ve vlastnictví a správě jedné organizace, umístěné na jednom místě. Naše pojetí virtualizace gridového prostředí umožňuje integrovat i zdroje různých vlastníků, s využitím mimořádného prostředí sítě CESNET2 distribuovaných po celém území ČR. Virtualizované zdroje je možné propojit do virtuálních clusterů, zajistit jejich úplné oddělení od jiných prostředí stejného nebo dalších uživatelů, provozovat na nich specifické prostředí včetně konkrétních verzí operačního systému, vývojových nástrojů, middleware i aplikací.

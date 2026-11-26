@@ -1,4 +1,4 @@
-====== Slurm ======
+====== Plánování úloh se správcem zdrojů SLURM ======
 
 ** Job scheduling with the SLURM resource manager** ([[http://wwwtest.metacentrum.cz/export/sites/metacentrum2/cs/metacentrum/ngi/devel/students/slurm/thesis.pdf|PDF]])
 

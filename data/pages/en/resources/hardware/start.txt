@@ -81,8 +81,6 @@ Use `Detail` in the cluster table to open full machine profile in the side drawe
 
 ===== Related links =====
 
-  * [[en:resources:hardware|Extended HW inventory (raw long list)]]
-  * [[en:resources:hardware_git_sync|Git-sync pilot for HW content]]
   * [[https://my.metacentrum.cz/|MetaCentrum resource portal (replaces the former MetaVO inventory destination)]]
 
 ===== Note =====

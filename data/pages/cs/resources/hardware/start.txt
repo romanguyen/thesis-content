@@ -81,8 +81,6 @@ Použijte akci `Detail` v tabulce clusterů pro otevření plného profilu v pos
 
 ===== Související odkazy =====
 
-  * [[cs:resources:hardware|Rozšířený inventář HW (dlouhý seznam)]]
-  * [[cs:resources:hardware_git_sync|Git-sync pilot pro HW obsah]]
   * [[https://my.metacentrum.cz/|Portál zdrojů MetaCentra (náhrada původního cíle inventáře MetaVO)]]
 
 ===== Poznámka =====

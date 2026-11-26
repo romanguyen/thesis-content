@@ -18,7 +18,7 @@ jobs:
           php-version: "8.2"
 
       - name: Regenerate hardware pages
-        run: php scripts/git_hardware_sync.php --source=scripts/hardware_clusters.json --out-en=data/pages/en/resources/hardware_git_sync.txt --out-cs=data/pages/cs/resources/hardware_git_sync.txt
+        run: php scripts/git_hardware_sync.php --source=scripts/hardware_clusters.json --out-en=scripts/generated/hardware_git_sync.en.txt --out-cs=scripts/generated/hardware_git_sync.cs.txt
 
       - name: Ensure generated pages are committed
-        run: git diff --exit-code -- data/pages/en/resources/hardware_git_sync.txt data/pages/cs/resources/hardware_git_sync.txt
+        run: git diff --exit-code -- scripts/generated/hardware_git_sync.en.txt scripts/generated/hardware_git_sync.cs.txt

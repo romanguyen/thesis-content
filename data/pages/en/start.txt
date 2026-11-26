@@ -13,7 +13,7 @@ MetaCentrum** supports the research projects** in many research disciplines, to 
   * [[https://docs.metacentrum.cz|Documentation and help]]
   * [[http://metavo.metacentrum.cz/|MetaVO web page]]
   * [[en:cloud|MetaCloud]]
-  * [[en:resources:hardware|List of HW]]
+  * [[en:resources:hardware:start|List of HW]]
 
 ===== Map of HW centres =====
 | {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png|mapkaMC_2016_oranz}} |

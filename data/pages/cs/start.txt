@@ -13,7 +13,7 @@ MetaCentrum** koordinuje**** pořizování nákladného**** programového a apli
   * [[https://docs.metacentrum.cz|Návody a nastavení]]
   * [[http://metavo.metacentrum.cz/|Provozní stránky MetaVO]]
   * [[cs:cloud|MetaCloud]]
-  * [[cs:resources:hardware|Seznam HW vybavení]]
+  * [[cs:resources:hardware:start|Seznam HW vybavení]]
 
 ===== Mapa rozmístění HW =====
 | {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png|mapkaMC_2016_oranz}} |

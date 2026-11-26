@@ -40,10 +40,13 @@ Regenerate pages:
 php scripts/git_hardware_sync.php
 ```
 
-Generated targets:
+Generated targets (kept outside `data/pages/`, so they are not public wiki pages;
+the public hardware page is `resources:hardware:start`):
 
-- `data/pages/en/resources/hardware_git_sync.txt`
-- `data/pages/cs/resources/hardware_git_sync.txt`
+- `scripts/generated/hardware_git_sync.en.txt`
+- `scripts/generated/hardware_git_sync.cs.txt`
+
+The `Hardware Sync Check` workflow regenerates both files and fails if they differ from the committed copies.
 
 ## T2 representative content repairs (16 November 2026)
 

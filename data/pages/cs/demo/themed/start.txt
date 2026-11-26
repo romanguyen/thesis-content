@@ -1,0 +1,80 @@
+---json
+{
+  "template": "index",
+  "title": "MetaCentrum"
+}
+---
+<grid class="mc-hero">
+<box>
+====== MetaCentrum NGI ======
+Vítejte na stránkách MetaCentrum NGI, aktivity sdružení CESNET.
+
+**Národní gridová infrastruktura pro český výzkum a vzdělávání.**
+
+<button type="primary">Získat účet</button> <button type="secondary">Dokumentace</button>
+</box>
+<box>
+{{:server-room-computing-infrastructure.jpg?900|Serverovna}}
+</box>
+</grid>
+
+<grid>
+<card>
+=== Novinky ===
+  * 2013-11-14 - [[cs:news:start|EGI.eu hledá ředitele pro vedení organizace EGI.eu]]
+  * 2012-09-06 - [[cs:news:start|EGI Inspired Newsletter - léto 2012]]
+  * 2012-05-24 - [[cs:news:start|EGI Inspired Newsletter - jaro 2012]]
+
+[[cs:news:start|Archiv novinek →]]
+</card>
+<card>
+=== Odstávky ===
+  * 2026-10-09 – 2026-10-12 - [[cs:outages:start|Obnova služby CL4 S3 Storage]]
+  * 2026-10-07 - [[cs:outages:start|Omezená dostupnost služeb (DDoS útok)]]
+  * 2026-10-06 - [[cs:outages:start|Diskové pole /storage/brno12-cerit je PLNÉ]]
+
+[[cs:outages:start|Archiv odstávek →]]
+</card>
+</grid>
+
+===== Hlavní vstupy =====
+
+<grid>
+<box class="border rounded">
+=== Superpočítače ===
+[[cs:resources:hardware:start|Přehled hardwaru]]
+</box>
+<box class="border rounded">
+=== Výzkum ===
+[[cs:projekty:start|Projekty]]
+</box>
+<box class="border rounded">
+=== Pro uživatele ===
+[[cs:about:start|O MetaCentru]]
+</box>
+</grid>
+
+===== Novinky ze života MetaCentra =====
+
+<carrousel>
+<card>
+=== Workshop AI Confidential ===
+08. 04. 2026 - [[cs:news:start|Více]]
+</card>
+<card>
+=== AdvanceMed 2026 ===
+09. 04. 2026 - [[cs:news:start|Více]]
+</card>
+<card>
+=== Školení GPU úloh ===
+05. 05. 2026 - [[cs:news:start|Více]]
+</card>
+<card>
+=== Den otevřeného přístupu ===
+13. 05. 2026 - [[cs:news:start|Více]]
+</card>
+</carrousel>
+
+===== O této stránce =====
+
+Stránka je vytvořena rozšířením ComboStrap: jeho rámec stránky, Bootstrap 5.3.8, mřížka, karty, karusel, menu a pata, vše zapsané jako wiki text. Barvy, písmo a zaoblení projektu se použijí přes vlastní CSS proměnné Bootstrapu. Produkční web používá šablonu projektu.

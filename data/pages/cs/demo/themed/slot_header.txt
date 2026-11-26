@@ -1,0 +1,12 @@
+<menubar breakpoint="md">
+    <collapse>
+        <group expand="true">
+            [[cs:demo:themed:start|Úvod]]
+            [[cs:about:start|O MetaCentru]]
+            [[cs:resources:hardware:start|Hardware]]
+            [[cs:news:start|Novinky]]
+            [[cs:demo:bootstrap5|Ukázka komponent]]
+        </group>
+        <search/>
+    </collapse>
+</menubar>

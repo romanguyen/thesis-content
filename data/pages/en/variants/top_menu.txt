@@ -7,7 +7,7 @@ The style is inspired by CESNET service pages, but all content remains MetaCentr
 
   * [[en:resources:hardware:start?layout=top&style=cesnet|Hardware page with top navigation (CESNET-inspired)]]
   * [[en:variants:news?layout=left|Dedicated news page (overview + archive)]]
-  * [[en:variants:it4i-elements?layout=clean|Dedicated IT4I elements page (clean layout)]]
+  * [[en:variants:it4i-elements?style=metacentrum|Dedicated IT4I elements page (MetaCentrum design)]]
   * [[en:news:start?layout=left&style=reskin|News page with original left sidebar variant]]
   * [[en:start?layout=left&style=reskin|Start page with original clean/content-first variant]]
 

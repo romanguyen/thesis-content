@@ -2,8 +2,8 @@
 
 Format: `Title|Target page id or URL|Bootstrap icon class`
 
-* Superpocitace|resources:hardware:start|bi-diagram-3
-* Vyzkum|projekty:start|bi-search
-* Spoluprace s prumyslem|sluzby:start|bi-gear-wide-connected
-* Pro uzivatele|vo:start|bi-people
-* Prave hledame|about:start|bi-briefcase
+* Superpočítače|resources:hardware:start|bi-diagram-3
+* Výzkum|projekty:start|bi-search
+* Spolupráce s průmyslem|sluzby:start|bi-gear-wide-connected
+* Pro uživatele|vo:start|bi-people
+* Právě hledáme|about:start|bi-briefcase

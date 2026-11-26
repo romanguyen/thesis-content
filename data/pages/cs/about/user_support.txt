@@ -6,7 +6,7 @@ Primární kontakt pro řešení většiny problémů spojených s provozem VO M
 
 Pro otázky či problémy týkající se MetaCentra NGI a ostatních virtuálních organizací spravovaných MetaCentrem je mailová adresa [[mailto:support@metacentrum.cz|support@metacentrum.cz]].
 
-Pokud máte otázky ohledně cloudů, zašlete nám email na adresu odpovídající Vámi použivaném cloudu:
+Pokud máte otázky ohledně cloudů, zašlete nám email na adresu odpovídající Vámi používaném cloudu:
 
 * MetaCloud - [[mailto:cloud@metacentrum.cz|cloud@metacentrum.cz]]
 * FedCloud - [[mailto:fedcloud@metacentrum.cz|fedcloud@metacentrum.cz]]

@@ -1,4 +1,4 @@
-====== Prehled hardware ======
+====== Přehled hardware ======
 
 Národní Gridová Infrastruktura koordinuje poskytování výpočetních prostředků uživatelům pomocí tvz. Virtuálních Organizací.
 

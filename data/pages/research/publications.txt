@@ -1,8 +1,0 @@
-====== Publications ======
-Research publications and technical papers from MetaCentrum staff.
-
-===== Recent Publications =====
-Scientific papers and conference proceedings from MetaCentrum research activities.
-
-===== Technical Reports =====
-Technical documentation and reports on infrastructure development.

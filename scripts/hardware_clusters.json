@@ -23,7 +23,7 @@
           "cpu": 3328,
           "nodes": 52,
           "location_en": "Pilsen",
-          "location_cs": "Plzen",
+          "location_cs": "Plzeň",
           "details_url": "https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz",
           "photo_url": "https://www.metacentrum.cz/images/clusters/turin.jpg"
         }

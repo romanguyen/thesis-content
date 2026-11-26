@@ -1,0 +1,20 @@
+<bar class="py-4">
+<grid>
+<box>
+=== MetaCentrum ===
+Národní gridová infrastruktura provozovaná sdružením CESNET pro českou akademickou komunitu.
+</box>
+<box>
+=== Rychlé odkazy ===
+  * [[https://www.cesnet.cz|CESNET]]
+  * [[https://pki.cesnet.cz|CESNET PKI]]
+  * [[https://www.egi.eu|EGI.eu]]
+</box>
+<box>
+=== Kontakt ===
+  * CESNET, z. s. p. o.
+  * Zikova 4, 160 00 Praha 6
+  * [[mailto:info@cesnet.cz|info@cesnet.cz]]
+</box>
+</grid>
+</bar>

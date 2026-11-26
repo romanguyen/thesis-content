@@ -1,9 +1,23 @@
 ====== IT4I Elements - Variant ======
 
-This page provides a dedicated showcase of IT4I-inspired blocks:
+**Demonstration page:** sample metrics, cards and older reports exercise the layout; they are not a live operational overview.
 
   * main quick-link crossroad,
   * hexagonal metrics,
-  * the events and older reports section.
+  * scrollable events and older reports section.
 
-Switch navigation mode in the header (Left / Top / Clean).
+Switch layout in the header (Left / Top / MetaCentrum).
+
+===== Embedded video =====
+
+A native DokuWiki player check: two seconds of a static blue frame, with no audio or infrastructure footage. Playback starts only when the reader uses the controls.
+
+{{:demo:embedding-sample.webm?480x270|Technical sample: static blue frame, no audio}}
+
+===== Image and map =====
+
+An illustrative image from the prototype media, not a verified photograph of a particular site:
+
+{{:server-room-computing-infrastructure.jpg?480|Illustrative server-room image}}
+
+Embedded static maps and their original map links are in the [[en:about:contacts|archived contact directory]]. These are not interactive maps or live navigation.

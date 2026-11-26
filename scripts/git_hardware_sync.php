@@ -162,12 +162,12 @@ function renderPage($data, $language)
     $title = $isEnglish ? 'Hardware (Git Sync Pilot)' : 'Hardware (Git Sync pilot)';
     $intro = $isEnglish
         ? 'This page is generated from a canonical hardware source used for Git integration experiments.'
-        : 'Tato stranka je generovana z kanonickeho zdroje hardware pro experimenty s Git integraci.';
-    $sourceLabel = $isEnglish ? 'Source repository' : 'Zdrojovy repozitar';
-    $lastUpdateLabel = $isEnglish ? 'Last source update' : 'Posledni aktualizace zdroje';
+        : 'Tato stránka je generována z kanonického zdroje hardware pro experimenty s Git integrací.';
+    $sourceLabel = $isEnglish ? 'Source repository' : 'Zdrojový repozitář';
+    $lastUpdateLabel = $isEnglish ? 'Last source update' : 'Poslední aktualizace zdroje';
     $clusterLabel = $isEnglish ? 'Cluster' : 'Cluster';
     $cpuLabel = 'CPU';
-    $nodesLabel = $isEnglish ? 'nodes' : 'uzlu';
+    $nodesLabel = $isEnglish ? 'nodes' : 'uzlů';
     $locationLabel = $isEnglish ? 'Location' : 'Lokalita';
     $detailsLabel = $isEnglish ? 'Details' : 'Detaily';
     $photoLabel = $isEnglish ? 'Photo' : 'Fotka';

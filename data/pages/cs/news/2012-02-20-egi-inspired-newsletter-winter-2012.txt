@@ -1,0 +1,21 @@
+====== EGI Inspired Newsletter - Zima 2012 ======
+
+//Ivana Křenková, 20. 2. 2012//
+
+Vyšlo další číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''.
+
+- html verze: [[http://go.egi.eu/Winter12]]
+- pdf verze: [[http://go.egi.eu/Winter12PDF]]
+Z obsahu:
+- EGI.eu's second anniversary
+- Community Forum 2012: Programme preview
+- Community Forum 2012: Training workshops - go with the (work)flow
+- Case study: Hunting for new viruses
+- Music research and grid computing
+- Sustainability: the next steps
+- European Research Area – No investment without reform
+- A positive outlook for availability in EGI
+- EGI going social
+- Mascot found!
+If you want to contribute with ideas, suggestions or stories to the
+newsletter don't forget to let us know at press@egi.eu.

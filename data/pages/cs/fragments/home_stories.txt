@@ -4,7 +4,7 @@ Format: `DD/MM|YYYY|Title|Target page id or URL|Image URL or lib/tpl/reskin/img/
 
 * 08/04|2026|Workshop AI Confidential|news:start|lib/tpl/reskin/img/stories/ai.svg
 * 09/04|2026|AdvanceMed 2026|news:start|lib/tpl/reskin/img/stories/medicine.svg
-* 28/04|2026|Superpocitace a kvantovy pocitac VLQ zblizka|news:start|lib/tpl/reskin/img/stories/quantum.svg
-* 05/05|2026|Skoleni: Jak pripravit GPU ulohy|news:start|lib/tpl/reskin/img/stories/gpu.svg
-* 13/05|2026|Open Access Day pro vyzkumniky|news:start|lib/tpl/reskin/img/stories/open-access.svg
+* 28/04|2026|Superpočítače a kvantový počítač VLQ zblízka|news:start|lib/tpl/reskin/img/stories/quantum.svg
+* 05/05|2026|Školení: Jak připravit GPU úlohy|news:start|lib/tpl/reskin/img/stories/gpu.svg
+* 13/05|2026|Open Access Day pro výzkumníky|news:start|lib/tpl/reskin/img/stories/open-access.svg
 * 26/05|2026|MetaCentrum community meetup|news:start|lib/tpl/reskin/img/stories/community.svg

@@ -1,7 +1,0 @@
-====== Downloads ======
-Downloadable resources, tools, and documentation.
-
-  * MetaCentrum User Guide (PDF) - 2.4 MB
-  * PBS Pro Quick Reference - 156 KB
-  * SSH Configuration Examples - 12 KB
-  * MetaCentrum Poster 2024 - 8.2 MB

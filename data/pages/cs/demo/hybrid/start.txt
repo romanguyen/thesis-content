@@ -1,0 +1,35 @@
+---json
+{
+  "template": "index-cs",
+  "title": "MetaCentrum"
+}
+---
+===== Komponenty z rozšíření pro Bootstrap 5 =====
+
+Vše nad tímto nadpisem (hlavička, úvodní blok, novinky a odstávky, hlavní vstupy, příběhy, patička) používá vlastní značení a styly projektu. Tato část je prostý wiki text, který rozšíření ComboStrap převádí na komponenty Bootstrapu 5.
+
+<grid>
+<card>
+=== Karty ===
+Krátký text s [[cs:start|odkazem na úvodní stránku]].
+</card>
+<card>
+=== Mřížka ===
+Karty, boxy a sloupce rozmísťuje jeden tag pro mřížku.
+</card>
+<card>
+=== Tlačítka ===
+<button type="primary">Hlavní</button> <button type="secondary">Vedlejší</button>
+</card>
+</grid>
+
+<tabs>
+<panel selected="true">
+<label>Karty</label>
+Obsah první karty.
+</panel>
+<panel>
+<label>Poznámky</label>
+<note tip>Poznámka typu tip.</note>
+</panel>
+</tabs>

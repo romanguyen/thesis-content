@@ -1,0 +1,80 @@
+---json
+{
+  "template": "index",
+  "title": "MetaCentrum"
+}
+---
+<grid class="mc-hero">
+<box>
+====== MetaCentrum NGI ======
+Welcome to MetaCentrum NGI web pages, the activity of the CESNET association.
+
+**National Grid Infrastructure for Czech research and education.**
+
+<button type="primary">Get an account</button> <button type="secondary">Documentation</button>
+</box>
+<box>
+{{:server-room-computing-infrastructure.jpg?900|Server room}}
+</box>
+</grid>
+
+<grid>
+<card>
+=== News ===
+  * 2013-11-14 - [[en:news:start|EGI.eu is now seeking to employ a Director to lead the EGI.eu organisation]]
+  * 2012-09-06 - [[en:news:start|EGI Inspired Newsletter - Summer 2012]]
+  * 2012-05-24 - [[en:news:start|EGI Inspired Newsletter - Spring 2012]]
+
+[[en:news:start|News archive →]]
+</card>
+<card>
+=== Outages ===
+  * 2026-10-09 – 2026-10-12 - [[en:outages:start|Recovery of CL4 S3 Storage Service]]
+  * 2026-10-07 - [[en:outages:start|Limited Service Availability (DDoS Attack)]]
+  * 2026-10-06 - [[en:outages:start|Disk array /storage/brno12-cerit is FULL]]
+
+[[en:outages:start|Outages archive →]]
+</card>
+</grid>
+
+===== Main entry points =====
+
+<grid>
+<box class="border rounded">
+=== Supercomputers ===
+[[en:resources:hardware:start|Hardware overview]]
+</box>
+<box class="border rounded">
+=== Research ===
+[[en:projekty:start|Projects]]
+</box>
+<box class="border rounded">
+=== For users ===
+[[en:about:start|About MetaCentrum]]
+</box>
+</grid>
+
+===== Latest stories =====
+
+<carrousel>
+<card>
+=== Workshop AI Confidential ===
+08/04/2026 - [[en:news:start|Read more]]
+</card>
+<card>
+=== AdvanceMed 2026 ===
+09/04/2026 - [[en:news:start|Read more]]
+</card>
+<card>
+=== GPU workloads training ===
+05/05/2026 - [[en:news:start|Read more]]
+</card>
+<card>
+=== Open Access Day ===
+13/05/2026 - [[en:news:start|Read more]]
+</card>
+</carrousel>
+
+===== About this page =====
+
+This page is built with the ComboStrap extension: its page frame, Bootstrap 5.3.8, grid, cards, carousel, menu bar and footer bar, all written as wiki text. The project's colours, font and radius are applied through Bootstrap's own CSS variables. The production site uses the project template instead.

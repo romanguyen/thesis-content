@@ -1,0 +1,17 @@
+====== EGI Inspired Newsletter - Podzim 2011 ======
+
+//Ivana Křenková, 1. 11. 2011//
+
+Vyšlo další číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''. Čtěte [[http://www.egi.eu/results/newsletters/Inspired_Autumn_2011/|on-line]]
+
+Z obsahu:
+
+- Reward: Mascot Missing
+- Introducing the NGI Coordinators
+- The grid is under attack!
+- Project profile: SHIWA and outGRID
+- Case study: A gem of a user
+- Staged rollout of grid middleware components to EGI
+- Horizon 2020 – what to expect?
+- Lyon: A great place to make friends
+- NGI Profile: NGI-DE

@@ -1,0 +1,11 @@
+<jumbotron color="#ffffff">
+<background>{{ :background.png }}</background>
+
+====== The Xxxxxxx Project ======
+**Xxxxxxxx motto**
+</jumbotron>
+
+===== About the Project =====
+
+Xxxxx is a project to ...
+

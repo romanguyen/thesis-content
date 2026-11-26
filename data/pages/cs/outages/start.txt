@@ -2,27 +2,54 @@
 
 Informace o plánované údržbě a omezeních výpočetní infrastruktury. Aktuální oznámení ověřujte v provozním přehledu MetaVO.
 
-  * [[https://metavo.metacentrum.cz/en/news/outages.jsp|Aktuální odstávky na MetaVO (EN)]]
+  * [[https://metavo.metacentrum.cz/cs/news/outages.jsp|Aktuální odstávky na MetaVO]]
   * [[mailto:meta@cesnet.cz|Kontaktovat podporu]]
 
-**Archiv místních oznámení:** následující záznamy uvádějí plánovaná okna údržby z dubna 2026. Nejde o živý přehled aktuálních incidentů.
+**Archiv místních oznámení:** následující záznamy jsou převzaty z [[https://metavo.metacentrum.cz/cs/news/outages.jsp|oznámení o odstávkách MetaVO]] ze září a října 2026. Nejde o živý přehled aktuálních incidentů.
 
-===== Plánovaná odstávka: frontendy a scheduler =====
-  * **Termín:** 14. 4. 2026, 07:00–11:00 CEST
-  * **Dopad:** krátkodobé omezení přihlašování a příkazů plánovače
-  * **Dotčené služby:** vybrané frontendové uzly a plánovač PBS
+===== Obnova provozu S3 úložiště CL4 =====
+  * **Termín:** 9.–12. 10. 2026
+  * **Dopad:** pouze malá část uživatelů; projektových adresářů se to netýká
+  * **Dotčené služby:** objektové úložiště CL4 (S3)
 
-Pokud se během uvedeného okna nemůžete přihlásit nebo pracovat s plánovačem, podívejte se na podrobnosti v provozních oznámeních. Při přetrvávajícím problému kontaktujte podporu a uveďte použitý frontend a případné chybové hlášení.
+V návaznosti na nedávnou odstávku objektového úložiště CL4 způsobenou softwarovou chybou je služba postupně uváděna zpět do provozu. Všichni dotčení uživatelé již obdrželi podrobné informace a instrukce v adresném e-mailu od DU CESNET. Pokud jste tuto zprávu neobdrželi, problém se vašich dat netýká.
 
-===== Údržba úložišť: metadata scratch =====
-  * **Termín:** 16. 4. 2026, 06:00–08:00 CEST
-  * **Dopad:** dočasně pomalejší přístup k vybraným cestám scratch
-  * **Dotčené služby:** metadata služeb úložišť scratch
+Softwarová chyba byla opravena. Standardní endpoint https://s3.cl4.du.cesnet.cz nyní směřuje na novou instanci S3 a je plně připraven pro zápis pod vašimi stávajícími přihlašovacími údaji. K existujícím datům bude zřízen samostatný dočasný endpoint. Správci úložiště data postupně zkontrolují a zajistí jejich migraci do nového endpointu.
 
-Při problému s přístupem k datům uveďte v požadavku na podporu dotčenou cestu, ID úlohy a čas výskytu problému. Záznam popisuje ohlášené omezení, nikoli aktuální dostupnost služby.
+===== Omezená dostupnost služeb (DDoS útok) =====
+  * **Termín:** 7. 10. 2026
+  * **Dopad:** dočasná nedostupnost některých frontendů a diskového pole
+  * **Dotčené služby:** vybrané frontendy, /storage/brno2
+
+V současné době čelíme DDoS útoku, který způsobuje dočasnou nedostupnost některých našich frontendů a diskového pole /storage/brno2. Na nápravě intenzivně pracujeme a celou situaci nepřetržitě monitorujeme.
+
+===== Zaplněné diskové pole /storage/brno12-cerit =====
+  * **Termín:** od 6. 10. 2026, konec zatím neurčen
+  * **Dopad:** zápis selhává s chybou "No space left on device"
+  * **Dotčené služby:** /storage/brno12-cerit
+
+Data na poli jsou pouze data uživatelská, administrátoři proto situaci nemohou vyřešit sami. Prosíme uživatele, aby svá data protřídili, nepotřebná data smazali, důležitá primární data a cenné výsledky přesunuli na úložiště S3 a na diskovém poli ponechali pouze data, která jsou aktivně zpracovávána.
+
+Po smazání dat bude trvat pět dní, než se změna projeví na kapacitě úložiště, protože úložiště drží několik časových snímků kvůli obnově dat. Pokud s něčím potřebujete pomoct, obraťte se na [[mailto:meta@cesnet.cz|meta@cesnet.cz]].
+
+===== Plánovaný výpadek diskového pole /storage/praha1 =====
+  * **Termín:** 5.–10. 10. 2026
+  * **Dopad:** 5. 10. několikahodinová nedostupnost pole, poté dosynchronizace na pozadí
+  * **Dotčené služby:** /storage/praha1 (/storage/vestec1); pražské výpočetní uzly s domovským adresářem na tomto poli
+
+V pondělí 5. října proběhne přepojení diskového pole s několikahodinovou nedostupností. Spouštění úloh se pozastaví na pražských uzlech, které pole používají jako domovský adresář (/home); ostatní uzly poběží bez přerušení. Úlohy na jiných uzlech, které se pokusí zapisovat na nedostupné pole, mohou nechat data ve scratchi a ta bude nutné po odstávce zkopírovat ručně.
+
+Od 5. října budete moci na novém poli standardně pracovat. Přibližně 5 dní bude na pozadí probíhat kopírování změn, které na starém disku vznikly mezi 1. a 5. říjnem. Novější soubory mají vždy přednost, data smazaná v mezidobí se neobnoví a původní pole zůstane po nějakou dobu archivováno.
+
+===== Služba usegalaxy.cz je dočasně nedostupná =====
+  * **Termín:** 18.–24. 9. 2026
+  * **Dopad:** služba byla nedostupná; běžící úlohy nebyly přerušeny
+  * **Dotčené služby:** usegalaxy.cz
+
+**Aktualizace 24. 9.:** Na primárním datovém úložišti Galaxy došlo k poškození souborového systému. Všechna uživatelská data se podařilo obnovit a nejsou známy žádné chybějící datové sady. Služba usegalaxy.cz je již plně k dispozici. Při potížích s přístupem k datům se obraťte na [[mailto:galaxy@cesnet.cz|galaxy@cesnet.cz]].
 
 ===== Kde sledovat aktuální stav =====
 
-Pro nejnovější oznámení použijte [[https://metavo.metacentrum.cz/en/news/outages.jsp|provozní přehled MetaVO (EN)]]. Další informace najdete v [[https://docs.metacentrum.cz/en/docs/support/outages|dokumentaci odstávek (EN)]].
+Pro nejnovější oznámení použijte [[https://metavo.metacentrum.cz/cs/news/outages.jsp|provozní přehled MetaVO]]. Další informace najdete v [[https://docs.metacentrum.cz/en/docs/support/outages|dokumentaci odstávek (EN)]].
 
 S neočekávaným problémem se obraťte na [[mailto:meta@cesnet.cz|meta@cesnet.cz]].

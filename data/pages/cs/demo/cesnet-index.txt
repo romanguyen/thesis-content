@@ -1,0 +1,13 @@
+<jumbotron background=":en:index_banner.jpg?" color="#fff;text-shadow: 0 0 4px black, 4px 4px 0.4em black">
+====== Project Xxxxxxxx ======
+**Xxxxxxx motto**
+</jumbotron>
+
+====== Úvod ======
+
+Vítejte na stránkách o ...
+
+====== O projektu ======
+
+Xxxxxx je ...
+

@@ -1,0 +1,103 @@
+====== Komponenty Bootstrap 5 ======
+
+Tato stránka je napsána pouze ve wiki syntaxi. Komponenty Bootstrapu 5 poskytuje rozšíření ComboStrap; kostru stránky, navigaci a vzhled poskytuje šablona projektu.
+
+<jumbotron>
+===== Úvodní blok =====
+Úvodní odstavec s výzvou k akci. Požadováno pro úvodní stránku (vzor ''index'' z CESNET).
+
+<button type="primary">Hlavní akce</button> <button type="secondary">Vedlejší akce</button>
+</jumbotron>
+
+===== Číselné dlaždice =====
+
+Dlaždice s klíčovými čísly, které mohou odkazovat na další stránky (ve stylu IT4I).
+
+<grid>
+<box class="border rounded p-3 text-center">
+=== 128 ===
+výpočetních uzlů
+</box>
+<box class="border rounded p-3 text-center">
+=== 4096 ===
+jader CPU
+</box>
+<box class="border rounded p-3 text-center">
+=== 12 ===
+GPU serverů
+</box>
+</grid>
+
+===== Karty =====
+
+Ukázka projektu nebo hardwaru.
+
+<grid>
+<card>
+=== Karta projektu ===
+Krátký text s [[cs:start|odkazem na úvodní stránku]].
+</card>
+<card>
+=== Karta hardwaru ===
+Krátký text pro skupinu hardwaru.
+</card>
+</grid>
+
+===== Pás novinek =====
+
+Položky v karuselu se šipkami na starší záznamy.
+
+<carrousel>
+<card>
+=== Novinka jedna ===
+Text první položky.
+</card>
+<card>
+=== Novinka dvě ===
+Text druhé položky.
+</card>
+<card>
+=== Novinka tři ===
+Text třetí položky.
+</card>
+<card>
+=== Novinka čtyři ===
+Text čtvrté položky.
+</card>
+</carrousel>
+
+===== Karty a poznámky =====
+
+<tabs>
+<panel selected="true">
+<label>První karta</label>
+Obsah první karty.
+</panel>
+<panel>
+<label>Druhá karta</label>
+Obsah druhé karty.
+</panel>
+</tabs>
+
+<note tip>Poznámka typu tip.</note>
+<note warning>Poznámka typu varování.</note>
+
+===== Patičkový pás =====
+
+Stejné značení ''bar'' jako v ''slot_footer'' u CESNET.
+
+<bar class="p-3">
+<grid>
+<box>
+== Rychlý přístup ==
+----
+  * [[cs:start|Úvod]]
+  * [[cs:news:start|Novinky]]
+</box>
+<box>
+== Kontakty ==
+----
+support@example.org
+</box>
+</grid>
+</bar>

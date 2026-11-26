@@ -5,21 +5,48 @@ Information about planned maintenance and limitations of the computing infrastru
   * [[https://metavo.metacentrum.cz/en/news/outages.jsp|Current MetaVO outages]]
   * [[mailto:meta@cesnet.cz|Contact support]]
 
-**Local notice archive:** the entries below describe scheduled maintenance windows from April 2026. They are not a live list of current incidents.
+**Local notice archive:** the entries below are copied from [[https://metavo.metacentrum.cz/en/news/outages.jsp|MetaVO outage announcements]] from September and October 2026. They are not a live list of current incidents.
 
-===== Planned maintenance: frontends and scheduler =====
-  * **Window:** 2026-04-14, 07:00–11:00 CEST
-  * **Impact:** short interruption of login and scheduler commands
-  * **Affected services:** selected frontend nodes and the PBS scheduler
+===== Recovery of CL4 S3 Storage Service =====
+  * **Window:** 2026-10-09 – 2026-10-12
+  * **Impact:** only a small fraction of users; project directories are not affected
+  * **Affected services:** CL4 object storage (S3)
 
-If login or scheduler commands are unavailable during the stated window, check the operational announcements for details. For a persistent problem, contact support with the frontend name and any error message.
+Following the recent outage of the CL4 object storage caused by a software bug, the service is being gradually restored. All affected users have already received detailed information and instructions via a direct email from the DataCare department. If you have not received this email, your data is not affected.
 
-===== Storage maintenance: scratch metadata =====
-  * **Window:** 2026-04-16, 06:00–08:00 CEST
-  * **Impact:** temporary slower access to selected scratch paths
-  * **Affected services:** scratch storage metadata services
+The software bug has been fixed. The standard endpoint https://s3.cl4.du.cesnet.cz now points to a new S3 instance and is fully available for writes using your existing credentials. A separate temporary endpoint for existing data will be provided. Storage administrators will progressively verify the data and migrate it to the new endpoint.
 
-For data-access problems, include the affected path, job ID and time of the problem in your support request. This record describes an announced limitation, not the service's current availability.
+===== Limited Service Availability (DDoS Attack) =====
+  * **Window:** 2026-10-07
+  * **Impact:** temporary unavailability of some frontends and a disk array
+  * **Affected services:** selected frontends, /storage/brno2
+
+We are currently experiencing a DDoS attack, which is causing the temporary unavailability of some of our frontends and disk array /storage/brno2. We are actively working on a resolution and are continuously monitoring the situation.
+
+===== Disk array /storage/brno12-cerit is FULL =====
+  * **Window:** 2026-10-06, end not announced
+  * **Impact:** writes fail with "No space left on device"
+  * **Affected services:** /storage/brno12-cerit
+
+The array contains exclusively user data, so administrators cannot resolve the situation directly. Please review your data, delete unnecessary files, move important primary data and valuable results to S3 storage, and leave only actively processed data on the disk array.
+
+After deleting data, it takes five days for the change to reflect in the available capacity, because the storage keeps several snapshots for data recovery. If you need assistance, contact [[mailto:meta@cesnet.cz|meta@cesnet.cz]].
+
+===== Planned outage of disk array /storage/praha1 =====
+  * **Window:** 2026-10-05 – 2026-10-10
+  * **Impact:** multi-hour unavailability on October 5, then background re-synchronization
+  * **Affected services:** /storage/praha1 (/storage/vestec1); Prague compute nodes using it as /home
+
+On Monday, October 5, the storage cutover takes place, with multi-hour downtime. Job scheduling pauses on Prague compute nodes that use this array as their home directory; other nodes continue without interruption. Jobs on other nodes that write to the unavailable array may leave their output in local scratch, to be copied manually afterwards.
+
+From October 5 you can work on the new array as usual. Over about five days, changes made on the old array between October 1 and October 5 are copied in the background. Newer files always take precedence, files you deleted are not restored, and the original array stays archived for a time.
+
+===== usegalaxy.cz service is temporarily inaccessible =====
+  * **Window:** 2026-09-18 – 2026-09-24
+  * **Impact:** the service was unavailable; already running jobs were not interrupted
+  * **Affected services:** usegalaxy.cz
+
+**Update 24 September:** Galaxy's primary data storage experienced filesystem corruption. All users' data has been recovered and no datasets are known to be missing. usegalaxy.cz is ready for your computational needs. If you have trouble accessing a dataset, contact [[mailto:galaxy@cesnet.cz|galaxy@cesnet.cz]].
 
 ===== Where to follow current incidents =====
 

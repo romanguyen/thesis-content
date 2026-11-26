@@ -8,7 +8,7 @@ Výpočetní grid je hardwarová a softwarová infrastruktura poskytující spol
 
 Uživatelům gridu jsou poskytovány úložné kapacity a výpočetní zdroje které přesahují možnosti jednotlivých supervýpočetních center. Dále mají uživatelé možnost využívat aplikační software z velkého množství vědeckých oborů a je jim také poskytnuta odborná podpora při výskytu jakýchkoliv problémů.
 
-[[cs:sluzby:grid|Více informací]] o gridové službě MetaCentra.
+[[cs:sluzby:grid:start|Podrobnosti o gridové službě MetaCentra]] o gridové službě MetaCentra.
 
 | ** Grid** |
 MetaCentrum Cloud dovoluje uživatelům získat a kofigurovat virtuální stroje postavené z obrazů virtuálních strojů (dodaných uživatelem nebo MetaCentrem).

@@ -1,5 +1,7 @@
 ====== Hardware ======
 
+**Static prototype snapshot, not current availability.** Its observation date and upstream provenance are not established here. Use the [[https://my.metacentrum.cz/|MetaCentrum resource portal]] for current information.
+
 This page redesign follows the original MetaVO split: inventory first, technical profile second.
 Use `Detail` in the cluster table to open full machine profile in the side drawer.
 
@@ -81,12 +83,11 @@ Use `Detail` in the cluster table to open full machine profile in the side drawe
 
   * [[en:resources:hardware|Extended HW inventory (raw long list)]]
   * [[en:resources:hardware_git_sync|Git-sync pilot for HW content]]
-  * [[https://metavo.metacentrum.cz/pbsmon2/hardware|Live hardware overview on MetaVO]]
+  * [[https://my.metacentrum.cz/|MetaCentrum resource portal (replaces the former MetaVO inventory destination)]]
 
 ===== Note =====
 
-Data in this table is a static snapshot from [[https://metavo.metacentrum.cz/pbsmon2/hardware|MetaVO hardware]]
-and keeps the index-first + drawer-detail workflow.
+The original prototype cites [[https://metavo.metacentrum.cz/pbsmon2/hardware|the former MetaVO hardware URL]] as its snapshot source and keeps the index-first + drawer-detail workflow. Original cluster/resource links are historical references and may now redirect to the general portal rather than a machine profile. No current machine state or renewed upstream-data integration is claimed.
 
 ===== Photo source =====
 

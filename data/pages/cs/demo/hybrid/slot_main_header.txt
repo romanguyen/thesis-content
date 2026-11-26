@@ -1,0 +1,4 @@
+====== MetaCentrum NGI ======
+Vítejte na stránkách MetaCentrum NGI, aktivity sdružení CESNET.
+
+**Národní Gridová Infrastruktura pro český výzkum a vzdělávání.**

@@ -148,10 +148,10 @@ Cílem MetaCentra v EMI projektu je příspěvek k vývoji specifických kompone
 Cílem projektu CHAIN je koordinace současného gridového úsilí a jejich výsledků s vizí harmonického a optimalizovaného interakčního modelu e-infrastruktury a specificky gridových rozhraní mezi Evropou a zbytkem světa. Projekt bude definovat koherentní operační a organizační model, v němž řada evropských zemí-regionů bude působit - ve spolupráci s projektem EGI - jako mosty/brány k dalším regionům a kontinentům.
 
 | ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Úkolem MetaCentra v projektu CHAIN je využít expertízu získanou zkušeností z aktivního řešení projektu EUAsiaGrid a přenést lokálně získané znalosti do vybudovaní světového, vzájemně propojeného gridového prostředí. |
+| ** Úkoly MetaCentra**: | Úkolem MetaCentra v projektu CHAIN je využít expertízu získanou zkušeností z aktivního řešení projektu EUAsiaGrid a přenést lokálně získané znalosti do vybudování světového, vzájemně propojeného gridového prostředí. |
 ** Cíle MetaCentra**:
 
-Hlavním cílem MetaCentra v projektu CHAIN je podílet se na definici procesů a pravidel vyžadovaných pro ustavení jednotné, celosvětové, gridové trvale udržitelne infrastruktury.
+Hlavním cílem MetaCentra v projektu CHAIN je podílet se na definici procesů a pravidel vyžadovaných pro ustavení jednotné, celosvětové, gridové trvale udržitelné infrastruktury.
 
 [[http://www.chain-project.eu/]]
 
@@ -242,7 +242,7 @@ Návrh a pilotní implementace gridového systému propojujícího moduly, agent
 
 | ** Název**: | **//EGI DS - European Grid Initiative Design Study//** |
 | ** Období**: | září 2007-prosinec 2009 |
-European Grid Initiative (EGI) Design Study reprezentuje snahu o ustavení trvale držitelné gridové infrastruktury v Evropě. Na základech potřeb a požadavků výzkumné komunity se očekáva, že projekt EGI DS umožní další kvalitativní skok v oblasti výzkumných infrastruktur podporujících vědecký výzkum v European Research Area (ERA). Základním stavebním kamenem European Grid Initiative (EGI) jsou National Grid Initiatives (NGI), které zajišťují provoz gridových infrastruktur v každé zemi. EGI propojí existující NGI a bude aktivně podporovat ustavení nových NGI. Cílem EGI Design Study (EGI_DS) je ohodnotit koordinační úsilí, identifikovat procesy a mechanismy pro ustavení EGI, definovat strukturu odpovídající instituce a iniciovat ustavení EGI organizace. Projekt EGI Design Study je financován sedmým rámcovým programem EU.
+European Grid Initiative (EGI) Design Study reprezentuje snahu o ustavení trvale držitelné gridové infrastruktury v Evropě. Na základech potřeb a požadavků výzkumné komunity se očekává, že projekt EGI DS umožní další kvalitativní skok v oblasti výzkumných infrastruktur podporujících vědecký výzkum v European Research Area (ERA). Základním stavebním kamenem European Grid Initiative (EGI) jsou National Grid Initiatives (NGI), které zajišťují provoz gridových infrastruktur v každé zemi. EGI propojí existující NGI a bude aktivně podporovat ustavení nových NGI. Cílem EGI Design Study (EGI_DS) je ohodnotit koordinační úsilí, identifikovat procesy a mechanismy pro ustavení EGI, definovat strukturu odpovídající instituce a iniciovat ustavení EGI organizace. Projekt EGI Design Study je financován sedmým rámcovým programem EU.
 
 | ** Cíl projektu**: |
 | ** Úkoly MetaCentra**: | MetaCentrum je aktivní ve dvou oblastech: aktivita WP2 věnovaná identifikaci, sběru a konsolidaci uživatelských požadavků na trvale udržitelnou gridovou infrastrukturu pomocí individuálních případových studií použití Gridu a aktivita WP3 activity - definování klíčových funkcí trvale udržitelného gridového prostředí. |
@@ -262,7 +262,7 @@ European Grid Initiative (EGI) Design Study reprezentuje snahu o ustavení trval
 Ithanet je síť výzkumných center (v oblasti Středozemí) zabývajících se molekulárním a klinickým výzkumem thalassaemie a souvisejících haemoglobinopatologií. Konsorcium Ithanet je složeno z většiny velkých evropských výzkumných center zabývajících se touto problematikou včetně spolupracujících institucí z neevropské části Středozemí a zemí kolem Černého moře.
 
 | ** Cíl projektu**: |
-| ** Úkoly MetaCentra**: | Úkoly týmu CESNETu (MetaCentra) se týkaly především vytvoření, nasazení, udržby a podpory kolaborativni platformy, vedeni aktivity WP2, vzdělávání uživatelů v oblasti Gridů a hledání nových aplikací pro Gridy. |
+| ** Úkoly MetaCentra**: | Úkoly týmu CESNETu (MetaCentra) se týkaly především vytvoření, nasazení, údržby a podpory kolaborativní platformy, vedení aktivity WP2, vzdělávání uživatelů v oblasti Gridů a hledání nových aplikací pro Gridy. |
 ** Cíle MetaCentra**:
 
 Vybudování videokonferenčního prostředí s podporou pro silně zabezpečená prostředí (přes firewally a NATy), rozvoj modelu použití VPN pro tyto aplikace, další zkušenosti při spolupráci s lékařskou komunitou.
@@ -306,7 +306,7 @@ V případě, že máte zájem s MetaCentrem spolupracovat formou řešení samo
 
 | ** Název**: | //** CoreGRID**// |
 | ** Období**: | 2004-2007 |
-Cílem projektu CoreGRID Síť Excelence (NoE) je posílení a rozvinutí vědecké a technologické kvality oblasti Gridů a Peer-to-Peer technologií. Projekt je zaměřen na výzkum v šesti komplementárních výzkumných oblastech vybraných na základě jejich strategické důležitosti a vědecké významnosti v celoevropském měřítku pro rozvoj další generace gridového middlewaru. Jmenovitě se jedná o správu znalostí & datů; programové modely; architekturu systému; gridové informační a monitorovací služby; správu zdrojů a plánování; prostředí pro řešení problemů, nástroje a gridové systémy.
+Cílem projektu CoreGRID Síť Excelence (NoE) je posílení a rozvinutí vědecké a technologické kvality oblasti Gridů a Peer-to-Peer technologií. Projekt je zaměřen na výzkum v šesti komplementárních výzkumných oblastech vybraných na základě jejich strategické důležitosti a vědecké významnosti v celoevropském měřítku pro rozvoj další generace gridového middlewaru. Jmenovitě se jedná o správu znalostí & datů; programové modely; architekturu systému; gridové informační a monitorovací služby; správu zdrojů a plánování; prostředí pro řešení problémů, nástroje a gridové systémy.
 
 | ** Cíl projektu**: |
 | ** Úkoly MetaCentra v rámci MU**: | WP5 (Grid Information and Monitoring Services) |

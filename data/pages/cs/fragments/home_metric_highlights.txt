@@ -2,6 +2,6 @@
 
 Format: `Number|Label`
 
-* 2 000+|uzivatelu
-* 25+|mezinarodnich projektu
-* 100+|projektu pro prumysl
+* 2 000+|uživatelů
+* 25+|mezinárodních projektů
+* 100+|projektů pro průmysl

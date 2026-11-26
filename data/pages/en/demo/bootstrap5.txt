@@ -1,0 +1,103 @@
+====== Bootstrap 5 components ======
+
+This page is written only in wiki syntax. The Bootstrap 5 components come from the ComboStrap extension; the page shell, navigation and styling come from the project template.
+
+<jumbotron>
+===== Hero block =====
+A lead paragraph with a call to action. Requested for the home page hero (CESNET ''index'' pattern).
+
+<button type="primary">Primary action</button> <button type="secondary">Secondary action</button>
+</jumbotron>
+
+===== Number tiles =====
+
+Tiles for key figures that can link to other pages (IT4I-style).
+
+<grid>
+<box class="border rounded p-3 text-center">
+=== 128 ===
+compute nodes
+</box>
+<box class="border rounded p-3 text-center">
+=== 4096 ===
+CPU cores
+</box>
+<box class="border rounded p-3 text-center">
+=== 12 ===
+GPU servers
+</box>
+</grid>
+
+===== Cards =====
+
+A project or hardware teaser.
+
+<grid>
+<card>
+=== Project card ===
+Short teaser text with a [[en:start|link to the home page]].
+</card>
+<card>
+=== Hardware card ===
+Short teaser text for a hardware group.
+</card>
+</grid>
+
+===== News strip =====
+
+Entries in a carousel with arrows to older items.
+
+<carrousel>
+<card>
+=== News one ===
+Text of the first item.
+</card>
+<card>
+=== News two ===
+Text of the second item.
+</card>
+<card>
+=== News three ===
+Text of the third item.
+</card>
+<card>
+=== News four ===
+Text of the fourth item.
+</card>
+</carrousel>
+
+===== Tabs and notes =====
+
+<tabs>
+<panel selected="true">
+<label>First tab</label>
+Content of the first tab.
+</panel>
+<panel>
+<label>Second tab</label>
+Content of the second tab.
+</panel>
+</tabs>
+
+<note tip>A tip note.</note>
+<note warning>A warning note.</note>
+
+===== Footer band =====
+
+The same ''bar'' markup as CESNET's ''slot_footer''.
+
+<bar class="p-3">
+<grid>
+<box>
+== Quick access ==
+----
+  * [[en:start|Home]]
+  * [[en:news:start|News]]
+</box>
+<box>
+== Contacts ==
+----
+support@example.org
+</box>
+</grid>
+</bar>

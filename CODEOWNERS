@@ -1,0 +1,13 @@
+# Default owner for the whole repository.
+* @romanguyen
+
+# News and outage content should always request review.
+/data/pages/**/news/** @romanguyen
+/data/pages/**/outages/** @romanguyen
+/data/pages/**/variants/news.txt @romanguyen
+
+# Hardware content and its generator inputs are a protected area.
+/data/pages/**/resources/hardware*.txt @romanguyen
+/data/media/hardware/** @romanguyen
+/scripts/git_hardware_sync.php @romanguyen
+/scripts/hardware_clusters.json @romanguyen

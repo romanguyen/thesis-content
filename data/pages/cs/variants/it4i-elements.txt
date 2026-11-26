@@ -1,9 +1,23 @@
 ====== IT4I prvky - varianta ======
 
-Tato stranka obsahuje samostatnou ukazku prvku inspirovanych IT4I:
+**Demonstrační stránka:** ukázkové metriky, karty a starší zprávy ověřují rozvržení; nepředstavují živý provozní přehled.
 
-  * hlavni rozcestnik,
-  * hexagonalni metriky,
-  * sekci Akce a starsi zpravy.
+  * hlavní rozcestník,
+  * hexagonální metriky,
+  * posuvná sekce akcí a starších zpráv.
 
-Navigaci prepinejte v horni liste (Vlevo / Nahore / Ciste).
+Rozvržení přepínejte v záhlaví (Vlevo / Nahoře / MetaCentrum).
+
+===== Vložené video =====
+
+Technická ukázka nativního přehrávače DokuWiki: dvě sekundy statického modrého pole, bez zvuku a bez záběrů infrastruktury. Přehrávání spouští čtenář pomocí ovládacích prvků.
+
+{{:demo:embedding-sample.webm?480x270|Technická ukázka: statické modré pole, bez zvuku}}
+
+===== Obrázek a mapa =====
+
+Ilustrační obrázek z médií prototypu, nikoli ověřená fotografie konkrétního pracoviště:
+
+{{:server-room-computing-infrastructure.jpg?480|Ilustrační obrázek serverovny}}
+
+Vložené statické mapy a jejich původní mapové odkazy jsou v [[cs:about:contacts|archivním kontaktním přehledu]]. Nejde o interaktivní mapu ani živou navigaci.

@@ -35,4 +35,4 @@ Please consult VO ID card at the [[http://operations-portal.egi.eu/|Operations p
 VO auger for setup by CESNET and Institute of Physics of the Academy of Sciencies of the Czech Republic (FZU) after an approval of a collaboration board in spring 2006. FZU is a member of the Pierre Auger collaboration, CESNET provides its resources in the scope of the EGI project.
 
 //Comments and questions send to Jiri.Chudoba at NOSPAMcern.ch//
-** Created by [[http://www-hep2.fzu.cz/~chudoba/|Jiri Chudoba]].**
+** Created by [[http://www-hep2.fzu.cz/~chudoba/|Jiří Chudoba]].**

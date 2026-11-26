@@ -5,7 +5,9 @@
     "storage": "2x 960GB NVMe",
     "network": "Ethernet 1Gbit/s, Omni-Path",
     "comment": "Cluster of computing machines.",
+    "comment_cs": "Cluster výpočetních strojů.",
     "owner": "Institute of Botany CAS",
+    "owner_cs": "Ústav botaniky AV ČR",
     "imageSrc": "https://www.metacentrum.cz/machines/carex-th.jpg"
   },
   "draba.ibot.cas.cz": {
@@ -14,7 +16,9 @@
     "storage": "2x 960GB NVMe",
     "network": "Ethernet 1Gbit/s, Omni-Path",
     "comment": "A machine inteded for jobs requiring large amounts of memory.",
+    "comment_cs": "Stroj určený pro úlohy vyžadující velké množství paměti.",
     "owner": "Institute of Botany CAS",
+    "owner_cs": "Ústav botaniky AV ČR",
     "imageSrc": "https://www.metacentrum.cz/machines/draba-th.jpg"
   },
   "vinca.ibot.cas.cz": {
@@ -23,7 +27,9 @@
     "storage": "3x 1.9TB NVMe",
     "network": "Ethernet 1Gbit/s, Omni-Path",
     "comment": "Cluster of computing machines.",
+    "comment_cs": "Cluster výpočetních strojů.",
     "owner": "Institute of Botany CAS",
+    "owner_cs": "Ústav botaniky AV ČR",
     "imageSrc": "https://www.metacentrum.cz/machines/vinca.ibot.cas.cz-th.jpg"
   },
   "bee.cerit-sc.cz": {
@@ -33,6 +39,7 @@
     "storage": "8x 7TB",
     "network": "Ethernet 100Gbit/s, InfiniBand 200Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1060",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 060",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/static/images/bee.cerit-sc.cz.jpg"
   },
@@ -42,6 +49,7 @@
     "storage": "6x 7TB NVMe",
     "network": "Ethernet 100Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1100",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 100",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/machines/grogu.cerit-sc.cz-th.jpg"
   },
@@ -52,6 +60,7 @@
     "storage": "30 TB NVMe",
     "network": "Ethernet 100Gbit/s",
     "comment": "For access, please contact meta@cesnet.cz",
+    "comment_cs": "Pro přístup kontaktujte meta@cesnet.cz",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/machines/capy.cerit-sc.cz-th.jpg"
   },
@@ -61,6 +70,7 @@
     "storage": "2x2TB SSD NVMe",
     "network": "Ethernet 10Gb",
     "comment": "SPECrate 2006_fp_base performance of each node = 1370",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2006_fp_base = 1 370",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/machines/glados_ostack.jpg"
   },
@@ -70,6 +80,7 @@
     "storage": "2x1.82 TiB SSD NVME, 2x 447.13 GiB 7.2, 4x 3.64 TiB 7.2",
     "network": "4x Ethernet 10 Gbit/s",
     "comment": "Performence of node: SPECfp2017: 700 (4.86 per core)",
+    "comment_cs": "Výkon uzlu: SPECfp2017: 700 (4,86 na jádro)",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/machines/uruk-th.jpg"
   },
@@ -79,6 +90,7 @@
     "storage": "11x2.91 TiB SSD NVME, 2x 447.13 GiB 7.2",
     "network": "1x InfiniBand 100 Gbit/s, 4x Ethernet 10 Gbit/s",
     "comment": "Performence of node: SPECfp2017: 2160 (4.29 per core)",
+    "comment_cs": "Výkon uzlu: SPECfp2017: 2 160 (4,29 na jádro)",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/machines/ursa-th.jpg"
   },
@@ -88,6 +100,7 @@
     "storage": "2 TB SSD",
     "network": "1x InfiniBand 56 Gbit/s, Ethernet 1Gbit/s",
     "comment": "SPECfp2006 performance of each node is 1320",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006 je 1 320",
     "owner": "CERIT-SC"
   },
   "zia.cerit-sc.cz": {
@@ -97,6 +110,7 @@
     "storage": "3x1.46 TiB SSD NVME",
     "network": "2x Ethernet 10 Gbit/s",
     "comment": "Performence of each node: SPECfp2017: 527 (4.1 per core)",
+    "comment_cs": "Výkon každého uzlu: SPECfp2017: 527 (4,1 na jádro)",
     "owner": "CERIT-SC",
     "imageSrc": "https://www.metacentrum.cz/static/images/zia.cerit-sc.cz.jpg"
   },
@@ -106,6 +120,7 @@
     "storage": "2x2TB SSD NvmE",
     "network": "1x10Gb Ethernet",
     "comment": "Performence of each node: SPECfp2006: 1370 (34.25 per core), the machines marked \"ag\" have Nvidia 1080Ti GPU",
+    "comment_cs": "Výkon každého uzlu: SPECfp2006: 1 370 (34,25 na jádro), stroje označené „ag“ mají GPU Nvidia 1080Ti",
     "owner": "CERIT-SC/MU",
     "imageSrc": "https://www.metacentrum.cz/machines/glados_ostack-th.jpg"
   },
@@ -115,14 +130,17 @@
     "storage": "1x1.8 TiB SSD SATA",
     "network": "1x Ethernet 10 Gbit/s",
     "comment": "Performance of each node: SPECfp2017: 167 (5.2 per core)",
+    "comment_cs": "Výkon každého uzlu: SPECfp2017: 167 (5,2 na jádro)",
     "owner": "CERIT-SC/MU"
   },
   "cerit-hdg-ostack.priv.cloud.muni.cz": {
     "cpu": "2x AMD EPYC Processor (with IBPB) (2x 16 Core)",
     "ram": "472.40 GiB",
     "storage": "Virtual disks",
+    "storage_cs": "Virtuální disky",
     "network": "",
     "comment": "Performance of each node: SPECfp2017: 332 (10.4 per core)",
+    "comment_cs": "Výkon každého uzlu: SPECfp2017: 332 (10,4 na jádro)",
     "owner": "CERIT-SC/MU"
   },
   "adan.grid.cesnet.cz (2025)": {
@@ -131,6 +149,7 @@
     "storage": "2x 3.84 TB NVMe",
     "network": "Ethernet 25Gbit/s",
     "comment": "SPECfp2017 performance of each node: 1360 (10.6 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2017: 1 360 (10,6 na jádro)",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/static/images/adan.grid.cesnet.cz.jpg"
   },
@@ -140,24 +159,29 @@
     "storage": "2x 4TB 7k2 SATA III, 480 GB Intel SSD S3610",
     "network": "Ethernet 1Gbit/s",
     "comment": "SPECfp2006 performance of each node: 1490 (26.6 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 1 490 (26,6 na jádro)",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/aman-th.jpg"
   },
   "tarkil.grid.cesnet.cz": {
     "cpu": "2x Intel Xeon E5-2650v4 12-Core Processor",
     "ram": "128GB",
-    "storage": "2x 4TB SATA 7200 ot/min",
+    "storage": "2x 4TB SATA 7200 rpm",
+    "storage_cs": "2x 4TB SATA 7200 ot/min",
     "network": "Ethernet 1Gb/s, Infiniband Mellanox FDR (56Gb/s)",
     "comment": "SPECfp2006 performance of each node: 790 (32.9 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 790 (32,9 na jádro)",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/tarkil2016-th.jpg"
   },
   "oven.grid.cesnet.cz": {
     "cpu": "Virtual CPUs",
+    "cpu_cs": "Virtuální CPU",
     "ram": "8 GB",
     "storage": "30GB local scratch",
     "network": "Ethernet 10Gbit/s",
     "comment": "Virtual machine",
+    "comment_cs": "Virtuální stroj",
     "owner": "CESNET"
   },
   "deimos.meta.zcu.cz (2026)": {
@@ -166,6 +190,7 @@
     "storage": "2x 1.92 TB NVMe",
     "network": "Ethernet 25Gbit/s, Infiniband HDR200",
     "comment": "SPECrate 2017_fp_base performance of each node = 1700",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 700",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/deimos.meta.zcu.cz.jpg"
   },
@@ -176,6 +201,7 @@
     "storage": "4x 3.84 NVMe",
     "network": "Ethernet 100Gbit/s, InfiniBand 200Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1160",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 160",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/static/images/fobos.meta.zcu.cz.jpg"
   },
@@ -185,6 +211,7 @@
     "storage": "2x 1.92 TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1700",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 700",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/haldan.metacentrum.cz-th.jpg"
   },
@@ -194,6 +221,7 @@
     "storage": "2x 7.68 TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECfp2017 performance of each node: 513 (8 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2017: 513 (8 na jádro)",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/static/images/halmir.metacentrum.cz.jpg"
   },
@@ -204,6 +232,7 @@
     "storage": "2x 7.68 TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "4x nVidia A40SPECfp2017 performance of each node: 512 (8 per core)",
+    "comment_cs": "4x nVidia A40, výkon každého uzlu podle SPECfp2017: 512 (8 na jádro)",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/static/images/galdor.metacentrum.cz.jpg"
   },
@@ -213,6 +242,7 @@
     "storage": "2x 3.84TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 516",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 516",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/tyra.metacentrum.cz-th.jpg"
   },
@@ -222,6 +252,7 @@
     "storage": "2x 3.84TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 516",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 516",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/tyra.metacentrum.cz-th.jpg"
   },
@@ -239,7 +270,8 @@
     "ram": "768 GiB",
     "storage": "2x 1.92 TB NVMe",
     "network": "Ethernet 25Gbit/s",
-    "comment": "Vykon kazdeho uzlu je dle SPECrate 2017_fp_base = 1700",
+    "comment": "SPECrate 2017_fp_base performance of each node = 1700",
+    "comment_cs": "Výkon každého uzlu je dle SPECrate 2017_fp_base = 1 700",
     "owner": "CESNET",
     "imageSrc": "https://www.metacentrum.cz/machines/hildor-th.jpg"
   },
@@ -250,6 +282,7 @@
     "storage": "8x 7TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1240",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 240",
     "owner": "ELIXIR",
     "imageSrc": "https://www.metacentrum.cz/machines/elbi1.hw.elixir-czech.cz-th.jpg"
   },
@@ -259,6 +292,7 @@
     "storage": "2x 7TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1260",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 260",
     "owner": "ELIXIR",
     "imageSrc": "https://www.metacentrum.cz/machines/elmu1.hw.elixir-czech.cz-th.jpg"
   },
@@ -268,6 +302,7 @@
     "storage": "8x 7TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1170",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 170",
     "owner": "ELIXIR",
     "imageSrc": "https://www.metacentrum.cz/machines/eluo1.hw.elixir-czech.cz-th.jpg"
   },
@@ -277,6 +312,7 @@
     "storage": "8x 7TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1170",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 170",
     "owner": "ELIXIR"
   },
   "elwe.hw.elixir-czech.cz": {
@@ -285,6 +321,7 @@
     "storage": "2xNVMe 7.68TB + 2x240GB SSD",
     "network": "10Gb/s ethernet",
     "comment": "SPECrate 2017_fp_base performance of each node = 452",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 452",
     "owner": "ELIXIR"
   },
   "elmo5.hw.elixir-czech.cz": {
@@ -293,6 +330,7 @@
     "storage": "2x4TB disc",
     "network": "1x Infiniband 56 Gbit/s, 1x Ethernet 1Gb/s",
     "comment": "SPECfp2006 performance of each node: 1220 (38,13 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 1 220 (38,13 na jádro)",
     "owner": "ELIXIR"
   },
   "elmo4.hw.elixir-czech.cz": {
@@ -301,6 +339,7 @@
     "storage": "2x4TB disc",
     "network": "1x Infiniband 56 Gbit/s, 1x Ethernet 1Gb/s",
     "comment": "SPECfp2006 performance of each node: 990 (41,25 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 990 (41,25 na jádro)",
     "owner": "ELIXIR"
   },
   "eltu.hw.elixir-czech.cz": {
@@ -309,6 +348,7 @@
     "storage": "2x240 GB disk + 2x7 TB NVMe disk",
     "network": "Ethernet 10 Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 509",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 509",
     "owner": "ELIXIR"
   },
   "elmo3.hw.elixir-czech.cz": {
@@ -317,6 +357,7 @@
     "storage": "2x4TB disc + 2x480 SSD disc",
     "network": "x Infiniband 56 Gbit/s, 1x Ethernet 1Gb/s, 1x Ethernet 10 Gbit/s",
     "comment": "SPECfp2006 performance of each node: 2300 (41,07 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 2 300 (41,07 na jádro)",
     "owner": "ELIXIR"
   },
   "elmo2.hw.elixir-czech.cz": {
@@ -325,6 +366,7 @@
     "storage": "2x4TB disc",
     "network": "1x Infiniband 56 Gbit/s, 1x Ethernet 1Gb/s",
     "comment": "SPECfp2006 performance of each node: 990 (41,25 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 990 (41,25 na jádro)",
     "owner": "ELIXIR"
   },
   "elmo1.hw.elixir-czech.cz": {
@@ -333,6 +375,7 @@
     "storage": "2x4TB disc + 2x480 SSD disc",
     "network": "1x Infiniband 56 Gbit/s, 1x Ethernet 1Gb/s, 1x Ethernet 10 Gbit/s",
     "comment": "SPECfp2006 performance of each node: 2300 (41,07 per core)",
+    "comment_cs": "Výkon každého uzlu podle SPECfp2006: 2 300 (41,07 na jádro)",
     "owner": "ELIXIR"
   },
   "farin.grid.cesnet.cz": {
@@ -341,7 +384,9 @@
     "storage": "2x 7TB NVMe",
     "network": "Ethernet 25Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1300",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 300",
     "owner": "Faculty of Civil Engineering CTU",
+    "owner_cs": "Fakulta stavební ČVUT",
     "imageSrc": "https://www.metacentrum.cz/static/images/farin.grid.cesnet.cz.jpg"
   },
   "luna2021.fzu.cz": {
@@ -351,6 +396,7 @@
     "network": "Ethernet 10Gbit/s",
     "comment": "Supermicro",
     "owner": "Institute of Physics CAS",
+    "owner_cs": "Fyzikální ústav AV ČR",
     "imageSrc": "https://www.metacentrum.cz/machines/luna2021.jpg"
   },
   "luna2022.fzu.cz": {
@@ -361,6 +407,7 @@
     "network": "Ethernet 10Gbit/s",
     "comment": "ASUSTeK",
     "owner": "Institute of Physics CAS",
+    "owner_cs": "Fyzikální ústav AV ČR",
     "imageSrc": "https://www.metacentrum.cz/machines/luna2022.fzu.cz-th.jpg"
   },
   "luna2023.fzu.cz": {
@@ -369,7 +416,9 @@
     "storage": "1x 3.84 NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1110",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 110",
     "owner": "Institute of Physics CAS",
+    "owner_cs": "Fyzikální ústav AV ČR",
     "imageSrc": "https://www.metacentrum.cz/static/images/luna2023.fzu.cz.jpg"
   },
   "magma.fzu.cz": {
@@ -378,7 +427,9 @@
     "storage": "1x 3.84 NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1160",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 160",
     "owner": "Institute of Physics CAS",
+    "owner_cs": "Fyzikální ústav AV ČR",
     "imageSrc": "https://www.metacentrum.cz/static/images/magma.fzu.cz.jpg"
   },
   "cha.natur.cuni.cz": {
@@ -388,7 +439,9 @@
     "storage": "2x 960 SSD",
     "network": "Ethernet 1Gbit/s",
     "comment": "GPU computing node",
+    "comment_cs": "Výpočetní uzel s GPU",
     "owner": "Faculty of Science Charles University",
+    "owner_cs": "Přírodovědecká fakulta UK",
     "imageSrc": "https://www.metacentrum.cz/machines/cha-th.jpg"
   },
   "mor.natur.cuni.cz": {
@@ -397,7 +450,9 @@
     "storage": "2x 4TB HDD",
     "network": "Ethernet 1Gbit/s",
     "comment": "Cluster of computing machines.",
+    "comment_cs": "Cluster výpočetních strojů.",
     "owner": "Faculty of Science Charles University",
+    "owner_cs": "Přírodovědecká fakulta UK",
     "imageSrc": "https://www.metacentrum.cz/machines/mor-th.jpg"
   },
   "pcr.natur.cuni.cz": {
@@ -406,7 +461,9 @@
     "storage": "2x 4TB HDD",
     "network": "Ethernet 1Gbit/s",
     "comment": "Cluster of computing machines.",
+    "comment_cs": "Cluster výpočetních strojů.",
     "owner": "Faculty of Science Charles University",
+    "owner_cs": "Přírodovědecká fakulta UK",
     "imageSrc": "https://www.metacentrum.cz/machines/pcr-th.jpg"
   },
   "fau.natur.cuni.cz": {
@@ -417,6 +474,7 @@
     "network": "Ethernet 1Gbit/s",
     "comment": "8x NVIDIA Quadro RTX 5000",
     "owner": "Faculty of Science Charles University",
+    "owner_cs": "Přírodovědecká fakulta UK",
     "imageSrc": "https://www.metacentrum.cz/machines/fau-th.jpg"
   },
   "fer.natur.cuni.cz": {
@@ -427,14 +485,17 @@
     "network": "Ethernet 1Gbit/s",
     "comment": "8x NVIDIA RTX A4000",
     "owner": "Faculty of Science Charles University",
+    "owner_cs": "Přírodovědecká fakulta UK",
     "imageSrc": "https://www.metacentrum.cz/machines/fer.natur.cuni.cz.jpg"
   },
   "charon.nti.tul.cz": {
     "cpu": "2x Intel Xeon Silver 4114 10-Core Processor",
     "ram": "12x 8 GB DDR4 2400 ECC Reg dual rank",
     "storage": "1x SSD 480 GB DC S3610 Series",
-    "network": "1 GB ethernet a Omni-Path (InfiniBand - Intel)",
+    "network": "1 GB ethernet and Omni-Path (InfiniBand - Intel)",
+    "network_cs": "1 GB ethernet a Omni-Path (InfiniBand - Intel)",
     "owner": "Technical University of Liberec",
+    "owner_cs": "Technická univerzita v Liberci",
     "imageSrc": "https://www.metacentrum.cz/machines/charon-th.jpg"
   },
   "alfrid.meta.zcu.cz": {
@@ -444,7 +505,9 @@
     "storage": "2x 7TB NVMe",
     "network": "Ethernet 25Gbit/s",
     "comment": "2x nVidia L40SPECrate 2017_fp_base performance of each node = 1230",
+    "comment_cs": "2x nVidia L40, výkon každého uzlu podle SPECrate 2017_fp_base = 1 230",
     "owner": "UWB",
+    "owner_cs": "ZČU",
     "imageSrc": "https://www.metacentrum.cz/machines/alfrid.meta.zcu.cz-th.jpg"
   },
   "alfrid-II.meta.zcu.cz": {
@@ -454,7 +517,9 @@
     "storage": "2x 7TB NVMe",
     "network": "Ethernet 25Gbit/s",
     "comment": "4x nVidia L40SPECrate 2017_fp_base performance of each node = 1230",
+    "comment_cs": "4x nVidia L40, výkon každého uzlu podle SPECrate 2017_fp_base = 1 230",
     "owner": "UWB",
+    "owner_cs": "ZČU",
     "imageSrc": "https://www.metacentrum.cz/static/images/alfrid-II.meta.zcu.cz.jpg"
   },
   "alfrid-smp.meta.zcu.cz": {
@@ -463,7 +528,9 @@
     "storage": "2x 7TB NVMe",
     "network": "Ethernet 10Gbit/s",
     "comment": "SPECrate 2017_fp_base performance of each node = 1200",
+    "comment_cs": "Výkon každého uzlu podle SPECrate 2017_fp_base = 1 200",
     "owner": "UWB",
+    "owner_cs": "ZČU",
     "imageSrc": "https://www.metacentrum.cz/static/images/alfrid-SMP.meta.zcu.cz.png"
   },
   "konos.fav.zcu.cz": {
@@ -472,7 +539,9 @@
     "storage": "2x 4TB SATA",
     "network": "1 Gbit/s Ethernet",
     "comment": "all nodes have 4x GPU NVIDIA GeForce GTX 1080 TiSPECfp2006 performance of each node: 850 (42.5 per core)",
+    "comment_cs": "Všechny uzly mají 4x GPU NVIDIA GeForce GTX 1080 Ti, výkon každého uzlu podle SPECfp2006: 850 (42,5 na jádro)",
     "owner": "UWB",
+    "owner_cs": "ZČU",
     "imageSrc": "https://www.metacentrum.cz/machines/konos1-10-th.jpg"
   },
   "samson.ueb.cas.cz": {
@@ -481,6 +550,8 @@
     "storage": "6x1.46 TiB SSD NVME",
     "network": "2x Ethernet 5 Gbit/s",
     "comment": "Performence of each node: SPECfp2017: 557 (4.97 per core)",
-    "owner": "Institute of Experimental Botany CAS"
+    "comment_cs": "Výkon každého uzlu: SPECfp2017: 557 (4,97 na jádro)",
+    "owner": "Institute of Experimental Botany CAS",
+    "owner_cs": "Ústav experimentální botaniky AV ČR"
   }
 }

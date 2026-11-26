@@ -1,18 +1,18 @@
 ====== Varianta s horním menu ======
 
-Tato stránka sdružuje odkazy na druhou verzi rozhraní, kde je navigace umístěna nahoře.
-Vizuál je inspirovaný službami CESNETu, ale obsah zůstává MetaCentrum.
+Tato stránka sdružuje ukázkové odkazy na kombinace rozložení a stylu.
+Stejnou volbu nabízí záhlaví v nabídce Předvolby (Rozložení a Styl).
 
 ===== Demo odkazy =====
 
-  * [[cs:resources:hardware:start?layout=top&style=cesnet|Hardware stránka s horní navigací (CESNET-inspired)]]
-  * [[cs:variants:news?layout=left|Samostatná stránka novinek (přehled + archiv)]]
-  * [[cs:variants:it4i-elements?style=metacentrum|Samostatná stránka IT4I prvků (design MetaCentrum)]]
-  * [[cs:news:start?layout=left&style=reskin|Stránka novinek s původní variantou levého menu]]
-  * [[cs:start?layout=left&style=reskin|Úvodní stránka s původní čistou/content variantou]]
+  * [[cs:resources:hardware:start?layout=top&style=cesnet|Hardware – Horní menu, Vzhled CESNET]]
+  * [[cs:variants:news?layout=left|Novinky – varianta (přehled + archiv), Levé menu]]
+  * [[cs:variants:it4i-elements?style=metacentrum|IT4I prvky – varianta, Design MetaCentrum]]
+  * [[cs:news:start?layout=left&style=cesnet|Novinky – Levé menu, Vzhled CESNET]]
+  * [[cs:start?layout=left&style=cesnet|Úvodní stránka – Levé menu, Vzhled CESNET]]
 
 ===== Poznámky =====
 
-  * `layout=top` přepne umístění navigace.
-  * `style=cesnet` aktivuje modro-oranžovou vizuální variantu pro horní menu.
-  * Bez těchto parametrů se použije výchozí layout s levým sidebarem.
+  * `layout=top` / `layout=left` odpovídá volbám Horní menu / Levé menu.
+  * `style=cesnet` / `style=metacentrum` / `style=bootstrap5` odpovídá volbám Vzhled CESNET / Design MetaCentrum / Bootstrap 5.
+  * Bez těchto parametrů se použije Horní menu a Vzhled CESNET.

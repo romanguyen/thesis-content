@@ -1,4 +1,4 @@
-====== IT4I Elements - Variant ======
+====== IT4I elements – variant ======
 
 **Demonstration page:** sample metrics, cards and older reports exercise the layout; they are not a live operational overview.
 
@@ -6,7 +6,7 @@
   * hexagonal metrics,
   * scrollable events and older reports section.
 
-Switch layout in the header (Left / Top / MetaCentrum).
+Switch layout and style in the header under Preferences: Layout (Left menu / Top menu) and Style (CESNET look / MetaCentrum design / Bootstrap 5).
 
 ===== Embedded video =====
 

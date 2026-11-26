@@ -80,3 +80,14 @@ ffmpeg -hide_banner -loglevel error -f lavfi \
 ```
 
 The illustrative server-room image was already present in this repository; the showcase does not claim it depicts a particular site. Media/source permissions, a full content migration, current external service availability and two separately deployed websites have not been approved or certified by these local repairs.
+
+## Lockdown content changes (26 November 2026)
+
+### Media provenance (lockdown)
+
+Downloaded on 2026-11-26 so pages no longer load them from other sites. The bytes are unchanged; this records where
+they came from, not a redistribution permission.
+
+| Local media | Used on | Source URL | SHA-256 |
+| --- | --- | --- | --- |
+| `:resources:metacentrum-hw-map-2016.png` (400×256 PNG) | `cs:start`, `en:start` (HW map) | `https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png` | `0ded4a75c2a1fc783bd564bce61c25cf1e970964f929766c3189a0a27edb05c8` |

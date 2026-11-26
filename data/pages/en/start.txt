@@ -16,6 +16,6 @@ MetaCentrum** supports the research projects** in many research disciplines, to 
   * [[en:resources:hardware:start|List of HW]]
 
 ===== Map of HW centres =====
-| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png|mapkaMC_2016_oranz}} |
+{{:resources:metacentrum-hw-map-2016.png|Map of MetaCentrum HW centres (as of 2016)}}
 
 MetaCentrum participates in the [[https://www.metacentrum.cz/en/grid/EGI/index.html|European Grid Initiative (EGI.eu)]] and the major InSPIRE project. The aim of this participation is to enable coherent electronic access for researchers to all computational and data based resources and facilities in the Czech Republic, Europe and eventually also globally. MetaCentrum is actively** involved in many** other** international Grid projects**.

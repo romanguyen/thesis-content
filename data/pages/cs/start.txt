@@ -16,4 +16,4 @@ MetaCentrum** koordinuje**** pořizování nákladného**** programového a apli
   * [[cs:resources:hardware:start|Seznam HW vybavení]]
 
 ===== Mapa rozmístění HW =====
-| {{https://www.metacentrum.cz/export/sites/metacentrum/images/mapkaMC_2016_oranz.png_20180039.png|mapkaMC_2016_oranz}} |
+{{:resources:metacentrum-hw-map-2016.png|Mapa rozmístění HW center MetaCentra (stav 2016)}}

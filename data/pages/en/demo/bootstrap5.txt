@@ -19,7 +19,7 @@ Tiles for key figures that can link to other pages (IT4I-style).
 compute nodes
 </box>
 <box class="border rounded p-3 text-center">
-=== 4096 ===
+=== 4,096 ===
 CPU cores
 </box>
 <box class="border rounded p-3 text-center">

@@ -9,17 +9,17 @@ Použijte akci `Detail` v tabulce clusterů pro otevření plného profilu v pos
 
 ^ Instituce ^ CPU celkem ^ Clustery v tomto snapshotu ^
 | Ústav botaniky AV ČR | 352 | 3 |
-| CERIT-SC | 5128 | 8 |
-| CERIT-SC/MU | 1288 | 3 |
-| CESNET | 23824 | 13 |
-| ELIXIR | 5984 | 11 |
+| CERIT-SC | 5 128 | 8 |
+| CERIT-SC/MU | 1 288 | 3 |
+| CESNET | 23 824 | 13 |
+| ELIXIR | 5 984 | 11 |
 | Fakulta stavební ČVUT | 512 | 1 |
-| Fyzikální ústav AV ČR | 3264 | 4 |
-| Přírodovědecká fakulta UK | 1520 | 5 |
+| Fyzikální ústav AV ČR | 3 264 | 4 |
+| Přírodovědecká fakulta UK | 1 520 | 5 |
 | Technická univerzita v Liberci | 480 | 1 |
-| ZČU | 1312 | 4 |
+| ZČU | 1 312 | 4 |
 | Ústav experimentální botaniky AV ČR | 112 | 1 |
-| **Snapshot celkem** | **43776** | **54** |
+| **Snapshot celkem** | **43 776** | **54** |
 
 ===== Inventář clusterů =====
 
@@ -33,29 +33,29 @@ Použijte akci `Detail` v tabulce clusterů pro otevření plného profilu v pos
 | CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/glados.cerit-sc.cz|glados.cerit-sc.cz]]** | 80 | 1 |
 | CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/uruk.cerit-sc.cz|uruk.cerit-sc.cz]]** | 144 | - |
 | CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/ursa.cerit-sc.cz|ursa.cerit-sc.cz]]** | 504 | - |
-| CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/zenon.cerit-sc.cz|zenon.cerit-sc.cz]]** | 1920 | 60 |
+| CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/zenon.cerit-sc.cz|zenon.cerit-sc.cz]]** | 1 920 | 60 |
 | CERIT-SC | **[[https://www.metacentrum.cz/pbsmon2/resource/zia.cerit-sc.cz|zia.cerit-sc.cz]]** | 640 | 5 |
 | CERIT-SC/MU | **[[https://www.metacentrum.cz/pbsmon2/resource/ics-gladosag-ostack.priv.cloud.muni.cz|ics-gladosag-ostack.priv.cloud.muni.cz]]** | 360 | 9 |
 | CERIT-SC/MU | **[[https://www.metacentrum.cz/pbsmon2/resource/eli-hda1-ostack.priv.cloud.muni.cz|eli-hda1-ostack.priv.cloud.muni.cz]]** | 512 | 16 |
 | CERIT-SC/MU | **[[https://www.metacentrum.cz/pbsmon2/resource/cerit-hdg-ostack.priv.cloud.muni.cz|cerit-hdg-ostack.priv.cloud.muni.cz]]** | 416 | 13 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz%20%282025%29|adan.grid.cesnet.cz (2025)]]** | 6144 | 48 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/adan.grid.cesnet.cz%20%282025%29|adan.grid.cesnet.cz (2025)]]** | 6 144 | 48 |
 | CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/aman.ics.muni.cz|aman.ics.muni.cz]]** | 504 | 9 |
 | CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/tarkil.grid.cesnet.cz|tarkil.grid.cesnet.cz]]** | 360 | 15 |
 | CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/oven.grid.cesnet.cz|oven.grid.cesnet.cz]]** | 80 | - |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/deimos.meta.zcu.cz%20%282026%29|deimos.meta.zcu.cz (2026)]]** | 1664 | 13 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/fobos.meta.zcu.cz|fobos.meta.zcu.cz]]** | 1920 | 20 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/haldan.metacentrum.cz%20%282026%29|haldan.metacentrum.cz (2026)]]** | 1920 | 15 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/halmir.metacentrum.cz|halmir.metacentrum.cz]]** | 1984 | 31 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/galdor.metacentrum.cz|galdor.metacentrum.cz]]** | 1280 | 20 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/tyra.metacentrum.cz|tyra.metacentrum.cz]]** | 2048 | 32 |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz|turin.grid.cesnet.cz]]** | 3328 | 52 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/deimos.meta.zcu.cz%20%282026%29|deimos.meta.zcu.cz (2026)]]** | 1 664 | 13 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/fobos.meta.zcu.cz|fobos.meta.zcu.cz]]** | 1 920 | 20 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/haldan.metacentrum.cz%20%282026%29|haldan.metacentrum.cz (2026)]]** | 1 920 | 15 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/halmir.metacentrum.cz|halmir.metacentrum.cz]]** | 1 984 | 31 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/galdor.metacentrum.cz|galdor.metacentrum.cz]]** | 1 280 | 20 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/tyra.metacentrum.cz|tyra.metacentrum.cz]]** | 2 048 | 32 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/turin.grid.cesnet.cz|turin.grid.cesnet.cz]]** | 3 328 | 52 |
 | CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/grimbold.ics.muni.cz|grimbold.ics.muni.cz]]** | 32 | - |
-| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/hildor.metacentrum.cz%20%282026%29|hildor.metacentrum.cz (2026)]]** | 2560 | 20 |
+| CESNET | **[[https://www.metacentrum.cz/pbsmon2/resource/hildor.metacentrum.cz%20%282026%29|hildor.metacentrum.cz (2026)]]** | 2 560 | 20 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elbi1.hw.elixir-czech.cz|elbi1.hw.elixir-czech.cz]]** | 96 | 1 |
-| ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elmu1.hw.elixir-czech.cz|elmu1.hw.elixir-czech.cz]]** | 2400 | 25 |
+| ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elmu1.hw.elixir-czech.cz|elmu1.hw.elixir-czech.cz]]** | 2 400 | 25 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/eluo1.hw.elixir-czech.cz|eluo1.hw.elixir-czech.cz]]** | 480 | 5 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elum1.hw.elixir-czech.cz|elum1.hw.elixir-czech.cz]]** | 96 | 1 |
-| ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elwe.hw.elixir-czech.cz|elwe.hw.elixir-czech.cz]]** | 1216 | 19 |
+| ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elwe.hw.elixir-czech.cz|elwe.hw.elixir-czech.cz]]** | 1 216 | 19 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elmo5.hw.elixir-czech.cz|elmo5.hw.elixir-czech.cz]]** | 832 | 26 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/elmo4.hw.elixir-czech.cz|elmo4.hw.elixir-czech.cz]]** | 96 | 4 |
 | ELIXIR | **[[https://www.metacentrum.cz/pbsmon2/resource/eltu.hw.elixir-czech.cz|eltu.hw.elixir-czech.cz]]** | 192 | 1 |
@@ -66,10 +66,10 @@ Použijte akci `Detail` v tabulce clusterů pro otevření plného profilu v pos
 | Fyzikální ústav AV ČR | **[[https://www.metacentrum.cz/pbsmon2/resource/luna2021.fzu.cz|luna2021.fzu.cz]]** | 384 | 6 |
 | Fyzikální ústav AV ČR | **[[https://www.metacentrum.cz/pbsmon2/resource/luna2022.fzu.cz|luna2022.fzu.cz]]** | 384 | 6 |
 | Fyzikální ústav AV ČR | **[[https://www.metacentrum.cz/pbsmon2/resource/luna2023.fzu.cz|luna2023.fzu.cz]]** | 288 | 3 |
-| Fyzikální ústav AV ČR | **[[https://www.metacentrum.cz/pbsmon2/resource/magma.fzu.cz|magma.fzu.cz]]** | 2208 | 23 |
+| Fyzikální ústav AV ČR | **[[https://www.metacentrum.cz/pbsmon2/resource/magma.fzu.cz|magma.fzu.cz]]** | 2 208 | 23 |
 | Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/cha.natur.cuni.cz|cha.natur.cuni.cz]]** | 32 | - |
 | Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/mor.natur.cuni.cz|mor.natur.cuni.cz]]** | 80 | 4 |
-| Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/pcr.natur.cuni.cz|pcr.natur.cuni.cz]]** | 1024 | 16 |
+| Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/pcr.natur.cuni.cz|pcr.natur.cuni.cz]]** | 1 024 | 16 |
 | Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/fau.natur.cuni.cz|fau.natur.cuni.cz]]** | 192 | 3 |
 | Přírodovědecká fakulta UK | **[[https://www.metacentrum.cz/pbsmon2/resource/fer.natur.cuni.cz|fer.natur.cuni.cz]]** | 192 | 3 |
 | Technická univerzita v Liberci | **[[https://www.metacentrum.cz/pbsmon2/resource/charon.nti.tul.cz|charon.nti.tul.cz]]** | 480 | 24 |

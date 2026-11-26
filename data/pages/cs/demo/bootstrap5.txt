@@ -19,7 +19,7 @@ Dlaždice s klíčovými čísly, které mohou odkazovat na další stránky (ve
 výpočetních uzlů
 </box>
 <box class="border rounded p-3 text-center">
-=== 4096 ===
+=== 4 096 ===
 jader CPU
 </box>
 <box class="border rounded p-3 text-center">

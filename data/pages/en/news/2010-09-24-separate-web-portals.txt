@@ -1,0 +1,5 @@
+====== MetaCentrum NGI and VO have separate web portals ======
+
+//Martin Kuba, 24 September 2010//
+
+The old MetaCentrum portal was split into two new portals.

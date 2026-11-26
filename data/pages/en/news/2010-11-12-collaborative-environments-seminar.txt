@@ -1,0 +1,7 @@
+====== Collaborative environments seminar ======
+
+//Ivana Křenková, 12 November 2010//
+
+CESNET association will held a collaborative environments seminar on Thursday,** 2 December 2010** (Prague) devoted to variety of voice and video broadcast technologies (from IP telephony to uncompressed high-definition video). Seminar will be held in Czech language.
+
+More information are available at [[http://metavo.metacentrum.cz/cs/seminars/seminar3/index.html|http://www.cesnet.cz/akce/2010/vzdalena-spoluprace/]]

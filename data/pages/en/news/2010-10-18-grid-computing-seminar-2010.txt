@@ -1,0 +1,7 @@
+====== Grid Computing Seminar 2010 ======
+
+//Ivana Křenková, 18 October 2010//
+
+Grid Computing Seminar 2010, hosted by ﻿the MetaCentrum (CESNET association's project) and Bull company, was attended by more than seventy participants. The main topic of the meeting was providing current and potential users with information on the MetaCentrum NGI ﻿activities in the Czech Republic and current trends in HPC at the national and international level. Representatives of the three largest Czech e-Infrastructure projects (CESNET, IT4Innovations, CERIT-SC) presented their vision of ﻿the Czech e-Infrastructure future in a panel discussion.
+﻿
+Detailed information can be found at [[http://metavo.metacentrum.cz/en/seminars/seminar3/index.html|http://metavo.cesnet.cz/en/seminars/seminar3/index.html]]

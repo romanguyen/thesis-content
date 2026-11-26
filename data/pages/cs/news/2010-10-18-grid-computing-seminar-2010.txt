@@ -1,0 +1,7 @@
+====== Seminář gridového počítání 2010 ======
+
+//Ivana Křenková, 18. 10. 2010//
+
+Více než sedmdesát odborníků se v pátek 15. 10. 2010 zúčastnilo semináře gridového počítání, který v Praze hostilo MetaCentrum (aktivita sdružení CESNET, z.s.p.o.) a společnost Bull s.r.o. Hlavním cílem setkání bylo informovat stávající i potenciální uživatele MetaCentra o činnosti Národní Gridové Infrastruktury (NGI) v České republice a současných trendech výkonného počítání na národní i mezinárodní úrovni. Reprezentanti tří největších českých e-infrastrukturálních projektů (CESNET, IT4Innovations, CERIT-SC) seznámili v panelové diskusi přítomné výzkumníky s budoucností národní e-infrastruktury v České republice.
+
+Více informací a prezentace najdete na stránkách semináře [[http://metavo.metacentrum.cz/cs/seminars/seminar3/index.html|http://metavo.cesnet.cz/cs/seminars/seminar3/index.html]]

@@ -1,0 +1,13 @@
+====== Newsletter Inspired (EGI-InSPIRE) ======
+
+//Ivana Křenková, 29. 9. 2010//
+
+Vyšlo první číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''. V PDF si jej můžete stáhnout na [[http://www.egi.eu/export/sites/egi/results/newsletters/Newsletter_Summer2010.pdf|Newsletter_Summer2010.pdf]]
+
+Toto číslo obsahuje:
+
+  * Databáze EGI aplikací
+  * Středoevsropská regionální operační centra CE-ROC
+  * Grid monitoring
+  * Setkání bezpečnostních skupin
+  * Nejbližší události

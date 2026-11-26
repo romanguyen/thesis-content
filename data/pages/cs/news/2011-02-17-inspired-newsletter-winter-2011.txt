@@ -1,0 +1,13 @@
+====== Inspired Newsletter - zima 2011 ======
+
+//Ivana Křenková, 17. 2. 2011//
+
+Vyšlo zimní číslo informačního občastníku projektu EGI-InSPIRE ''Inspired''. On-line verzi si můžete prohlédnout na [[http://go.egi.eu/rakjd|http://www.egi.eu/results/newsletters/Inspired_Winter_2011/]]
+
+Z obsahu:
+
+  * User Forum 2011: Programme preview
+  * WeNMR: an infrastructure for NMR and structural biology
+  * Project profile: Initiative for Globus in Europe
+  * Collecting operational requirements
+  * TERENA conference preview

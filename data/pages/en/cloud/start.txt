@@ -14,7 +14,7 @@ MetaCloud is a computing (HPC) cloud built using OpenNebula. Pilot cloud install
 MetaCloud interface allows you to obtain and configure virtual machines from various images (yours or MetaCentrum's), including images compatible with Amazon EC2. Moreover, MetaCloud offers ready-to-use templates and images with standard Linux OS. OS Microsoft Windows has limited use due to license conditions.
 
 ==== Start now! ====
-* [[en:vo:metavo|Get an MetaCentrum account.]]
+* [[en:vo:metavo:start|Get an MetaCentrum account.]]
 * [[https://perun.metacentrum.cz/fed/registrar/?vo=meta&group=metacloud|Apply for a membership in MetaCloud.]]
 * Manage your Virtual machine in [[https://cloud.metacentrum.cz/|web interface]].
 

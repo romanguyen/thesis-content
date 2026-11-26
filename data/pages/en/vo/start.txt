@@ -6,6 +6,6 @@ Users of the European Grid Infrastructure are organised into Virtual Organisatio
 Virtual organizations managed by MetaCentrum:
 
 | ** Virtual organizations** | ** Description** | ** Get account** |
-| ** MetaCentrum VO** | MetaCentrum VO is a regional catch-all virtual organization of the Czech National Grid Organization (NGI) and it is intended only for employees and students of research or academic organizations in the Czech Republic and for research purposes only. Users registered in MetaCentrum get access to the computing and storage capacity and a wide range of application software. | [[en:vo:metavo|MetaCentrum]] |
-| ** VO Auger** | Set up and is accesible exclusively for members of the Pierre Auger Observatory. | [[en:vo:auger|Auger]] |
-| ** EUAsia VO** | Supports e-Science researches within the Asia-Pacific region. Estabilished as a part of EUAsiaGrid project. | [[en:vo:eu_asia|EUAsia]] |
+| ** MetaCentrum VO** | MetaCentrum VO is a regional catch-all virtual organization of the Czech National Grid Organization (NGI) and it is intended only for employees and students of research or academic organizations in the Czech Republic and for research purposes only. Users registered in MetaCentrum get access to the computing and storage capacity and a wide range of application software. | [[en:vo:metavo:start|MetaCentrum]] |
+| ** VO Auger** | Set up and is accesible exclusively for members of the Pierre Auger Observatory. | [[en:vo:auger:start|Auger]] |
+| ** EUAsia VO** | Supports e-Science researches within the Asia-Pacific region. Estabilished as a part of EUAsiaGrid project. | [[en:vo:eu_asia:start|EUAsia]] |

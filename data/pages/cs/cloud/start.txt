@@ -13,7 +13,7 @@ MetaCloud nabízí virtuální výpočetní prostředí přístupné prostředni
 * Použití je zdarma pro všechny členy akademické obce.
 
 ==== Získejte přístup do Cloudu. ====
-* [[cs:vo:metavo|Podejte přihlášku do MetaCentra]]
+* [[cs:vo:metavo:start|Podejte přihlášku do MetaCentra]]
 * [[https://perun.metacentrum.cz/fed/registrar/?vo=meta&group=metacloud|Připojte se do skupiny MetaCloud.]]
 * Vytvořte si virtuální stroje ve [[https://cloud.metacentrum.cz/|webovém rozhraní]].
 

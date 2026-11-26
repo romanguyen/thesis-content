@@ -6,10 +6,10 @@ Uživatelé Evropské Gridové Infrastruktury (EGI) jsou organizováni do Virtu�
 Virtuální organizace spadající pod správu MetaCentra:
 
 | ** Virtual organizations** | ** Description** | ** Get account** |
-| ** MetaCentrum VO** | MetaCentrum VO je regionální virtuální organizace české Národní Gridové Infrastruktury (NGI) a je přístupná pouze pro zaměstnance a studenty výzkumných či akademických organizací České Republiky a pouze pro věděcké účely. Uživatelé registrovaní v MetaCentru získají přístup k výpočetním a úložným kapacitým stejně jako k velkému množství softwaru z široké škály věděckých oborů. | [[cs:vo:metavo|MetaCentrum]] |
+| ** MetaCentrum VO** | MetaCentrum VO je regionální virtuální organizace české Národní Gridové Infrastruktury (NGI) a je přístupná pouze pro zaměstnance a studenty výzkumných či akademických organizací České Republiky a pouze pro věděcké účely. Uživatelé registrovaní v MetaCentru získají přístup k výpočetním a úložným kapacitým stejně jako k velkému množství softwaru z široké škály věděckých oborů. | [[cs:vo:metavo:start|MetaCentrum]] |
 Byla založena a je přístupná pouze pro členy Pierre Auger Observatory.
 
-| ** VO Auger** | [[cs:vo:auger|Auger]] |
+| ** VO Auger** | [[cs:vo:auger:start|Auger]] |
 Podporuje vědecké výzkumníky v oblasti jihovýchodní Asie. Součást projektu EUAsiaGrid.
 
-| ** EUAsia VO** | [[cs:vo:eu_asia|EUAsia]] |
+| ** EUAsia VO** | [[cs:vo:eu_asia:start|EUAsia]] |

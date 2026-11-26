@@ -1,10 +1,10 @@
 ====== Vývoj pro HPC cloud ======
 
 CESNET/MetaCentrum participates in international collaborations to enable HPC-oriented cloud federations. Prominent among them are the [[https://www.egi.eu/federation/egi-federated-cloud/|EGI Federated Cloud]] and the [[https://www.egi.eu/federation/egi-federated-cloud/|INDIGO-DataCloud Project]]. There are major focus areas wherein CESNET contributes. These are covered by their own profile pages:
-* [[cs:devel:occi|Interoperable cloud resource management through the OCCI standard]],
+* [[cs:devel:occi:start|Interoperable cloud resource management through the OCCI standard]],
 Federated AAI with:
 * [[https://perun.cesnet.cz/web/|Perun]] – a identity and attribute authority
-* [[cs:devel:identity_federations|Identity Federations]]
+* [[cs:devel:identity_federations:start|Identity Federations]]
 * [[https://wiki.metacentrum.cz/gswiki/GridSite_Architecture|GridSite]] – an Apache module for X.509-based authentication
 
 Aside of those, the following areas are also receiving attention.

@@ -7,12 +7,12 @@ The National Grid Infrastructure is operated by MetaCentrum, CESNET department r
 MetaCentrum** supports the research projects** in many research disciplines, to enable researchers easily share a range of national resources: compute, storage, data, instruments, and ease their efforts to attain a global dimension. Simultaneously MetaCentrum activity deals with necessary** research and development** to ensure optimal functionality, security and performance of the infrastructure through participation in similar international projects.
 
 ===== Important information =====
-  * [[en:vo|I want to become a member]]
-  * [[en:grid|Advantages of the NGI]]
-  * [[en:grid:certificate|I need a certificate]]
+  * [[en:vo:start|I want to become a member]]
+  * [[en:grid:start|Advantages of the NGI]]
+  * [[en:grid:certificate:start|I need a certificate]]
   * [[https://docs.metacentrum.cz|Documentation and help]]
   * [[http://metavo.metacentrum.cz/|MetaVO web page]]
-  * [[en:cloud|MetaCloud]]
+  * [[en:cloud:start|MetaCloud]]
   * [[en:resources:hardware:start|List of HW]]
 
 ===== Map of HW centres =====

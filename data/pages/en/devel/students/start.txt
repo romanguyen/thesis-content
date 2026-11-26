@@ -33,7 +33,7 @@
 | [[https://is.muni.cz/auth/th/256333/fi_b/|Web Application for License Registration in MetaCentrum]] | [[https://is.muni.cz/auth/osoba/256333|Peter Lényi]] | bachelor thesis | 2010 |
 | [[https://is.muni.cz/auth/th/256301/fi_b/|OpenCMS Plugin for Shibboleth Authentication of Users]] | [[https://is.muni.cz/auth/osoba/256301|Ladislav Toldy]] | bachelor thesis | 2010 |
 | [[https://is.muni.cz/auth/th/208054/fi_b/|Ruby and JRuby Performance Comparison]] | [[https://is.muni.cz/auth/osoba/208054|Jan Kadera]] | bachelor thesis | 2010 |
-[[en:devel:students:slurm|Job scheduling with the SLURM resource manager]]
+[[en:devel:students:slurm:start|Job scheduling with the SLURM resource manager]]
 
 [[http://is.muni.cz/osoba/173052|Michal Novotný]]
 

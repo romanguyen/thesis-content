@@ -11,7 +11,7 @@ Cílem aktivity MetaCentrum je podpora rozvoje VaV v ČR vybudováním národní
   * ** sdílení a zpracování dat** z unikátních** experimentálních a měřících zařízení**,
   * přispět k hladké** vědecké spolupráci** bez ohledu na fyzickou vzdálenost a usnadnit** zapojení** týmu** do mezinárodních projektů**.
 
-Integrované prostředí národního Gridu poskytne možnost spolupráce mezi pracovníky různých fyzických organizací pomocí konceptu [[cs:vo|virtuálních organizací]], okamžité sdílení dat a zdrojů mezi členy a společné využití některých unikátních služeb. Přidanou hodnotou je pak koordinované zavádění pokročilých služeb (např. vyvinutých mezinárodními projekty typu EGEE/EGI a DEISA). Zásadní roli v implementaci nových služeb hraje vlastní vývojový tým zapojený do mezinárodní komunity.
+Integrované prostředí národního Gridu poskytne možnost spolupráce mezi pracovníky různých fyzických organizací pomocí konceptu [[cs:vo:start|virtuálních organizací]], okamžité sdílení dat a zdrojů mezi členy a společné využití některých unikátních služeb. Přidanou hodnotou je pak koordinované zavádění pokročilých služeb (např. vyvinutých mezinárodními projekty typu EGEE/EGI a DEISA). Zásadní roli v implementaci nových služeb hraje vlastní vývojový tým zapojený do mezinárodní komunity.
 
 [[https://www.metacentrum.cz/cs/about/meta/adv_users/index.html|Výhody gridového prostředí pro uživatele]]
 

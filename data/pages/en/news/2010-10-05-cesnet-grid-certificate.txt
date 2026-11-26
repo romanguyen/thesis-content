@@ -1,0 +1,7 @@
+====== NEW: CESNET grid certificate available ======
+
+//Ivana Křenková, 5 October 2010//
+
+[[http://pki.cesnet.cz/cs/tcs-personal.html|CESNET TCS]] yesterday announced a new PKI service for the Czech academic community. Beside the personal CESNET CA certificate//(TERENA Personal CA//), CESNET grid personal certificate (//TERENA eScience Personal CA)//for authentication, digital signature, and data encryption in Grid infrastructure is available. Both personal certificates are now associated to the//[[http://eduid.cz/|eduID.cz]]//service.
+
+The certificates are issued to employees and students of Czech universities, Czech Academy of Sciences, and any organizations cooperating with these entities in the practice of research, educational and administrative functions as well as computers and application services operated by these organizations.

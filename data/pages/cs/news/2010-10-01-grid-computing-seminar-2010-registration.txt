@@ -1,0 +1,8 @@
+====== Registrace na Seminář gridového počítání 2010 ======
+
+//Ivana Křenková, 1. 10. 2010//
+
+Seminář gridového počítání 2010 se koná dne 15. října 2010 od 10:00 hodin v konferenčních prostorách Masarykovy koleje, Thákurova 1, Praha. Seminář je organizován projektem MetaCentrum sdružení CESNET za spoluúčasti firmy Bull s.r.o.
+Primárním cílem semináře je informovat současné i nové potenciální uživatele výkonného počítání o současných možnostech dostupných pro řešení širokého spektra výzkumných problémů a výzev jak na národní tak i mezinárodní úrovni. Plánováno je také vystoupení čelních představitelů nejvýznamnějších, nově se formujících e-Infrastruktur České republiky. Registrace končí 12. října 2010.
+
+[[http://metavo.metacentrum.cz/cs/seminars/seminar3/index.html|více informací a registrace]]

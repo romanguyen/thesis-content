@@ -1,0 +1,5 @@
+====== CESNET zahájil projekt velké infrastruktury ======
+
+//Ivana Křenková, 30. 3. 2011//
+
+Zahájili jsme řešení nového strategického projektu //Velká infrastruktura CESNET// zařazeného mezi velké infrastruktury pro výzkum, vývoj a inovace. Je plánován na období let 2011–2015 a naváže tak na ukončený výzkumný záměr //Optická síť národního výzkumu a její nové aplikace//. Jeho cílem je další rozvoj infrastruktury a služeb, které nabízíme VaV komunitě, podrobnější informace se dočtete v naší nové [[http://www.cesnet.cz/doc/tisk/2011/tz110309.html|tiskové zprávě]].

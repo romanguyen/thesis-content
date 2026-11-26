@@ -1,0 +1,20 @@
+====== Inspired Newsletter - Spring 2011 ======
+
+//Ivana Křenková, 2 May 2011//
+
+The spring edition of the EGI newsletter, Inspired, is now available on-line [[http://www.egi.eu/results/newsletters/Inspired_Spring_2011/index.html]]
+
+Content:
+
+  * EMI: Scaling new heights
+  * User Forum 2011 wrap up
+  * MoUs and SLAs: collaborations from theory to practice
+  * EGI User Virtualisation Workshop
+  * Project profile: GISELA
+  * Driving EGI policy
+  * Operations architecture and latest infrastructure figures
+  * Opinion: Finding out what researchers need
+  * The SEERA-EI e-Infrastructure analysis
+  * EDGI's tool to submit 10,000 jobs to the grid
+
+EGI InSpire welcome your feedback on this and contributions to future newsletters. Please email press@egi.eu.

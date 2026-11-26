@@ -1,0 +1,7 @@
+====== Seminář Vzdálená spolupráce po síti ======
+
+//Ivana Křenková, 12. 11. 2010//
+
+CESNET pořádá ve čtvrtek** 2. prosince 2010** (Praha, Akademie věd ČR, Národní třída 3) seminář zaměřený na multimediální prostředí pro spolupráci. Tato široká oblast zahrnuje přenosy především hlasu a obrazu nejrůznějšími technologiemi a prostředky od IP telefonie až po nekomprimované video s vysokým rozlišením. Seminář navazuje na úspěšné akce z minulých let a je primárně určen zájemcům z řad vědecké, výzkumné a vzdělávací komunity. Seminář bude v českém jazyce.
+
+Více informací najdete na stránkách semináře [[http://www.cesnet.cz/akce/2010/vzdalena-spoluprace/]]
